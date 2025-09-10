@@ -1,0 +1,11 @@
+project_name, weekly_downloads
+axios, 66,960832
+bcrypt, 2,691666
+chalk, 319,190,917
+dotenv, 65,437949
+jest, 31,637464
+lodash, 74,029207
+mongoose, 3,330290
+passport, 3,963555
+socketio, 7,908796
+tailwindcss, 23,195174
