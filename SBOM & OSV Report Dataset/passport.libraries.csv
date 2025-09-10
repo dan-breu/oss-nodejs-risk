@@ -1,0 +1,40 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+passport,0.7.0,Jared Hanson,MIT,chai-connect-middleware,0.3.1,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,chai-passport-strategy,0.2.0,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,chai,2.3.0,library,Jake Luer,MIT
+passport,0.7.0,Jared Hanson,MIT,make-node,0.3.5,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,mocha,2.5.3,library,TJ Holowaychuk,MIT
+passport,0.7.0,Jared Hanson,MIT,passport-strategy,1.0.0,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,pause,0.0.1,library,TJ Holowaychuk,NA
+passport,0.7.0,Jared Hanson,MIT,proxyquire,1.4.0,library,Thorsten Lorenz,MIT
+passport,0.7.0,Jared Hanson,MIT,utils-merge,1.0.1,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,assertion-error,1.0.0,library,Jake Luer,MIT
+passport,0.7.0,Jared Hanson,MIT,deep-eql,0.1.3,library,Jake Luer,MIT
+passport,0.7.0,Jared Hanson,MIT,commander,2.3.0,library,TJ Holowaychuk,NA
+passport,0.7.0,Jared Hanson,MIT,debug,2.2.0,library,TJ Holowaychuk,MIT
+passport,0.7.0,Jared Hanson,MIT,diff,1.4.0,library,NA,BSD
+passport,0.7.0,Jared Hanson,MIT,escape-string-regexp,1.0.2,library,Sindre Sorhus,MIT
+passport,0.7.0,Jared Hanson,MIT,glob,3.2.11,library,Isaac Z. Schlueter,BSD
+passport,0.7.0,Jared Hanson,MIT,growl,1.9.2,library,TJ Holowaychuk,MIT
+passport,0.7.0,Jared Hanson,MIT,jade,0.26.3,library,TJ Holowaychuk,NA
+passport,0.7.0,Jared Hanson,MIT,commander,0.6.1,library,TJ Holowaychuk,NA
+passport,0.7.0,Jared Hanson,MIT,mkdirp,0.3.0,library,James Halliday,MIT/X11
+passport,0.7.0,Jared Hanson,MIT,mkdirp,0.5.1,library,James Halliday,MIT
+passport,0.7.0,Jared Hanson,MIT,supports-color,1.2.0,library,Sindre Sorhus,MIT
+passport,0.7.0,Jared Hanson,MIT,to-iso-string,0.0.2,library,NA,MIT
+passport,0.7.0,Jared Hanson,MIT,type-detect,0.1.1,library,Jake Luer,MIT
+passport,0.7.0,Jared Hanson,MIT,ms,0.7.1,library,NA,NA
+passport,0.7.0,Jared Hanson,MIT,inherits,2.0.4,library,NA,ISC
+passport,0.7.0,Jared Hanson,MIT,minimatch,0.3.0,library,Isaac Z. Schlueter,NA
+passport,0.7.0,Jared Hanson,MIT,minimist,0.0.8,library,James Halliday,MIT
+passport,0.7.0,Jared Hanson,MIT,lru-cache,2.7.3,library,Isaac Z. Schlueter,ISC
+passport,0.7.0,Jared Hanson,MIT,sigmund,1.0.1,library,Isaac Z. Schlueter,ISC
+passport,0.7.0,Jared Hanson,MIT,chai-connect-middleware,0.3.1,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,chai-passport-strategy,0.2.0,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,chai,2.3.0,library,Jake Luer,MIT
+passport,0.7.0,Jared Hanson,MIT,make-node,0.3.5,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,mocha,2.5.3,library,TJ Holowaychuk,MIT
+passport,0.7.0,Jared Hanson,MIT,passport-strategy,1.0.0,library,Jared Hanson,MIT
+passport,0.7.0,Jared Hanson,MIT,pause,0.0.1,library,TJ Holowaychuk,NA
+passport,0.7.0,Jared Hanson,MIT,proxyquire,1.4.0,library,Thorsten Lorenz,MIT
+passport,0.7.0,Jared Hanson,MIT,utils-merge,1.0.1,library,Jared Hanson,MIT

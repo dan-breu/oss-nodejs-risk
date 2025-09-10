@@ -1,0 +1,774 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+dotenv,17.2.2,NA,BSD-2-Clause,node,18.11.3,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,decache,4.6.2,library,https://github.com/dwyl/decache/graphs/contributors,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,sinon,14.0.1,library,Christian Johansen,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,standard-version,9.5.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,2.4.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,yargs,16.2.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-styles,3.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,escape-string-regexp,1.0.5,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,supports-color,5.5.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,y18n,5.0.8,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,color-convert,1.9.3,library,Heather Arthur,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has-flag,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,color-name,1.1.3,library,DY,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,standard,17.0.0,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,tap,19.2.5,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,typescript,4.8.4,library,Microsoft Corp.,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,callsite,1.0.0,library,TJ Holowaychuk,NA
+dotenv,17.2.2,NA,BSD-2-Clause,commons,1.8.3,library,NA,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,fake-timers,9.1.2,library,Christian Johansen,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,samsam,6.1.1,library,Christian Johansen,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,diff,5.2.0,library,NA,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,nise,5.1.1,library,NA,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,supports-color,7.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-config-spec,2.1.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-conventionalcommits,4.6.3,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog,3.1.25,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-recommended-bump,6.1.0,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,detect-indent,6.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,detect-newline,3.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,dotgitignore,2.1.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,find-up,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,locate-path,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-locate,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-exists,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-limit,2.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,figures,3.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,escape-string-regexp,1.0.5,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,find-up,5.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,git-semver-tags,4.1.1,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,stringify-package,1.0.1,library,Kat Marchán,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-config-standard-jsx,11.0.0,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-config-standard,17.0.0,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-plugin-import,2.26.0,library,Ben Mosher,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,debug,2.6.9,library,TJ Holowaychuk,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,doctrine,2.1.0,library,NA,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,ms,2.0.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-plugin-n,15.3.0,library,Toru Nagashima,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-plugin-promise,6.1.1,library,jden,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-plugin-react,7.31.10,library,Yannick Croissant,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,doctrine,2.1.0,library,NA,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,estraverse,5.3.0,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,resolve,2.0.0-next.4,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint,8.25.0,library,Nicholas C. Zakas,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-scope,7.1.1,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,estraverse,5.3.0,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,standard-engine,15.0.0,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,after-each,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,after,1.1.31,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,asserts,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,before-each,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,before,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,chdir,1.1.4,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,core,2.1.6,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,signal-exit,4.1.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,filter,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,fixture,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,mkdirp,3.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,intercept,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,mock,2.1.6,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,node-serialize,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,run,2.1.7,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,5.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,mkdirp,3.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,signal-exit,4.1.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,which,4.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,snapshot,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,spawn,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,stdin,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,test,2.2.4,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,mkdirp,3.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,typescript,5.4.5,library,Microsoft Corp.,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,typescript,1.4.13,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,worker,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,resolve-import,1.4.6,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,type-detect,4.0.8,library,Jake Luer,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lodash.get,4.4.2,library,John-David Dalton,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,text-encoding,0.7.2,library,Joshua Bell,NA
+dotenv,17.2.2,NA,BSD-2-Clause,just-extend,4.2.1,library,Angus Croll,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-to-regexp,1.9.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has-flag,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,compare-func,2.0.0,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lodash,4.17.21,library,John-David Dalton,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,q,1.5.1,library,Kris Kowal,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-angular,5.0.13,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-atom,2.0.8,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-codemirror,2.0.8,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-core,4.2.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-ember,2.0.9,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-eslint,3.0.9,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-express,2.0.6,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-jquery,3.0.11,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-jshint,2.0.9,library,Steve Mao,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-preset-loader,2.3.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,concat-stream,2.0.0,library,Max Ogden,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-commits-filter,2.0.7,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-commits-parser,3.2.4,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,git-raw-commits,2.0.11,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,meow,8.1.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,read-pkg-up,7.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,type-fest,0.8.1,library,Sindre Sorhus,NA
+dotenv,17.2.2,NA,BSD-2-Clause,type-fest,0.18.1,library,Sindre Sorhus,NA
+dotenv,17.2.2,NA,BSD-2-Clause,find-up,4.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,read-pkg,5.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-package-data,2.5.0,library,Meryn Stol,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,type-fest,0.6.0,library,Sindre Sorhus,NA
+dotenv,17.2.2,NA,BSD-2-Clause,locate-path,5.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,parse-json,5.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-locate,4.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,2.8.9,library,Rebecca Turner,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,5.7.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,p-limit,2.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,3.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,locate-path,6.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-exists,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,semver,6.3.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,cliui,7.0.4,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,escalade,3.1.1,library,Luke Edwards,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,get-caller-file,2.0.5,library,Stefan Penner,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,require-directory,2.1.1,library,Troy Goode,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,yargs-parser,20.2.9,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,array-includes,3.1.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,array.prototype.flat,1.3.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-import-resolver-node,0.3.6,library,Ben Mosher,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,debug,3.2.7,library,TJ Holowaychuk,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-module-utils,2.7.4,library,Ben Mosher,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,debug,3.2.7,library,TJ Holowaychuk,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has,1.0.3,library,Thiago de Arruda,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-core-module,2.11.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-glob,4.0.3,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object.values,1.1.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,resolve,1.22.1,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,tsconfig-paths,3.14.1,library,Jonas Kello,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json5,1.0.2,library,Aseem Kishore,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,builtins,5.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-plugin-es,4.1.0,library,Toru Nagashima,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-utils,2.1.0,library,Toru Nagashima,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-visitor-keys,1.3.0,library,Toru Nagashima,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-utils,3.0.0,library,Toru Nagashima,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-visitor-keys,2.1.0,library,Toru Nagashima,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,ignore,5.2.0,library,kael,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,array.prototype.flatmap,1.3.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,jsx-ast-utils,3.3.3,library,Ethan Cohen,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object.entries,1.1.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object.fromentries,2.0.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object.hasown,1.1.1,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,prop-types,15.8.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string.prototype.matchall,4.0.7,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslintrc,1.3.3,library,Nicholas C. Zakas,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,config-array,0.10.7,library,Nicholas C. Zakas,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,module-importer,1.0.1,library,Nicholas C. Zaks,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,ajv,6.12.6,library,Evgeny Poberezkin,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,4.1.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,cross-spawn,7.0.6,library,André Cruz,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,debug,4.3.4,library,Josh Junon,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,doctrine,3.0.0,library,NA,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eslint-visitor-keys,3.3.0,library,Toru Nagashima,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,espree,9.4.0,library,Nicholas C. Zakas,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,esquery,1.4.0,library,Joel Feenstra,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,estraverse,5.3.0,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,esutils,2.0.3,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,fast-deep-equal,3.1.3,library,Evgeny Poberezkin,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,file-entry-cache,6.0.1,library,Roy Riojas,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob-parent,6.0.2,library,Gulp Team,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,globals,13.17.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,globby,11.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,grapheme-splitter,1.0.4,library,Orlin Georgiev,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,import-fresh,3.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,imurmurhash,0.1.4,library,Jens Taylor,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,js-sdsl,4.1.5,library,ZLY201,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json-stable-stringify-without-jsonify,1.0.1,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,levn,0.4.1,library,George Zahariev,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lodash.merge,4.6.2,library,John-David Dalton,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,natural-compare,1.4.0,library,Lauri Rooden,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,optionator,0.9.1,library,George Zahariev,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,regexpp,3.2.0,library,Toru Nagashima,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,text-table,0.2.0,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,get-stdin,8.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minimist,1.2.7,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,pkg-conf,3.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,find-up,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,locate-path,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-locate,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-exists,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-limit,2.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,xdg-basedir,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,function-loop,4.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,is-actual-promise,1.0.2,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,stack,2.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,tcompare,7.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,trivial-deferred,2.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,processinfo,3.1.8,library,NA,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,signal-exit,4.1.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,uuid,8.3.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,async-hook-domain,4.0.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,tap-parser,16.0.1,library,NA,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,tap-yaml,2.2.2,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,walk-up-path,3.0.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,error-serdes,2.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,config,3.1.6,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,5.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,reporter,2.0.8,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,5.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ms,2.1.3,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,c8,9.1.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,yargs-parser,21.1.1,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,yargs,17.7.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,cliui,8.0.1,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,y18n,5.0.8,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,chokidar,3.6.0,library,Paul Miller,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob-parent,5.1.2,library,Gulp Team,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,foreground-child,3.3.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,signal-exit,4.1.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,opener,1.5.2,library,Domenic Denicola,NA
+dotenv,17.2.2,NA,BSD-2-Clause,pacote,17.0.7,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,fs-minipass,3.0.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-package-arg,11.0.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ssri,10.0.6,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,validate-npm-package-name,5.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ts-node-temp-fork-for-pr-2009,10.9.7,library,Blake Embrey,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,diff,4.0.2,library,NA,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,jackspeak,3.4.3,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,package-json-from-dist,1.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,sync-content,1.0.2,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,mkdirp,3.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,tshy,1.18.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,5.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,mkdirp,3.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,polite-json,5.0.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,typescript,5.7.2,library,Microsoft Corp.,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isarray,0.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,array-ify,1.0.0,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,dot-prop,5.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,add-stream,1.0.0,library,Majid Burney,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,conventional-changelog-writer,5.0.1,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,dateformat,3.0.3,library,Steven Levithan,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,get-pkg-repo,4.2.1,library,Steve Mao,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,through2,2.0.5,library,Rod Vagg,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,yargs,16.2.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,readable-stream,2.3.7,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,y18n,5.0.8,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isarray,1.0.0,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,safe-buffer,5.1.2,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string_decoder,1.1.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,git-remote-origin-url,2.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,pify,2.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-package-data,3.0.3,library,Meryn Stol,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,read-pkg-up,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,find-up,2.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,locate-path,2.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-locate,2.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-exists,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-limit,1.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-try,1.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,read-pkg,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,load-json-file,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-package-data,2.5.0,library,Meryn Stol,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,path-type,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,pify,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,2.8.9,library,Rebecca Turner,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,5.7.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,through2,4.0.2,library,Rod Vagg,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,buffer-from,1.1.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,inherits,2.0.4,library,NA,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,readable-stream,3.6.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,typedarray,0.0.6,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lodash.ismatch,4.4.0,library,John-David Dalton,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,modify-values,1.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-text-path,1.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,JSONStream,1.3.5,library,Dominic Tarr,NA
+dotenv,17.2.2,NA,BSD-2-Clause,split2,3.2.2,library,Matteo Collina,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,dargs,7.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minimist,1.2.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,camelcase-keys,6.2.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,decamelize-keys,1.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,map-obj,1.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,hard-rejection,2.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minimist-options,4.1.0,library,Vadim Demedes,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,redent,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,trim-newlines,3.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,1.1.11,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-locate,5.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,call-bind,1.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,define-properties,1.1.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,es-abstract,1.20.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,get-intrinsic,1.1.3,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-string,1.0.7,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,es-shim-unscopables,1.0.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,function-bind,1.1.1,library,Raynos,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-extglob,2.1.1,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-parse,1.0.7,library,Javier Blanco,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,supports-preserve-symlinks-flag,1.0.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json5,0.0.29,library,Jason Swearingen,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-bom,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object.assign,4.1.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,loose-envify,1.4.0,library,Andres Suarez,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object-assign,4.1.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,react-is,16.13.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has-symbols,1.0.3,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,internal-slot,1.0.3,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,regexp.prototype.flags,1.4.3,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,side-channel,1.0.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object-schema,1.2.1,library,Nicholas C. Zakas,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,fast-json-stable-stringify,2.1.0,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json-schema-traverse,0.4.1,library,Evgeny Poberezkin,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,uri-js,4.4.1,library,Gary Court,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-key,3.1.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,shebang-command,2.0.0,library,Kevin Mårtensson,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,which,2.0.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ms,2.1.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,esrecurse,4.3.0,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,estraverse,5.3.0,library,NA,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,acorn-jsx,5.3.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,acorn,8.14.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,flat-cache,3.0.4,library,Roy Riojas,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,type-fest,0.20.2,library,Sindre Sorhus,NA
+dotenv,17.2.2,NA,BSD-2-Clause,array-union,2.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,dir-glob,3.0.1,library,Kevin Mårtensson,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fast-glob,3.2.12,library,Denis Malinochkin,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob-parent,5.1.2,library,Gulp Team,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,merge2,1.4.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,slash,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,parent-module,1.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,resolve-from,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,argparse,2.0.1,library,NA,Python-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,prelude-ls,1.2.1,library,George Zahariev,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,type-check,0.4.0,library,George Zahariev,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,deep-is,0.1.4,library,Thorsten Lorenz,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fast-levenshtein,2.0.6,library,Ramesh Nair,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,word-wrap,1.2.5,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,load-json-file,5.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,type-fest,0.3.1,library,Sindre Sorhus,NA
+dotenv,17.2.2,NA,BSD-2-Clause,react-element-to-jsx-string,15.0.0,library,"Algolia, Inc.",MIT
+dotenv,17.2.2,NA,BSD-2-Clause,react-is,18.1.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,pirates,4.0.6,library,Ari Porad,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,process-on-spawn,1.1.0,library,Corey Farrell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,events-to-array,2.0.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,yaml-types,0.3.0,library,Eemeli Aro,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,yaml,2.6.1,library,Eemeli Aro,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,polite-json,4.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ink,4.4.1,library,Vadim Demedes,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,5.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,cli-cursor,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,indent-string,5.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,slice-ansi,6.0.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,5.1.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,type-fest,0.12.0,library,Sindre Sorhus,NA
+dotenv,17.2.2,NA,BSD-2-Clause,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,restore-cursor,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-regex,6.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,patch-console,2.0.0,library,vdemedes,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,prismjs-terminal,1.2.3,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,chalk,5.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,react,18.3.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-length,6.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-regex,6.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,v8-coverage,0.2.3,library,Charles Samborski,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,schema,0.1.3,library,Corey Farrell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,istanbul-lib-coverage,3.2.2,library,Krishnan Anantheswaran,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,istanbul-lib-report,3.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,istanbul-reports,3.1.7,library,Krishnan Anantheswaran,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,test-exclude,6.0.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,v8-to-istanbul,9.3.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,trace-mapping,0.3.25,library,Justin Ridgewell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,anymatch,3.1.3,library,Elan Shanker,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,braces,3.0.3,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fsevents,2.3.3,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-binary-path,2.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-path,3.0.0,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,readdirp,3.6.0,library,Thorsten Lorenz,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,git,5.0.8,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ini,4.1.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,which,4.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,installed-package-contents,2.1.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,promise-spawn,7.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,which,4.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,run-script,7.0.4,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,which,4.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,cacache,18.0.4,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,fs-minipass,3.0.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ssri,10.0.6,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,npm-packlist,8.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-pick-manifest,9.1.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-package-arg,11.0.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,validate-npm-package-name,5.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-registry-fetch,16.2.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-package-arg,11.0.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,validate-npm-package-name,5.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,proc-log,4.2.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,promise-retry,2.0.1,library,IndigoUnited,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,read-package-json-fast,3.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,json-parse-even-better-errors,3.0.2,library,GitHub Inc.,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,read-package-json,7.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,json-parse-even-better-errors,3.0.2,library,GitHub Inc.,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-package-data,6.0.2,library,GitHub Inc.,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,sigstore,2.3.1,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,tar,6.2.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,5.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,mkdirp,1.0.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,source-map-support,0.8.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,node14,14.1.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,node16,16.1.3,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,node18,18.2.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,node20,20.1.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,acorn-walk,8.3.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,arg,4.1.3,library,Josh Junon,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,make-error,1.3.6,library,Julien Fontanet,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,v8-compile-cache-lib,3.0.1,library,Andrew Bradley,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,cliui,8.0.2,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,5.1.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-regex,6.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,parseargs,0.11.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-obj,2.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,handlebars,4.7.7,library,Yehuda Katz,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json-stringify-safe,5.0.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,split,1.0.1,library,Dominic Tarr,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,parse-repository-url,3.0.2,library,Hutson Betts,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,4.1.0,library,Rebecca Turner,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,gitconfiglocal,1.0.0,library,Ryan Day,BSD
+dotenv,17.2.2,NA,BSD-2-Clause,validate-npm-package-license,3.0.4,library,Kyle E. Mitchell,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,string_decoder,1.3.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,util-deprecate,1.0.2,library,Nathan Rajlich,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,text-extensions,1.9.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,jsonparse,1.3.1,library,Tim Caswell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,through,2.3.8,library,Dominic Tarr,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,camelcase,5.3.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,map-obj,4.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,quick-lru,4.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,decamelize,1.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,arrify,1.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-plain-obj,1.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,kind-of,6.0.3,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,indent-string,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-indent,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,balanced-match,1.0.2,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,concat-map,0.0.1,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-limit,3.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has-property-descriptors,1.0.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object-keys,1.1.1,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,es-to-primitive,1.2.1,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,function.prototype.name,1.1.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,get-symbol-description,1.0.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-callable,1.2.7,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-negative-zero,2.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-regex,1.1.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-shared-array-buffer,1.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-weakref,1.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,object-inspect,1.12.2,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,safe-regex-test,1.0.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string.prototype.trimend,1.0.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string.prototype.trimstart,1.0.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,unbox-primitive,1.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has-tostringtag,1.0.0,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,js-tokens,4.0.0,library,Simon Lydell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,functions-have-names,1.2.3,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,punycode,2.1.1,library,Mathias Bynens,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,color-convert,2.0.1,library,Heather Arthur,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,shebang-regex,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,flatted,3.2.7,library,Andrea Giammarchi,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,rimraf,3.0.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,path-type,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fs.stat,2.0.5,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fs.walk,1.2.8,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,micromatch,4.0.8,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,callsites,3.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,graceful-fs,4.2.10,library,NA,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,parse-json,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,pify,4.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,pretty-print-object,1.0.1,library,Chris Baker,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,is-plain-object,5.0.0,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,react-dom,18.3.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fromentries,1.3.2,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-tokenize,0.1.3,library,AlCalzone,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-escapes,6.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,auto-bind,5.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,cli-boxes,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,cli-truncate,3.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,slice-ansi,5.0.0,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,5.1.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-regex,6.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,code-excerpt,4.0.0,library,vdemedes,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-ci,3.0.1,library,Thomas Watson Steen,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-lower-case,2.0.2,library,Blake Embrey,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,tslib,2.8.1,library,Microsoft Corp.,0BSD
+dotenv,17.2.2,NA,BSD-2-Clause,is-upper-case,2.0.2,library,Blake Embrey,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,tslib,2.8.1,library,Microsoft Corp.,0BSD
+dotenv,17.2.2,NA,BSD-2-Clause,react-reconciler,0.29.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,scheduler,0.23.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,signal-exit,3.0.7,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,stack-utils,2.0.6,library,James Talmage,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,escape-string-regexp,2.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,widest-line,4.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,5.1.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ansi-regex,6.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ws,8.18.0,library,Einar Otto Stangvik,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,yoga-wasm-web,0.3.3,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,prismjs,1.29.0,library,Lea Verou,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,make-dir,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,html-escaper,2.0.2,library,Andrea Giammarchi,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob,7.2.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,istanbul-lib-coverage,2.0.6,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,convert-source-map,2.0.0,library,Thorsten Lorenz,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,picomatch,2.3.1,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fill-range,7.1.1,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,binary-extensions,2.3.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,promise-inflight,1.0.1,library,Rebecca Turner,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-bundled,3.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,npm-normalize-package-bin,3.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,node-gyp,3.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,package-json,5.2.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,json-parse-even-better-errors,3.0.2,library,GitHub Inc.,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-package-data,6.0.2,library,GitHub Inc.,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,node-gyp,10.3.1,library,Nathan Rajlich,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,which,4.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fs,3.1.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass-collect,2.0.1,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass-flush,1.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass-pipeline,1.2.4,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,p-map,4.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,unique-filename,3.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ignore-walk,6.0.5,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,npm-install-checks,6.3.0,library,GitHub Inc.,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,semver,7.6.3,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,redact,1.1.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,make-fetch-happen,13.0.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,ssri,10.0.6,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass-fetch,3.0.5,library,GitHub Inc.,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass-json-stream,1.0.2,library,Isaac Z. Schlueter,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minizlib,2.1.2,library,Isaac Z. Schlueter,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,err-code,2.0.3,library,IndigoUnited,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,retry,0.12.0,library,Tim Koschützki,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,bundle,2.3.2,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,core,1.1.0,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,protobuf-specs,0.3.2,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,sign,2.3.2,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,tuf,2.3.4,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,verify,1.2.1,library,bdehamer@github.com,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,chownr,2.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,fs-minipass,2.1.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,trace-mapping,0.3.9,library,Justin Ridgewell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,string-width,4.2.3,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,neo-async,2.6.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,uglify-js,3.17.3,library,Mihai Bazon,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,wordwrap,1.0.0,library,James Halliday,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,6.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,xtend,4.0.2,library,Raynos,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ini,1.3.8,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,spdx-correct,3.1.1,library,Kyle E. Mitchell,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,spdx-expression-parse,3.0.1,library,Kyle E. Mitchell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,safe-buffer,5.2.1,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,normalize-package-data,2.4.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,min-indent,1.0.1,library,James Kyle,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,yocto-queue,0.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-date-object,1.0.5,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-symbol,1.0.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,has-bigints,1.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,which-boxed-primitive,1.0.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,color-name,1.1.4,library,DY,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fs.scandir,2.1.5,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fastq,1.13.0,library,Matteo Collina,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,error-ex,1.3.2,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json-parse-better-errors,1.0.2,library,Kat Marchán,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,convert-to-spaces,2.0.1,library,Vadim Demedes,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ci-info,3.9.0,library,Thomas Watson Steen,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,eastasianwidth,0.2.0,library,Masaki Komagata,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,fs.realpath,1.0.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,inflight,1.0.6,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,once,1.4.0,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,path-is-absolute,1.0.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,resolve-uri,3.1.2,library,Justin Ridgewell,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,sourcemap-codec,1.5.0,library,Rich Harris,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,to-regex-range,5.0.1,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,env-paths,2.2.1,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,exponential-backoff,3.1.1,library,Sami Sayegh,Apache-2.0
+dotenv,17.2.2,NA,BSD-2-Clause,nopt,7.2.1,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,minipass,3.3.4,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,aggregate-error,3.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,unique-slug,4.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,agent,2.2.2,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,http-cache-semantics,4.1.1,library,Kornel Lesiński,BSD-2-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,is-lambda,1.0.1,library,Thomas Watson Steen,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,negotiator,0.6.4,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,encoding,0.1.13,library,Andris Reinman,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minipass-sized,1.0.3,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,tuf-js,2.2.1,library,bdehamer@github.com,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,core-util-is,1.0.2,library,Isaac Z. Schlueter,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,process-nextick-args,2.0.1,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,spdx-license-ids,3.0.12,library,Shinnosuke Watanabe,CC0-1.0
+dotenv,17.2.2,NA,BSD-2-Clause,spdx-exceptions,2.3.0,library,The Linux Foundation,CC-BY-3.0
+dotenv,17.2.2,NA,BSD-2-Clause,code-frame,7.26.2,library,The Babel Team,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,json-parse-even-better-errors,2.3.1,library,Kat Marchán,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,lines-and-columns,1.2.4,library,Brian Donovan,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,p-try,2.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-bigint,1.0.4,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-boolean-object,1.1.2,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-number-object,1.0.7,library,Jordan Harband,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,run-parallel,1.2.0,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,reusify,1.0.4,library,Matteo Collina,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,is-arrayish,0.2.1,library,Qix,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,onetime,5.1.2,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,wrappy,1.0.2,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,is-number,7.0.0,library,Jon Schlinkert,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,abbrev,2.0.0,library,GitHub Inc.,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,clean-stack,2.2.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,agent-base,7.1.1,library,Nathan Rajlich,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,http-proxy-agent,7.0.2,library,Nathan Rajlich,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,https-proxy-agent,7.0.5,library,Nathan Rajlich,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,socks-proxy-agent,8.0.4,library,Nathan Rajlich,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,iconv-lite,0.6.3,library,Alexander Shtuchkin,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,models,2.0.1,library,bdehamer@github.com,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,brace-expansion,2.0.1,library,Julian Gruber,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,helper-validator-identifier,7.25.9,library,The Babel Team,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,picocolors,1.0.0,library,Alexey Raspopov,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,queue-microtask,1.2.3,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,socks,2.8.3,library,Josh Glazebrook,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,safer-buffer,2.1.2,library,Nikita Skovoroda,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,canonical-json,2.0.0,library,bdehamer@github.com,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,ip-address,9.0.5,library,Beau Gunderson,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,jsbn,1.1.0,library,Tom Wu,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,sprintf-js,1.1.3,library,Alexandru Mărășteanu,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,smart-buffer,4.2.0,library,Josh Glazebrook,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,node,18.11.3,library,NA,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,decache,4.6.2,library,https://github.com/dwyl/decache/graphs/contributors,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,sinon,14.0.1,library,Christian Johansen,BSD-3-Clause
+dotenv,17.2.2,NA,BSD-2-Clause,standard-version,9.5.0,library,Ben Coe,ISC
+dotenv,17.2.2,NA,BSD-2-Clause,standard,17.0.0,library,Feross Aboukhadijeh,MIT
+dotenv,17.2.2,NA,BSD-2-Clause,tap,19.2.5,library,Isaac Z. Schlueter,BlueOak-1.0.0
+dotenv,17.2.2,NA,BSD-2-Clause,typescript,4.8.4,library,Microsoft Corp.,Apache-2.0

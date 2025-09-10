@@ -1,0 +1,12 @@
+https://gist.github.com/anvaka/8e8fa57c7ee1350e3491
+lodash - 69147
+chalk - 39816
+request - 35681
+commander - 32077
+react - 30604
+express - 27420
+debug - 23285
+async - 22704
+fs-extra - 22493
+moment - 21387
+prop-types - 20455

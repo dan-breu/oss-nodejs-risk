@@ -1,0 +1,6 @@
+name,version,fixed,cvss,cve,severity
+lodash.set,4.3.2,NA,7.4,CVE-2020-8203,HIGH
+robots-txt-guard,0.1.1,1.0.2,7.5,CVE-2021-4305,HIGH
+tmp,0.0.33,0.2.4,2.5,CVE-2025-54798,LOW
+tough-cookie,2.5.0,4.1.3,6.5,CVE-2023-26136,MODERATE
+useragent,2.3.0,NA,7.5,CVE-2020-26311,MODERATE

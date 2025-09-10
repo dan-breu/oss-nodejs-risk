@@ -1,0 +1,845 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+axios,4.0.1,Kamil Mysliwiec,MIT,cli,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tinyexec,1.0.1,library,James Garbutt,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,config-angular,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslintrc,3.3.1,library,Nicholas C. Zakas,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,globals,14.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,argparse,2.0.1,library,NA,Python-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,js,9.35.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,common,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,platform-express,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,testing,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest,30.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,node,22.18.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,axios,1.11.0,library,Matt Zabriskie,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-config-prettier,10.1.8,library,Simon Lydell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-plugin-prettier,5.5.4,library,Teddy Katz,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint,9.35.0,library,Nicholas C. Zakas,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,retry,0.4.3,library,Nicholas C. Zaks,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-visitor-keys,4.2.1,library,Toru Nagashima,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,find-up,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,glob-parent,6.0.2,library,Gulp Team,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,locate-path,6.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-locate,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-limit,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,globals,16.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,husky,9.1.7,library,typicode,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lint-staged,16.1.6,library,Andrey Okonetchnikov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,5.6.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,prettier,3.6.2,library,James Long,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,reflect-metadata,0.2.2,library,Ron Buckton,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,release-it,19.0.4,library,Lars Kappert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-types,3.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-db,1.54.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rimraf,6.0.1,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,glob,11.0.0,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,minimatch,10.0.1,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rxjs,7.8.2,library,Ben Lesh,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,ts-jest,29.4.1,library,Kulshekhar Kabra,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typescript-eslint,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typescript,5.9.2,library,Microsoft Corp.,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,format,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,5.3.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lint,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,load,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,5.3.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,read,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tinyexec,1.0.1,library,James Garbutt,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,5.4.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yargs,17.7.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,config-angular-type-enum,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ajv,6.12.6,library,Evgeny Poberezkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,debug,4.4.1,library,Josh Junon,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,espree,10.4.0,library,Nicholas C. Zakas,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-visitor-keys,4.2.1,library,Toru Nagashima,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,ignore,5.3.1,library,kael,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,import-fresh,3.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,resolve-from,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,minimatch,3.1.2,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,file-type,21.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,iterare,1.2.1,library,Felix Becker,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,load-esm,1.0.2,library,Borewit,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tslib,2.8.1,library,Microsoft Corp.,0BSD
+axios,4.0.1,Kamil Mysliwiec,MIT,uid,2.0.2,library,Luke Edwards,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,opencollective,0.4.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-safe-stringify,2.1.1,library,David Mark Clements,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,path-to-regexp,8.2.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cors,2.8.5,library,Troy Goode,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,express,5.1.0,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-types,3.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-is,2.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-db,1.54.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,media-typer,1.1.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,multer,2.0.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,expect,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pretty-format,30.0.5,library,James Kyle,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-styles,5.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,undici-types,6.21.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,follow-redirects,1.15.6,library,Ruben Verborgh,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,form-data,4.0.4,library,Felix Geisendörfer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,proxy-from-env,1.1.0,library,Rob Wu,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,prettier-linter-helpers,1.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,synckit,0.11.8,library,JounQin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-utils,4.8.0,library,Toru Nagashima,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,regexpp,4.12.1,library,Toru Nagashima,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,config-array,0.21.0,library,Nicholas C. Zakas,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,config-helpers,0.3.1,library,NA,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,core,0.15.2,library,Nicholas C. Zakas,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-kit,0.3.5,library,Nicholas C. Zakas,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,node,0.16.6,library,Nicholas C. Zakas,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,module-importer,1.0.1,library,Nicholas C. Zaks,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,estree,1.0.6,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,json-schema,7.0.15,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,4.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cross-spawn,7.0.6,library,André Cruz,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-scope,8.4.0,library,NA,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,esquery,1.6.0,library,Joel Feenstra,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,esutils,2.0.2,library,NA,BSD
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-deep-equal,3.1.3,library,Evgeny Poberezkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,file-entry-cache,8.0.0,library,Jared Wray,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,imurmurhash,0.1.4,library,Jens Taylor,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-glob,4.0.3,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jiti,2.4.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,json-stable-stringify-without-jsonify,1.0.1,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.merge,4.6.2,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,natural-compare,1.4.0,library,Lauri Rooden,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,optionator,0.9.3,library,George Zahariev,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,30.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,import-local,3.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-cli,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,commander,14.0.0,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lilconfig,3.1.3,library,antonk52,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,listr2,9.0.3,library,Cenk Kilic,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wrap-ansi,9.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,10.3.0,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,micromatch,4.0.8,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,nano-spawn,1.0.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pidtree,0.6.0,library,Simone Primarosa,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-argv,0.3.2,library,Anthony McCormick,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yaml,2.8.1,library,Eemeli Aro,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,defaults-deep,1.1.0,library,Drew Llewellyn,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,rest,21.1.1,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-request-log,5.3.1,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typeof,1.2.8,library,Alexander Vassbotn Røyne-Helgesen,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,async-retry,1.3.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,c12,3.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ci-info,4.3.0,library,Thomas Watson Steen,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eta,3.5.0,library,Ben Gubler,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,git-url-parse,16.1.0,library,Ionică Bizău,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,inquirer,12.7.0,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,issue-parser,7.0.1,library,Pierre Vanduynslager,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,new-github-release-url,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-fest,2.19.0,library,Sindre Sorhus,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,open,10.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ora,8.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,5.3.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cli-cursor,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-unicode-supported,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,7.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,restore-cursor,5.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,10.4.0,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,onetime,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,os-name,6.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,proxy-agent,6.5.0,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lru-cache,7.18.3,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,semver,7.7.2,library,GitHub Inc.,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,tinyglobby,0.2.14,library,Superchupu,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fdir,6.4.4,library,thecodrr,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,picomatch,4.0.2,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,undici,6.21.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,url-join,5.0.0,library,José F. Romaniello,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wildcard-match,5.1.4,library,Alex Schneider,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,yargs-parser,21.1.1,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,package-json-from-dist,1.0.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+axios,4.0.1,Kamil Mysliwiec,MIT,core,7.27.4,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,transform,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel-jest,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,bs-logger,0.2.6,library,Huafu Gandon,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-json-stable-stringify,2.1.0,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,handlebars,4.7.8,library,Yehuda Katz,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-util,30.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,picomatch,4.0.2,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,json5,2.2.3,library,Aseem Kishore,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.memoize,4.1.2,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,make-error,1.3.6,library,Julien Fontanet,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,type-fest,4.41.0,library,Sindre Sorhus,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-plugin,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ignore,7.0.4,library,kael,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parser,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typescript-estree,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,brace-expansion,2.0.2,library,Julian Gruber,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,utils,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-ignored,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parse,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rules,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,config-validator,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ajv,8.17.1,library,Evgeny Poberezkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,json-schema-traverse,1.0.0,library,Evgeny Poberezkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,execute-rule,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,resolve-extends,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cosmiconfig-typescript-loader,6.1.0,library,Alex Miller,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cosmiconfig,9.0.0,library,Daniel Fischer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,argparse,2.0.1,library,NA,Python-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.isplainobject,4.0.6,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.uniq,4.5.0,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,top-level,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,find-up,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,locate-path,7.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,path-exists,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-locate,6.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-limit,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yocto-queue,1.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,git-raw-commits,4.0.0,library,Steve Mao,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,minimist,1.2.8,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,conventional-commits-parser,5.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cliui,8.0.1,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,escalade,3.2.0,library,Luke Edwards,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-caller-file,2.0.5,library,Stefan Penner,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,require-directory,2.1.1,library,Troy Goode,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,y18n,5.0.8,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,json-schema-traverse,0.4.1,library,Evgeny Poberezkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,uri-js,4.4.1,library,Gary Court,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,ms,2.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,acorn-jsx,5.3.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,acorn,8.15.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parent-module,1.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,brace-expansion,1.1.11,library,Julian Gruber,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,inflate,0.2.7,library,Borewit,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strtok3,10.2.2,library,Borewit,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,token-types,6.0.0,library,Borewit,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,uint8array-extras,1.4.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,csprng,1.0.1,library,Luke Edwards,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,consola,3.4.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,object-assign,4.1.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,vary,1.1.2,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,accepts,2.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-types,3.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-db,1.53.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,body-parser,2.2.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,iconv-lite,0.6.3,library,Alexander Shtuchkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-is,2.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,media-typer,1.1.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-types,3.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-db,1.54.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,content-disposition,1.0.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,content-type,1.0.5,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cookie-signature,1.2.2,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cookie,0.7.1,library,Roman Shtylman,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,encodeurl,2.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,escape-html,1.0.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,etag,1.8.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,finalhandler,2.1.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fresh,2.0.0,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,http-errors,2.0.0,library,Jonathan Ong,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,merge-descriptors,2.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,on-finished,2.4.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,once,1.4.0,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,parseurl,1.3.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,proxy-addr,2.0.7,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,qs,6.14.0,library,NA,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,range-parser,1.2.1,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,router,2.2.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,send,1.2.0,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-types,3.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-db,1.54.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,serve-static,2.2.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,statuses,2.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,append-field,1.0.0,library,Linus Unnebäck,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,busboy,1.6.0,library,Brian White,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,concat-stream,2.0.0,library,Max Ogden,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mkdirp,0.5.6,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-is,1.6.18,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,xtend,4.0.2,library,Raynos,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,expect-utils,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-type,30.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-matcher-utils,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-message-util,30.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-mock,30.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,schemas,30.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,react-is,18.3.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,asynckit,0.4.0,library,Alex Indigo,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,combined-stream,1.0.8,library,Felix Geisendörfer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,es-set-tostringtag,2.1.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,hasown,2.0.2,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-types,2.1.35,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-diff,1.3.0,library,Jason Chen,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,core,0.2.4,library,JounQin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-visitor-keys,3.4.3,library,Toru Nagashima,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,object-schema,2.1.6,library,Nicholas C. Zakas,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,levn,0.4.1,library,George Zahariev,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,0.19.1,library,Nicholas C. Zakas,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,retry,0.3.1,library,Nicholas C. Zaks,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,path-key,3.1.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,shebang-command,2.0.0,library,Kevin Mårtensson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,which,2.0.2,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,esrecurse,4.3.0,library,NA,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,estraverse,5.3.0,library,NA,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,flat-cache,4.0.1,library,Jared Wray,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,path-exists,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-extglob,2.1.1,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,word-wrap,1.2.6,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,deep-is,0.1.3,library,Thorsten Lorenz,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-levenshtein,2.0.6,library,Ramesh Nair,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,prelude-ls,1.2.1,library,George Zahariev,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-check,0.4.0,library,George Zahariev,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,console,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pattern,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,reporters,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,test-result,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-escapes,4.3.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-fest,0.21.3,library,Sindre Sorhus,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,exit-x,0.2.2,library,Grunt Development Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,graceful-fs,4.2.11,library,NA,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-changed-files,30.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-limit,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-config,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-haste-map,30.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-regex-util,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-resolve-dependencies,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-resolve,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-runner,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-limit,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-runtime,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-snapshot,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-validate,30.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,camelcase,6.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-watcher,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,slash,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-lib-coverage,2.0.6,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-reports,3.0.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yargs,17.0.33,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pkg-dir,4.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,resolve-cwd,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cli-truncate,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,10.3.0,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,colorette,2.0.20,library,Jorge Bucaran,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eventemitter3,5.0.1,library,Arnout Kazemier,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,log-update,6.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-escapes,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cli-cursor,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,slice-ansi,7.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wrap-ansi,9.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,restore-cursor,5.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-fullwidth-code-point,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,7.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,onetime,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,10.3.0,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rfdc,1.4.1,library,David Mark Clements,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,braces,3.0.3,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,picomatch,2.3.1,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash,4.17.21,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,6.1.5,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-paginate-rest,11.6.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,13.10.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,openapi-types,24.2.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-rest-endpoint-methods,13.5.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,13.10.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,openapi-types,24.2.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,retry,0.13.1,library,Tim Koschützki,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chokidar,4.0.3,library,Paul Miller,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,confbox,0.2.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,defu,6.1.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,dotenv,16.6.1,library,NA,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,exsolve,1.0.7,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,giget,2.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ohash,2.0.11,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pathe,2.0.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,perfect-debounce,1.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pkg-types,2.2.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rc9,2.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,git-up,8.1.1,library,Ionică Bizău,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,10.1.14,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,wrap-ansi,6.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,prompts,7.6.0,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type,3.0.7,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mute-stream,2.0.0,library,GitHub Inc.,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,run-async,4.0.4,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.capitalize,4.2.1,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.escaperegexp,4.1.2,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.isstring,4.0.1,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.uniqby,4.7.0,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,default-browser,5.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,define-lazy-prop,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-inside-container,1.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wsl-utils,0.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cli-spinners,2.9.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-interactive,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,log-symbols,6.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chalk,5.3.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,stdin-discarder,0.2.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,macos-release,3.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,windows-release,6.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,execa,8.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-stream,8.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,human-signals,5.0.0,library,ehmicky,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,is-stream,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,npm-run-path,5.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,onetime,6.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-final-newline,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,path-key,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mimic-fn,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,agent-base,7.1.3,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,http-proxy-agent,7.0.2,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,https-proxy-agent,7.0.6,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pac-proxy-agent,7.1.0,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,socks-proxy-agent,8.0.5,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,foreground-child,3.1.1,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,4.0.2,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,jackspeak,4.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+axios,4.0.1,Kamil Mysliwiec,MIT,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,path-scurry,2.0.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+axios,4.0.1,Kamil Mysliwiec,MIT,remapping,2.2.0,library,Justin Ridgewell,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,code-frame,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,generator,7.27.5,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,gen-mapping,0.3.8,library,Justin Ridgewell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-compilation-targets,7.27.2,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lru-cache,5.1.1,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-module-transforms,7.27.3,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helpers,7.27.6,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parser,7.27.5,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,template,7.27.2,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,traverse,7.27.4,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,globals,11.12.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,7.27.6,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,convert-source-map,2.0.0,library,Thorsten Lorenz,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,gensync,1.0.0-beta.2,library,Logan Smyth,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,trace-mapping,0.3.25,library,Justin Ridgewell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,sourcemap-codec,1.4.14,library,Rich Harris,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel-plugin-istanbul,7.0.0,library,Thai Pangsakulyanont @dtinth,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,pirates,4.0.7,library,Ari Porad,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,write-file-atomic,5.0.1,library,GitHub Inc.,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,babel__core,7.20.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel-preset-jest,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,neo-async,2.6.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,uglify-js,3.19.3,library,Mihai Bazon,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,wordwrap,1.0.0,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,scope-manager,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,type-utils,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,visitor-keys,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-visitor-keys,4.2.1,library,Toru Nagashima,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,graphemer,1.4.0,library,Matt Davies,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ts-api-utils,2.1.0,library,JoshuaKGoldberg,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,project-service,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tsconfig-utils,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-glob,3.3.3,library,Denis Malinochkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,conventional-changelog-angular,7.0.0,library,Steve Mao,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,conventional-commits-parser,5.0.0,library,Steve Mao,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ensure,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,message,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,to-lines,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,global-directory,4.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,import-meta-resolve,4.1.0,library,Titus Wormer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.mergewith,4.6.2,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,resolve-from,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,env-paths,2.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parse-json,5.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,dargs,8.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,meow,12.1.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,split2,4.2.0,library,Matteo Collina,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,punycode,2.1.1,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,callsites,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,balanced-match,1.0.0,library,Julian Gruber,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,concat-map,0.0.1,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fflate,0.8.2,library,Arjun Barrett,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,token,0.3.0,library,Borewit,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,peek-readable,7.0.0,library,Borewit,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ieee754,1.2.1,library,Feross Aboukhadijeh,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,negotiator,1.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,bytes,3.1.2,library,TJ Holowaychuk,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,raw-body,3.0.0,library,Jonathan Ong,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,iconv-lite,0.6.3,library,Alexander Shtuchkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,safe-buffer,5.2.1,library,Feross Aboukhadijeh,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,depd,2.0.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,inherits,2.0.4,library,NA,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,setprototypeof,1.2.0,library,Wes Todd,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,toidentifier,1.0.1,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ee-first,1.1.1,library,Jonathan Ong,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wrappy,1.0.2,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,forwarded,0.2.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ipaddr.js,1.9.1,library,whitequark,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,side-channel,1.1.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-promise,4.0.0,library,ForbesLindesay,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,streamsearch,1.1.0,library,Brian White,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,buffer-from,1.1.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,readable-stream,3.6.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typedarray,0.0.6,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,media-typer,0.3.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-diff,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,stack-utils,2.0.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,stack-utils,2.0.6,library,James Talmage,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,escape-string-regexp,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typebox,0.34.38,library,sinclairzx81,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,delayed-stream,1.0.0,library,Felix Geisendörfer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,es-errors,1.3.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-intrinsic,1.3.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,has-tostringtag,1.0.2,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,function-bind,1.1.2,library,Raynos,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mime-db,1.52.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,has-flag,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,shebang-regex,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,flatted,3.3.1,library,Andrea Giammarchi,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,keyv,4.5.4,library,Jared Wray,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,v8-coverage,0.2.3,library,Charles Samborski,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,collect-v8-coverage,1.0.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,jackspeak,3.4.3,library,Isaac Z. Schlueter,BlueOak-1.0.0
+axios,4.0.1,Kamil Mysliwiec,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+axios,4.0.1,Kamil Mysliwiec,MIT,brace-expansion,2.0.2,library,Julian Gruber,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-lib-coverage,3.2.0,library,Krishnan Anantheswaran,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-lib-instrument,6.0.3,library,Krishnan Anantheswaran,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-lib-report,3.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-lib-source-maps,5.0.6,library,Krishnan Anantheswaran,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-reports,3.2.0,library,Krishnan Anantheswaran,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-worker,30.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,supports-color,8.1.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-length,4.0.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,v8-to-istanbul,9.3.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,execa,5.1.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,test-sequencer,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,deepmerge,4.3.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-circus,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-limit,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-docblock,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-environment-node,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,anymatch,3.1.3,library,Elan Shanker,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,fb-watchman,2.0.2,library,Wez Furlong,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,fsevents,2.3.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,walker,1.0.8,library,Naitik Shah,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-pnp-resolver,1.2.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,unrs-resolver,1.11.1,library,JounQin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,environment,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emittery,0.13.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-leak-detector,30.1.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,source-map-support,0.5.13,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fake-timers,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,globals,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,source-map,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cjs-module-lexer,2.1.0,library,Guy Bedford,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-bom,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-jsx,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-typescript,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,snapshot-utils,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel-preset-current-node-syntax,1.1.0,library,Nicolò Ribaudo,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,leven,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,istanbul-lib-report,1.1.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yargs-parser,13.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,find-up,4.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,slice-ansi,5.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-fullwidth-code-point,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fill-range,7.1.1,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,auth-token,5.1.2,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,graphql,8.2.2,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,request-error,6.1.8,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,request,9.2.3,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,types,14.0.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,before-after-hook,3.0.2,library,Gregor Martynus,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,universal-user-agent,7.0.2,library,Gregor Martynus,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,readdirp,4.1.2,library,Thorsten Lorenz,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,citty,0.1.6,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,node-fetch-native,1.6.6,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,nypm,0.6.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,destr,2.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-ssh,1.4.1,library,Ionică Bizău,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parse-url,9.2.0,library,Ionică Bizău,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,figures,1.0.12,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cli-width,4.1.0,library,Ilya Radchenko,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,yoctocolors-cjs,2.1.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,checkbox,4.1.9,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,confirm,5.1.13,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,editor,4.2.14,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,expand,4.0.16,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,input,4.2.0,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,number,3.0.16,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,password,4.0.16,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rawlist,4.1.4,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,search,3.0.16,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,select,4.2.4,library,Simon Boudrias,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,oxlint,1.6.0,library,Boshen and oxc contributors,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,bundle-name,4.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,default-browser-id,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-docker,3.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-wsl,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-unicode-supported,1.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-east-asian-width,1.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-regex,6.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,quickjs-emscripten,0.23.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-uri,6.0.4,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pac-resolver,7.0.1,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,socks,2.8.3,library,Josh Glazebrook,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cliui,8.0.2,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,5.1.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,7.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parseargs,0.11.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lru-cache,11.0.0,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,gen-mapping,0.1.1,library,Justin Ridgewell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-validator-identifier,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,js-tokens,4.0.0,library,Simon Lydell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,picocolors,1.1.1,library,Alexey Raspopov,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,jsesc,3.1.0,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,compat-data,7.27.5,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-validator-option,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,browserslist,4.25.0,library,Andrey Sitnik,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-module-imports,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-string-parser,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,resolve-uri,3.1.0,library,Justin Ridgewell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,helper-plugin-utils,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,load-nyc-config,1.1.0,library,NA,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,schema,0.1.3,library,Corey Farrell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,test-exclude,6.0.0,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,glob,7.2.3,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,babel__generator,7.27.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel__template,7.4.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel__traverse,7.20.7,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,babel-plugin-jest-hoist,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fs.stat,2.0.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fs.walk,1.2.8,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,glob-parent,5.1.2,library,Gulp Team,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,merge2,1.4.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,compare-func,2.0.0,library,Steve Mao,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-text-path,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,JSONStream,1.3.5,library,Dominic Tarr,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.camelcase,4.3.0,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.kebabcase,4.1.1,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.snakecase,4.1.1,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.startcase,4.4.0,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lodash.upperfirst,4.3.1,library,John-David Dalton,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-uri,3.0.6,library,Vincent Le Goff,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,require-from-string,2.0.2,library,Vsevolod Strukchinsky,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ini,4.1.1,library,GitHub Inc.,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,error-ex,1.3.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,json-parse-even-better-errors,2.3.1,library,Kat Marchán,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lines-and-columns,1.1.6,library,Brian Donovan,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,unicorn-magic,0.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,safer-buffer,2.1.2,library,Nikita Skovoroda,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,unpipe,1.0.0,library,Douglas Christopher Wilson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,object-inspect,1.13.4,library,James Halliday,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,side-channel-list,1.0.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,side-channel-map,1.0.1,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,side-channel-weakmap,1.0.2,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string_decoder,1.3.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,util-deprecate,1.0.2,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,diff-sequences,30.0.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,call-bind-apply-helpers,1.0.2,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,es-define-property,1.0.1,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,es-object-atoms,1.1.1,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-proto,1.0.1,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,gopd,1.2.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,has-symbols,1.1.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,math-intrinsics,1.1.0,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,color-name,1.1.4,library,DY,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,json-buffer,3.0.1,library,Dominic Tarr,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,make-dir,4.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,html-escaper,2.0.2,library,Andrea Giammarchi,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,structured-clone,1.3.0,library,Andrea Giammarchi,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,merge-stream,2.0.0,library,Stephen Sugden,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,char-regex,1.0.2,library,Richie Bendall,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-stream,6.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,human-signals,2.1.0,library,ehmicky,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,is-stream,2.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,npm-run-path,4.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,onetime,5.1.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,signal-exit,3.0.7,library,Ben Coe,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-final-newline,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yocto-queue,0.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,expect,30.1.2,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,co,4.6.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,dedent,1.7.0,library,Desmond Brand,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-generator-fn,2.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest-each,30.1.0,library,Matt Phillips,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,pure-rand,7.0.1,library,Nicolas DUBIEN,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,detect-newline,3.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,normalize-path,3.0.0,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,bser,2.1.1,library,Wez Furlong,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,makeerror,1.0.12,library,Naitik Shah,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-android-arm-eabi,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-android-arm64,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-darwin-arm64,1.11.1,library,JounQin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-darwin-x64,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-freebsd-x64,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-arm-gnueabihf,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-arm-musleabihf,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-arm64-gnu,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-arm64-musl,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-ppc64-gnu,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-riscv64-gnu,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-riscv64-musl,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-s390x-gnu,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-x64-gnu,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-linux-x64-musl,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-wasm32-wasi,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-win32-arm64-msvc,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-win32-ia32-msvc,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,resolver-binding-win32-x64-msvc,1.11.1,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,napi-postinstall,0.3.3,library,JounQin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fake-timers,13.0.5,library,Christian Johansen,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-async-generators,7.8.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-bigint,7.8.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-class-properties,7.12.13,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-class-static-block,7.14.5,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-import-attributes,7.27.1,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-import-meta,7.10.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-json-strings,7.8.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-logical-assignment-operators,7.10.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-nullish-coalescing-operator,7.8.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-numeric-separator,7.10.4,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-object-rest-spread,7.8.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-optional-catch-binding,7.8.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-optional-chaining,7.8.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-private-property-in-object,7.14.5,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,plugin-syntax-top-level-await,7.14.5,library,The Babel Team,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,locate-path,5.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,environment,1.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,to-regex-range,5.0.1,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,endpoint,10.1.4,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fast-content-type-parse,2.0.1,library,Aras Abbasi,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,openapi-types,25.0.0,library,Gregor Martynus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tinyexec,0.3.2,library,James Garbutt,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,protocols,2.0.2,library,Ionică Bizău,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parse-path,7.0.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,parse-path,7.1.0,library,Ionică Bizău,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,external-editor,3.1.0,library,Kevin Gravier,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,darwin-arm64,1.6.0,library,Boshen and oxc contributors,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,darwin-x64,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,linux-arm64-gnu,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,linux-arm64-musl,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,linux-x64-gnu,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,linux-x64-musl,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,win32-arm64,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,win32-x64,1.6.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,run-applescript,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,basic-ftp,5.0.5,library,Patrick Juchli,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,data-uri-to-buffer,6.0.2,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,degenerator,5.0.1,library,Nathan Rajlich,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,netmask,2.0.2,library,Olivier Poitrey,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ip-address,9.0.5,library,Beau Gunderson,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,sprintf-js,1.1.3,library,Alexandru Mărășteanu,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,smart-buffer,4.2.0,library,Josh Glazebrook,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,string-width,5.1.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,set-array,1.2.1,library,Justin Ridgewell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,sourcemap-codec,1.4.13,library,Rich Harris,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,caniuse-lite,1.0.30001722,library,Ben Briggs,CC-BY-4.0
+axios,4.0.1,Kamil Mysliwiec,MIT,electron-to-chromium,1.5.166,library,Kilian Valkhof,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,node-releases,2.0.19,library,Sergey Rubanov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,update-browserslist-db,1.1.3,library,Andrey Sitnik,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,yallist,3.1.1,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,camelcase,5.3.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,get-package-type,0.1.0,library,Corey Farrell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,js-yaml,3.14.1,library,Vladimir Zapparov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fs.scandir,2.1.5,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fastq,1.19.1,library,Matteo Collina,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,array-ify,1.0.0,library,Steve Mao,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,dot-prop,5.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,text-extensions,2.4.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jsonparse,1.3.1,library,Tim Caswell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,through,2.3.8,library,Dominic Tarr,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-arrayish,0.2.1,library,Qix,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,call-bound,1.0.4,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,dunder-proto,1.0.1,library,Jordan Harband,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,node-int64,0.4.0,library,Robert Kieffer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tmpl,1.0.5,library,Naitik Shah,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,wasm-runtime,0.2.12,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,commons,3.0.1,library,NA,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,p-locate,4.1.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-number,7.0.0,library,Jon Schlinkert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,chardet,0.7.0,library,Dmitry Shirokov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,iconv-lite,0.4.24,library,Alexander Shtuchkin,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,tmp,0.0.33,library,KARASZI István,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,mimic-function,5.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,ast-types,0.13.4,library,Ben Newman,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,escodegen,2.1.0,library,NA,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,esprima,4.0.1,library,Ariya Hidayat,BSD-2-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,jsbn,1.1.0,library,Tom Wu,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eastasianwidth,0.2.0,library,Masaki Komagata,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,argparse,1.0.10,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,fs.realpath,1.0.0,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,inflight,1.0.6,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,path-is-absolute,1.0.1,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,run-parallel,1.2.0,library,Feross Aboukhadijeh,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,reusify,1.1.0,library,Matteo Collina,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,is-obj,2.0.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,1.5.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,runtime,1.5.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,wasm-util,0.10.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,type-detect,4.0.8,library,Jake Luer,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,p-limit,2.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,os-tmpdir,1.0.2,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,sprintf-js,1.0.3,library,Alexandru Marasteanu,BSD-3-Clause
+axios,4.0.1,Kamil Mysliwiec,MIT,queue-microtask,1.2.3,library,Feross Aboukhadijeh,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,wasi-threads,1.1.0,library,NA,NA
+axios,4.0.1,Kamil Mysliwiec,MIT,p-try,2.2.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,cli,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,config-angular,19.8.1,library,Mario Nebl,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslintrc,3.3.1,library,Nicholas C. Zakas,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,js,9.35.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,common,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,core,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,platform-express,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,testing,11.1.6,library,Kamil Mysliwiec,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest,30.0.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,node,22.18.1,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,axios,1.11.0,library,Matt Zabriskie,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-config-prettier,10.1.8,library,Simon Lydell,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint-plugin-prettier,5.5.4,library,Teddy Katz,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,eslint,9.35.0,library,Nicholas C. Zakas,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,globals,16.3.0,library,Sindre Sorhus,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,husky,9.1.7,library,typicode,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,jest,30.1.3,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,lint-staged,16.1.6,library,Andrey Okonetchnikov,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,prettier,3.6.2,library,James Long,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,reflect-metadata,0.2.2,library,Ron Buckton,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,release-it,19.0.4,library,Lars Kappert,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,rimraf,6.0.1,library,Isaac Z. Schlueter,ISC
+axios,4.0.1,Kamil Mysliwiec,MIT,rxjs,7.8.2,library,Ben Lesh,Apache-2.0
+axios,4.0.1,Kamil Mysliwiec,MIT,ts-jest,29.4.1,library,Kulshekhar Kabra,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typescript-eslint,8.43.0,library,NA,MIT
+axios,4.0.1,Kamil Mysliwiec,MIT,typescript,5.9.2,library,Microsoft Corp.,Apache-2.0

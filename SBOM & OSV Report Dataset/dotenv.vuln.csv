@@ -1,0 +1,4 @@
+name,version,fixed,cvss,cve,severity
+brace-expansion,1.1.11,2.0.2,3.1,CVE-2025-5889,LOW
+brace-expansion,2.0.1,2.0.2,3.1,CVE-2025-5889,LOW
+prismjs,1.29.0,1.30.0,4.9,CVE-2024-53382,MODERATE

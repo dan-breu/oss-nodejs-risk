@@ -1,0 +1,751 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+chalk,5.6.2,NA,MIT,node,16.18.126,library,NA,MIT
+chalk,5.6.2,NA,MIT,ava,3.15.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,c8,7.14.0,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+chalk,5.6.2,NA,MIT,execa,6.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,log-update,5.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,cli-cursor,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,slice-ansi,5.0.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,strip-ansi,7.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,restore-cursor,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,6.2.3,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-fullwidth-code-point,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-regex,6.2.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,onetime,5.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,matcha,0.7.0,library,Jake Luer,NA
+chalk,5.6.2,NA,MIT,tsd,0.19.1,library,Sam Verschueren,MIT
+chalk,5.6.2,NA,MIT,xo,0.57.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,arrify,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslint-formatter-pretty,6.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslint,8.56.12,library,NA,MIT
+chalk,5.6.2,NA,MIT,eslint-plugin-prettier,5.5.4,library,Teddy Katz,MIT
+chalk,5.6.2,NA,MIT,globby,14.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,meow,13.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,slash,5.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-escapes,6.2.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,chalk,5.6.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,log-symbols,6.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,plur,5.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,string-width,7.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,supports-hyperlinks,3.2.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,eslint,9.6.1,library,NA,MIT
+chalk,5.6.2,NA,MIT,ignore,7.0.5,library,kael,MIT
+chalk,5.6.2,NA,MIT,path-type,6.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-unicode-supported,1.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,emoji-regex,10.5.0,library,Mathias Bynens,MIT
+chalk,5.6.2,NA,MIT,strip-ansi,7.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-regex,6.2.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,yoctodelay,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,react,2.0.0,library,Mark Wubben,ISC
+chalk,5.6.2,NA,MIT,arrify,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,acorn-walk,8.3.4,library,NA,MIT
+chalk,5.6.2,NA,MIT,acorn,8.15.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,5.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,arrgv,1.0.2,library,astur,MIT
+chalk,5.6.2,NA,MIT,arrify,2.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,callsites,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,chalk,4.1.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,chokidar,3.6.0,library,Paul Miller,MIT
+chalk,5.6.2,NA,MIT,chunkd,2.0.1,library,Jamie Kyle,MIT
+chalk,5.6.2,NA,MIT,ci-info,2.0.0,library,Thomas Watson Steen,MIT
+chalk,5.6.2,NA,MIT,ci-parallel-vars,1.0.1,library,Jamie Kyle,MIT
+chalk,5.6.2,NA,MIT,clean-yaml-object,0.1.0,library,James Talmage,MIT
+chalk,5.6.2,NA,MIT,cli-cursor,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,cli-truncate,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,code-excerpt,3.0.0,library,vdemedes,MIT
+chalk,5.6.2,NA,MIT,common-path-prefix,3.0.0,library,Mark Wubben,ISC
+chalk,5.6.2,NA,MIT,concordance,5.0.4,library,Mark Wubben,ISC
+chalk,5.6.2,NA,MIT,convert-source-map,1.9.0,library,Thorsten Lorenz,MIT
+chalk,5.6.2,NA,MIT,currently-unhandled,0.4.1,library,James Talmage,MIT
+chalk,5.6.2,NA,MIT,debug,4.4.1,library,Josh Junon,MIT
+chalk,5.6.2,NA,MIT,del,6.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,emittery,0.8.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,equal-length,1.0.1,library,vdemedes,MIT
+chalk,5.6.2,NA,MIT,figures,3.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,globby,11.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ignore-by-default,2.1.0,library,Mark Wubben,ISC
+chalk,5.6.2,NA,MIT,import-local,3.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,indent-string,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-error,2.2.2,library,Raynos,MIT
+chalk,5.6.2,NA,MIT,is-plain-object,5.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,is-promise,4.0.0,library,ForbesLindesay,MIT
+chalk,5.6.2,NA,MIT,lodash,4.17.21,library,John-David Dalton,MIT
+chalk,5.6.2,NA,MIT,matcher,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,md5-hex,3.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,mem,8.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ms,2.1.3,library,NA,MIT
+chalk,5.6.2,NA,MIT,ora,5.4.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-event,4.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-map,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,picomatch,2.3.1,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,pkg-conf,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,find-up,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,locate-path,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-locate,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,path-exists,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,plur,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,pretty-ms,7.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,read-pkg,5.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,parse-json,5.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.6.0,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,resolve-cwd,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,slash,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,source-map-support,0.5.21,library,NA,MIT
+chalk,5.6.2,NA,MIT,stack-utils,2.0.6,library,James Talmage,MIT
+chalk,5.6.2,NA,MIT,escape-string-regexp,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,supertap,2.0.0,library,Vadim Demedes,MIT
+chalk,5.6.2,NA,MIT,temp-dir,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,trim-off-newlines,1.0.3,library,Steve Mao,MIT
+chalk,5.6.2,NA,MIT,update-notifier,5.1.0,library,Sindre Sorhus,BSD-2-Clause
+chalk,5.6.2,NA,MIT,write-file-atomic,3.0.3,library,Rebecca Turner,ISC
+chalk,5.6.2,NA,MIT,yargs,16.2.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,v8-coverage,0.2.3,library,Charles Samborski,MIT
+chalk,5.6.2,NA,MIT,schema,0.1.3,library,Corey Farrell,MIT
+chalk,5.6.2,NA,MIT,find-up,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,foreground-child,2.0.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,istanbul-lib-coverage,3.2.2,library,Krishnan Anantheswaran,BSD-3-Clause
+chalk,5.6.2,NA,MIT,istanbul-lib-report,3.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+chalk,5.6.2,NA,MIT,istanbul-reports,3.2.0,library,Krishnan Anantheswaran,BSD-3-Clause
+chalk,5.6.2,NA,MIT,rimraf,3.0.2,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,test-exclude,6.0.0,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,v8-to-istanbul,9.3.0,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,convert-source-map,2.0.0,library,Thorsten Lorenz,MIT
+chalk,5.6.2,NA,MIT,yargs-parser,20.2.9,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,color-name,1.1.4,library,DY,MIT
+chalk,5.6.2,NA,MIT,cross-spawn,7.0.6,library,André Cruz,MIT
+chalk,5.6.2,NA,MIT,get-stream,6.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,human-signals,3.0.1,library,ehmicky,Apache-2.0
+chalk,5.6.2,NA,MIT,is-stream,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,merge-stream,2.0.0,library,Stephen Sugden,MIT
+chalk,5.6.2,NA,MIT,npm-run-path,5.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,path-key,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,onetime,6.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,mimic-fn,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,signal-exit,3.0.7,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,strip-final-newline,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-escapes,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,6.2.3,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,string-width,5.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,strip-ansi,7.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+chalk,5.6.2,NA,MIT,ansi-regex,6.2.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,electron,0.4.1,library,Jake Luer,MIT
+chalk,5.6.2,NA,MIT,v8-argv,0.1.0,library,Jake Luer,WTFPL
+chalk,5.6.2,NA,MIT,typescript,4.5.5,library,Sam Verschueren,MIT
+chalk,5.6.2,NA,MIT,eslint-formatter-pretty,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-escapes,4.3.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.21.3,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,meow,9.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,normalize-package-data,3.0.3,library,Meryn Stol,BSD-2-Clause
+chalk,5.6.2,NA,MIT,type-fest,0.18.1,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,hosted-git-info,4.1.0,library,Rebecca Turner,ISC
+chalk,5.6.2,NA,MIT,path-exists,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,read-pkg-up,7.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,find-up,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.8.1,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,locate-path,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-locate,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslintrc,3.3.1,library,Nicholas C. Zakas,MIT
+chalk,5.6.2,NA,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+chalk,5.6.2,NA,MIT,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,argparse,2.0.1,library,NA,Python-2.0
+chalk,5.6.2,NA,MIT,eslint-plugin,6.21.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,parser,6.21.0,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,cosmiconfig,8.3.6,library,Daniel Fischer,MIT
+chalk,5.6.2,NA,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+chalk,5.6.2,NA,MIT,parse-json,5.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,argparse,2.0.1,library,NA,Python-2.0
+chalk,5.6.2,NA,MIT,define-lazy-prop,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslint-config-prettier,9.1.2,library,Simon Lydell,MIT
+chalk,5.6.2,NA,MIT,eslint-config-xo-typescript,2.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslint-config-xo,0.44.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslint-import-resolver-webpack,0.13.10,library,Ben Mosher,MIT
+chalk,5.6.2,NA,MIT,debug,3.2.7,library,TJ Holowaychuk,MIT
+chalk,5.6.2,NA,MIT,resolve,2.0.0-next.5,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,semver,5.7.2,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,eslint-plugin-ava,14.0.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,espree,9.6.1,library,Nicholas C. Zakas,BSD-2-Clause
+chalk,5.6.2,NA,MIT,pkg-dir,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslint-plugin-eslint-comments,3.2.0,library,Toru Nagashima,MIT
+chalk,5.6.2,NA,MIT,eslint-plugin-import,2.32.0,library,Ben Mosher,MIT
+chalk,5.6.2,NA,MIT,debug,3.2.7,library,TJ Holowaychuk,MIT
+chalk,5.6.2,NA,MIT,doctrine,2.1.0,library,NA,Apache-2.0
+chalk,5.6.2,NA,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,eslint-plugin-n,16.6.2,library,Toru Nagashima,MIT
+chalk,5.6.2,NA,MIT,globals,13.24.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.20.2,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,eslint-plugin-no-use-extend-native,0.5.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,eslint-plugin-unicorn,51.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,eslintrc,2.1.4,library,Nicholas C. Zakas,MIT
+chalk,5.6.2,NA,MIT,ci-info,4.3.0,library,Thomas Watson Steen,MIT
+chalk,5.6.2,NA,MIT,espree,9.6.1,library,Nicholas C. Zakas,BSD-2-Clause
+chalk,5.6.2,NA,MIT,globals,13.24.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+chalk,5.6.2,NA,MIT,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.20.2,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,argparse,2.0.1,library,NA,Python-2.0
+chalk,5.6.2,NA,MIT,eslint,8.57.1,library,Nicholas C. Zakas,MIT
+chalk,5.6.2,NA,MIT,eslintrc,2.1.4,library,Nicholas C. Zakas,MIT
+chalk,5.6.2,NA,MIT,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,espree,9.6.1,library,Nicholas C. Zakas,BSD-2-Clause
+chalk,5.6.2,NA,MIT,glob-parent,6.0.2,library,Gulp Team,ISC
+chalk,5.6.2,NA,MIT,globals,13.24.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+chalk,5.6.2,NA,MIT,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.20.2,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,argparse,2.0.1,library,NA,Python-2.0
+chalk,5.6.2,NA,MIT,esm-utils,4.4.2,library,fisker Cheung,MIT
+chalk,5.6.2,NA,MIT,find-cache-dir,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,pkg-dir,7.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,find-up,6.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,locate-path,7.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,path-exists,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-locate,6.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-limit,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,yocto-queue,1.2.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,find-up-simple,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,get-stdin,9.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,get-tsconfig,4.10.1,library,Hiroki Osame,MIT
+chalk,5.6.2,NA,MIT,imurmurhash,0.1.4,library,Jens Taylor,MIT
+chalk,5.6.2,NA,MIT,json-stable-stringify-without-jsonify,1.0.1,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,lodash-es,4.17.21,library,John-David Dalton,MIT
+chalk,5.6.2,NA,MIT,micromatch,4.0.8,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,open-editor,4.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,execa,5.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,human-signals,2.1.0,library,ehmicky,Apache-2.0
+chalk,5.6.2,NA,MIT,is-stream,2.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,npm-run-path,4.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,onetime,5.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,strip-final-newline,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,prettier,3.6.2,library,James Long,MIT
+chalk,5.6.2,NA,MIT,semver,7.7.2,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,to-absolute-glob,3.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,typescript,5.9.2,library,Microsoft Corp.,Apache-2.0
+chalk,5.6.2,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,anymatch,3.1.3,library,Elan Shanker,ISC
+chalk,5.6.2,NA,MIT,braces,3.0.3,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,fsevents,2.3.3,library,NA,MIT
+chalk,5.6.2,NA,MIT,glob-parent,5.1.2,library,Gulp Team,ISC
+chalk,5.6.2,NA,MIT,is-binary-path,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-glob,4.0.3,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,normalize-path,3.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,readdirp,3.6.0,library,Thorsten Lorenz,MIT
+chalk,5.6.2,NA,MIT,restore-cursor,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,onetime,5.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,slice-ansi,3.0.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,convert-to-spaces,1.0.2,library,Vadim Demedes,MIT
+chalk,5.6.2,NA,MIT,date-time,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,esutils,2.0.3,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,fast-diff,1.3.0,library,Jason Chen,Apache-2.0
+chalk,5.6.2,NA,MIT,js-string-escape,1.0.1,library,Jo Liss,MIT
+chalk,5.6.2,NA,MIT,well-known-symbols,2.0.0,library,Mark Wubben,ISC
+chalk,5.6.2,NA,MIT,array-find-index,1.0.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,graceful-fs,4.2.11,library,NA,ISC
+chalk,5.6.2,NA,MIT,is-path-cwd,2.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-path-inside,3.0.3,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,escape-string-regexp,1.0.5,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,array-union,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,dir-glob,3.0.1,library,Kevin Mårtensson,MIT
+chalk,5.6.2,NA,MIT,fast-glob,3.3.3,library,Denis Malinochkin,MIT
+chalk,5.6.2,NA,MIT,ignore,5.3.2,library,kael,MIT
+chalk,5.6.2,NA,MIT,merge2,1.4.1,library,NA,MIT
+chalk,5.6.2,NA,MIT,pkg-dir,4.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,find-up,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,locate-path,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-locate,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,blueimp-md5,2.19.0,library,Sebastian Tschan,MIT
+chalk,5.6.2,NA,MIT,map-age-cleaner,0.1.3,library,Sam Verschueren,MIT
+chalk,5.6.2,NA,MIT,mimic-fn,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,bl,4.1.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,cli-spinners,2.9.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-interactive,1.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-unicode-supported,0.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,log-symbols,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,wcwidth,1.0.1,library,Tim Oxley,MIT
+chalk,5.6.2,NA,MIT,p-timeout,3.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,aggregate-error,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,load-json-file,5.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.3.1,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,irregular-plurals,3.5.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,parse-ms,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,normalize-package-data,2.4.4,library,NA,MIT
+chalk,5.6.2,NA,MIT,normalize-package-data,2.5.0,library,Meryn Stol,BSD-2-Clause
+chalk,5.6.2,NA,MIT,semver,5.7.2,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,resolve-from,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,buffer-from,1.1.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+chalk,5.6.2,NA,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,js-yaml,3.14.1,library,Vladimir Zapparov,MIT
+chalk,5.6.2,NA,MIT,serialize-error,7.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.13.1,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,boxen,5.1.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,camelcase,6.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,0.20.2,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,configstore,5.0.1,library,Sindre Sorhus,BSD-2-Clause
+chalk,5.6.2,NA,MIT,make-dir,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,has-yarn,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,import-lazy,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-ci,2.0.0,library,Thomas Watson Steen,MIT
+chalk,5.6.2,NA,MIT,is-installed-globally,0.4.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-npm,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-yarn-global,0.3.0,library,LitoMore,MIT
+chalk,5.6.2,NA,MIT,latest-version,5.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,pupa,2.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,semver-diff,3.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,xdg-basedir,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-typedarray,1.0.0,library,Hugh Kennedy,MIT
+chalk,5.6.2,NA,MIT,typedarray-to-buffer,3.1.5,library,Feross Aboukhadijeh,MIT
+chalk,5.6.2,NA,MIT,cliui,7.0.4,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,escalade,3.2.0,library,Luke Edwards,MIT
+chalk,5.6.2,NA,MIT,get-caller-file,2.0.5,library,Stefan Penner,ISC
+chalk,5.6.2,NA,MIT,require-directory,2.1.1,library,Troy Goode,MIT
+chalk,5.6.2,NA,MIT,y18n,5.0.8,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,locate-path,6.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,make-dir,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,html-escaper,2.0.2,library,Andrea Giammarchi,MIT
+chalk,5.6.2,NA,MIT,glob,7.2.3,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,minimatch,3.1.2,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,trace-mapping,0.3.30,library,Justin Ridgewell,MIT
+chalk,5.6.2,NA,MIT,istanbul-lib-coverage,2.0.6,library,NA,MIT
+chalk,5.6.2,NA,MIT,path-key,3.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,shebang-command,2.0.0,library,Kevin Mårtensson,MIT
+chalk,5.6.2,NA,MIT,which,2.0.2,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,type-fest,1.4.0,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,drip,1.1.0,library,Jake Luer,MIT
+chalk,5.6.2,NA,MIT,eslint,7.29.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,eslint-rule-docs,1.1.235,library,Stefan Buck,MIT
+chalk,5.6.2,NA,MIT,supports-hyperlinks,2.3.0,library,James Talmage,MIT
+chalk,5.6.2,NA,MIT,minimist,1.2.5,library,NA,MIT
+chalk,5.6.2,NA,MIT,camelcase-keys,6.2.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,decamelize-keys,1.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,map-obj,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,decamelize,1.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,hard-rejection,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,minimist-options,4.1.0,library,Vadim Demedes,MIT
+chalk,5.6.2,NA,MIT,arrify,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,redent,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,trim-newlines,3.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ajv,6.12.6,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,espree,10.4.0,library,Nicholas C. Zakas,BSD-2-Clause
+chalk,5.6.2,NA,MIT,eslint-visitor-keys,4.2.1,library,Toru Nagashima,Apache-2.0
+chalk,5.6.2,NA,MIT,globals,14.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,import-fresh,3.3.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,resolve-from,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,regexpp,4.12.1,library,Toru Nagashima,MIT
+chalk,5.6.2,NA,MIT,scope-manager,6.21.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,type-utils,6.21.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,utils,6.21.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,visitor-keys,6.21.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,graphemer,1.4.0,library,Matt Davies,MIT
+chalk,5.6.2,NA,MIT,natural-compare,1.4.0,library,Lauri Rooden,MIT
+chalk,5.6.2,NA,MIT,ts-api-utils,1.4.3,library,JoshuaKGoldberg,MIT
+chalk,5.6.2,NA,MIT,types,6.21.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,typescript-estree,6.21.0,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,minimatch,9.0.3,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,brace-expansion,2.0.2,library,Julian Gruber,MIT
+chalk,5.6.2,NA,MIT,path-type,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,confusing-browser-globals,1.0.11,library,NA,MIT
+chalk,5.6.2,NA,MIT,enhanced-resolve,0.9.1,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,find-root,1.1.0,library,jsdnxx,MIT
+chalk,5.6.2,NA,MIT,hasown,2.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,interpret,1.4.0,library,Gulp Team,MIT
+chalk,5.6.2,NA,MIT,is-core-module,2.16.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-regex,1.2.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,webpack,5.101.3,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,enhanced-resolve,5.18.3,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,eslint-scope,5.1.1,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,tapable,2.2.3,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,estraverse,4.3.0,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,enhance-visitors,1.0.0,library,Jeroen Engels,MIT
+chalk,5.6.2,NA,MIT,eslint-utils,3.0.0,library,Toru Nagashima,MIT
+chalk,5.6.2,NA,MIT,eslint-visitor-keys,2.1.0,library,Toru Nagashima,Apache-2.0
+chalk,5.6.2,NA,MIT,espurify,2.1.1,library,Takuto Wada,MIT
+chalk,5.6.2,NA,MIT,import-modules,2.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,micro-spelling-correcter,1.1.1,library,Yanis Benson,CC0-1.0
+chalk,5.6.2,NA,MIT,scc,1.1.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,array-includes,3.1.9,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,array.prototype.findlastindex,1.2.6,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,array.prototype.flat,1.3.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,array.prototype.flatmap,1.3.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,eslint-import-resolver-node,0.3.9,library,Ben Mosher,MIT
+chalk,5.6.2,NA,MIT,debug,3.2.7,library,TJ Holowaychuk,MIT
+chalk,5.6.2,NA,MIT,eslint-module-utils,2.12.1,library,Ben Mosher,MIT
+chalk,5.6.2,NA,MIT,debug,3.2.7,library,TJ Holowaychuk,MIT
+chalk,5.6.2,NA,MIT,object.fromentries,2.0.8,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,object.groupby,1.0.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,object.values,1.2.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,string.prototype.trimend,1.0.9,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,tsconfig-paths,3.15.0,library,Jonas Kello,MIT
+chalk,5.6.2,NA,MIT,eslint-utils,4.9.0,library,Toru Nagashima,MIT
+chalk,5.6.2,NA,MIT,builtins,5.1.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,eslint-plugin-es-x,7.8.0,library,Toru Nagashima,MIT
+chalk,5.6.2,NA,MIT,is-builtin-module,3.2.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,resolve,1.22.10,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,is-get-set-prop,1.0.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,is-js-type,2.0.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,is-obj-prop,1.0.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,is-proto-prop,2.0.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,prettier-linter-helpers,1.0.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,synckit,0.11.11,library,JounQin,MIT
+chalk,5.6.2,NA,MIT,helper-validator-identifier,7.27.1,library,The Babel Team,MIT
+chalk,5.6.2,NA,MIT,clean-regexp,1.0.0,library,Sam Verschueren,MIT
+chalk,5.6.2,NA,MIT,core-js-compat,3.45.1,library,Denis Pushkarev,MIT
+chalk,5.6.2,NA,MIT,esquery,1.6.0,library,Joel Feenstra,BSD-3-Clause
+chalk,5.6.2,NA,MIT,jsesc,3.1.0,library,Mathias Bynens,MIT
+chalk,5.6.2,NA,MIT,pluralize,8.0.0,library,Blake Embrey,MIT
+chalk,5.6.2,NA,MIT,regexp-tree,0.1.27,library,Dmitry Soshnikov,MIT
+chalk,5.6.2,NA,MIT,regjsparser,0.10.0,library,'Julian Viereck',BSD-2-Clause
+chalk,5.6.2,NA,MIT,jsesc,0.5.0,library,Mathias Bynens,MIT
+chalk,5.6.2,NA,MIT,strip-indent,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,js,8.57.1,library,NA,MIT
+chalk,5.6.2,NA,MIT,config-array,0.13.0,library,Nicholas C. Zakas,Apache-2.0
+chalk,5.6.2,NA,MIT,module-importer,1.0.1,library,Nicholas C. Zaks,Apache-2.0
+chalk,5.6.2,NA,MIT,fs.walk,1.2.8,library,NA,MIT
+chalk,5.6.2,NA,MIT,structured-clone,1.3.0,library,Andrea Giammarchi,ISC
+chalk,5.6.2,NA,MIT,doctrine,3.0.0,library,NA,Apache-2.0
+chalk,5.6.2,NA,MIT,eslint-scope,7.2.2,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,eslint-visitor-keys,3.4.3,library,Toru Nagashima,Apache-2.0
+chalk,5.6.2,NA,MIT,fast-deep-equal,3.1.3,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,file-entry-cache,6.0.1,library,Roy Riojas,MIT
+chalk,5.6.2,NA,MIT,levn,0.4.1,library,George Zahariev,MIT
+chalk,5.6.2,NA,MIT,lodash.merge,4.6.2,library,John-David Dalton,MIT
+chalk,5.6.2,NA,MIT,optionator,0.9.4,library,George Zahariev,MIT
+chalk,5.6.2,NA,MIT,text-table,0.2.0,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,import-meta-resolve,4.2.0,library,Titus Wormer,MIT
+chalk,5.6.2,NA,MIT,url-or-path,2.6.1,library,fisker Cheung,MIT
+chalk,5.6.2,NA,MIT,resolve-pkg-maps,1.0.0,library,Hiroki Osame,MIT
+chalk,5.6.2,NA,MIT,merge-streams,2.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,unicorn-magic,0.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,env-editor,1.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,line-column-path,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,type-fest,2.19.0,library,Sindre Sorhus,NA
+chalk,5.6.2,NA,MIT,open,8.4.2,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,define-lazy-prop,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-absolute,1.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,is-negated-glob,1.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,has-flag,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,fill-range,7.1.1,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,binary-extensions,2.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-extglob,2.1.1,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,astral-regex,2.0.0,library,Kevin Mårtensson,MIT
+chalk,5.6.2,NA,MIT,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+chalk,5.6.2,NA,MIT,time-zone,1.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,fs.stat,2.0.5,library,NA,MIT
+chalk,5.6.2,NA,MIT,p-defer,1.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,buffer,5.7.1,library,Feross Aboukhadijeh,MIT
+chalk,5.6.2,NA,MIT,inherits,2.0.4,library,NA,ISC
+chalk,5.6.2,NA,MIT,readable-stream,3.6.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,defaults,1.0.4,library,Elijah Insua,MIT
+chalk,5.6.2,NA,MIT,p-finally,1.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,clean-stack,2.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,parse-json,4.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,pify,4.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,strip-bom,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,hosted-git-info,2.8.9,library,Rebecca Turner,ISC
+chalk,5.6.2,NA,MIT,validate-npm-package-license,3.0.4,library,Kyle E. Mitchell,Apache-2.0
+chalk,5.6.2,NA,MIT,code-frame,7.27.1,library,The Babel Team,MIT
+chalk,5.6.2,NA,MIT,error-ex,1.3.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,json-parse-even-better-errors,2.3.1,library,Kat Marchán,MIT
+chalk,5.6.2,NA,MIT,lines-and-columns,1.2.4,library,Brian Donovan,MIT
+chalk,5.6.2,NA,MIT,argparse,1.0.10,library,NA,MIT
+chalk,5.6.2,NA,MIT,esprima,4.0.1,library,Ariya Hidayat,BSD-2-Clause
+chalk,5.6.2,NA,MIT,ansi-align,3.0.1,library,nexdrew,ISC
+chalk,5.6.2,NA,MIT,cli-boxes,2.2.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,widest-line,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,dot-prop,5.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,unique-string,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,global-dirs,3.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,package-json,6.5.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+chalk,5.6.2,NA,MIT,escape-goat,2.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-locate,5.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,fs.realpath,1.0.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,inflight,1.0.6,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,once,1.4.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,path-is-absolute,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,brace-expansion,1.1.12,library,Julian Gruber,MIT
+chalk,5.6.2,NA,MIT,resolve-uri,3.1.2,library,Justin Ridgewell,MIT
+chalk,5.6.2,NA,MIT,sourcemap-codec,1.5.5,library,Justin Ridgewell,MIT
+chalk,5.6.2,NA,MIT,shebang-regex,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,eastasianwidth,0.2.0,library,Masaki Komagata,MIT
+chalk,5.6.2,NA,MIT,tea-concat,0.1.0,library,Jake Luer,MIT
+chalk,5.6.2,NA,MIT,estree,1.0.8,library,NA,MIT
+chalk,5.6.2,NA,MIT,json-schema,7.0.15,library,NA,MIT
+chalk,5.6.2,NA,MIT,camelcase,5.3.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,map-obj,4.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,quick-lru,4.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-plain-obj,1.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,kind-of,6.0.3,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,fast-json-stable-stringify,2.1.0,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,json-schema-traverse,0.4.1,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,uri-js,4.4.1,library,Gary Court,BSD-2-Clause
+chalk,5.6.2,NA,MIT,acorn-jsx,5.3.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,parent-module,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,semver,7.7.1,library,NA,MIT
+chalk,5.6.2,NA,MIT,get-east-asian-width,1.4.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,memory-fs,0.2.0,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,tapable,0.1.10,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,function-bind,1.1.2,library,Raynos,MIT
+chalk,5.6.2,NA,MIT,call-bound,1.0.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,gopd,1.2.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,has-tostringtag,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,path-parse,1.0.7,library,Javier Blanco,MIT
+chalk,5.6.2,NA,MIT,supports-preserve-symlinks-flag,1.0.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,eslint-scope,3.7.7,library,NA,MIT
+chalk,5.6.2,NA,MIT,ast,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,wasm-edit,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,wasm-parser,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,acorn-import-phases,1.0.4,library,Nicolò Ribaudo,MIT
+chalk,5.6.2,NA,MIT,browserslist,4.25.4,library,Andrey Sitnik,MIT
+chalk,5.6.2,NA,MIT,chrome-trace-event,1.0.4,library,"Trent Mick, Sam Saccone",MIT
+chalk,5.6.2,NA,MIT,es-module-lexer,1.7.0,library,Guy Bedford,MIT
+chalk,5.6.2,NA,MIT,events,3.3.0,library,Irakli Gozalishvili,MIT
+chalk,5.6.2,NA,MIT,glob-to-regexp,0.4.1,library,Nick Fitzgerald,BSD-2-Clause
+chalk,5.6.2,NA,MIT,loader-runner,4.3.0,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,mime-types,2.1.35,library,NA,MIT
+chalk,5.6.2,NA,MIT,neo-async,2.6.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,schema-utils,4.3.2,library,webpack Contrib,MIT
+chalk,5.6.2,NA,MIT,ajv-keywords,5.1.0,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,ajv,8.17.1,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,json-schema-traverse,1.0.0,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,terser-webpack-plugin,5.3.14,library,webpack Contrib Team,MIT
+chalk,5.6.2,NA,MIT,watchpack,2.4.4,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,webpack-sources,3.3.3,library,Tobias Koppers @sokra,MIT
+chalk,5.6.2,NA,MIT,call-bind,1.0.8,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,define-properties,1.2.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,es-abstract,1.24.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,es-object-atoms,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,get-intrinsic,1.3.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-string,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,math-intrinsics,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,es-errors,1.3.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,es-shim-unscopables,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,json5,0.0.29,library,Jason Swearingen,MIT
+chalk,5.6.2,NA,MIT,json5,1.0.2,library,Aseem Kishore,MIT
+chalk,5.6.2,NA,MIT,minimist,1.2.8,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,eslint-compat-utils,0.5.1,library,Yosuke Ota,MIT
+chalk,5.6.2,NA,MIT,builtin-modules,3.3.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,get-set-props,0.1.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,lowercase-keys,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,js-types,1.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,obj-props,1.4.0,library,Dustin Specker,MIT
+chalk,5.6.2,NA,MIT,proto-props,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,core,0.2.9,library,JounQin,MIT
+chalk,5.6.2,NA,MIT,estraverse,5.3.0,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,min-indent,1.0.1,library,James Kyle,MIT
+chalk,5.6.2,NA,MIT,object-schema,2.0.3,library,Nicholas C. Zakas,BSD-3-Clause
+chalk,5.6.2,NA,MIT,fs.scandir,2.1.5,library,NA,MIT
+chalk,5.6.2,NA,MIT,fastq,1.19.1,library,Matteo Collina,ISC
+chalk,5.6.2,NA,MIT,esrecurse,4.3.0,library,NA,BSD-2-Clause
+chalk,5.6.2,NA,MIT,flat-cache,3.2.0,library,Jared Wray,MIT
+chalk,5.6.2,NA,MIT,keyv,4.5.4,library,Jared Wray,MIT
+chalk,5.6.2,NA,MIT,json-buffer,3.0.1,library,Dominic Tarr,MIT
+chalk,5.6.2,NA,MIT,prelude-ls,1.2.1,library,George Zahariev,MIT
+chalk,5.6.2,NA,MIT,type-check,0.4.0,library,George Zahariev,MIT
+chalk,5.6.2,NA,MIT,deep-is,0.1.4,library,Thorsten Lorenz,MIT
+chalk,5.6.2,NA,MIT,fast-levenshtein,2.0.6,library,Ramesh Nair,MIT
+chalk,5.6.2,NA,MIT,word-wrap,1.2.5,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,is-docker,2.2.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-wsl,2.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,is-relative,1.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,is-windows,1.0.2,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,to-regex-range,5.0.1,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,base64-js,1.5.1,library,T. Jameson Little,MIT
+chalk,5.6.2,NA,MIT,ieee754,1.2.1,library,Feross Aboukhadijeh,BSD-3-Clause
+chalk,5.6.2,NA,MIT,string_decoder,1.3.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,util-deprecate,1.0.2,library,Nathan Rajlich,MIT
+chalk,5.6.2,NA,MIT,clone,1.0.4,library,Paul Vorbach,MIT
+chalk,5.6.2,NA,MIT,json-parse-better-errors,1.0.2,library,Kat Marchán,MIT
+chalk,5.6.2,NA,MIT,spdx-correct,3.2.0,library,NA,Apache-2.0
+chalk,5.6.2,NA,MIT,spdx-expression-parse,3.0.1,library,Kyle E. Mitchell,MIT
+chalk,5.6.2,NA,MIT,js-tokens,4.0.0,library,Simon Lydell,MIT
+chalk,5.6.2,NA,MIT,picocolors,1.1.1,library,Alexey Raspopov,ISC
+chalk,5.6.2,NA,MIT,is-arrayish,0.2.1,library,Qix,MIT
+chalk,5.6.2,NA,MIT,sprintf-js,1.0.3,library,Alexandru Marasteanu,BSD-3-Clause
+chalk,5.6.2,NA,MIT,is-obj,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,crypto-random-string,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,ini,2.0.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,got,9.6.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,get-stream,4.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,registry-auth-token,4.2.2,library,Espen Hovlandsdal,MIT
+chalk,5.6.2,NA,MIT,registry-url,5.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-limit,3.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,wrappy,1.0.2,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,balanced-match,1.0.2,library,Julian Gruber,MIT
+chalk,5.6.2,NA,MIT,concat-map,0.0.1,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,lru-cache,6.0.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,punycode,2.3.1,library,Mathias Bynens,MIT
+chalk,5.6.2,NA,MIT,call-bind-apply-helpers,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,has-symbols,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,helper-numbers,1.13.2,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,helper-wasm-bytecode,1.13.2,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,helper-buffer,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,helper-wasm-section,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,wasm-gen,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,wasm-opt,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,wast-printer,1.14.1,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,helper-api-error,1.13.2,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,ieee754,1.13.2,library,NA,MIT
+chalk,5.6.2,NA,MIT,leb128,1.13.2,library,NA,Apache-2.0
+chalk,5.6.2,NA,MIT,utf8,1.13.2,library,Sven Sauleau,MIT
+chalk,5.6.2,NA,MIT,caniuse-lite,1.0.30001741,library,Ben Briggs,CC-BY-4.0
+chalk,5.6.2,NA,MIT,electron-to-chromium,1.5.215,library,Kilian Valkhof,ISC
+chalk,5.6.2,NA,MIT,node-releases,2.0.20,library,Sergey Rubanov,MIT
+chalk,5.6.2,NA,MIT,update-browserslist-db,1.1.3,library,Andrey Sitnik,MIT
+chalk,5.6.2,NA,MIT,mime-db,1.52.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,ajv-formats,2.1.1,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,ajv,8.17.1,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,json-schema-traverse,1.0.0,library,Evgeny Poberezkin,MIT
+chalk,5.6.2,NA,MIT,jest-worker,27.5.1,library,NA,MIT
+chalk,5.6.2,NA,MIT,supports-color,8.1.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,serialize-javascript,6.0.2,library,Eric Ferraiuolo,BSD-3-Clause
+chalk,5.6.2,NA,MIT,terser,5.44.0,library,Mihai Bazon,BSD-2-Clause
+chalk,5.6.2,NA,MIT,es-define-property,1.0.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,set-function-length,1.2.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,define-data-property,1.1.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,has-property-descriptors,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,object-keys,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,array-buffer-byte-length,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,arraybuffer.prototype.slice,1.0.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,available-typed-arrays,1.0.7,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,data-view-buffer,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,data-view-byte-length,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,data-view-byte-offset,1.0.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,es-set-tostringtag,2.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,es-to-primitive,1.3.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,function.prototype.name,1.1.8,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,get-proto,1.0.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,get-symbol-description,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,globalthis,1.0.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,has-proto,1.2.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,internal-slot,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-array-buffer,3.0.5,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-callable,1.2.7,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-data-view,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-negative-zero,2.0.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-set,2.0.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-shared-array-buffer,1.0.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-typed-array,1.1.15,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-weakref,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,object-inspect,1.13.4,library,James Halliday,MIT
+chalk,5.6.2,NA,MIT,object.assign,4.1.7,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,own-keys,1.0.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,regexp.prototype.flags,1.5.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,safe-array-concat,1.1.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,safe-push-apply,1.0.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,safe-regex-test,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,set-proto,1.0.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,stop-iteration-iterator,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,string.prototype.trim,1.2.10,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,string.prototype.trimstart,1.0.8,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,typed-array-buffer,1.0.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,typed-array-byte-length,1.0.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,typed-array-byte-offset,1.0.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,typed-array-length,1.0.7,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,unbox-primitive,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,which-typed-array,1.1.19,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,run-parallel,1.2.0,library,Feross Aboukhadijeh,MIT
+chalk,5.6.2,NA,MIT,reusify,1.1.0,library,Matteo Collina,MIT
+chalk,5.6.2,NA,MIT,flatted,3.3.3,library,Andrea Giammarchi,ISC
+chalk,5.6.2,NA,MIT,is-unc-path,1.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,is-number,7.0.0,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,safe-buffer,5.2.1,library,Feross Aboukhadijeh,MIT
+chalk,5.6.2,NA,MIT,spdx-license-ids,3.0.22,library,Shinnosuke Watanabe,CC0-1.0
+chalk,5.6.2,NA,MIT,spdx-exceptions,2.5.0,library,The Linux Foundation,CC-BY-3.0
+chalk,5.6.2,NA,MIT,is,0.14.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,http-timer,1.1.2,library,Szymon Marczak,MIT
+chalk,5.6.2,NA,MIT,cacheable-request,6.1.0,library,Luke Childs,MIT
+chalk,5.6.2,NA,MIT,get-stream,5.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,lowercase-keys,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,decompress-response,3.3.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,duplexer3,0.1.5,library,NA,BSD-3-Clause
+chalk,5.6.2,NA,MIT,mimic-response,1.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,p-cancelable,1.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,to-readable-stream,1.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,url-parse-lax,3.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,rc,1.2.8,library,Dominic Tarr,NA
+chalk,5.6.2,NA,MIT,ini,1.3.8,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,yocto-queue,0.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+chalk,5.6.2,NA,MIT,floating-point-hex-parser,1.13.2,library,Mauro Bringolf,MIT
+chalk,5.6.2,NA,MIT,long,4.2.2,library,Daniel Wirtz,Apache-2.0
+chalk,5.6.2,NA,MIT,ieee754,1.2.0,library,Feross Aboukhadijeh,BSD-3-Clause
+chalk,5.6.2,NA,MIT,fast-uri,3.1.0,library,Vincent Le Goff,BSD-3-Clause
+chalk,5.6.2,NA,MIT,require-from-string,2.0.2,library,Vsevolod Strukchinsky,MIT
+chalk,5.6.2,NA,MIT,randombytes,2.1.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,source-map,0.3.11,library,Justin Ridgewell,MIT
+chalk,5.6.2,NA,MIT,commander,2.20.3,library,TJ Holowaychuk,MIT
+chalk,5.6.2,NA,MIT,possible-typed-array-names,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-date-object,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-symbol,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,functions-have-names,1.2.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,dunder-proto,1.0.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,side-channel,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,set-function-name,2.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,isarray,2.0.5,library,Julian Gruber,MIT
+chalk,5.6.2,NA,MIT,for-each,0.3.5,library,Raynos,MIT
+chalk,5.6.2,NA,MIT,reflect.getprototypeof,1.0.10,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,has-bigints,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,which-boxed-primitive,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,queue-microtask,1.2.3,library,Feross Aboukhadijeh,MIT
+chalk,5.6.2,NA,MIT,unc-path-regex,0.1.2,library,Jon Schlinkert,MIT
+chalk,5.6.2,NA,MIT,p-try,2.2.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,defer-to-connect,1.1.3,library,Szymon Marczak,MIT
+chalk,5.6.2,NA,MIT,clone-response,1.0.3,library,Luke Childs,MIT
+chalk,5.6.2,NA,MIT,http-cache-semantics,4.2.0,library,Kornel Lesiński,BSD-2-Clause
+chalk,5.6.2,NA,MIT,keyv,3.1.0,library,Luke Childs,MIT
+chalk,5.6.2,NA,MIT,normalize-url,4.5.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,responselike,1.0.2,library,lukechilds,MIT
+chalk,5.6.2,NA,MIT,pump,3.0.3,library,Mathias Buus Madsen,MIT
+chalk,5.6.2,NA,MIT,prepend-http,2.0.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,deep-extend,0.6.0,library,Viacheslav Lotsmanov,MIT
+chalk,5.6.2,NA,MIT,strip-json-comments,2.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,gen-mapping,0.3.13,library,Justin Ridgewell,MIT
+chalk,5.6.2,NA,MIT,side-channel-list,1.0.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,side-channel-map,1.0.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,side-channel-weakmap,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,which-builtin-type,1.2.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-bigint,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-boolean-object,1.2.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-number-object,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,json-buffer,3.0.0,library,Dominic Tarr,MIT
+chalk,5.6.2,NA,MIT,end-of-stream,1.4.5,library,Mathias Buus,MIT
+chalk,5.6.2,NA,MIT,is-async-function,2.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-finalizationregistry,1.1.1,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-generator-function,1.1.0,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,which-collection,1.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,async-function,1.0.0,library,Jordan Harbamd,MIT
+chalk,5.6.2,NA,MIT,is-map,2.0.3,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-weakmap,2.0.2,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,is-weakset,2.0.4,library,Jordan Harband,MIT
+chalk,5.6.2,NA,MIT,node,16.18.126,library,NA,MIT
+chalk,5.6.2,NA,MIT,ava,3.15.0,library,NA,MIT
+chalk,5.6.2,NA,MIT,c8,7.14.0,library,Ben Coe,ISC
+chalk,5.6.2,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+chalk,5.6.2,NA,MIT,execa,6.1.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,log-update,5.0.1,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,matcha,0.7.0,library,Jake Luer,NA
+chalk,5.6.2,NA,MIT,tsd,0.19.1,library,Sam Verschueren,MIT
+chalk,5.6.2,NA,MIT,xo,0.57.0,library,Sindre Sorhus,MIT
+chalk,5.6.2,NA,MIT,yoctodelay,2.0.0,library,Sindre Sorhus,MIT

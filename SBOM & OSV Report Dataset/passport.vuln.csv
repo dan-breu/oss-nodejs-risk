@@ -1,0 +1,10 @@
+name,version,fixed,cvss,cve,severity
+debug,2.2.0,3.1.0,7.5,CVE-2017-20165,HIGH
+debug,2.2.0,2.6.9,7.5,CVE-2017-16137,LOW
+diff,1.4.0,3.5.0,NA,NA,HIGH
+growl,1.9.2,1.10.0,9.8,CVE-2017-16042,CRITICAL
+minimatch,0.3.0,3.0.5,7.5,CVE-2022-3517,HIGH
+minimatch,0.3.0,3.0.2,7.5,CVE-2016-10540,HIGH
+minimist,0.0.8,0.2.1,9.8,CVE-2020-7598,MODERATE
+minimist,0.0.8,1.2.6,9.8,CVE-2021-44906,CRITICAL
+ms,0.7.1,2.0.0,5.3,CVE-2017-20162,MODERATE

@@ -1,0 +1,700 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+lodash,4.17.21,NA,MIT,async,2.6.3,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,benchmark,2.1.4,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,chalk,1.1.3,library,NA,MIT
+lodash,4.17.21,NA,MIT,cheerio,0.22.0,library,Matt Mueller,MIT
+lodash,4.17.21,NA,MIT,codecov.io,0.1.6,library,Gregg Caines,MIT
+lodash,4.17.21,NA,MIT,request,2.42.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,coveralls,2.13.3,library,Gregg Caines,BSD-2-Clause
+lodash,4.17.21,NA,MIT,js-yaml,3.6.1,library,Vladimir Zapparov,MIT
+lodash,4.17.21,NA,MIT,request,2.79.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,stringstream,0.0.6,library,Michael Hart,MIT
+lodash,4.17.21,NA,MIT,aws-sign2,0.6.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,caseless,0.11.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,combined-stream,1.0.6,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,forever-agent,0.6.1,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,form-data,2.1.4,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,hawk,3.1.3,library,Eran Hammer,BSD-3-Clause
+lodash,4.17.21,NA,MIT,http-signature,1.1.1,library,"Joyent, Inc",MIT
+lodash,4.17.21,NA,MIT,mime-types,2.1.18,library,NA,MIT
+lodash,4.17.21,NA,MIT,oauth-sign,0.8.2,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,qs,6.3.2,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,uuid,3.2.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,delayed-stream,1.0.0,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,boom,2.10.1,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,cryptiles,2.0.5,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,hoek,2.16.3,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,sntp,1.0.9,library,Eran Hammer,BSD
+lodash,4.17.21,NA,MIT,assert-plus,0.2.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,curl-amd,0.8.12,library,NA,MIT
+lodash,4.17.21,NA,MIT,docdown,0.7.3,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,dojo,1.15.0,library,NA,NA
+lodash,4.17.21,NA,MIT,ecstatic,2.2.2,library,Joshua Holbrook,MIT
+lodash,4.17.21,NA,MIT,fs-extra,1.0.0,library,JP Richardson,MIT
+lodash,4.17.21,NA,MIT,glob,7.1.4,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,istanbul,0.4.5,library,Krishnan Anantheswaran,BSD-3-Clause
+lodash,4.17.21,NA,MIT,async,1.5.2,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,glob,5.0.15,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,supports-color,3.2.3,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,jquery,3.4.1,library,JS Foundation and other contributors,MIT
+lodash,4.17.21,NA,MIT,jscs,3.0.7,library,Marat Dulin,MIT
+lodash,4.17.21,NA,MIT,commander,2.9.0,library,TJ Holowaychuk,MIT
+lodash,4.17.21,NA,MIT,estraverse,4.2.0,library,NA,BSD-2-Clause
+lodash,4.17.21,NA,MIT,glob,5.0.15,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,htmlparser2,3.8.3,library,Felix Boehm,MIT
+lodash,4.17.21,NA,MIT,js-yaml,3.4.6,library,Vladimir Zapparov,MIT
+lodash,4.17.21,NA,MIT,lodash,3.10.1,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,domhandler,2.3.0,library,Felix Boehm,NA
+lodash,4.17.21,NA,MIT,entities,1.0.0,library,Felix Boehm,BSD-like
+lodash,4.17.21,NA,MIT,readable-stream,1.1.14,library,Isaac Z. Schlueter,MIT
+lodash,4.17.21,NA,MIT,isarray,0.0.1,library,Julian Gruber,MIT
+lodash,4.17.21,NA,MIT,string_decoder,0.10.31,library,NA,MIT
+lodash,4.17.21,NA,MIT,lodash-doc-globals,0.1.2,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.20,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,markdown-doctest,0.9.1,library,Nick Johnstone,MIT
+lodash,4.17.21,NA,MIT,optional-dev-dependency,2.0.1,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,yargs,7.1.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,camelcase,3.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,cliui,3.2.0,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,platform,1.3.5,library,Benjamin Tan,MIT
+lodash,4.17.21,NA,MIT,qunit-extras,3.0.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,qunitjs,2.4.1,library,jQuery Foundation and other contributors,MIT
+lodash,4.17.21,NA,MIT,chokidar,1.6.1,library,Paul Miller,MIT
+lodash,4.17.21,NA,MIT,commander,2.9.0,library,TJ Holowaychuk,MIT
+lodash,4.17.21,NA,MIT,resolve,1.3.2,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,request,2.88.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,aws-sign2,0.7.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,aws4,1.8.0,library,Michael Hart,MIT
+lodash,4.17.21,NA,MIT,caseless,0.12.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,combined-stream,1.0.8,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,extend,3.0.2,library,Stefan Thomas,MIT
+lodash,4.17.21,NA,MIT,forever-agent,0.6.1,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,form-data,2.3.3,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,har-validator,5.1.3,library,Ahmad Nassri,MIT
+lodash,4.17.21,NA,MIT,http-signature,1.2.0,library,"Joyent, Inc",MIT
+lodash,4.17.21,NA,MIT,mime-types,2.1.24,library,NA,MIT
+lodash,4.17.21,NA,MIT,oauth-sign,0.9.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,qs,6.5.2,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,safe-buffer,5.2.0,library,Feross Aboukhadijeh,MIT
+lodash,4.17.21,NA,MIT,tough-cookie,2.4.3,library,Jeremy Stashewsky,BSD-3-Clause
+lodash,4.17.21,NA,MIT,tunnel-agent,0.6.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,uuid,3.3.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,delayed-stream,1.0.0,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,assert-plus,1.0.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,mime-db,1.40.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,requirejs,2.3.6,library,James Burke,MIT
+lodash,4.17.21,NA,MIT,sauce-tunnel,2.5.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,split,1.0.1,library,Dominic Tarr,MIT
+lodash,4.17.21,NA,MIT,uglify-js,2.7.5,library,Mihai Bazon,BSD-2-Clause
+lodash,4.17.21,NA,MIT,async,0.2.10,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,source-map,0.5.7,library,Nick Fitzgerald,BSD-3-Clause
+lodash,4.17.21,NA,MIT,webpack,1.15.0,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,async,1.5.2,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,supports-color,3.2.3,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,ansi-styles,2.2.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,escape-string-regexp,1.0.5,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,has-ansi,2.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,strip-ansi,3.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,supports-color,2.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,css-select,1.2.0,library,Felix Boehm,BSD-like
+lodash,4.17.21,NA,MIT,dom-serializer,0.1.0,library,Felix Boehm,MIT
+lodash,4.17.21,NA,MIT,domelementtype,1.1.3,library,Felix Boehm,NA
+lodash,4.17.21,NA,MIT,entities,1.1.1,library,Felix Boehm,BSD-like
+lodash,4.17.21,NA,MIT,htmlparser2,3.9.2,library,Felix Boehm,MIT
+lodash,4.17.21,NA,MIT,lodash.assignin,4.2.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.bind,4.2.1,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.defaults,4.2.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.filter,4.6.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.flatten,4.4.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.foreach,4.5.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.map,4.6.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.merge,4.6.2,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.pick,4.4.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.reduce,4.6.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.reject,4.6.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash.some,4.6.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,urlgrey,0.4.0,library,Gregg Caines,BSD-2-Clause
+lodash,4.17.21,NA,MIT,lcov-parse,0.0.10,library,Dav Glass,BSD-3-Clause
+lodash,4.17.21,NA,MIT,log-driver,1.2.5,library,NA,NA
+lodash,4.17.21,NA,MIT,minimist,1.2.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,doctrine,2.0.0,library,NA,Apache-2.0
+lodash,4.17.21,NA,MIT,he,1.2.0,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,mime,1.6.0,library,Robert Kieffer,MIT
+lodash,4.17.21,NA,MIT,url-join,2.0.5,library,José F. Romaniello,MIT
+lodash,4.17.21,NA,MIT,graceful-fs,4.1.11,library,NA,ISC
+lodash,4.17.21,NA,MIT,jsonfile,2.4.0,library,JP Richardson,MIT
+lodash,4.17.21,NA,MIT,klaw,1.3.1,library,JP Richardson,MIT
+lodash,4.17.21,NA,MIT,fs.realpath,1.0.0,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,inflight,1.0.6,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,inherits,2.0.3,library,NA,ISC
+lodash,4.17.21,NA,MIT,minimatch,3.0.4,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,once,1.4.0,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,path-is-absolute,1.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,abbrev,1.0.9,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,escodegen,1.8.1,library,NA,BSD-2-Clause
+lodash,4.17.21,NA,MIT,esprima,2.7.3,library,Ariya Hidayat,BSD-2-Clause
+lodash,4.17.21,NA,MIT,handlebars,4.1.2,library,Yehuda Katz,MIT
+lodash,4.17.21,NA,MIT,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+lodash,4.17.21,NA,MIT,uglify-js,3.6.0,library,Mihai Bazon,BSD-2-Clause
+lodash,4.17.21,NA,MIT,commander,2.20.0,library,TJ Holowaychuk,MIT
+lodash,4.17.21,NA,MIT,js-yaml,3.13.1,library,Vladimir Zapparov,MIT
+lodash,4.17.21,NA,MIT,esprima,4.0.1,library,Ariya Hidayat,BSD-2-Clause
+lodash,4.17.21,NA,MIT,mkdirp,0.5.1,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,minimist,0.0.8,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,nopt,3.0.6,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,resolve,1.1.7,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,which,1.3.0,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,wordwrap,1.0.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,cli-table,0.3.1,library,Guillermo Rauch,NA
+lodash,4.17.21,NA,MIT,cst,0.4.10,library,Marat Dulin,MIT
+lodash,4.17.21,NA,MIT,exit,0.1.2,library,"""Cowboy"" Ben Alman",MIT
+lodash,4.17.21,NA,MIT,jscs-jsdoc,2.0.0,library,Alexej Yaroshevich,MIT
+lodash,4.17.21,NA,MIT,jscs-preset-wikimedia,1.0.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,jsonlint,1.6.3,library,Zach Carter,NA
+lodash,4.17.21,NA,MIT,natural-compare,1.2.2,library,Graeme Yeates,MIT
+lodash,4.17.21,NA,MIT,pathval,0.1.1,library,Veselin Todorov,MIT
+lodash,4.17.21,NA,MIT,prompt,0.2.14,library,Nodejitsu Inc.,NA
+lodash,4.17.21,NA,MIT,reserved-words,0.1.2,library,Alexej Yaroshevich,MIT
+lodash,4.17.21,NA,MIT,strip-bom,2.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,strip-json-comments,1.0.4,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,to-double-quotes,2.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,to-single-quotes,2.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,vow-fs,0.3.6,library,Dmitry Filatov,MIT
+lodash,4.17.21,NA,MIT,vow,0.4.18,library,Dmitry Filatov,MIT
+lodash,4.17.21,NA,MIT,xmlbuilder,3.1.0,library,Ozgur Ozcitak,MIT
+lodash,4.17.21,NA,MIT,lodash,3.10.1,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,babel-core,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,source-map,0.5.7,library,Nick Fitzgerald,BSD-3-Clause
+lodash,4.17.21,NA,MIT,babel-preset-es2015,6.24.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,babel-preset-stage-0,6.24.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,cross-spawn,5.1.0,library,IndigoUnited,MIT
+lodash,4.17.21,NA,MIT,lodash.assign,4.2.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,exists-stat,1.0.0,library,Trent Willis,MIT
+lodash,4.17.21,NA,MIT,findup-sync,0.4.3,library,"""Cowboy"" Ben Alman",MIT
+lodash,4.17.21,NA,MIT,js-reporters,1.2.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,walk-sync,0.3.1,library,Jo Liss,MIT
+lodash,4.17.21,NA,MIT,is-typedarray,1.0.0,library,Hugh Kennedy,MIT
+lodash,4.17.21,NA,MIT,isstream,0.1.2,library,Rod Vagg,MIT
+lodash,4.17.21,NA,MIT,json-stringify-safe,5.0.1,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,performance-now,2.1.0,library,Braveg1rl,MIT
+lodash,4.17.21,NA,MIT,uglify-to-browserify,1.0.2,library,ForbesLindesay,MIT
+lodash,4.17.21,NA,MIT,yargs,3.10.0,library,Alex Ford,MIT
+lodash,4.17.21,NA,MIT,acorn,3.3.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,clone,1.0.4,library,Paul Vorbach,MIT
+lodash,4.17.21,NA,MIT,enhanced-resolve,0.9.1,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,memory-fs,0.2.0,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,interpret,0.6.6,library,Tyler Kellen,MIT
+lodash,4.17.21,NA,MIT,loader-utils,0.2.17,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,memory-fs,0.3.0,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,node-libs-browser,0.7.0,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,string_decoder,0.10.31,library,NA,MIT
+lodash,4.17.21,NA,MIT,optimist,0.6.1,library,James Halliday,MIT/X11
+lodash,4.17.21,NA,MIT,minimist,0.0.10,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,wordwrap,0.0.3,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,tapable,0.1.10,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,watchpack,0.2.9,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,async,0.9.2,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,webpack-core,0.6.9,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,source-map,0.4.4,library,Nick Fitzgerald,BSD-3-Clause
+lodash,4.17.21,NA,MIT,ansi-regex,2.1.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,boolbase,1.0.0,library,Felix Boehm,ISC
+lodash,4.17.21,NA,MIT,css-what,2.1.0,library,Felix Böhm,BSD-like
+lodash,4.17.21,NA,MIT,domutils,1.5.1,library,Felix Boehm,NA
+lodash,4.17.21,NA,MIT,nth-check,1.0.1,library,Felix Boehm,BSD
+lodash,4.17.21,NA,MIT,domelementtype,1.3.0,library,Felix Boehm,NA
+lodash,4.17.21,NA,MIT,domhandler,2.4.1,library,Felix Boehm,BSD-2-Clause
+lodash,4.17.21,NA,MIT,readable-stream,2.3.6,library,NA,MIT
+lodash,4.17.21,NA,MIT,aws-sign2,0.5.0,library,Mikeal Rogers,NA
+lodash,4.17.21,NA,MIT,bl,0.9.5,library,NA,MIT
+lodash,4.17.21,NA,MIT,readable-stream,1.0.34,library,Isaac Z. Schlueter,MIT
+lodash,4.17.21,NA,MIT,isarray,0.0.1,library,Julian Gruber,MIT
+lodash,4.17.21,NA,MIT,string_decoder,0.10.31,library,NA,MIT
+lodash,4.17.21,NA,MIT,caseless,0.6.0,library,Mikeal Rogers,BSD
+lodash,4.17.21,NA,MIT,forever-agent,0.5.2,library,Mikeal Rogers,NA
+lodash,4.17.21,NA,MIT,form-data,0.1.4,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,async,0.9.2,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,mime,1.2.11,library,Robert Kieffer,NA
+lodash,4.17.21,NA,MIT,hawk,1.1.1,library,Eran Hammer,BSD
+lodash,4.17.21,NA,MIT,http-signature,0.10.1,library,"Joyent, Inc",MIT
+lodash,4.17.21,NA,MIT,mime-types,1.0.2,library,Jonathan Ong,MIT
+lodash,4.17.21,NA,MIT,node-uuid,1.4.8,library,Robert Kieffer,MIT
+lodash,4.17.21,NA,MIT,oauth-sign,0.4.0,library,Mikeal Rogers,NA
+lodash,4.17.21,NA,MIT,qs,1.2.2,library,Nathan LaFreniere,BSD
+lodash,4.17.21,NA,MIT,stringstream,0.0.6,library,Michael Hart,MIT
+lodash,4.17.21,NA,MIT,tough-cookie,2.3.4,library,Jeremy Stashewsky,BSD-3-Clause
+lodash,4.17.21,NA,MIT,tunnel-agent,0.4.3,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,tape,2.3.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,argparse,1.0.10,library,NA,MIT
+lodash,4.17.21,NA,MIT,aws4,1.7.0,library,Michael Hart,MIT
+lodash,4.17.21,NA,MIT,extend,3.0.1,library,Stefan Thomas,MIT
+lodash,4.17.21,NA,MIT,har-validator,2.0.6,library,Ahmad Nassri,ISC
+lodash,4.17.21,NA,MIT,esutils,2.0.2,library,NA,BSD
+lodash,4.17.21,NA,MIT,isarray,1.0.0,library,Julian Gruber,MIT
+lodash,4.17.21,NA,MIT,wrappy,1.0.2,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,brace-expansion,1.1.11,library,Julian Gruber,MIT
+lodash,4.17.21,NA,MIT,estraverse,1.9.3,library,NA,BSD
+lodash,4.17.21,NA,MIT,optionator,0.8.2,library,George Zahariev,MIT
+lodash,4.17.21,NA,MIT,source-map,0.2.0,library,Nick Fitzgerald,BSD
+lodash,4.17.21,NA,MIT,neo-async,2.6.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,has-flag,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,colors,1.0.3,library,Marak Squires,MIT
+lodash,4.17.21,NA,MIT,graceful-readlink,1.0.1,library,zhiyelee,MIT
+lodash,4.17.21,NA,MIT,babel-runtime,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,babylon,6.18.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,source-map-support,0.4.18,library,NA,MIT
+lodash,4.17.21,NA,MIT,source-map,0.5.7,library,Nick Fitzgerald,BSD-3-Clause
+lodash,4.17.21,NA,MIT,inherit,2.2.6,library,Dmitry Filatov,MIT
+lodash,4.17.21,NA,MIT,comment-parser,0.3.2,library,Sergii Iavorskyi,MIT
+lodash,4.17.21,NA,MIT,jsdoctypeparser,1.2.0,library,Kuniwak,MIT
+lodash,4.17.21,NA,MIT,lodash,3.10.1,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,JSV,4.0.2,library,Gary Court,FreeBSD
+lodash,4.17.21,NA,MIT,nomnom,1.8.1,library,Heather Arthur,NA
+lodash,4.17.21,NA,MIT,chalk,0.4.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,ansi-styles,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,strip-ansi,0.1.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,pkginfo,0.4.1,library,Charlie Robbins,MIT
+lodash,4.17.21,NA,MIT,read,1.0.7,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,revalidator,0.1.8,library,Nodejitsu Inc.,Apache 2.0
+lodash,4.17.21,NA,MIT,utile,0.2.1,library,Nodejitsu Inc.,NA
+lodash,4.17.21,NA,MIT,async,0.2.10,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,winston,0.8.3,library,Nodejitsu Inc.,MIT
+lodash,4.17.21,NA,MIT,async,0.2.10,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,colors,0.6.2,library,Marak Squires,NA
+lodash,4.17.21,NA,MIT,pkginfo,0.3.1,library,Charlie Robbins,MIT
+lodash,4.17.21,NA,MIT,is-utf8,0.2.1,library,wayfind,MIT
+lodash,4.17.21,NA,MIT,uuid,2.0.3,library,Robert Kieffer,MIT
+lodash,4.17.21,NA,MIT,vow-queue,0.4.3,library,Dmitry Filatov,MIT
+lodash,4.17.21,NA,MIT,babel-code-frame,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,babel-generator,6.26.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,source-map,0.5.7,library,Nick Fitzgerald,BSD-3-Clause
+lodash,4.17.21,NA,MIT,babel-helpers,6.24.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,babel-messages,6.23.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,babel-register,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,babel-template,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,babel-traverse,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,babel-types,6.26.0,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,convert-source-map,1.5.1,library,Thorsten Lorenz,MIT
+lodash,4.17.21,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+lodash,4.17.21,NA,MIT,json5,0.5.1,library,Aseem Kishore,MIT
+lodash,4.17.21,NA,MIT,private,0.1.8,library,Ben Newman,MIT
+lodash,4.17.21,NA,MIT,slash,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-check-es2015-constants,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-arrow-functions,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-block-scoped-functions,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-block-scoping,6.26.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-classes,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-computed-properties,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-destructuring,6.23.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-duplicate-keys,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-for-of,6.23.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-function-name,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-literals,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-modules-amd,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-modules-commonjs,6.26.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-modules-systemjs,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-modules-umd,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-object-super,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-parameters,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-shorthand-properties,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-spread,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-sticky-regex,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-template-literals,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-typeof-symbol,6.23.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-es2015-unicode-regex,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-regenerator,6.26.0,library,Ben Newman,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-do-expressions,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-function-bind,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-preset-stage-1,6.24.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,lru-cache,4.1.2,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,shebang-command,1.2.0,library,Kevin Martensson,MIT
+lodash,4.17.21,NA,MIT,decamelize,1.2.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,get-caller-file,1.0.2,library,Stefan Penner,ISC
+lodash,4.17.21,NA,MIT,os-locale,1.4.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,read-pkg-up,1.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,require-directory,2.1.1,library,Troy Goode,MIT
+lodash,4.17.21,NA,MIT,require-main-filename,1.0.1,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,set-blocking,2.0.0,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,string-width,1.0.2,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,which-module,1.0.0,library,nexdrew,ISC
+lodash,4.17.21,NA,MIT,y18n,3.2.1,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,yargs-parser,5.0.0,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,camelcase,3.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,anymatch,1.3.2,library,Elan Shanker,ISC
+lodash,4.17.21,NA,MIT,async-each,1.0.1,library,Paul Miller,MIT
+lodash,4.17.21,NA,MIT,fsevents,1.2.2,library,NA,NA
+lodash,4.17.21,NA,MIT,node-pre-gyp,0.9.1,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,detect-libc,1.0.3,library,NA,Apache-2.0
+lodash,4.17.21,NA,MIT,mkdirp,0.5.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,needle,2.2.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,nopt,4.0.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,npm-packlist,1.1.10,library,NA,ISC
+lodash,4.17.21,NA,MIT,npmlog,4.1.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,rc,1.2.6,library,NA,NA
+lodash,4.17.21,NA,MIT,minimist,1.2.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,rimraf,2.6.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,semver,5.5.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,tar,4.4.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,minimist,0.0.8,library,NA,MIT
+lodash,4.17.21,NA,MIT,debug,2.6.9,library,NA,MIT
+lodash,4.17.21,NA,MIT,iconv-lite,0.4.21,library,NA,MIT
+lodash,4.17.21,NA,MIT,sax,1.2.4,library,NA,ISC
+lodash,4.17.21,NA,MIT,abbrev,1.1.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,osenv,0.1.5,library,NA,ISC
+lodash,4.17.21,NA,MIT,ignore-walk,3.0.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,npm-bundled,1.0.3,library,NA,ISC
+lodash,4.17.21,NA,MIT,are-we-there-yet,1.1.4,library,NA,ISC
+lodash,4.17.21,NA,MIT,console-control-strings,1.1.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,gauge,2.7.4,library,NA,ISC
+lodash,4.17.21,NA,MIT,set-blocking,2.0.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,deep-extend,0.4.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,ini,1.3.5,library,NA,ISC
+lodash,4.17.21,NA,MIT,strip-json-comments,2.0.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,glob,7.1.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,chownr,1.0.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,fs-minipass,1.2.5,library,NA,ISC
+lodash,4.17.21,NA,MIT,minipass,2.2.4,library,NA,ISC
+lodash,4.17.21,NA,MIT,minizlib,1.1.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,safe-buffer,5.1.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,yallist,3.0.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,ms,2.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,safer-buffer,2.1.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,os-homedir,1.0.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,os-tmpdir,1.0.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,minimatch,3.0.4,library,NA,ISC
+lodash,4.17.21,NA,MIT,delegates,1.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,readable-stream,2.3.6,library,NA,MIT
+lodash,4.17.21,NA,MIT,aproba,1.2.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,has-unicode,2.0.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,object-assign,4.1.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,signal-exit,3.0.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,string-width,1.0.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,strip-ansi,3.0.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,wide-align,1.1.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,fs.realpath,1.0.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,inflight,1.0.6,library,NA,ISC
+lodash,4.17.21,NA,MIT,inherits,2.0.3,library,NA,ISC
+lodash,4.17.21,NA,MIT,once,1.4.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,path-is-absolute,1.0.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,brace-expansion,1.1.11,library,NA,MIT
+lodash,4.17.21,NA,MIT,core-util-is,1.0.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,isarray,1.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,process-nextick-args,2.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,string_decoder,1.1.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,util-deprecate,1.0.2,library,NA,MIT
+lodash,4.17.21,NA,MIT,code-point-at,1.1.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,is-fullwidth-code-point,1.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,ansi-regex,2.1.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,wrappy,1.0.2,library,NA,ISC
+lodash,4.17.21,NA,MIT,balanced-match,1.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,concat-map,0.0.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,number-is-nan,1.0.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,glob-parent,2.0.0,library,Elan Shanker,ISC
+lodash,4.17.21,NA,MIT,is-binary-path,1.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,is-glob,2.0.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,readdirp,2.1.0,library,Thorsten Lorenz,MIT
+lodash,4.17.21,NA,MIT,detect-file,0.1.0,library,Brian Woodward,MIT
+lodash,4.17.21,NA,MIT,micromatch,2.3.11,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,resolve-dir,0.1.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,path-parse,1.0.5,library,Javier Blanco,MIT
+lodash,4.17.21,NA,MIT,ensure-posix-path,1.0.2,library,Stefan Penner,ISC
+lodash,4.17.21,NA,MIT,matcher-collection,1.0.5,library,Stefan Penner,ISC
+lodash,4.17.21,NA,MIT,asynckit,0.4.0,library,Alex Indigo,MIT
+lodash,4.17.21,NA,MIT,ajv,6.10.2,library,Evgeny Poberezkin,MIT
+lodash,4.17.21,NA,MIT,har-schema,2.0.0,library,Ahmad Nassri,ISC
+lodash,4.17.21,NA,MIT,jsprim,1.4.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,assert-plus,1.0.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,sshpk,1.14.1,library,"Joyent, Inc",MIT
+lodash,4.17.21,NA,MIT,asn1,0.2.3,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,assert-plus,1.0.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,psl,1.2.0,library,Lupo Montero,MIT
+lodash,4.17.21,NA,MIT,punycode,1.4.1,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,through,2.3.8,library,Dominic Tarr,MIT
+lodash,4.17.21,NA,MIT,camelcase,1.2.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,cliui,2.1.0,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,wordwrap,0.0.2,library,James Halliday,MIT/X11
+lodash,4.17.21,NA,MIT,window-size,0.1.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,big.js,3.2.0,library,Michael Mclaughlin,MIT
+lodash,4.17.21,NA,MIT,emojis-list,2.1.0,library,Kiko Beats,MIT
+lodash,4.17.21,NA,MIT,object-assign,4.1.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,errno,0.1.7,library,NA,MIT
+lodash,4.17.21,NA,MIT,assert,1.4.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,browserify-zlib,0.1.4,library,Devon Govett,MIT
+lodash,4.17.21,NA,MIT,buffer,4.9.1,library,Feross Aboukhadijeh,MIT
+lodash,4.17.21,NA,MIT,console-browserify,1.1.0,library,Raynos,MIT
+lodash,4.17.21,NA,MIT,constants-browserify,1.0.0,library,Julian Gruber,MIT
+lodash,4.17.21,NA,MIT,crypto-browserify,3.3.0,library,Dominic Tarr,MIT
+lodash,4.17.21,NA,MIT,domain-browser,1.2.0,library,2013+ Bevry Pty Ltd,MIT
+lodash,4.17.21,NA,MIT,events,1.1.1,library,Irakli Gozalishvili,MIT
+lodash,4.17.21,NA,MIT,https-browserify,0.0.1,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,os-browserify,0.2.1,library,CoderPuppy,MIT
+lodash,4.17.21,NA,MIT,path-browserify,0.0.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,process,0.11.10,library,Roman Shtylman,MIT
+lodash,4.17.21,NA,MIT,querystring-es3,0.2.1,library,Irakli Gozalishvili,MIT
+lodash,4.17.21,NA,MIT,stream-browserify,2.0.1,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,stream-http,2.8.1,library,John Hiesey,MIT
+lodash,4.17.21,NA,MIT,timers-browserify,2.0.10,library,J. Ryan Stinnett,MIT
+lodash,4.17.21,NA,MIT,tty-browserify,0.0.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,url,0.11.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,punycode,1.3.2,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,util,0.10.3,library,Joyent,MIT
+lodash,4.17.21,NA,MIT,inherits,2.0.1,library,NA,ISC
+lodash,4.17.21,NA,MIT,vm-browserify,0.0.4,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,chokidar,1.7.0,library,Paul Miller,MIT
+lodash,4.17.21,NA,MIT,source-list-map,0.1.8,library,Tobias Koppers @sokra,MIT
+lodash,4.17.21,NA,MIT,core-util-is,1.0.2,library,Isaac Z. Schlueter,MIT
+lodash,4.17.21,NA,MIT,process-nextick-args,2.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,safe-buffer,5.1.1,library,Feross Aboukhadijeh,MIT
+lodash,4.17.21,NA,MIT,string_decoder,1.1.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,util-deprecate,1.0.2,library,Nathan Rajlich,MIT
+lodash,4.17.21,NA,MIT,combined-stream,0.0.7,library,Felix Geisendörfer,NA
+lodash,4.17.21,NA,MIT,boom,0.4.2,library,Eran Hammer,BSD
+lodash,4.17.21,NA,MIT,cryptiles,0.2.2,library,Eran Hammer,BSD
+lodash,4.17.21,NA,MIT,hoek,0.9.1,library,Eran Hammer,BSD
+lodash,4.17.21,NA,MIT,sntp,0.2.4,library,Eran Hammer,BSD
+lodash,4.17.21,NA,MIT,asn1,0.1.11,library,Mark Cavage,NA
+lodash,4.17.21,NA,MIT,assert-plus,0.1.5,library,Mark Cavage,NA
+lodash,4.17.21,NA,MIT,ctype,0.5.3,library,Robert Mustacchi,NA
+lodash,4.17.21,NA,MIT,deep-equal,0.1.2,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,defined,0.0.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,jsonify,0.0.0,library,Douglas Crockford,Public Domain
+lodash,4.17.21,NA,MIT,resumer,0.0.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,split,0.2.10,library,Dominic Tarr,NA
+lodash,4.17.21,NA,MIT,stream-combiner,0.0.4,library,'Dominic Tarr',MIT
+lodash,4.17.21,NA,MIT,sprintf-js,1.0.3,library,Alexandru Marasteanu,BSD-3-Clause
+lodash,4.17.21,NA,MIT,commander,2.15.1,library,TJ Holowaychuk,MIT
+lodash,4.17.21,NA,MIT,is-my-json-valid,2.17.2,library,Mathias Buus,MIT
+lodash,4.17.21,NA,MIT,pinkie-promise,2.0.1,library,Vsevolod Strukchinsky,MIT
+lodash,4.17.21,NA,MIT,mime-db,1.33.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,balanced-match,1.0.0,library,Julian Gruber,MIT
+lodash,4.17.21,NA,MIT,concat-map,0.0.1,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,deep-is,0.1.3,library,Thorsten Lorenz,NA
+lodash,4.17.21,NA,MIT,fast-levenshtein,2.0.6,library,Ramesh Nair,MIT
+lodash,4.17.21,NA,MIT,levn,0.3.0,library,George Zahariev,MIT
+lodash,4.17.21,NA,MIT,prelude-ls,1.1.2,library,George Zahariev,MIT
+lodash,4.17.21,NA,MIT,type-check,0.3.2,library,George Zahariev,MIT
+lodash,4.17.21,NA,MIT,amdefine,1.0.1,library,James Burke,NA
+lodash,4.17.21,NA,MIT,core-js,2.5.5,library,NA,MIT
+lodash,4.17.21,NA,MIT,regenerator-runtime,0.11.1,library,Ben Newman,MIT
+lodash,4.17.21,NA,MIT,underscore,1.6.0,library,Jeremy Ashkenas,MIT
+lodash,4.17.21,NA,MIT,mute-stream,0.0.7,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,i,0.3.6,library,Pavan Kumar Sunkara,MIT
+lodash,4.17.21,NA,MIT,ncp,0.4.2,library,AvianFlu,MIT
+lodash,4.17.21,NA,MIT,rimraf,2.6.2,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,cycle,1.0.3,library,NA,NA
+lodash,4.17.21,NA,MIT,eyes,0.1.8,library,Alexis Sellier,NA
+lodash,4.17.21,NA,MIT,stack-trace,0.0.10,library,Felix Geisendörfer,MIT
+lodash,4.17.21,NA,MIT,js-tokens,3.0.2,library,Simon Lydell,MIT
+lodash,4.17.21,NA,MIT,detect-indent,4.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,jsesc,1.3.0,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,trim-right,1.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,home-or-tmp,2.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,globals,9.18.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,invariant,2.2.4,library,Andres Suarez,MIT
+lodash,4.17.21,NA,MIT,to-fast-properties,1.0.3,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,ms,2.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-define-map,6.26.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,babel-helper-function-name,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-optimise-call-expression,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-replace-supers,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-strict-mode,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-hoist-variables,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-call-delegate,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-get-function-arity,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-regex,6.26.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.14,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,regexpu-core,2.0.0,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,regenerator-transform,0.10.1,library,Ben Newman,BSD
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-do-expressions,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-function-bind,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-class-constructor-call,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-export-extensions,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-preset-stage-2,6.24.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,pseudomap,1.0.2,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,yallist,2.1.2,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,shebang-regex,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,wrap-ansi,2.1.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,lcid,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,find-up,1.1.2,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,read-pkg,1.1.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,code-point-at,1.1.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,is-fullwidth-code-point,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,normalize-path,2.1.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,nan,2.10.0,library,NA,NA
+lodash,4.17.21,NA,MIT,binary-extensions,1.11.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,is-extglob,1.0.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,set-immediate-shim,1.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,fs-exists-sync,0.1.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,arr-diff,2.0.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,array-unique,0.2.1,library,Jon Schlinkert,NA
+lodash,4.17.21,NA,MIT,braces,1.8.5,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,expand-brackets,0.1.5,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,extglob,0.3.2,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,filename-regex,2.0.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,kind-of,3.2.2,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,object.omit,2.0.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,parse-glob,3.0.4,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,regex-cache,0.4.4,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,expand-tilde,1.2.2,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,global-modules,0.2.3,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,fast-deep-equal,2.0.1,library,Evgeny Poberezkin,MIT
+lodash,4.17.21,NA,MIT,fast-json-stable-stringify,2.0.0,library,James Halliday,MIT
+lodash,4.17.21,NA,MIT,json-schema-traverse,0.4.1,library,Evgeny Poberezkin,MIT
+lodash,4.17.21,NA,MIT,uri-js,4.2.2,library,Gary Court,BSD-2-Clause
+lodash,4.17.21,NA,MIT,punycode,2.1.1,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,extsprintf,1.3.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,json-schema,0.2.3,library,Kris Zyp,AFLv2.1
+lodash,4.17.21,NA,MIT,verror,1.10.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,assert-plus,1.0.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,bcrypt-pbkdf,1.0.1,library,NA,BSD-3-Clause
+lodash,4.17.21,NA,MIT,dashdash,1.14.1,library,Trent Mick,MIT
+lodash,4.17.21,NA,MIT,assert-plus,1.0.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,ecc-jsbn,0.1.1,library,Jeremie Miller,MIT
+lodash,4.17.21,NA,MIT,getpass,0.1.7,library,Alex Wilson,MIT
+lodash,4.17.21,NA,MIT,assert-plus,1.0.0,library,Mark Cavage,MIT
+lodash,4.17.21,NA,MIT,jsbn,0.1.1,library,Tom Wu,MIT
+lodash,4.17.21,NA,MIT,tweetnacl,0.14.5,library,TweetNaCl-js contributors,Unlicense
+lodash,4.17.21,NA,MIT,center-align,0.1.3,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,right-align,0.1.3,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,prr,1.0.1,library,Rod Vagg,MIT
+lodash,4.17.21,NA,MIT,pako,0.2.9,library,NA,MIT
+lodash,4.17.21,NA,MIT,base64-js,1.3.0,library,T. Jameson Little,MIT
+lodash,4.17.21,NA,MIT,ieee754,1.1.11,library,Feross Aboukhadijeh,BSD-3-Clause
+lodash,4.17.21,NA,MIT,date-now,0.1.4,library,Raynos,MIT
+lodash,4.17.21,NA,MIT,browserify-aes,0.4.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,pbkdf2-compat,2.0.1,library,Daniel Cousens,MIT
+lodash,4.17.21,NA,MIT,ripemd160,0.2.0,library,NA,NA
+lodash,4.17.21,NA,MIT,sha.js,2.2.6,library,Dominic Tarr,MIT
+lodash,4.17.21,NA,MIT,builtin-status-codes,3.0.0,library,Ben Drucker,MIT
+lodash,4.17.21,NA,MIT,to-arraybuffer,1.0.1,library,John Hiesey,MIT
+lodash,4.17.21,NA,MIT,xtend,4.0.1,library,Raynos,MIT
+lodash,4.17.21,NA,MIT,setimmediate,1.0.5,library,YuzuJS,MIT
+lodash,4.17.21,NA,MIT,querystring,0.2.0,library,Irakli Gozalishvili,MIT
+lodash,4.17.21,NA,MIT,indexof,0.0.1,library,NA,NA
+lodash,4.17.21,NA,MIT,delayed-stream,0.0.5,library,Felix Geisendörfer,NA
+lodash,4.17.21,NA,MIT,duplexer,0.1.1,library,Raynos,MIT
+lodash,4.17.21,NA,MIT,generate-function,2.0.0,library,Mathias Buus,MIT
+lodash,4.17.21,NA,MIT,generate-object-property,1.2.0,library,Mathias Buus,MIT
+lodash,4.17.21,NA,MIT,is-my-ip-valid,1.0.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,jsonpointer,4.0.1,library,Jan Lehnardt,MIT
+lodash,4.17.21,NA,MIT,pinkie,2.0.4,library,Vsevolod Strukchinsky,MIT
+lodash,4.17.21,NA,MIT,has-color,0.1.7,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,repeating,2.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,os-homedir,1.0.2,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,os-tmpdir,1.0.2,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,loose-envify,1.3.1,library,Andres Suarez,MIT
+lodash,4.17.21,NA,MIT,regenerate,1.3.3,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,regjsgen,0.2.0,library,Benjamin Tan,MIT
+lodash,4.17.21,NA,MIT,regjsparser,0.1.5,library,'Julian Viereck',BSD
+lodash,4.17.21,NA,MIT,jsesc,0.5.0,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-class-constructor-call,6.18.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-export-extensions,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-dynamic-import,6.18.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-class-properties,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-decorators,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-preset-stage-3,6.24.1,library,Sebastian McKenzie,MIT
+lodash,4.17.21,NA,MIT,invert-kv,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,path-exists,2.1.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,load-json-file,1.1.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,normalize-package-data,2.4.0,library,Meryn Stol,BSD-2-Clause
+lodash,4.17.21,NA,MIT,path-type,1.1.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,number-is-nan,1.0.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,remove-trailing-separator,1.1.0,library,darsain,ISC
+lodash,4.17.21,NA,MIT,arr-flatten,1.1.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,expand-range,1.8.2,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,preserve,0.2.0,library,Jon Schlinkert,NA
+lodash,4.17.21,NA,MIT,repeat-element,1.1.2,library,Jon Schlinkert,NA
+lodash,4.17.21,NA,MIT,is-posix-bracket,0.1.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-buffer,1.1.6,library,Feross Aboukhadijeh,MIT
+lodash,4.17.21,NA,MIT,for-own,0.1.5,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-extendable,0.1.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,glob-base,0.3.0,library,Jon Schlinkert,NA
+lodash,4.17.21,NA,MIT,is-dotfile,1.0.3,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-equal-shallow,0.1.3,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,global-prefix,0.1.5,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-windows,0.2.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,align-text,0.1.4,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,lazy-cache,1.0.4,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-property,1.0.2,library,Mikola Lysenko,MIT
+lodash,4.17.21,NA,MIT,is-finite,1.0.2,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-class-properties,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-explode-class,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-decorators,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-trailing-function-commas,6.22.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-async-generator-functions,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-async-to-generator,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-exponentiation-operator,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-transform-object-rest-spread,6.26.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,parse-json,2.2.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,pify,2.3.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,hosted-git-info,2.6.0,library,Rebecca Turner,ISC
+lodash,4.17.21,NA,MIT,is-builtin-module,1.0.0,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,semver,5.5.0,library,NA,ISC
+lodash,4.17.21,NA,MIT,validate-npm-package-license,3.0.3,library,Kyle E. Mitchell,Apache-2.0
+lodash,4.17.21,NA,MIT,fill-range,2.2.4,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,for-in,1.0.2,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-primitive,2.0.0,library,Jon Schlinkert,NA
+lodash,4.17.21,NA,MIT,homedir-polyfill,1.0.1,library,Brian Woodward,MIT
+lodash,4.17.21,NA,MIT,ini,1.3.5,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,longest,1.0.1,library,Jon Schlinkert,NA
+lodash,4.17.21,NA,MIT,repeat-string,1.6.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,babel-helper-bindify-decorators,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-remap-async-to-generator,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-async-generators,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-async-functions,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-helper-builder-binary-assignment-operator-visitor,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-exponentiation-operator,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,babel-plugin-syntax-object-rest-spread,6.13.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,error-ex,1.3.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,builtin-modules,1.1.1,library,Sindre Sorhus,MIT
+lodash,4.17.21,NA,MIT,spdx-correct,3.0.0,library,Kyle E. Mitchell,Apache-2.0
+lodash,4.17.21,NA,MIT,spdx-expression-parse,3.0.0,library,Kyle E. Mitchell,MIT
+lodash,4.17.21,NA,MIT,is-number,2.1.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,isobject,2.1.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,randomatic,3.1.1,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,is-number,4.0.0,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,kind-of,6.0.2,library,Jon Schlinkert,MIT
+lodash,4.17.21,NA,MIT,parse-passwd,1.0.0,library,Brian Woodward,MIT
+lodash,4.17.21,NA,MIT,babel-helper-explode-assignable-expression,6.24.1,library,NA,MIT
+lodash,4.17.21,NA,MIT,is-arrayish,0.2.1,library,Qix,MIT
+lodash,4.17.21,NA,MIT,spdx-license-ids,3.0.0,library,Shinnosuke Watanabe,CC0-1.0
+lodash,4.17.21,NA,MIT,spdx-exceptions,2.1.0,library,The Linux Foundation,CC-BY-3.0
+lodash,4.17.21,NA,MIT,math-random,1.0.4,library,Michael Rhodes,MIT
+lodash,4.17.21,NA,MIT,async,2.6.3,library,Caolan McMahon,MIT
+lodash,4.17.21,NA,MIT,benchmark,2.1.4,library,Mathias Bynens,MIT
+lodash,4.17.21,NA,MIT,chalk,1.1.3,library,NA,MIT
+lodash,4.17.21,NA,MIT,cheerio,0.22.0,library,Matt Mueller,MIT
+lodash,4.17.21,NA,MIT,codecov.io,0.1.6,library,Gregg Caines,MIT
+lodash,4.17.21,NA,MIT,coveralls,2.13.3,library,Gregg Caines,BSD-2-Clause
+lodash,4.17.21,NA,MIT,curl-amd,0.8.12,library,NA,MIT
+lodash,4.17.21,NA,MIT,docdown,0.7.3,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,dojo,1.15.0,library,NA,NA
+lodash,4.17.21,NA,MIT,ecstatic,2.2.2,library,Joshua Holbrook,MIT
+lodash,4.17.21,NA,MIT,fs-extra,1.0.0,library,JP Richardson,MIT
+lodash,4.17.21,NA,MIT,glob,7.1.4,library,Isaac Z. Schlueter,ISC
+lodash,4.17.21,NA,MIT,istanbul,0.4.5,library,Krishnan Anantheswaran,BSD-3-Clause
+lodash,4.17.21,NA,MIT,jquery,3.4.1,library,JS Foundation and other contributors,MIT
+lodash,4.17.21,NA,MIT,jscs,3.0.7,library,Marat Dulin,MIT
+lodash,4.17.21,NA,MIT,lodash-doc-globals,0.1.2,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,lodash,4.17.20,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,markdown-doctest,0.9.1,library,Nick Johnstone,MIT
+lodash,4.17.21,NA,MIT,optional-dev-dependency,2.0.1,library,Ben Coe,ISC
+lodash,4.17.21,NA,MIT,platform,1.3.5,library,Benjamin Tan,MIT
+lodash,4.17.21,NA,MIT,qunit-extras,3.0.0,library,John-David Dalton,MIT
+lodash,4.17.21,NA,MIT,qunitjs,2.4.1,library,jQuery Foundation and other contributors,MIT
+lodash,4.17.21,NA,MIT,request,2.88.0,library,Mikeal Rogers,Apache-2.0
+lodash,4.17.21,NA,MIT,requirejs,2.3.6,library,James Burke,MIT
+lodash,4.17.21,NA,MIT,sauce-tunnel,2.5.0,library,NA,MIT
+lodash,4.17.21,NA,MIT,uglify-js,2.7.5,library,Mihai Bazon,BSD-2-Clause
+lodash,4.17.21,NA,MIT,webpack,1.15.0,library,Tobias Koppers @sokra,MIT

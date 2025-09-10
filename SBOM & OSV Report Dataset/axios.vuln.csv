@@ -1,0 +1,4 @@
+name,version,fixed,cvss,cve,severity
+brace-expansion,1.1.11,2.0.2,3.1,CVE-2025-5889,LOW
+brace-expansion,2.0.1,2.0.2,3.1,CVE-2025-5889,LOW
+tmp,0.0.33,0.2.4,2.5,CVE-2025-54798,LOW

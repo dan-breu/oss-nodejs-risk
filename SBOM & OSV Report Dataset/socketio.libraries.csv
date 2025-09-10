@@ -1,0 +1,1374 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+socket.io,4.8.1,NA,MIT,core,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-object-assign,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,preset-env,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,register,7.24.6,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,webtransport-transport-http3-quiche,1.1.4,library,Marten Richter,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,webtransport,1.1.4,library,Marten Richter,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,plugin-alias,5.1.0,library,Johannes Stein,MIT
+socket.io,4.8.1,NA,MIT,slash,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,plugin-babel,6.0.4,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,plugin-commonjs,26.0.1,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,foreground-child,3.2.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,jackspeak,3.4.2,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,10.4.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,plugin-node-resolve,15.2.3,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,fake-timers,11.2.2,library,Christian Johansen,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,cluster-engine,0.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,component-emitter,3.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,postgres-adapter,0.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,msgpack,2.7.2,library,The MessagePack community,ISC
+socket.io,4.8.1,NA,MIT,socket.io-adapter,2.3.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,postgres-emitter,0.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,debug,4.1.12,library,NA,MIT
+socket.io,4.8.1,NA,MIT,expect.js,0.3.32,library,NA,MIT
+socket.io,4.8.1,NA,MIT,mocha,10.0.7,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node,18.15.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pg,8.15.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,sinonjs__fake-timers,8.1.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,cli,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,chalk,5.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,read-pkg-up,10.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,find-up,6.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,read-pkg,8.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,type-fest,4.21.0,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,type-fest,3.13.1,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,locate-path,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,path-exists,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,normalize-package-data,6.0.2,library,GitHub Inc.,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,parse-json,7.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-locate,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,semver,7.6.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,json-parse-even-better-errors,3.0.2,library,GitHub Inc.,MIT
+socket.io,4.8.1,NA,MIT,lines-and-columns,2.0.4,library,Brian Donovan,MIT
+socket.io,4.8.1,NA,MIT,p-limit,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,10.4.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,yocto-queue,1.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,local-runner,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,mocha-framework,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,sauce-service,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,spec-reporter,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,chalk,5.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,babel-loader,9.1.3,library,Luis Couto,MIT
+socket.io,4.8.1,NA,MIT,find-cache-dir,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,pkg-dir,7.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,find-up,6.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,locate-path,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,path-exists,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-locate,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-limit,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,yocto-queue,1.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,base64-arraybuffer,1.0.2,library,Niklas von Hertzen,MIT
+socket.io,4.8.1,NA,MIT,benchmark,2.1.4,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,blob,0.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,cookie,0.7.2,library,Roman Shtylman,MIT
+socket.io,4.8.1,NA,MIT,eiows,7.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-client,3.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,debug,3.1.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,engine.io-parser,2.2.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,xmlhttprequest-ssl,1.6.3,library,Michael de Wit,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,base64-arraybuffer,0.1.4,library,Niklas von Hertzen,MIT
+socket.io,4.8.1,NA,MIT,blob,0.0.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-client,6.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-parser,5.2.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io,6.6.4,library,Guillermo Rauch,MIT
+socket.io,4.8.1,NA,MIT,expect.js,0.3.1,library,NA,NA
+socket.io,4.8.1,NA,MIT,express-session,1.18.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,cookie-signature,1.0.7,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,cookie,0.6.0,library,Roman Shtylman,MIT
+socket.io,4.8.1,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,express,4.19.2,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,cookie,0.6.0,library,Roman Shtylman,MIT
+socket.io,4.8.1,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,has-cors,1.1.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,helmet,7.1.0,library,Adam Baldwin,MIT
+socket.io,4.8.1,NA,MIT,ioredis,5.4.1,library,Zihua Li,MIT
+socket.io,4.8.1,NA,MIT,mocha,10.6.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,glob,8.1.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,minimatch,5.1.6,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,ms,2.1.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,yargs-parser,20.2.9,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,yargs,16.2.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,cliui,7.0.4,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,y18n,5.0.8,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,node-forge,1.3.1,library,"Digital Bazaar, Inc.",NA
+socket.io,4.8.1,NA,MIT,nyc,17.0.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,convert-source-map,1.9.0,library,Thorsten Lorenz,MIT
+socket.io,4.8.1,NA,MIT,find-cache-dir,3.3.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,find-up,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,istanbul-lib-instrument,6.0.3,library,Krishnan Anantheswaran,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,semver,7.6.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,make-dir,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,rimraf,3.0.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,yargs,15.4.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pkg-dir,4.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,locate-path,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,cliui,6.0.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,yargs-parser,18.1.3,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,p-locate,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wrap-ansi,6.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,pg,8.16.3,library,Brian Carlson,MIT
+socket.io,4.8.1,NA,MIT,prettier,3.3.3,library,James Long,MIT
+socket.io,4.8.1,NA,MIT,redis,4.6.15,library,NA,MIT
+socket.io,4.8.1,NA,MIT,rimraf,6.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,glob,11.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,foreground-child,3.2.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,minimatch,10.0.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,rollup-plugin-terser,7.0.2,library,Bogdan Chadkin,MIT
+socket.io,4.8.1,NA,MIT,serialize-javascript,4.0.0,library,Eric Ferraiuolo,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,rollup,2.79.1,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,should,13.2.3,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,socket.io-adapter,2.5.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-client,2.5.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,debug,3.1.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,engine.io-client,3.5.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-parser,3.3.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-parser,2.2.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,xmlhttprequest-ssl,1.6.3,library,Michael de Wit,MIT
+socket.io,4.8.1,NA,MIT,isarray,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,base64-arraybuffer,0.1.4,library,Niklas von Hertzen,MIT
+socket.io,4.8.1,NA,MIT,blob,0.0.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-client,4.8.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-msgpack-parser,3.0.2,library,Damien Arrachequesne,MIT
+socket.io,4.8.1,NA,MIT,socket.io-parser,4.2.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io,4.8.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,superagent,9.0.2,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,mime,2.6.0,library,Robert Kieffer,MIT
+socket.io,4.8.1,NA,MIT,supertest,7.0.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,text-blob-builder,0.0.1,library,Kevin Roark,ISC
+socket.io,4.8.1,NA,MIT,ts-loader,9.5.1,library,John Reilly,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,enhanced-resolve,5.17.0,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,semver,7.6.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,source-map,0.7.4,library,Nick Fitzgerald,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,tapable,2.2.1,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,ts-node,10.9.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,acorn-walk,8.3.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,diff,4.0.2,library,NA,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,tsd,0.31.1,library,Sam Verschueren,MIT
+socket.io,4.8.1,NA,MIT,typescript,5.5.3,library,Microsoft Corp.,Apache-2.0
+socket.io,4.8.1,NA,MIT,uWebSockets.js,20.48.0,library,NA,Apache-2.0
+socket.io,4.8.1,NA,MIT,wdio-geckodriver-service,5.0.2,library,Rafal Skorka,MIT
+socket.io,4.8.1,NA,MIT,remapping,2.3.0,library,Justin Ridgewell,Apache-2.0
+socket.io,4.8.1,NA,MIT,code-frame,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,generator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-compilation-targets,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-module-transforms,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helpers,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,parser,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,template,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,traverse,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,types,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,convert-source-map,2.0.0,library,Thorsten Lorenz,MIT
+socket.io,4.8.1,NA,MIT,debug,4.3.5,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,gensync,1.0.0-beta.2,library,Logan Smyth,MIT
+socket.io,4.8.1,NA,MIT,json5,2.2.3,library,Aseem Kishore,MIT
+socket.io,4.8.1,NA,MIT,semver,6.3.1,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,helper-plugin-utils,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,compat-data,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-validator-option,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-bugfix-firefox-class-in-computed-class-key,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-bugfix-safari-id-destructuring-collision-in-function-expression,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-bugfix-v8-spread-parameters-in-optional-chaining,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-bugfix-v8-static-class-fields-redefine-readonly,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-proposal-private-property-in-object,7.21.0-placeholder-for-preset-env.2,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-async-generators,7.8.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-class-properties,7.12.13,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-class-static-block,7.14.5,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-dynamic-import,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-export-namespace-from,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-import-assertions,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-import-attributes,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-import-meta,7.10.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-json-strings,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-logical-assignment-operators,7.10.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-nullish-coalescing-operator,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-numeric-separator,7.10.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-object-rest-spread,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-optional-catch-binding,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-optional-chaining,7.8.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-private-property-in-object,7.14.5,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-top-level-await,7.14.5,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-syntax-unicode-sets-regex,7.18.6,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-arrow-functions,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-async-generator-functions,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-async-to-generator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-block-scoped-functions,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-block-scoping,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-class-properties,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-class-static-block,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-classes,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-computed-properties,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-destructuring,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-dotall-regex,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-duplicate-keys,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-dynamic-import,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-exponentiation-operator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-export-namespace-from,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-for-of,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-function-name,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-json-strings,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-literals,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-logical-assignment-operators,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-member-expression-literals,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-modules-amd,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-modules-commonjs,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-modules-systemjs,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-modules-umd,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-named-capturing-groups-regex,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-new-target,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-nullish-coalescing-operator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-numeric-separator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-object-rest-spread,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-object-super,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-optional-catch-binding,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-optional-chaining,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-parameters,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-private-methods,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-private-property-in-object,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-property-literals,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-regenerator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-reserved-words,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-shorthand-properties,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-spread,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-sticky-regex,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-template-literals,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-typeof-symbol,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-unicode-escapes,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-unicode-property-regex,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-unicode-regex,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-unicode-sets-regex,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,preset-modules,0.1.6-no-external-plugins,library,NA,MIT
+socket.io,4.8.1,NA,MIT,babel-plugin-polyfill-corejs2,0.4.11,library,NA,MIT
+socket.io,4.8.1,NA,MIT,babel-plugin-polyfill-corejs3,0.10.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,babel-plugin-polyfill-regenerator,0.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,core-js-compat,3.37.1,library,Denis Pushkarev,MIT
+socket.io,4.8.1,NA,MIT,clone-deep,4.0.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,find-cache-dir,2.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,make-dir,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,semver,5.7.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,pirates,4.0.6,library,Ari Porad,MIT
+socket.io,4.8.1,NA,MIT,source-map-support,0.5.21,library,NA,MIT
+socket.io,4.8.1,NA,MIT,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,bindings,1.5.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,cmake-js,7.3.0,library,Gábor Mező aka unbornchikken,MIT
+socket.io,4.8.1,NA,MIT,semver,7.6.3,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,node-addon-api,7.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,prebuild-install,7.1.2,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,helper-module-imports,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,pluginutils,5.1.0,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,commondir,1.0.1,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,estree-walker,2.0.2,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,is-reference,1.2.1,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,magic-string,0.30.10,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,resolve,1.20.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,deepmerge,4.3.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,is-builtin-module,3.2.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-module,1.0.0,library,Jonathan Ong,MIT
+socket.io,4.8.1,NA,MIT,resolve,1.22.8,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,commons,3.0.1,library,NA,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,msgpack,2.8.0,library,The MessagePack community,ISC
+socket.io,4.8.1,NA,MIT,debug,4.3.1,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,0.7.34,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pg-protocol,1.10.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pg-types,2.2.0,library,Brian M. Carlson,MIT
+socket.io,4.8.1,NA,MIT,snapshot,1.6.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,config,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,decamelize,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,foreground-child,3.2.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,jackspeak,3.4.2,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,10.4.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,globals,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,logger,8.38.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,chalk,5.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ansi-regex,6.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,protocols,8.38.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,types,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,utils,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,decamelize,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,async-exit-hook,2.0.1,library,Tapani Moilanen,MIT
+socket.io,4.8.1,NA,MIT,chokidar,3.6.0,library,Paul Miller,MIT
+socket.io,4.8.1,NA,MIT,cli-spinners,2.9.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,dotenv,16.4.5,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,ejs,3.1.10,library,Matthew Eernisse,Apache-2.0
+socket.io,4.8.1,NA,MIT,execa,8.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,get-stream,8.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-stream,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,import-meta-resolve,4.1.0,library,Titus Wormer,MIT
+socket.io,4.8.1,NA,MIT,inquirer,9.2.12,library,Simon Boudrias,MIT
+socket.io,4.8.1,NA,MIT,chalk,5.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,wrap-ansi,6.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,lodash.flattendeep,4.4.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,lodash.pickby,4.6.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,lodash.union,4.6.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,recursive-readdir,2.2.3,library,Jamison Dance,MIT
+socket.io,4.8.1,NA,MIT,webdriverio,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,is-plain-obj,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,yargs,17.7.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,y18n,5.0.8,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,yargs-parser,21.1.1,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,repl,8.24.12,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,runner,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,split2,4.2.0,library,Matteo Collina,ISC
+socket.io,4.8.1,NA,MIT,stream-buffers,3.0.3,library,Sam Day,Unlicense
+socket.io,4.8.1,NA,MIT,ip,2.0.1,library,Fedor Indutny,MIT
+socket.io,4.8.1,NA,MIT,saucelabs,7.5.0,library,"Sauce Labs, Inc.",Apache-2.0
+socket.io,4.8.1,NA,MIT,reporter,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,easy-table,1.2.0,library,Eldar Gabdullin,MIT
+socket.io,4.8.1,NA,MIT,pretty-ms,7.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,schema-utils,4.2.0,library,webpack Contrib,MIT
+socket.io,4.8.1,NA,MIT,ajv-keywords,5.1.0,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,ajv,8.16.0,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,json-schema-traverse,1.0.0,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,webpack,5.92.1,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,enhanced-resolve,5.17.0,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,schema-utils,3.3.0,library,webpack Contrib,MIT
+socket.io,4.8.1,NA,MIT,tapable,2.2.1,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,lodash,4.17.21,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,platform,1.3.6,library,Benjamin Tan,MIT
+socket.io,4.8.1,NA,MIT,esm,3.2.25,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,component-emitter,1.3.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,component-inherit,0.0.3,library,NA,NA
+socket.io,4.8.1,NA,MIT,indexof,0.0.1,library,NA,NA
+socket.io,4.8.1,NA,MIT,parseqs,0.0.6,library,Gal Koren,MIT
+socket.io,4.8.1,NA,MIT,parseuri,0.0.6,library,Gal Koren,MIT
+socket.io,4.8.1,NA,MIT,ws,8.17.1,library,Einar Otto Stangvik,MIT
+socket.io,4.8.1,NA,MIT,yeast,0.1.2,library,Arnout Kazemier,MIT
+socket.io,4.8.1,NA,MIT,xmlhttprequest-ssl,2.1.1,library,Michael de Wit,MIT
+socket.io,4.8.1,NA,MIT,cors,2.8.17,library,NA,MIT
+socket.io,4.8.1,NA,MIT,accepts,1.3.8,library,NA,MIT
+socket.io,4.8.1,NA,MIT,base64id,2.0.0,library,Kristian Faeldt,MIT
+socket.io,4.8.1,NA,MIT,cors,2.8.5,library,Troy Goode,MIT
+socket.io,4.8.1,NA,MIT,debug,4.3.3,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,depd,2.0.0,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,on-headers,1.0.2,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,parseurl,1.3.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,safe-buffer,5.2.1,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,uid-safe,2.1.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,array-flatten,1.1.1,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,body-parser,1.20.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,content-disposition,0.5.4,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,content-type,1.0.5,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,cookie-signature,1.0.6,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,encodeurl,1.0.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,escape-html,1.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,etag,1.8.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,finalhandler,1.2.0,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,fresh,0.5.2,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,http-errors,2.0.0,library,Jonathan Ong,MIT
+socket.io,4.8.1,NA,MIT,merge-descriptors,1.0.1,library,Jonathan Ong,MIT
+socket.io,4.8.1,NA,MIT,methods,1.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,on-finished,2.4.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,path-to-regexp,0.1.7,library,NA,MIT
+socket.io,4.8.1,NA,MIT,proxy-addr,2.0.7,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,qs,6.11.0,library,NA,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,range-parser,1.2.1,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,send,0.18.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ms,2.1.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,serve-static,1.15.0,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,setprototypeof,1.2.0,library,Wes Todd,ISC
+socket.io,4.8.1,NA,MIT,statuses,2.0.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,type-is,1.6.18,library,NA,MIT
+socket.io,4.8.1,NA,MIT,utils-merge,1.0.1,library,Jared Hanson,MIT
+socket.io,4.8.1,NA,MIT,vary,1.1.2,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,commands,1.2.0,library,Zihua Li,MIT
+socket.io,4.8.1,NA,MIT,cluster-key-slot,1.1.2,library,Mike Diarmid,Apache-2.0
+socket.io,4.8.1,NA,MIT,denque,2.1.0,library,Invertase,Apache-2.0
+socket.io,4.8.1,NA,MIT,lodash.defaults,4.2.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,lodash.isarguments,3.1.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,redis-errors,1.2.0,library,Ruben Bridgewater,MIT
+socket.io,4.8.1,NA,MIT,redis-parser,3.0.0,library,Ruben Bridgewater,MIT
+socket.io,4.8.1,NA,MIT,standard-as-callback,2.1.0,library,luin,MIT
+socket.io,4.8.1,NA,MIT,ansi-colors,4.1.3,library,Brian Woodward,MIT
+socket.io,4.8.1,NA,MIT,browser-stdout,1.3.1,library,kumavis,ISC
+socket.io,4.8.1,NA,MIT,diff,5.2.0,library,NA,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,find-up,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,he,1.2.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+socket.io,4.8.1,NA,MIT,log-symbols,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,serialize-javascript,6.0.2,library,Eric Ferraiuolo,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,8.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,workerpool,6.5.1,library,Jos de Jong,Apache-2.0
+socket.io,4.8.1,NA,MIT,yargs-unparser,2.0.0,library,André Cruz,MIT
+socket.io,4.8.1,NA,MIT,camelcase,6.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,decamelize,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-plain-obj,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,load-nyc-config,1.1.0,library,NA,ISC
+socket.io,4.8.1,NA,MIT,find-up,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,js-yaml,3.14.1,library,Vladimir Zapparov,MIT
+socket.io,4.8.1,NA,MIT,locate-path,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,argparse,1.0.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,esprima,4.0.1,library,Ariya Hidayat,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,p-locate,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,schema,0.1.3,library,Corey Farrell,MIT
+socket.io,4.8.1,NA,MIT,caching-transform,4.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,make-dir,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,decamelize,1.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,foreground-child,2.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,get-package-type,0.1.0,library,Corey Farrell,MIT
+socket.io,4.8.1,NA,MIT,glob,7.2.3,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,istanbul-lib-coverage,3.2.2,library,Krishnan Anantheswaran,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,istanbul-lib-hook,3.0.0,library,Krishnan Anantheswaran,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,istanbul-lib-processinfo,2.0.3,library,NA,ISC
+socket.io,4.8.1,NA,MIT,rimraf,3.0.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,istanbul-lib-report,3.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,make-dir,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,semver,7.6.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,istanbul-lib-source-maps,4.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,istanbul-reports,3.1.7,library,Krishnan Anantheswaran,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,node-preload,0.2.1,library,Corey Farrell,MIT
+socket.io,4.8.1,NA,MIT,p-map,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,process-on-spawn,1.0.0,library,Corey Farrell,MIT
+socket.io,4.8.1,NA,MIT,resolve-from,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,signal-exit,3.0.7,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,spawn-wrap,2.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,make-dir,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,rimraf,3.0.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,test-exclude,6.0.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,pg-cloudflare,1.2.7,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pg-connection-string,2.9.1,library,Blaine Bublitz,MIT
+socket.io,4.8.1,NA,MIT,pg-pool,3.10.1,library,Brian M. Carlson,MIT
+socket.io,4.8.1,NA,MIT,pgpass,1.0.5,library,Hannes Hörl,MIT
+socket.io,4.8.1,NA,MIT,bloom,1.2.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,client,1.5.17,library,NA,MIT
+socket.io,4.8.1,NA,MIT,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,graph,1.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,json,1.0.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,search,1.1.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,time-series,1.0.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,jest-worker,26.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,terser,5.31.1,library,Mihai Bazon,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,fsevents,2.3.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,should-equal,2.0.0,library,Denis Bardadym,MIT
+socket.io,4.8.1,NA,MIT,should-format,3.0.3,library,Denis Bardadym,MIT
+socket.io,4.8.1,NA,MIT,should-type-adaptors,1.1.0,library,Denis Bardadym,MIT
+socket.io,4.8.1,NA,MIT,should-type,1.4.0,library,Denis Bardadym,MIT
+socket.io,4.8.1,NA,MIT,should-util,1.0.1,library,Denis Bardadym,MIT
+socket.io,4.8.1,NA,MIT,backo2,1.0.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,component-bind,1.0.0,library,NA,NA
+socket.io,4.8.1,NA,MIT,has-binary2,1.0.3,library,Kevin Roark,MIT
+socket.io,4.8.1,NA,MIT,isarray,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,to-array,0.1.4,library,Raynos,MIT
+socket.io,4.8.1,NA,MIT,debug,4.3.4,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,notepack.io,2.2.0,library,Damien Arrachequesne,MIT
+socket.io,4.8.1,NA,MIT,debug,4.3.4,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,cookiejar,2.1.4,library,bradleymeck,MIT
+socket.io,4.8.1,NA,MIT,fast-safe-stringify,2.1.1,library,David Mark Clements,MIT
+socket.io,4.8.1,NA,MIT,form-data,4.0.0,library,Felix Geisendörfer,MIT
+socket.io,4.8.1,NA,MIT,formidable,3.5.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,micromatch,4.0.7,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,source-map-support,0.8.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,trace-mapping,0.3.9,library,Justin Ridgewell,MIT
+socket.io,4.8.1,NA,MIT,node10,1.0.11,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node12,1.0.11,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node14,1.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node16,1.0.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,acorn,8.12.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,arg,4.1.3,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,create-require,1.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,make-error,1.3.6,library,Julien Fontanet,ISC
+socket.io,4.8.1,NA,MIT,v8-compile-cache-lib,3.0.1,library,Andrew Bradley,MIT
+socket.io,4.8.1,NA,MIT,yn,3.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,typescript,5.4.5,library,Sam Verschueren,MIT
+socket.io,4.8.1,NA,MIT,eslint-formatter-pretty,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,globby,11.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,jest-diff,29.7.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,meow,9.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,type-fest,0.18.1,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,path-exists,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,read-pkg-up,7.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,find-up,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,type-fest,0.8.1,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,locate-path,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-locate,4.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,fs-extra,11.2.0,library,JP Richardson,MIT
+socket.io,4.8.1,NA,MIT,geckodriver,4.4.1,library,vladikoff,MPL-2.0
+socket.io,4.8.1,NA,MIT,decamelize,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,tar-fs,3.0.6,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,which,4.0.0,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,tar-stream,3.1.7,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,get-port,7.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wait-port,1.1.0,library,Dave Kerr,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,commander,9.5.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,gen-mapping,0.3.5,library,Justin Ridgewell,MIT
+socket.io,4.8.1,NA,MIT,trace-mapping,0.3.25,library,Justin Ridgewell,MIT
+socket.io,4.8.1,NA,MIT,highlight,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,picocolors,1.0.1,library,Alexey Raspopov,ISC
+socket.io,4.8.1,NA,MIT,jsesc,2.5.2,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,browserslist,4.23.1,library,Andrey Sitnik,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,5.1.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,helper-environment-visitor,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-simple-access,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-split-export-declaration,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-validator-identifier,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-function-name,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-hoist-variables,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,globals,11.12.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,helper-string-parser,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,to-fast-properties,2.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ms,2.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,helper-skip-transparent-expression-wrappers,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-create-regexp-features-plugin,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-remap-async-to-generator,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-create-class-features-plugin,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-annotate-as-pure,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-replace-supers,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-builder-binary-assignment-operator-visitor,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,regenerator-transform,0.15.2,library,Ben Newman,MIT
+socket.io,4.8.1,NA,MIT,esutils,2.0.3,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,helper-define-polyfill-provider,0.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,is-plain-object,2.0.4,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,kind-of,6.0.3,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,shallow-clone,3.0.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,pkg-dir,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,find-up,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,locate-path,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-locate,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,path-exists,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-limit,2.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,pify,4.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,buffer-from,1.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,file-uri-to-path,1.0.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,axios,1.7.7,library,Matt Zabriskie,MIT
+socket.io,4.8.1,NA,MIT,lodash.isplainobject,4.0.6,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,memory-stream,1.0.0,library,Tommy Messbauer,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,3.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node-api-headers,1.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,npmlog,6.0.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,rc,1.2.8,library,Dominic Tarr,NA
+socket.io,4.8.1,NA,MIT,strip-json-comments,2.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,tar,6.2.1,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,chownr,2.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,minipass,5.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,mkdirp,1.0.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,url-join,4.0.1,library,José F. Romaniello,MIT
+socket.io,4.8.1,NA,MIT,which,2.0.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,detect-libc,2.0.3,library,Lovell Fuller,Apache-2.0
+socket.io,4.8.1,NA,MIT,expand-template,2.0.3,library,LM,NA
+socket.io,4.8.1,NA,MIT,github-from-package,0.0.0,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,minimist,1.2.8,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,mkdirp-classic,0.5.3,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,napi-build-utils,1.0.2,library,Jim Schlight,MIT
+socket.io,4.8.1,NA,MIT,node-abi,3.71.0,library,Lukas Geiger,MIT
+socket.io,4.8.1,NA,MIT,semver,7.6.3,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,pump,3.0.0,library,Mathias Buus Madsen,MIT
+socket.io,4.8.1,NA,MIT,simple-get,4.0.1,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,tar-fs,2.1.1,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,tar-stream,2.2.0,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,3.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,tunnel-agent,0.6.0,library,Mikeal Rogers,Apache-2.0
+socket.io,4.8.1,NA,MIT,estree,0.0.52,library,NA,MIT
+socket.io,4.8.1,NA,MIT,picomatch,2.3.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,package-json-from-dist,1.0.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,sourcemap-codec,1.4.15,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,builtin-modules,3.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-core-module,2.14.0,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,path-parse,1.0.7,library,Javier Blanco,MIT
+socket.io,4.8.1,NA,MIT,supports-preserve-symlinks-flag,1.0.0,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,type-detect,4.0.8,library,Jake Luer,MIT
+socket.io,4.8.1,NA,MIT,pg-int8,1.0.1,library,NA,ISC
+socket.io,4.8.1,NA,MIT,postgres-array,2.0.0,library,Ben Drucker,MIT
+socket.io,4.8.1,NA,MIT,postgres-bytea,1.0.0,library,Ben Drucker,MIT
+socket.io,4.8.1,NA,MIT,postgres-date,1.0.7,library,Ben Drucker,MIT
+socket.io,4.8.1,NA,MIT,postgres-interval,1.2.0,library,Ben Drucker,MIT
+socket.io,4.8.1,NA,MIT,undici-types,5.26.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pathe,1.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pretty-format,29.7.0,library,James Kyle,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,5.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,deepmerge-ts,5.1.0,library,Rebecca Stevens,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,expect-webdriverio,4.15.1,library,Mykola Grybyk,MIT
+socket.io,4.8.1,NA,MIT,loglevel-plugin-prefix,0.8.4,library,kutuluk,MIT
+socket.io,4.8.1,NA,MIT,loglevel,1.9.1,library,Tim Perry,MIT
+socket.io,4.8.1,NA,MIT,browsers,1.9.1,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,debug,4.3.4,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,tar-fs,3.0.4,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,tar-stream,3.1.7,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,edgedriver,5.6.0,library,Barrett Sonntag,MIT
+socket.io,4.8.1,NA,MIT,decamelize,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,which,4.0.0,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,locate-app,2.4.21,library,Pavol Hejný,SEE LICENSE IN LICENSE
+socket.io,4.8.1,NA,MIT,type-fest,2.13.0,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,safaridriver,0.1.2,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,anymatch,3.1.3,library,Elan Shanker,ISC
+socket.io,4.8.1,NA,MIT,braces,3.0.3,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,glob-parent,5.1.2,library,Gulp Team,ISC
+socket.io,4.8.1,NA,MIT,is-binary-path,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-glob,4.0.3,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,normalize-path,3.0.0,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,readdirp,3.6.0,library,Thorsten Lorenz,MIT
+socket.io,4.8.1,NA,MIT,jake,10.9.1,library,Matthew Eernisse,Apache-2.0
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,cross-spawn,7.0.3,library,André Cruz,MIT
+socket.io,4.8.1,NA,MIT,human-signals,5.0.0,library,ehmicky,Apache-2.0
+socket.io,4.8.1,NA,MIT,merge-stream,2.0.0,library,Stephen Sugden,MIT
+socket.io,4.8.1,NA,MIT,npm-run-path,5.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,path-key,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,onetime,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,strip-final-newline,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,through,2.3.13,library,Dominic Tarr,MIT
+socket.io,4.8.1,NA,MIT,ansi-escapes,4.3.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,cli-cursor,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,cli-width,4.1.0,library,Ilya Radchenko,ISC
+socket.io,4.8.1,NA,MIT,external-editor,3.1.0,library,Kevin Gravier,MIT
+socket.io,4.8.1,NA,MIT,figures,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,escape-string-regexp,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-unicode-supported,1.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,mute-stream,1.0.0,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,ora,5.4.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,run-async,3.0.0,library,Simon Boudrias,MIT
+socket.io,4.8.1,NA,MIT,rxjs,7.8.1,library,Ben Lesh,Apache-2.0
+socket.io,4.8.1,NA,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,minimatch,3.1.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,archiver,7.0.1,library,Chris Talkington,MIT
+socket.io,4.8.1,NA,MIT,buffer-crc32,1.0.0,library,Brian J. Brennan,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,4.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,tar-stream,3.1.7,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,buffer,6.0.3,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,aria-query,5.3.0,library,Jesse Beach,Apache-2.0
+socket.io,4.8.1,NA,MIT,css-shorthand-properties,1.1.1,library,Gilmore Davidson,MIT
+socket.io,4.8.1,NA,MIT,css-value,0.0.1,library,TJ Holowaychuk,NA
+socket.io,4.8.1,NA,MIT,devtools-protocol,0.0.1302984,library,The Chromium Authors,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,devtools,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,puppeteer-core,20.3.0,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,uuid,9.0.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,which,4.0.0,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,browsers,1.3.0,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,chromium-bidi,0.4.9,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,cross-fetch,3.1.6,library,Leonardo Quixada,MIT
+socket.io,4.8.1,NA,MIT,debug,4.3.4,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,devtools-protocol,0.0.1120988,library,The Chromium Authors,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,http-proxy-agent,5.0.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,https-proxy-agent,5.0.1,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,yargs,17.7.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node-fetch,2.7.0,library,David Frank,MIT
+socket.io,4.8.1,NA,MIT,agent-base,6.0.2,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,y18n,5.0.8,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,yargs-parser,21.1.1,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,grapheme-splitter,1.0.4,library,Orlin Georgiev,MIT
+socket.io,4.8.1,NA,MIT,jszip,3.10.1,library,Stuart Knightley,NA
+socket.io,4.8.1,NA,MIT,lodash.clonedeep,4.5.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,lodash.zip,4.2.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,puppeteer-core,20.9.0,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,browsers,1.4.6,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,debug,4.3.4,library,Josh Junon,MIT
+socket.io,4.8.1,NA,MIT,devtools-protocol,0.0.1147663,library,The Chromium Authors,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,proxy-agent,6.3.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,tar-fs,3.0.4,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,yargs,17.7.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,7.18.3,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,tar-stream,3.1.7,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,y18n,5.0.8,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,yargs-parser,21.1.1,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,query-selector-shadow-dom,1.0.1,library,George Griffiths,MIT
+socket.io,4.8.1,NA,MIT,resq,1.11.0,library,Baruch Velez,MIT
+socket.io,4.8.1,NA,MIT,fast-deep-equal,2.0.1,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,rgb2hex,0.2.5,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,serialize-error,11.0.3,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,type-fest,2.19.0,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,webdriver,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,node,20.14.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,got,12.6.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,is,5.6.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,http-timer,5.0.1,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,cacheable-lookup,7.0.0,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,cacheable-request,10.2.14,library,Jared Wray,MIT
+socket.io,4.8.1,NA,MIT,get-stream,6.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,http2-wrapper,2.2.1,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,lowercase-keys,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-cancelable,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,responselike,3.0.0,library,Luke Childs,MIT
+socket.io,4.8.1,NA,MIT,mimic-response,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,normalize-url,8.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,cliui,8.0.1,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,escalade,3.1.2,library,Luke Edwards,MIT
+socket.io,4.8.1,NA,MIT,get-caller-file,2.0.5,library,Stefan Penner,ISC
+socket.io,4.8.1,NA,MIT,require-directory,2.1.1,library,Troy Goode,MIT
+socket.io,4.8.1,NA,MIT,gaze,1.1.3,library,Kyle Robinson Young,MIT
+socket.io,4.8.1,NA,MIT,change-case,4.1.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,compressing,1.10.1,library,shaoshuai0102,MIT
+socket.io,4.8.1,NA,MIT,iconv-lite,0.5.2,library,Alexander Shtuchkin,MIT
+socket.io,4.8.1,NA,MIT,got,11.8.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,hash.js,1.1.7,library,Fedor Indutny,MIT
+socket.io,4.8.1,NA,MIT,query-string,7.1.3,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,tunnel,0.0.6,library,Koichi Kobayashi,MIT
+socket.io,4.8.1,NA,MIT,object-inspect,1.13.2,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wcwidth,1.0.1,library,Tim Oxley,MIT
+socket.io,4.8.1,NA,MIT,parse-ms,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,common-path-prefix,3.0.0,library,Mark Wubben,ISC
+socket.io,4.8.1,NA,MIT,json-schema,7.0.15,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ajv-formats,2.1.1,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,ajv,8.16.0,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,json-schema-traverse,1.0.0,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,eslint-scope,3.7.7,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ast,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,wasm-edit,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,wasm-parser,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,acorn-import-attributes,1.9.5,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,chrome-trace-event,1.0.4,library,"Trent Mick, Sam Saccone",MIT
+socket.io,4.8.1,NA,MIT,es-module-lexer,1.5.4,library,Guy Bedford,MIT
+socket.io,4.8.1,NA,MIT,eslint-scope,5.1.1,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,events,3.3.0,library,Irakli Gozalishvili,MIT
+socket.io,4.8.1,NA,MIT,glob-to-regexp,0.4.1,library,Nick Fitzgerald,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,graceful-fs,4.2.11,library,NA,ISC
+socket.io,4.8.1,NA,MIT,json-parse-even-better-errors,2.3.1,library,Kat Marchán,MIT
+socket.io,4.8.1,NA,MIT,loader-runner,4.3.0,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,mime-types,2.1.35,library,NA,MIT
+socket.io,4.8.1,NA,MIT,neo-async,2.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,terser-webpack-plugin,5.3.10,library,webpack Contrib Team,MIT
+socket.io,4.8.1,NA,MIT,jest-worker,27.5.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,schema-utils,3.3.0,library,webpack Contrib,MIT
+socket.io,4.8.1,NA,MIT,watchpack,2.4.1,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,webpack-sources,3.2.3,library,Tobias Koppers @sokra,MIT
+socket.io,4.8.1,NA,MIT,after,0.8.2,library,Raynos,MIT
+socket.io,4.8.1,NA,MIT,arraybuffer.slice,0.0.7,library,NA,MIT
+socket.io,4.8.1,NA,MIT,negotiator,0.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,object-assign,4.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,random-bytes,1.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,bytes,3.1.2,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,destroy,1.2.0,library,Jonathan Ong,MIT
+socket.io,4.8.1,NA,MIT,iconv-lite,0.4.24,library,Alexander Shtuchkin,MIT
+socket.io,4.8.1,NA,MIT,raw-body,2.5.2,library,Jonathan Ong,MIT
+socket.io,4.8.1,NA,MIT,unpipe,1.0.0,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,inherits,2.0.4,library,NA,ISC
+socket.io,4.8.1,NA,MIT,toidentifier,1.0.1,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,ee-first,1.1.1,library,Jonathan Ong,MIT
+socket.io,4.8.1,NA,MIT,forwarded,0.2.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ipaddr.js,1.9.1,library,whitequark,MIT
+socket.io,4.8.1,NA,MIT,side-channel,1.0.6,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,mime,1.6.0,library,Robert Kieffer,MIT
+socket.io,4.8.1,NA,MIT,media-typer,0.3.0,library,Douglas Christopher Wilson,MIT
+socket.io,4.8.1,NA,MIT,locate-path,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,fs.realpath,1.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,inflight,1.0.6,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,once,1.4.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,argparse,2.0.1,library,NA,Python-2.0
+socket.io,4.8.1,NA,MIT,is-unicode-supported,0.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,randombytes,2.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,has-flag,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,flat,5.0.2,library,Hugh Kennedy,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,camelcase,5.3.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,hasha,5.2.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,type-fest,0.8.1,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,package-hash,4.0.0,library,Mark Wubben,ISC
+socket.io,4.8.1,NA,MIT,write-file-atomic,3.0.3,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,path-is-absolute,1.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,append-transform,2.0.0,library,James Talmage,MIT
+socket.io,4.8.1,NA,MIT,archy,1.0.0,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,uuid,8.3.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,html-escaper,2.0.2,library,Andrea Giammarchi,MIT
+socket.io,4.8.1,NA,MIT,aggregate-error,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,fromentries,1.3.2,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,is-windows,1.0.2,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,require-main-filename,2.0.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,set-blocking,2.0.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,which-module,2.0.1,library,nexdrew,ISC
+socket.io,4.8.1,NA,MIT,y18n,4.0.3,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,generic-pool,3.9.0,library,James Cooper,MIT
+socket.io,4.8.1,NA,MIT,jackspeak,4.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,path-scurry,2.0.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,lru-cache,11.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,source-map,0.3.6,library,Justin Ridgewell,MIT
+socket.io,4.8.1,NA,MIT,commander,2.20.3,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,asynckit,0.4.0,library,Alex Indigo,MIT
+socket.io,4.8.1,NA,MIT,combined-stream,1.0.8,library,Felix Geisendörfer,MIT
+socket.io,4.8.1,NA,MIT,dezalgo,1.0.4,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,hexoid,1.0.0,library,Luke Edwards,MIT
+socket.io,4.8.1,NA,MIT,eslint,7.29.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,eslint-rule-docs,1.1.235,library,Stefan Buck,MIT
+socket.io,4.8.1,NA,MIT,plur,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-hyperlinks,2.3.0,library,James Talmage,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,array-union,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,dir-glob,3.0.1,library,Kevin Mårtensson,MIT
+socket.io,4.8.1,NA,MIT,fast-glob,3.3.2,library,Denis Malinochkin,MIT
+socket.io,4.8.1,NA,MIT,ignore,5.3.1,library,kael,MIT
+socket.io,4.8.1,NA,MIT,merge2,1.4.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,slash,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,diff-sequences,29.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,jest-get-type,29.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,minimist,1.2.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,camelcase-keys,6.2.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,quick-lru,4.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,decamelize-keys,1.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,map-obj,1.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,hard-rejection,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,minimist-options,4.1.0,library,Vadim Demedes,MIT
+socket.io,4.8.1,NA,MIT,normalize-package-data,3.0.3,library,Meryn Stol,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,semver,7.6.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,redent,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,trim-newlines,3.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,yargs-parser,20.2.4,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,read-pkg,5.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,normalize-package-data,2.5.0,library,Meryn Stol,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,type-fest,0.6.0,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,hosted-git-info,2.8.9,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,semver,5.7.2,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,jsonfile,6.1.0,library,JP Richardson,MIT
+socket.io,4.8.1,NA,MIT,universalify,2.0.1,library,Ryan Zimmerman,MIT
+socket.io,4.8.1,NA,MIT,zip.js,2.7.45,library,Gildas Lormeau,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,http-proxy-agent,7.0.2,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,https-proxy-agent,7.0.5,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,node-fetch,3.3.2,library,David Frank,MIT
+socket.io,4.8.1,NA,MIT,set-array,1.2.1,library,Justin Ridgewell,MIT
+socket.io,4.8.1,NA,MIT,resolve-uri,3.1.2,library,Justin Ridgewell,MIT
+socket.io,4.8.1,NA,MIT,chalk,2.4.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,supports-color,5.5.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,has-flag,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,js-tokens,4.0.0,library,Simon Lydell,MIT
+socket.io,4.8.1,NA,MIT,caniuse-lite,1.0.30001640,library,Ben Briggs,CC-BY-4.0
+socket.io,4.8.1,NA,MIT,electron-to-chromium,1.4.818,library,Kilian Valkhof,ISC
+socket.io,4.8.1,NA,MIT,node-releases,2.0.14,library,Sergey Rubanov,MIT
+socket.io,4.8.1,NA,MIT,update-browserslist-db,1.1.0,library,Andrey Sitnik,MIT
+socket.io,4.8.1,NA,MIT,yallist,3.1.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,regexpu-core,5.3.2,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,helper-wrap-function,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-member-expression-to-functions,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,helper-optimise-call-expression,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,runtime,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,regenerator-runtime,0.14.1,library,Ben Newman,MIT
+socket.io,4.8.1,NA,MIT,lodash.debounce,4.0.8,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,isobject,3.0.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,follow-redirects,1.15.9,library,Ruben Verborgh,MIT
+socket.io,4.8.1,NA,MIT,proxy-from-env,1.1.0,library,Rob Wu,MIT
+socket.io,4.8.1,NA,MIT,are-we-there-yet,3.0.1,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,readable-stream,3.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,console-control-strings,1.1.0,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,gauge,4.0.4,library,GitHub Inc.,ISC
+socket.io,4.8.1,NA,MIT,deep-extend,0.6.0,library,Viacheslav Lotsmanov,MIT
+socket.io,4.8.1,NA,MIT,ini,1.3.8,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,fs-minipass,2.1.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,minipass,3.3.6,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,minizlib,2.1.2,library,Isaac Z. Schlueter,MIT
+socket.io,4.8.1,NA,MIT,minipass,3.3.6,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,end-of-stream,1.4.4,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,decompress-response,6.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,mimic-response,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,simple-concat,1.0.1,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,chownr,1.1.4,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,cliui,8.0.2,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,string-width,5.1.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,ansi-regex,6.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,parseargs,0.11.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,hasown,2.0.2,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,xtend,4.0.2,library,Raynos,MIT
+socket.io,4.8.1,NA,MIT,schemas,29.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,react-is,18.3.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,expect,29.7.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,jest-matcher-utils,29.7.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,lodash.isequal,4.5.0,library,John-David Dalton,MIT
+socket.io,4.8.1,NA,MIT,extract-zip,2.0.1,library,max ogden,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,progress,2.0.3,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,proxy-agent,6.3.1,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,7.18.3,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,unbzip2-stream,1.4.3,library,Jan Bölsche,MIT
+socket.io,4.8.1,NA,MIT,edge-paths,3.0.5,library,shirshak,MIT
+socket.io,4.8.1,NA,MIT,utils,0.58.0,library,NA,CC-BY-4.0
+socket.io,4.8.1,NA,MIT,userhome,1.0.0,library,Kyle Robinson Young,MIT
+socket.io,4.8.1,NA,MIT,fill-range,7.1.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,binary-extensions,2.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-extglob,2.1.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,async,3.2.5,library,Caolan McMahon,MIT
+socket.io,4.8.1,NA,MIT,filelist,1.0.4,library,Matthew Eernisse,Apache-2.0
+socket.io,4.8.1,NA,MIT,minimatch,5.1.6,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,path-key,3.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,shebang-command,2.0.0,library,Kevin Mårtensson,MIT
+socket.io,4.8.1,NA,MIT,mimic-fn,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,call-bind,1.0.7,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,type-fest,0.21.3,library,Sindre Sorhus,NA
+socket.io,4.8.1,NA,MIT,restore-cursor,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,onetime,5.1.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,chardet,0.7.0,library,Dmitry Shirokov,MIT
+socket.io,4.8.1,NA,MIT,tmp,0.0.33,library,KARASZI István,MIT
+socket.io,4.8.1,NA,MIT,bl,4.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,buffer,5.7.1,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,3.6.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,is-interactive,1.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,tslib,2.6.3,library,Microsoft Corp.,0BSD
+socket.io,4.8.1,NA,MIT,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,normalize-package-data,2.4.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,brace-expansion,1.1.11,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,archiver-utils,5.0.2,library,Chris Talkington,MIT
+socket.io,4.8.1,NA,MIT,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,readable-stream,4.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,foreground-child,3.2.1,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,jackspeak,3.4.2,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+socket.io,4.8.1,NA,MIT,buffer,6.0.3,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,lru-cache,10.4.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,readdir-glob,1.1.3,library,Yann Armelin,Apache-2.0
+socket.io,4.8.1,NA,MIT,minimatch,5.1.6,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,brace-expansion,2.0.1,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,zip-stream,6.0.1,library,Chris Talkington,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,4.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,buffer,6.0.3,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,dequal,2.0.3,library,Luke Edwards,MIT
+socket.io,4.8.1,NA,MIT,chrome-launcher,1.1.2,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ua-parser-js,1.0.38,library,Faisal Salman,MIT
+socket.io,4.8.1,NA,MIT,lie,3.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pako,1.0.11,library,NA,NA
+socket.io,4.8.1,NA,MIT,readable-stream,2.3.8,library,NA,MIT
+socket.io,4.8.1,NA,MIT,safe-buffer,5.1.2,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,string_decoder,1.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,setimmediate,1.0.5,library,YuzuJS,MIT
+socket.io,4.8.1,NA,MIT,chromium-bidi,0.4.16,library,The Chromium Authors,Apache-2.0
+socket.io,4.8.1,NA,MIT,cross-fetch,4.0.0,library,Leonardo Quixada,MIT
+socket.io,4.8.1,NA,MIT,node-fetch,2.7.0,library,David Frank,MIT
+socket.io,4.8.1,NA,MIT,ws,8.5.10,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ky,0.33.3,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,globule,1.3.4,library,"""Cowboy"" Ben Alman",MIT
+socket.io,4.8.1,NA,MIT,glob,7.1.7,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,minimatch,3.0.8,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,camel-case,4.1.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,capital-case,1.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,constant-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,dot-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,header-case,2.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,no-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,param-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,pascal-case,3.1.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,path-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,sentence-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,snake-case,3.0.4,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,yauzl,2.11.0,library,Josh Wolfe,MIT
+socket.io,4.8.1,NA,MIT,flushwritable,1.0.0,library,Tom Frost,MIT
+socket.io,4.8.1,NA,MIT,get-ready,1.0.0,library,fengmk2,MIT
+socket.io,4.8.1,NA,MIT,mkdirp,0.5.6,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,streamifier,0.1.1,library,Gabriel Llamas,MIT
+socket.io,4.8.1,NA,MIT,tar-stream,1.6.2,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,bl,1.2.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,yazl,2.5.1,library,Josh Wolfe,MIT
+socket.io,4.8.1,NA,MIT,is,4.6.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,http-timer,4.0.6,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,cacheable-request,6.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,responselike,1.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,cacheable-lookup,5.0.4,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,cacheable-request,7.0.4,library,Luke Childs,MIT
+socket.io,4.8.1,NA,MIT,http2-wrapper,1.0.3,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,lowercase-keys,2.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-cancelable,2.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,responselike,2.0.1,library,lukechilds,MIT
+socket.io,4.8.1,NA,MIT,minimalistic-assert,1.0.1,library,NA,ISC
+socket.io,4.8.1,NA,MIT,decode-uri-component,0.2.2,library,Sam Verschueren,MIT
+socket.io,4.8.1,NA,MIT,filter-obj,1.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,split-on-first,1.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,strict-uri-encode,2.0.0,library,Kevin Mårtensson,MIT
+socket.io,4.8.1,NA,MIT,defaults,1.0.4,library,Elijah Insua,MIT
+socket.io,4.8.1,NA,MIT,fast-deep-equal,3.1.3,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,require-from-string,2.0.2,library,Vsevolod Strukchinsky,MIT
+socket.io,4.8.1,NA,MIT,uri-js,4.4.1,library,Gary Court,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,punycode,2.3.1,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,helper-numbers,1.11.6,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,helper-wasm-bytecode,1.11.6,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,helper-buffer,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,helper-wasm-section,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,wasm-gen,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,wasm-opt,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,wast-printer,1.12.1,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,helper-api-error,1.11.6,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,ieee754,1.11.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,leb128,1.11.6,library,NA,Apache-2.0
+socket.io,4.8.1,NA,MIT,utf8,1.11.6,library,Sven Sauleau,MIT
+socket.io,4.8.1,NA,MIT,esrecurse,4.3.0,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,estraverse,5.3.0,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,estraverse,4.3.0,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,mime-db,1.52.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ajv-keywords,3.5.2,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,ajv,6.12.6,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,safer-buffer,2.1.2,library,Nikita Skovoroda,MIT
+socket.io,4.8.1,NA,MIT,es-errors,1.3.0,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,get-intrinsic,1.2.4,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,p-locate,5.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wrappy,1.0.2,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,balanced-match,1.0.2,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,is-stream,2.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,release-zalgo,1.0.0,library,Mark Wubben,ISC
+socket.io,4.8.1,NA,MIT,imurmurhash,0.1.4,library,Jens Taylor,MIT
+socket.io,4.8.1,NA,MIT,is-typedarray,1.0.0,library,Hugh Kennedy,MIT
+socket.io,4.8.1,NA,MIT,typedarray-to-buffer,3.1.5,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,default-require-extensions,3.0.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,clean-stack,2.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,indent-string,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,delayed-stream,1.0.0,library,Felix Geisendörfer,MIT
+socket.io,4.8.1,NA,MIT,asap,2.0.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,irregular-plurals,3.5.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,path-type,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,fs.stat,2.0.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,fs.walk,1.2.8,library,NA,MIT
+socket.io,4.8.1,NA,MIT,map-obj,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,arrify,1.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,is-plain-obj,1.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,hosted-git-info,4.1.0,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,lru-cache,6.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,validate-npm-package-license,3.0.4,library,Kyle E. Mitchell,Apache-2.0
+socket.io,4.8.1,NA,MIT,strip-indent,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,parse-json,5.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,agent-base,7.1.1,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,data-uri-to-buffer,4.0.1,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,fetch-blob,3.2.0,library,Jimmy Wärting,MIT
+socket.io,4.8.1,NA,MIT,formdata-polyfill,4.0.10,library,Jimmy Wärting,MIT
+socket.io,4.8.1,NA,MIT,bare-fs,2.3.1,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,bare-path,2.1.3,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,ansi-styles,3.2.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,escape-string-regexp,1.0.5,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,regjsgen,0.8.0,library,Benjamin Tan,MIT
+socket.io,4.8.1,NA,MIT,regenerate-unicode-properties,10.1.1,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,regenerate,1.4.2,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,regjsparser,0.9.1,library,'Julian Viereck',BSD-2-Clause
+socket.io,4.8.1,NA,MIT,jsesc,0.5.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,unicode-match-property-ecmascript,2.0.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,unicode-match-property-value-ecmascript,2.1.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,string_decoder,1.3.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,util-deprecate,1.0.2,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,delegates,1.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,aproba,2.0.0,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,color-support,1.1.3,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,has-unicode,2.0.1,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,wide-align,1.1.5,library,Rebecca Turner,ISC
+socket.io,4.8.1,NA,MIT,fs-constants,1.0.0,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,function-bind,1.1.2,library,Raynos,MIT
+socket.io,4.8.1,NA,MIT,typebox,0.27.8,library,sinclairzx81,MIT
+socket.io,4.8.1,NA,MIT,expect-utils,29.7.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,jest-message-util,29.7.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,jest-util,29.7.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,yauzl,2.10.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,get-stream,5.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,yauzl,2.10.0,library,Josh Wolfe,MIT
+socket.io,4.8.1,NA,MIT,pac-proxy-agent,7.0.2,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,socks-proxy-agent,8.0.4,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,buffer,5.2.1,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,through,2.3.8,library,Dominic Tarr,MIT
+socket.io,4.8.1,NA,MIT,which,2.0.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,spacetrim,0.11.36,library,NA,SEE LICENSE IN LICENSE
+socket.io,4.8.1,NA,MIT,to-regex-range,5.0.1,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,shebang-regex,3.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,es-define-property,1.0.0,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,set-function-length,1.2.2,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,os-tmpdir,1.0.2,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,error-ex,1.3.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,concat-map,0.0.1,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,lazystream,1.0.1,library,Jonas Pommerening,MIT
+socket.io,4.8.1,NA,MIT,abort-controller,3.0.0,library,Toru Nagashima,MIT
+socket.io,4.8.1,NA,MIT,process,0.11.10,library,Roman Shtylman,MIT
+socket.io,4.8.1,NA,MIT,b4a,1.6.6,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,fast-fifo,1.3.2,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,streamx,2.18.0,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,compress-commons,6.0.2,library,Chris Talkington,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,4.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,buffer,6.0.3,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,is-wsl,2.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,lighthouse-logger,2.0.1,library,NA,Apache-2.0
+socket.io,4.8.1,NA,MIT,debug,2.6.9,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,ms,2.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,immediate,3.0.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,core-util-is,1.0.3,library,Isaac Z. Schlueter,MIT
+socket.io,4.8.1,NA,MIT,isarray,1.0.0,library,Julian Gruber,MIT
+socket.io,4.8.1,NA,MIT,process-nextick-args,2.0.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,mitt,3.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,form-data-encoder,2.1.4,library,Nick K.,MIT
+socket.io,4.8.1,NA,MIT,upper-case-first,2.0.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,upper-case,2.0.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,lower-case,2.0.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,buffer-crc32,0.2.13,library,Brian J. Brennan,MIT
+socket.io,4.8.1,NA,MIT,fd-slicer2,1.2.0,library,Nour Al-Habash,MIT
+socket.io,4.8.1,NA,MIT,buffer-alloc,1.2.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,to-buffer,1.1.1,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,defer-to-connect,2.0.1,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,http-cache-semantics,4.0.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,keyv,3.1.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,clone-response,1.0.3,library,Luke Childs,MIT
+socket.io,4.8.1,NA,MIT,http-cache-semantics,4.1.1,library,Kornel Lesiński,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,keyv,4.5.4,library,Jared Wray,MIT
+socket.io,4.8.1,NA,MIT,normalize-url,6.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,quick-lru,5.1.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,resolve-alpn,1.2.1,library,Szymon Marczak,MIT
+socket.io,4.8.1,NA,MIT,clone,1.0.4,library,Paul Vorbach,MIT
+socket.io,4.8.1,NA,MIT,floating-point-hex-parser,1.11.6,library,Mauro Bringolf,MIT
+socket.io,4.8.1,NA,MIT,long,4.2.2,library,Daniel Wirtz,Apache-2.0
+socket.io,4.8.1,NA,MIT,ieee754,1.2.0,library,Feross Aboukhadijeh,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,fast-json-stable-stringify,2.1.0,library,James Halliday,MIT
+socket.io,4.8.1,NA,MIT,json-schema-traverse,0.4.1,library,Evgeny Poberezkin,MIT
+socket.io,4.8.1,NA,MIT,has-proto,1.0.3,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,has-symbols,1.0.3,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,p-limit,3.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,sprintf-js,1.0.3,library,Alexandru Marasteanu,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,es6-error,4.1.1,library,Ben Youngblood,MIT
+socket.io,4.8.1,NA,MIT,strip-bom,4.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,fs.scandir,2.1.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,fastq,1.17.1,library,Matteo Collina,ISC
+socket.io,4.8.1,NA,MIT,spdx-correct,3.2.0,library,NA,Apache-2.0
+socket.io,4.8.1,NA,MIT,spdx-expression-parse,3.0.1,library,Kyle E. Mitchell,MIT
+socket.io,4.8.1,NA,MIT,min-indent,1.0.1,library,James Kyle,MIT
+socket.io,4.8.1,NA,MIT,lines-and-columns,1.2.4,library,Brian Donovan,MIT
+socket.io,4.8.1,NA,MIT,node-domexception,1.0.0,library,Jimmy Wärting,MIT
+socket.io,4.8.1,NA,MIT,web-streams-polyfill,3.3.3,library,Mattias Buelens,MIT
+socket.io,4.8.1,NA,MIT,bare-events,2.4.2,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,bare-stream,2.1.3,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,bare-os,2.4.0,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,color-convert,1.9.3,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,unicode-canonical-property-names-ecmascript,2.0.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,unicode-property-aliases-ecmascript,2.1.0,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,eastasianwidth,0.2.0,library,Masaki Komagata,MIT
+socket.io,4.8.1,NA,MIT,types,29.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,chalk,4.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,supports-color,7.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+socket.io,4.8.1,NA,MIT,color-name,1.1.4,library,DY,MIT
+socket.io,4.8.1,NA,MIT,stack-utils,2.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,stack-utils,2.0.6,library,James Talmage,MIT
+socket.io,4.8.1,NA,MIT,escape-string-regexp,2.0.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,ci-info,3.9.0,library,Thomas Watson Steen,MIT
+socket.io,4.8.1,NA,MIT,fd-slicer,1.1.0,library,Andrew Kelley,MIT
+socket.io,4.8.1,NA,MIT,quickjs-emscripten,0.23.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,get-uri,6.0.3,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,data-uri-to-buffer,6.0.2,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,pac-resolver,7.0.1,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,socks,2.8.3,library,Josh Glazebrook,MIT
+socket.io,4.8.1,NA,MIT,base64-js,1.5.1,library,T. Jameson Little,MIT
+socket.io,4.8.1,NA,MIT,ieee754,1.2.1,library,Feross Aboukhadijeh,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,is-number,7.0.0,library,Jon Schlinkert,MIT
+socket.io,4.8.1,NA,MIT,define-data-property,1.1.4,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,gopd,1.0.1,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,has-property-descriptors,1.0.2,library,Jordan Harband,MIT
+socket.io,4.8.1,NA,MIT,is-arrayish,0.2.1,library,Qix,MIT
+socket.io,4.8.1,NA,MIT,event-target-shim,5.0.1,library,Toru Nagashima,MIT
+socket.io,4.8.1,NA,MIT,queue-tick,1.0.1,library,Mathias Buus,MIT
+socket.io,4.8.1,NA,MIT,text-decoder,1.1.1,library,Holepunch,Apache-2.0
+socket.io,4.8.1,NA,MIT,crc-32,1.2.2,library,sheetjs,Apache-2.0
+socket.io,4.8.1,NA,MIT,crc32-stream,6.0.0,library,Chris Talkington,MIT
+socket.io,4.8.1,NA,MIT,readable-stream,4.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,buffer,6.0.3,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,is-docker,2.2.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,marky,1.2.5,library,Nolan Lawson,Apache-2.0
+socket.io,4.8.1,NA,MIT,whatwg-url,5.0.0,library,Sebastian Mayr,MIT
+socket.io,4.8.1,NA,MIT,pend,1.2.0,library,Andrew Kelley,MIT
+socket.io,4.8.1,NA,MIT,buffer-alloc-unsafe,1.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,buffer-fill,1.0.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,mimic-response,1.0.1,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,json-buffer,3.0.1,library,Dominic Tarr,MIT
+socket.io,4.8.1,NA,MIT,yocto-queue,0.1.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,p-try,2.2.0,library,Sindre Sorhus,MIT
+socket.io,4.8.1,NA,MIT,run-parallel,1.2.0,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,reusify,1.0.4,library,Matteo Collina,MIT
+socket.io,4.8.1,NA,MIT,spdx-license-ids,3.0.18,library,Shinnosuke Watanabe,CC0-1.0
+socket.io,4.8.1,NA,MIT,spdx-exceptions,2.5.0,library,The Linux Foundation,CC-BY-3.0
+socket.io,4.8.1,NA,MIT,color-name,1.1.3,library,DY,MIT
+socket.io,4.8.1,NA,MIT,istanbul-lib-coverage,2.0.6,library,NA,MIT
+socket.io,4.8.1,NA,MIT,istanbul-reports,3.0.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,yargs,17.0.32,library,NA,MIT
+socket.io,4.8.1,NA,MIT,basic-ftp,5.0.5,library,Patrick Juchli,MIT
+socket.io,4.8.1,NA,MIT,degenerator,5.0.1,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,escodegen,2.1.0,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,esprima,4.0.1,library,Ariya Hidayat,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,estraverse,5.3.0,library,NA,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,netmask,2.0.2,library,Olivier Poitrey,MIT
+socket.io,4.8.1,NA,MIT,ip-address,9.0.5,library,Beau Gunderson,MIT
+socket.io,4.8.1,NA,MIT,jsbn,1.1.0,library,Tom Wu,MIT
+socket.io,4.8.1,NA,MIT,sprintf-js,1.1.3,library,Alexandru Mărășteanu,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,smart-buffer,4.2.0,library,Josh Glazebrook,MIT
+socket.io,4.8.1,NA,MIT,once,2.0.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,tr46,0.0.3,library,Sebastian Mayr,MIT
+socket.io,4.8.1,NA,MIT,webidl-conversions,3.0.1,library,Domenic Denicola,BSD-2-Clause
+socket.io,4.8.1,NA,MIT,queue-microtask,1.2.3,library,Feross Aboukhadijeh,MIT
+socket.io,4.8.1,NA,MIT,istanbul-lib-report,3.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,yargs-parser,21.0.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,ast-types,0.13.4,library,Ben Newman,MIT
+socket.io,4.8.1,NA,MIT,core,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,plugin-transform-object-assign,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,preset-env,7.24.7,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,register,7.24.6,library,The Babel Team,MIT
+socket.io,4.8.1,NA,MIT,webtransport-transport-http3-quiche,1.1.4,library,Marten Richter,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,webtransport,1.1.4,library,Marten Richter,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,plugin-alias,5.1.0,library,Johannes Stein,MIT
+socket.io,4.8.1,NA,MIT,plugin-babel,6.0.4,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,plugin-commonjs,26.0.1,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,plugin-node-resolve,15.2.3,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,fake-timers,11.2.2,library,Christian Johansen,BSD-3-Clause
+socket.io,4.8.1,NA,MIT,cluster-engine,0.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,component-emitter,3.1.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,postgres-adapter,0.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,postgres-emitter,0.1.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,debug,4.1.12,library,NA,MIT
+socket.io,4.8.1,NA,MIT,expect.js,0.3.32,library,NA,MIT
+socket.io,4.8.1,NA,MIT,mocha,10.0.7,library,NA,MIT
+socket.io,4.8.1,NA,MIT,node,18.15.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,pg,8.15.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,sinonjs__fake-timers,8.1.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,cli,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,local-runner,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,mocha-framework,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,sauce-service,8.39.1,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,spec-reporter,8.39.0,library,Christian Bromann,MIT
+socket.io,4.8.1,NA,MIT,babel-loader,9.1.3,library,Luis Couto,MIT
+socket.io,4.8.1,NA,MIT,base64-arraybuffer,1.0.2,library,Niklas von Hertzen,MIT
+socket.io,4.8.1,NA,MIT,benchmark,2.1.4,library,Mathias Bynens,MIT
+socket.io,4.8.1,NA,MIT,blob,0.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,cookie,0.7.2,library,Roman Shtylman,MIT
+socket.io,4.8.1,NA,MIT,eiows,7.1.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-client,3.5.2,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-client,6.6.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io-parser,5.2.3,library,NA,MIT
+socket.io,4.8.1,NA,MIT,engine.io,6.6.4,library,Guillermo Rauch,MIT
+socket.io,4.8.1,NA,MIT,expect.js,0.3.1,library,NA,NA
+socket.io,4.8.1,NA,MIT,express-session,1.18.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,express,4.19.2,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,has-cors,1.1.0,library,Nathan Rajlich,MIT
+socket.io,4.8.1,NA,MIT,helmet,7.1.0,library,Adam Baldwin,MIT
+socket.io,4.8.1,NA,MIT,ioredis,5.4.1,library,Zihua Li,MIT
+socket.io,4.8.1,NA,MIT,mocha,10.6.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,node-forge,1.3.1,library,"Digital Bazaar, Inc.",NA
+socket.io,4.8.1,NA,MIT,nyc,17.0.0,library,Ben Coe,ISC
+socket.io,4.8.1,NA,MIT,pg,8.16.3,library,Brian Carlson,MIT
+socket.io,4.8.1,NA,MIT,prettier,3.3.3,library,James Long,MIT
+socket.io,4.8.1,NA,MIT,redis,4.6.15,library,NA,MIT
+socket.io,4.8.1,NA,MIT,rimraf,6.0.0,library,Isaac Z. Schlueter,ISC
+socket.io,4.8.1,NA,MIT,rollup-plugin-terser,7.0.2,library,Bogdan Chadkin,MIT
+socket.io,4.8.1,NA,MIT,rollup,2.79.1,library,Rich Harris,MIT
+socket.io,4.8.1,NA,MIT,should,13.2.3,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,socket.io-adapter,2.5.5,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-client,2.5.0,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-client,4.8.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io-msgpack-parser,3.0.2,library,Damien Arrachequesne,MIT
+socket.io,4.8.1,NA,MIT,socket.io-parser,4.2.4,library,NA,MIT
+socket.io,4.8.1,NA,MIT,socket.io,4.8.1,library,NA,MIT
+socket.io,4.8.1,NA,MIT,superagent,9.0.2,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,supertest,7.0.0,library,TJ Holowaychuk,MIT
+socket.io,4.8.1,NA,MIT,text-blob-builder,0.0.1,library,Kevin Roark,ISC
+socket.io,4.8.1,NA,MIT,ts-loader,9.5.1,library,John Reilly,MIT
+socket.io,4.8.1,NA,MIT,ts-node,10.9.2,library,Blake Embrey,MIT
+socket.io,4.8.1,NA,MIT,tsd,0.31.1,library,Sam Verschueren,MIT
+socket.io,4.8.1,NA,MIT,typescript,5.5.3,library,Microsoft Corp.,Apache-2.0
+socket.io,4.8.1,NA,MIT,uWebSockets.js,20.48.0,library,NA,Apache-2.0
+socket.io,4.8.1,NA,MIT,wdio-geckodriver-service,5.0.2,library,Rafal Skorka,MIT

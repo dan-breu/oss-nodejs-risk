@@ -1,0 +1,4 @@
+name,version,fixed,cvss,cve,severity
+brace-expansion,1.1.11,2.0.2,3.1,CVE-2025-5889,LOW
+@babel/helpers,7.26.7,7.26.10,6.2,CVE-2025-27789,MODERATE
+tar-fs,2.1.2,1.16.5,8.7,CVE-2025-48387,HIGH

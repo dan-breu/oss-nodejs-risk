@@ -1,0 +1,238 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+tailwindcss,4.1.13,NA,MIT,test,1.55.0,library,Microsoft Corporation,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,postcss-import,16.1.1,library,Maxime Thirouin,MIT
+tailwindcss,4.1.13,NA,MIT,postcss,8.5.6,library,Andrey Sitnik,MIT
+tailwindcss,4.1.13,NA,MIT,prettier-plugin-embed,0.5.0,library,Ze-Zheng Wu,MIT
+tailwindcss,4.1.13,NA,MIT,prettier-plugin-organize-imports,4.2.0,library,Simon Haenisch,MIT
+tailwindcss,4.1.13,NA,MIT,tsup,8.5.0,library,EGOIST,MIT
+tailwindcss,4.1.13,NA,MIT,turbo,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,typescript,5.9.2,library,Microsoft Corp.,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,vitest,2.1.9,library,Anthony Fu,MIT
+tailwindcss,4.1.13,NA,MIT,pathe,1.1.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,playwright,1.55.0,library,Microsoft Corporation,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,postcss-value-parser,4.2.0,library,Bogdan Chadkin,MIT
+tailwindcss,4.1.13,NA,MIT,read-cache,1.0.0,library,Bogdan Chadkin,MIT
+tailwindcss,4.1.13,NA,MIT,resolve,1.22.10,library,James Halliday,MIT
+tailwindcss,4.1.13,NA,MIT,nanoid,3.3.11,library,Andrey Sitnik,MIT
+tailwindcss,4.1.13,NA,MIT,picocolors,1.1.1,library,Alexey Raspopov,ISC
+tailwindcss,4.1.13,NA,MIT,source-map-js,1.2.1,library,Valentin 7rulnik Semirulnik,BSD-3-Clause
+tailwindcss,4.1.13,NA,MIT,estree,1.0.8,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,dedent,1.7.0,library,Desmond Brand,MIT
+tailwindcss,4.1.13,NA,MIT,micro-memoize,4.1.3,library,tony.quetano@planttheidea.com,MIT
+tailwindcss,4.1.13,NA,MIT,package-up,5.0.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,tiny-jsonc,1.0.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,type-fest,4.41.0,library,Sindre Sorhus,NA
+tailwindcss,4.1.13,NA,MIT,prettier,3.6.2,library,James Long,MIT
+tailwindcss,4.1.13,NA,MIT,bundle-require,5.1.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,cac,6.7.14,library,egoist,MIT
+tailwindcss,4.1.13,NA,MIT,chokidar,4.0.3,library,Paul Miller,MIT
+tailwindcss,4.1.13,NA,MIT,consola,3.4.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,debug,4.4.1,library,Josh Junon,MIT
+tailwindcss,4.1.13,NA,MIT,esbuild,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,fix-dts-default-cjs-exports,1.0.1,library,userquin,MIT
+tailwindcss,4.1.13,NA,MIT,joycon,3.1.1,library,egoist,MIT
+tailwindcss,4.1.13,NA,MIT,postcss-load-config,6.0.1,library,Michael Ciniawky,MIT
+tailwindcss,4.1.13,NA,MIT,resolve-from,5.0.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,rollup,4.50.1,library,Rich Harris,MIT
+tailwindcss,4.1.13,NA,MIT,source-map,0.8.0-beta.0,library,Nick Fitzgerald,BSD-3-Clause
+tailwindcss,4.1.13,NA,MIT,sucrase,3.35.0,library,Alan Pierce,MIT
+tailwindcss,4.1.13,NA,MIT,tinyexec,0.3.2,library,James Garbutt,MIT
+tailwindcss,4.1.13,NA,MIT,tinyglobby,0.2.15,library,Superchupu,MIT
+tailwindcss,4.1.13,NA,MIT,tree-kill,1.2.2,library,Peteris Krumins,MIT
+tailwindcss,4.1.13,NA,MIT,turbo-darwin-64,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,turbo-darwin-arm64,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,turbo-linux-64,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,turbo-linux-arm64,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,turbo-windows-64,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,turbo-windows-arm64,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,expect,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,mocker,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,pretty-format,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,runner,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,pathe,1.1.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,snapshot,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,pathe,1.1.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,spy,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,utils,2.1.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,chai,5.3.3,library,Jake Luer,MIT
+tailwindcss,4.1.13,NA,MIT,expect-type,1.2.2,library,NA,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,magic-string,0.30.19,library,Rich Harris,MIT
+tailwindcss,4.1.13,NA,MIT,std-env,3.9.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,tinybench,2.9.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,tinypool,1.1.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,tinyrainbow,1.2.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,vite-node,2.1.9,library,Anthony Fu,MIT
+tailwindcss,4.1.13,NA,MIT,pathe,1.1.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,vite,5.4.20,library,Evan You,MIT
+tailwindcss,4.1.13,NA,MIT,esbuild,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,fsevents,2.3.3,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,aix-ppc64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,android-arm,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,android-arm64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,android-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,darwin-arm64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,darwin-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,freebsd-arm64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,freebsd-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-arm,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-arm64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-ia32,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-loong64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-mips64el,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-ppc64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-riscv64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-s390x,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,netbsd-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,openbsd-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,sunos-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,win32-arm64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,win32-ia32,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,win32-x64,0.21.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,why-is-node-running,2.3.0,library,Mathias Buus,MIT
+tailwindcss,4.1.13,NA,MIT,fsevents,2.3.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,playwright-core,1.55.0,library,Microsoft Corporation,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,pify,2.3.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,is-core-module,2.16.1,library,Jordan Harband,MIT
+tailwindcss,4.1.13,NA,MIT,path-parse,1.0.7,library,Javier Blanco,MIT
+tailwindcss,4.1.13,NA,MIT,supports-preserve-symlinks-flag,1.0.0,library,Jordan Harband,MIT
+tailwindcss,4.1.13,NA,MIT,find-up-simple,1.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,load-tsconfig,0.2.5,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,readdirp,4.1.2,library,Thorsten Lorenz,MIT
+tailwindcss,4.1.13,NA,MIT,ms,2.1.3,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,aix-ppc64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,android-arm,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,android-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,android-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,darwin-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,darwin-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,freebsd-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,freebsd-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-arm,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-ia32,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-loong64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-mips64el,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-ppc64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-riscv64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-s390x,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,linux-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,netbsd-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,netbsd-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,openbsd-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,openbsd-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,openharmony-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,sunos-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,win32-arm64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,win32-ia32,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,win32-x64,0.25.9,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,mlly,1.8.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,lilconfig,3.1.3,library,antonk52,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-android-arm-eabi,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-android-arm64,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-darwin-arm64,4.50.1,library,Lukas Taegert-Atkinson,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-darwin-x64,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-freebsd-arm64,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-freebsd-x64,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-arm-gnueabihf,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-arm-musleabihf,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-arm64-gnu,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-arm64-musl,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-loongarch64-gnu,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-ppc64-gnu,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-riscv64-gnu,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-riscv64-musl,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-s390x-gnu,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-x64-gnu,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-linux-x64-musl,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-openharmony-arm64,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-win32-arm64-msvc,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-win32-ia32-msvc,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,rollup-win32-x64-msvc,4.50.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,whatwg-url,7.1.0,library,Sebastian Mayr,MIT
+tailwindcss,4.1.13,NA,MIT,gen-mapping,0.3.13,library,Justin Ridgewell,MIT
+tailwindcss,4.1.13,NA,MIT,commander,4.1.1,library,TJ Holowaychuk,MIT
+tailwindcss,4.1.13,NA,MIT,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,lines-and-columns,1.2.4,library,Brian Donovan,MIT
+tailwindcss,4.1.13,NA,MIT,mz,2.7.0,library,Jonathan Ong,MIT
+tailwindcss,4.1.13,NA,MIT,pirates,4.0.7,library,Ari Porad,MIT
+tailwindcss,4.1.13,NA,MIT,ts-interface-checker,0.1.13,library,"Dmitry S, Grist Labs",Apache-2.0
+tailwindcss,4.1.13,NA,MIT,fdir,6.5.0,library,thecodrr,MIT
+tailwindcss,4.1.13,NA,MIT,picomatch,4.0.3,library,Jon Schlinkert,MIT
+tailwindcss,4.1.13,NA,MIT,estree-walker,3.0.3,library,Rich Harris,MIT
+tailwindcss,4.1.13,NA,MIT,tinyspy,3.0.2,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,loupe,3.2.1,library,Veselin Todorov,MIT
+tailwindcss,4.1.13,NA,MIT,assertion-error,2.0.1,library,Jake Luer,MIT
+tailwindcss,4.1.13,NA,MIT,check-error,2.1.1,library,Jake Luer,MIT
+tailwindcss,4.1.13,NA,MIT,deep-eql,5.0.2,library,Jake Luer,MIT
+tailwindcss,4.1.13,NA,MIT,pathval,2.0.1,library,Veselin Todorov,MIT
+tailwindcss,4.1.13,NA,MIT,sourcemap-codec,1.5.5,library,Justin Ridgewell,MIT
+tailwindcss,4.1.13,NA,MIT,es-module-lexer,1.7.0,library,Guy Bedford,MIT
+tailwindcss,4.1.13,NA,MIT,siginfo,2.0.0,library,Emil Bay,ISC
+tailwindcss,4.1.13,NA,MIT,stackback,0.0.2,library,Roman Shtylman,MIT
+tailwindcss,4.1.13,NA,MIT,hasown,2.0.2,library,Jordan Harband,MIT
+tailwindcss,4.1.13,NA,MIT,acorn,8.15.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,pathe,2.0.3,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,pkg-types,1.3.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,ufo,1.6.1,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,lodash.sortby,4.7.0,library,John-David Dalton,MIT
+tailwindcss,4.1.13,NA,MIT,tr46,1.0.1,library,Sebastian Mayr,MIT
+tailwindcss,4.1.13,NA,MIT,webidl-conversions,4.0.2,library,Domenic Denicola,BSD-2-Clause
+tailwindcss,4.1.13,NA,MIT,trace-mapping,0.3.30,library,Justin Ridgewell,MIT
+tailwindcss,4.1.13,NA,MIT,foreground-child,3.3.1,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,jackspeak,3.4.3,library,Isaac Z. Schlueter,BlueOak-1.0.0
+tailwindcss,4.1.13,NA,MIT,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,package-json-from-dist,1.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+tailwindcss,4.1.13,NA,MIT,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+tailwindcss,4.1.13,NA,MIT,any-promise,1.3.0,library,Kevin Beaty,MIT
+tailwindcss,4.1.13,NA,MIT,object-assign,4.1.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,thenify-all,1.6.0,library,Jonathan Ong,MIT
+tailwindcss,4.1.13,NA,MIT,function-bind,1.1.2,library,Raynos,MIT
+tailwindcss,4.1.13,NA,MIT,confbox,0.1.8,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,punycode,2.3.1,library,Mathias Bynens,MIT
+tailwindcss,4.1.13,NA,MIT,resolve-uri,3.1.2,library,Justin Ridgewell,MIT
+tailwindcss,4.1.13,NA,MIT,cross-spawn,7.0.6,library,André Cruz,MIT
+tailwindcss,4.1.13,NA,MIT,signal-exit,4.1.0,library,Ben Coe,ISC
+tailwindcss,4.1.13,NA,MIT,cliui,8.0.2,library,Ben Coe,ISC
+tailwindcss,4.1.13,NA,MIT,parseargs,0.11.0,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,brace-expansion,2.0.2,library,Julian Gruber,MIT
+tailwindcss,4.1.13,NA,MIT,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,thenify,3.3.1,library,Jonathan Ong,MIT
+tailwindcss,4.1.13,NA,MIT,path-key,3.1.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,shebang-command,2.0.0,library,Kevin Mårtensson,MIT
+tailwindcss,4.1.13,NA,MIT,which,2.0.2,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+tailwindcss,4.1.13,NA,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,string-width,5.1.2,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,strip-ansi,7.1.2,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,string-width,4.2.3,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+tailwindcss,4.1.13,NA,MIT,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,balanced-match,1.0.2,library,Julian Gruber,MIT
+tailwindcss,4.1.13,NA,MIT,shebang-regex,3.0.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+tailwindcss,4.1.13,NA,MIT,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,eastasianwidth,0.2.0,library,Masaki Komagata,MIT
+tailwindcss,4.1.13,NA,MIT,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+tailwindcss,4.1.13,NA,MIT,ansi-regex,6.2.2,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,ansi-styles,6.2.3,library,Sindre Sorhus,MIT
+tailwindcss,4.1.13,NA,MIT,color-convert,2.0.1,library,Heather Arthur,MIT
+tailwindcss,4.1.13,NA,MIT,color-name,1.1.4,library,DY,MIT
+tailwindcss,4.1.13,NA,MIT,test,1.55.0,library,Microsoft Corporation,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,postcss-import,16.1.1,library,Maxime Thirouin,MIT
+tailwindcss,4.1.13,NA,MIT,postcss,8.5.6,library,Andrey Sitnik,MIT
+tailwindcss,4.1.13,NA,MIT,prettier-plugin-embed,0.5.0,library,Ze-Zheng Wu,MIT
+tailwindcss,4.1.13,NA,MIT,prettier-plugin-organize-imports,4.2.0,library,Simon Haenisch,MIT
+tailwindcss,4.1.13,NA,MIT,tsup,8.5.0,library,EGOIST,MIT
+tailwindcss,4.1.13,NA,MIT,turbo,2.5.6,library,NA,MIT
+tailwindcss,4.1.13,NA,MIT,typescript,5.9.2,library,Microsoft Corp.,Apache-2.0
+tailwindcss,4.1.13,NA,MIT,vitest,2.1.9,library,Anthony Fu,MIT

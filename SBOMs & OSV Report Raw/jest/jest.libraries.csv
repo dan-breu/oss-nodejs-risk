@@ -1,0 +1,1228 @@
+Project Name,Project Version,Project Author,Project License,Library Name,Library Version,Library Type,Library Author,Library License
+jest,30.1.3,NA,NA,core,7.27.4,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-modules-commonjs,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-env,7.27.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-react,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-typescript,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,register,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,cli,4.7.0,library,Crowdin,MIT
+jest,30.1.3,NA,NA,yarn-plugin-cyclonedx,3.1.1,library,Jan Kowalleck,Apache-2.0
+jest,30.1.3,NA,NA,eslint-plugin-eslint-comments,4.5.0,library,Toru Nagashima,MIT
+jest,30.1.3,NA,NA,js,9.28.0,library,NA,MIT
+jest,30.1.3,NA,NA,markdown,6.4.0,library,Brandon Mills,MIT
+jest,30.1.3,NA,NA,globals,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,test-utils,30.1.2,library,NA,NA
+jest,30.1.3,NA,NA,cli,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,exec,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,publish,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,api-extractor,7.52.8,library,NA,MIT
+jest,30.1.3,NA,NA,node18,18.2.4,library,NA,MIT
+jest,30.1.3,NA,NA,babel__core,7.20.5,library,NA,MIT
+jest,30.1.3,NA,NA,babel__generator,7.27.0,library,NA,MIT
+jest,30.1.3,NA,NA,babel__template,7.4.4,library,NA,MIT
+jest,30.1.3,NA,NA,node,18.14.6,library,NA,MIT
+jest,30.1.3,NA,NA,which,3.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,types,4.0.1,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ansi-styles,5.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,babel-jest,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,babel-loader,9.2.1,library,Luis Couto,MIT
+jest,30.1.3,NA,NA,camelcase,6.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,chalk,4.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,dedent,1.6.0,library,Desmond Brand,MIT
+jest,30.1.3,NA,NA,eslint-config-prettier,10.1.5,library,Simon Lydell,MIT
+jest,30.1.3,NA,NA,eslint-import-resolver-typescript,4.4.2,library,Alex Gorbatchev,ISC
+jest,30.1.3,NA,NA,eslint-plugin-import-x,4.15.0,library,JounQin,MIT
+jest,30.1.3,NA,NA,eslint-plugin-jest,28.12.0,library,Jonathan Kim,MIT
+jest,30.1.3,NA,NA,eslint-plugin-jsdoc,50.7.1,library,Gajus Kuizinas,BSD-3-Clause
+jest,30.1.3,NA,NA,eslint-plugin-prettier,5.4.1,library,Teddy Katz,MIT
+jest,30.1.3,NA,NA,eslint-plugin-promise,7.2.1,library,jden,ISC
+jest,30.1.3,NA,NA,eslint-plugin-unicorn,59.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,eslint,9.28.0,library,Nicholas C. Zakas,MIT
+jest,30.1.3,NA,NA,execa,5.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,find-process,1.4.10,library,zoujie,MIT
+jest,30.1.3,NA,NA,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,globals,16.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,graceful-fs,4.2.11,library,NA,ISC
+jest,30.1.3,NA,NA,isbinaryfile,5.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,istanbul-lib-coverage,3.2.2,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,istanbul-lib-report,3.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,istanbul-reports,3.1.7,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,jest-changed-files,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,jest-junit,16.0.0,library,Jason Palmer,Apache-2.0
+jest,30.1.3,NA,NA,jest-mock,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,jest-serializer-ansi-escapes,3.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-silent-reporter,0.6.0,library,rickhanlonii,MIT
+jest,30.1.3,NA,NA,jest-snapshot,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,jest-util,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,jest-watch-typeahead,2.2.2,library,Rogelio Guzman,MIT
+jest,30.1.3,NA,NA,jest,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jquery,3.7.1,library,OpenJS Foundation and other contributors,MIT
+jest,30.1.3,NA,NA,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+jest,30.1.3,NA,NA,micromatch,4.0.8,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,mock-fs,5.5.0,library,Tim Schaub,MIT
+jest,30.1.3,NA,NA,netlify-plugin-cache,1.0.3,library,Jake Jarvis,MIT
+jest,30.1.3,NA,NA,node-notifier,10.0.1,library,Mikael Brevik,MIT
+jest,30.1.3,NA,NA,p-limit,3.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pkg-dir,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,prettier,3.5.3,library,James Long,MIT
+jest,30.1.3,NA,NA,promise,8.3.0,library,ForbesLindesay,MIT
+jest,30.1.3,NA,NA,read-pkg,5.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,resolve,1.22.10,library,James Halliday,MIT
+jest,30.1.3,NA,NA,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,semver,7.7.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,slash,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,tempy,1.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ts-node,10.9.2,library,Blake Embrey,MIT
+jest,30.1.3,NA,NA,tstyche,4.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,typescript-eslint,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,typescript,5.5.4,library,Microsoft Corp.,Apache-2.0
+jest,30.1.3,NA,NA,webpack-node-externals,3.0.0,library,Liad Yosef,MIT
+jest,30.1.3,NA,NA,webpack,5.99.9,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,which,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,isexe,3.1.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,eslint-scope,3.7.7,library,NA,MIT
+jest,30.1.3,NA,NA,estree,1.0.7,library,NA,MIT
+jest,30.1.3,NA,NA,json-schema,7.0.15,library,NA,MIT
+jest,30.1.3,NA,NA,ast,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,wasm-edit,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,wasm-parser,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,acorn,8.14.1,library,NA,MIT
+jest,30.1.3,NA,NA,browserslist,4.24.5,library,Andrey Sitnik,MIT
+jest,30.1.3,NA,NA,chrome-trace-event,1.0.4,library,"Trent Mick, Sam Saccone",MIT
+jest,30.1.3,NA,NA,enhanced-resolve,5.18.1,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,es-module-lexer,1.7.0,library,Guy Bedford,MIT
+jest,30.1.3,NA,NA,eslint-scope,5.1.1,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,events,3.3.0,library,Irakli Gozalishvili,MIT
+jest,30.1.3,NA,NA,glob-to-regexp,0.4.1,library,Nick Fitzgerald,BSD-2-Clause
+jest,30.1.3,NA,NA,json-parse-even-better-errors,2.3.1,library,Kat Marchán,MIT
+jest,30.1.3,NA,NA,loader-runner,4.3.0,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,mime-types,2.1.35,library,NA,MIT
+jest,30.1.3,NA,NA,neo-async,2.6.2,library,NA,MIT
+jest,30.1.3,NA,NA,schema-utils,4.3.2,library,webpack Contrib,MIT
+jest,30.1.3,NA,NA,tapable,2.2.2,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,terser-webpack-plugin,5.3.14,library,webpack Contrib Team,MIT
+jest,30.1.3,NA,NA,watchpack,2.4.4,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,webpack-sources,3.3.0,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,trace-mapping,0.3.25,library,Justin Ridgewell,MIT
+jest,30.1.3,NA,NA,jest-worker,27.5.1,library,NA,MIT
+jest,30.1.3,NA,NA,serialize-javascript,6.0.2,library,Eric Ferraiuolo,BSD-3-Clause
+jest,30.1.3,NA,NA,terser,5.39.2,library,Mihai Bazon,BSD-2-Clause
+jest,30.1.3,NA,NA,source-map,0.3.6,library,Justin Ridgewell,MIT
+jest,30.1.3,NA,NA,commander,2.20.3,library,TJ Holowaychuk,MIT
+jest,30.1.3,NA,NA,source-map-support,0.5.21,library,NA,MIT
+jest,30.1.3,NA,NA,buffer-from,1.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,source-map,0.6.1,library,Nick Fitzgerald,BSD-3-Clause
+jest,30.1.3,NA,NA,gen-mapping,0.3.8,library,Justin Ridgewell,MIT
+jest,30.1.3,NA,NA,set-array,1.2.1,library,Justin Ridgewell,MIT
+jest,30.1.3,NA,NA,sourcemap-codec,1.5.0,library,Rich Harris,MIT
+jest,30.1.3,NA,NA,randombytes,2.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,safe-buffer,5.2.1,library,Feross Aboukhadijeh,MIT
+jest,30.1.3,NA,NA,merge-stream,2.0.0,library,Stephen Sugden,MIT
+jest,30.1.3,NA,NA,supports-color,8.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,has-flag,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,resolve-uri,3.1.2,library,Justin Ridgewell,MIT
+jest,30.1.3,NA,NA,ajv-formats,2.1.1,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,ajv-keywords,5.1.0,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,ajv,8.13.0,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,fast-deep-equal,3.1.3,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,json-schema-traverse,1.0.0,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,require-from-string,2.0.2,library,Vsevolod Strukchinsky,MIT
+jest,30.1.3,NA,NA,uri-js,4.4.1,library,Gary Court,BSD-2-Clause
+jest,30.1.3,NA,NA,punycode,2.3.1,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,mime-db,1.52.0,library,NA,MIT
+jest,30.1.3,NA,NA,esrecurse,4.3.0,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,estraverse,4.3.0,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,estraverse,5.3.0,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,caniuse-lite,1.0.30001718,library,Ben Briggs,CC-BY-4.0
+jest,30.1.3,NA,NA,electron-to-chromium,1.5.158,library,Kilian Valkhof,ISC
+jest,30.1.3,NA,NA,node-releases,2.0.19,library,Sergey Rubanov,MIT
+jest,30.1.3,NA,NA,update-browserslist-db,1.1.3,library,Andrey Sitnik,MIT
+jest,30.1.3,NA,NA,escalade,3.2.0,library,Luke Edwards,MIT
+jest,30.1.3,NA,NA,picocolors,1.1.1,library,Alexey Raspopov,ISC
+jest,30.1.3,NA,NA,helper-api-error,1.13.2,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,helper-wasm-bytecode,1.13.2,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,ieee754,1.13.2,library,NA,MIT
+jest,30.1.3,NA,NA,leb128,1.13.2,library,NA,Apache-2.0
+jest,30.1.3,NA,NA,utf8,1.13.2,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,long,4.2.2,library,Daniel Wirtz,Apache-2.0
+jest,30.1.3,NA,NA,ieee754,1.2.0,library,Feross Aboukhadijeh,BSD-3-Clause
+jest,30.1.3,NA,NA,helper-buffer,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,helper-wasm-section,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,wasm-gen,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,wasm-opt,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,wast-printer,1.14.1,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,helper-numbers,1.13.2,library,Sven Sauleau,MIT
+jest,30.1.3,NA,NA,floating-point-hex-parser,1.13.2,library,Mauro Bringolf,MIT
+jest,30.1.3,NA,NA,eslint,9.6.1,library,NA,MIT
+jest,30.1.3,NA,NA,eslint-plugin,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,parser,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,typescript-estree,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,utils,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,eslint-utils,4.7.0,library,Toru Nagashima,MIT
+jest,30.1.3,NA,NA,scope-manager,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,types,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,visitor-keys,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,eslint-visitor-keys,4.2.1,library,Toru Nagashima,Apache-2.0
+jest,30.1.3,NA,NA,eslint-visitor-keys,3.4.3,library,Toru Nagashima,Apache-2.0
+jest,30.1.3,NA,NA,project-service,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,tsconfig-utils,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,debug,4.4.1,library,Josh Junon,MIT
+jest,30.1.3,NA,NA,fast-glob,3.3.3,library,Denis Malinochkin,MIT
+jest,30.1.3,NA,NA,is-glob,4.0.3,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,minimatch,9.0.5,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,ts-api-utils,2.1.0,library,JoshuaKGoldberg,MIT
+jest,30.1.3,NA,NA,brace-expansion,2.0.2,library,Julian Gruber,MIT
+jest,30.1.3,NA,NA,balanced-match,1.0.2,library,Julian Gruber,MIT
+jest,30.1.3,NA,NA,is-extglob,2.1.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,fs.stat,2.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,fs.walk,1.2.8,library,NA,MIT
+jest,30.1.3,NA,NA,glob-parent,5.1.2,library,Gulp Team,ISC
+jest,30.1.3,NA,NA,merge2,1.4.1,library,NA,MIT
+jest,30.1.3,NA,NA,fs.scandir,2.1.5,library,NA,MIT
+jest,30.1.3,NA,NA,fastq,1.19.1,library,Matteo Collina,ISC
+jest,30.1.3,NA,NA,reusify,1.1.0,library,Matteo Collina,MIT
+jest,30.1.3,NA,NA,run-parallel,1.2.0,library,Feross Aboukhadijeh,MIT
+jest,30.1.3,NA,NA,queue-microtask,1.2.3,library,Feross Aboukhadijeh,MIT
+jest,30.1.3,NA,NA,ms,2.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,regexpp,4.12.1,library,Toru Nagashima,MIT
+jest,30.1.3,NA,NA,type-utils,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,graphemer,1.4.0,library,Matt Davies,MIT
+jest,30.1.3,NA,NA,ignore,7.0.4,library,kael,MIT
+jest,30.1.3,NA,NA,natural-compare,1.4.0,library,Lauri Rooden,MIT
+jest,30.1.3,NA,NA,source-map-support,0.8.1,library,NA,MIT
+jest,30.1.3,NA,NA,node10,1.0.11,library,NA,MIT
+jest,30.1.3,NA,NA,node12,1.0.11,library,NA,MIT
+jest,30.1.3,NA,NA,node14,1.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,node16,1.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,acorn-walk,8.3.4,library,NA,MIT
+jest,30.1.3,NA,NA,arg,4.1.3,library,Josh Junon,MIT
+jest,30.1.3,NA,NA,create-require,1.1.1,library,NA,MIT
+jest,30.1.3,NA,NA,diff,4.0.2,library,NA,BSD-3-Clause
+jest,30.1.3,NA,NA,make-error,1.3.6,library,Julien Fontanet,ISC
+jest,30.1.3,NA,NA,v8-compile-cache-lib,3.0.1,library,Andrew Bradley,MIT
+jest,30.1.3,NA,NA,yn,3.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,trace-mapping,0.3.9,library,Justin Ridgewell,MIT
+jest,30.1.3,NA,NA,del,6.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-stream,2.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,temp-dir,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,type-fest,0.16.0,library,Sindre Sorhus,NA
+jest,30.1.3,NA,NA,unique-string,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,crypto-random-string,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,globby,11.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-path-cwd,2.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-path-inside,3.0.3,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-map,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,rimraf,3.0.2,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,glob,7.2.3,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,fs.realpath,1.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,inflight,1.0.6,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,inherits,2.0.4,library,NA,ISC
+jest,30.1.3,NA,NA,minimatch,3.1.2,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,once,1.4.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,path-is-absolute,1.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,wrappy,1.0.2,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,brace-expansion,1.1.12,library,Julian Gruber,MIT
+jest,30.1.3,NA,NA,concat-map,0.0.1,library,James Halliday,MIT
+jest,30.1.3,NA,NA,aggregate-error,3.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,clean-stack,2.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,indent-string,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,array-union,2.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,dir-glob,3.0.1,library,Kevin Mårtensson,MIT
+jest,30.1.3,NA,NA,ignore,5.3.2,library,kael,MIT
+jest,30.1.3,NA,NA,path-type,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-core-module,2.16.1,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,path-parse,1.0.7,library,Javier Blanco,MIT
+jest,30.1.3,NA,NA,supports-preserve-symlinks-flag,1.0.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,hasown,2.0.2,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,function-bind,1.1.2,library,Raynos,MIT
+jest,30.1.3,NA,NA,normalize-package-data,2.4.4,library,NA,MIT
+jest,30.1.3,NA,NA,normalize-package-data,2.5.0,library,Meryn Stol,BSD-2-Clause
+jest,30.1.3,NA,NA,parse-json,5.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,type-fest,0.6.0,library,Sindre Sorhus,NA
+jest,30.1.3,NA,NA,code-frame,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,error-ex,1.3.2,library,NA,MIT
+jest,30.1.3,NA,NA,lines-and-columns,1.2.4,library,Brian Donovan,MIT
+jest,30.1.3,NA,NA,is-arrayish,0.2.1,library,Qix,MIT
+jest,30.1.3,NA,NA,helper-validator-identifier,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,js-tokens,4.0.0,library,Simon Lydell,MIT
+jest,30.1.3,NA,NA,hosted-git-info,2.8.9,library,Rebecca Turner,ISC
+jest,30.1.3,NA,NA,semver,5.7.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,validate-npm-package-license,3.0.4,library,Kyle E. Mitchell,Apache-2.0
+jest,30.1.3,NA,NA,spdx-correct,3.2.0,library,NA,Apache-2.0
+jest,30.1.3,NA,NA,spdx-expression-parse,3.0.1,library,Kyle E. Mitchell,MIT
+jest,30.1.3,NA,NA,spdx-exceptions,2.5.0,library,The Linux Foundation,CC-BY-3.0
+jest,30.1.3,NA,NA,spdx-license-ids,3.0.21,library,Shinnosuke Watanabe,CC0-1.0
+jest,30.1.3,NA,NA,asap,2.0.6,library,NA,MIT
+jest,30.1.3,NA,NA,find-up,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,locate-path,6.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,path-exists,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-locate,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,yocto-queue,0.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,growly,1.3.0,library,Ibrahim Al-Rajhi,MIT
+jest,30.1.3,NA,NA,is-wsl,2.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,shellwords,0.1.1,library,Jimmy Cuadra,MIT
+jest,30.1.3,NA,NA,uuid,8.3.2,library,NA,MIT
+jest,30.1.3,NA,NA,which,2.0.2,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,isexe,2.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,is-docker,2.2.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,braces,3.0.3,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,picomatch,2.3.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,fill-range,7.1.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,to-regex-range,5.0.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,is-number,7.0.0,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,argparse,2.0.1,library,NA,Python-2.0
+jest,30.1.3,NA,NA,core,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,types,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,import-local,3.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,jest-cli,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,test-result,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,yargs,17.0.33,library,NA,MIT
+jest,30.1.3,NA,NA,exit-x,0.2.2,library,Grunt Development Team,MIT
+jest,30.1.3,NA,NA,jest-config,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-validate,30.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,yargs,17.7.2,library,NA,MIT
+jest,30.1.3,NA,NA,cliui,8.0.1,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,get-caller-file,2.0.5,library,Stefan Penner,ISC
+jest,30.1.3,NA,NA,require-directory,2.1.1,library,Troy Goode,MIT
+jest,30.1.3,NA,NA,string-width,4.2.3,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,y18n,5.0.8,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,yargs-parser,21.1.1,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,emoji-regex,8.0.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,is-fullwidth-code-point,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,strip-ansi,6.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,wrap-ansi,7.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ansi-styles,4.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,color-convert,2.0.1,library,Heather Arthur,MIT
+jest,30.1.3,NA,NA,color-name,1.1.4,library,DY,MIT
+jest,30.1.3,NA,NA,get-type,30.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,leven,3.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pretty-format,30.0.5,library,James Kyle,MIT
+jest,30.1.3,NA,NA,schemas,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,react-is,18.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,react-test-renderer,18.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,react,18.3.22,library,NA,MIT
+jest,30.1.3,NA,NA,immutable,5.1.2,library,Lee Byron,MIT
+jest,30.1.3,NA,NA,react-dom,18.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,react-is,18.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,react-test-renderer,18.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,react,18.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,loose-envify,1.4.0,library,Andres Suarez,MIT
+jest,30.1.3,NA,NA,react-shallow-renderer,16.15.0,library,NA,MIT
+jest,30.1.3,NA,NA,scheduler,0.23.2,library,NA,MIT
+jest,30.1.3,NA,NA,object-assign,4.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,prop-types,15.7.14,library,NA,MIT
+jest,30.1.3,NA,NA,csstype,3.1.3,library,Fredrik Nicol,MIT
+jest,30.1.3,NA,NA,typebox,0.34.33,library,sinclairzx81,MIT
+jest,30.1.3,NA,NA,pattern,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,test-sequencer,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,graceful-fs,4.1.9,library,NA,MIT
+jest,30.1.3,NA,NA,micromatch,4.0.9,library,NA,MIT
+jest,30.1.3,NA,NA,parse-json,4.0.2,library,NA,MIT
+jest,30.1.3,NA,NA,ci-info,4.2.0,library,Thomas Watson Steen,MIT
+jest,30.1.3,NA,NA,deepmerge,4.3.1,library,NA,MIT
+jest,30.1.3,NA,NA,esbuild,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,esbuild-register,3.6.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-circus,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-docblock,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,jest-environment-node,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,jest-regex-util,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,jest-resolve,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-runner,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,ts-node,10.9.2,library,Blake Embrey,MIT
+jest,30.1.3,NA,NA,console,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,environment,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,transform,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,source-map-support,0.5.10,library,NA,MIT
+jest,30.1.3,NA,NA,emittery,0.13.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,jest-haste-map,30.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-jasmine2,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-leak-detector,30.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-message-util,30.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-runtime,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-watcher,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-worker,30.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,source-map-support,0.5.13,library,NA,MIT
+jest,30.1.3,NA,NA,merge-stream,2.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,supports-color,8.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,ungap__structured-clone,1.2.0,library,NA,MIT
+jest,30.1.3,NA,NA,structured-clone,1.3.0,library,Andrea Giammarchi,ISC
+jest,30.1.3,NA,NA,get-stream,6.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,worker-farm,1.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,errno,0.1.8,library,NA,MIT
+jest,30.1.3,NA,NA,prr,1.0.1,library,Rod Vagg,MIT
+jest,30.1.3,NA,NA,ansi-escapes,4.3.2,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,string-length,4.0.2,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,char-regex,1.0.2,library,Richie Bendall,MIT
+jest,30.1.3,NA,NA,type-fest,2.19.0,library,Sindre Sorhus,NA
+jest,30.1.3,NA,NA,fake-timers,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,source-map,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,cjs-module-lexer,2.1.0,library,Guy Bedford,MIT
+jest,30.1.3,NA,NA,collect-v8-coverage,1.0.2,library,NA,MIT
+jest,30.1.3,NA,NA,strip-bom,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,callsites,3.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,fake-timers,13.0.5,library,Christian Johansen,BSD-3-Clause
+jest,30.1.3,NA,NA,sinonjs__fake-timers,8.1.5,library,NA,MIT
+jest,30.1.3,NA,NA,commons,3.0.1,library,NA,BSD-3-Clause
+jest,30.1.3,NA,NA,type-detect,4.0.8,library,Jake Luer,MIT
+jest,30.1.3,NA,NA,babel__code-frame,7.0.6,library,NA,MIT
+jest,30.1.3,NA,NA,stack-utils,2.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,stack-utils,2.0.6,library,James Talmage,MIT
+jest,30.1.3,NA,NA,escape-string-regexp,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,expect,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,co,4.6.6,library,NA,MIT
+jest,30.1.3,NA,NA,co,4.6.0,library,NA,MIT
+jest,30.1.3,NA,NA,is-generator-fn,2.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,jest-each,30.1.0,library,Matt Phillips,MIT
+jest,30.1.3,NA,NA,jest-matcher-utils,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,jest-diff,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,diff-sequences,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,jest,2.1.1,library,Nicolas DUBIEN,MIT
+jest,30.1.3,NA,NA,benchmark,2.1.4,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,diff,7.0.0,library,NA,BSD-3-Clause
+jest,30.1.3,NA,NA,lodash,4.17.21,library,John-David Dalton,MIT
+jest,30.1.3,NA,NA,platform,1.3.6,library,Benjamin Tan,MIT
+jest,30.1.3,NA,NA,fast-check,4.1.1,library,Nicolas DUBIEN,MIT
+jest,30.1.3,NA,NA,pure-rand,7.0.1,library,Nicolas DUBIEN,MIT
+jest,30.1.3,NA,NA,expect,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,expect-utils,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,fb-watchman,2.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,anymatch,3.1.3,library,Elan Shanker,ISC
+jest,30.1.3,NA,NA,fb-watchman,2.0.2,library,Wez Furlong,Apache-2.0
+jest,30.1.3,NA,NA,fsevents,2.3.3,library,NA,MIT
+jest,30.1.3,NA,NA,walker,1.0.8,library,Naitik Shah,Apache-2.0
+jest,30.1.3,NA,NA,makeerror,1.0.12,library,Naitik Shah,BSD-3-Clause
+jest,30.1.3,NA,NA,tmpl,1.0.5,library,Naitik Shah,BSD-3-Clause
+jest,30.1.3,NA,NA,node-gyp,11.2.0,library,Nathan Rajlich,MIT
+jest,30.1.3,NA,NA,env-paths,2.2.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,exponential-backoff,3.1.2,library,Sami Sayegh,Apache-2.0
+jest,30.1.3,NA,NA,make-fetch-happen,14.0.3,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,nopt,8.1.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,proc-log,5.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,tar,7.4.3,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,tinyglobby,0.2.14,library,Superchupu,MIT
+jest,30.1.3,NA,NA,which,5.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,fdir,6.4.4,library,thecodrr,MIT
+jest,30.1.3,NA,NA,picomatch,4.0.2,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,fs-minipass,4.0.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,chownr,3.0.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+jest,30.1.3,NA,NA,minipass,7.1.2,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,minizlib,3.0.2,library,Isaac Z. Schlueter,MIT
+jest,30.1.3,NA,NA,mkdirp,3.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,yallist,5.0.0,library,Isaac Z. Schlueter,BlueOak-1.0.0
+jest,30.1.3,NA,NA,abbrev,3.0.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,agent,3.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,cacache,19.0.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,http-cache-semantics,4.2.0,library,Kornel Lesiński,BSD-2-Clause
+jest,30.1.3,NA,NA,minipass-fetch,4.0.1,library,GitHub Inc.,MIT
+jest,30.1.3,NA,NA,minipass-flush,1.0.5,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,minipass-pipeline,1.2.4,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,negotiator,1.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,promise-retry,2.0.1,library,IndigoUnited,MIT
+jest,30.1.3,NA,NA,ssri,12.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,err-code,2.0.3,library,IndigoUnited,MIT
+jest,30.1.3,NA,NA,retry,0.12.0,library,Tim Koschützki,MIT
+jest,30.1.3,NA,NA,minipass,3.3.6,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,yallist,4.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,encoding,0.1.13,library,Andris Reinman,MIT
+jest,30.1.3,NA,NA,minipass-sized,1.0.3,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,iconv-lite,0.6.3,library,Alexander Shtuchkin,MIT
+jest,30.1.3,NA,NA,safer-buffer,2.1.2,library,Nikita Skovoroda,MIT
+jest,30.1.3,NA,NA,fs,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,fs-minipass,3.0.3,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,lru-cache,10.4.3,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,minipass-collect,2.0.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,p-map,7.0.3,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,unique-filename,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,unique-slug,5.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,imurmurhash,0.1.4,library,Jens Taylor,MIT
+jest,30.1.3,NA,NA,agent-base,7.1.3,library,Nathan Rajlich,MIT
+jest,30.1.3,NA,NA,http-proxy-agent,7.0.2,library,Nathan Rajlich,MIT
+jest,30.1.3,NA,NA,https-proxy-agent,7.0.6,library,Nathan Rajlich,MIT
+jest,30.1.3,NA,NA,socks-proxy-agent,8.0.5,library,Nathan Rajlich,MIT
+jest,30.1.3,NA,NA,socks,2.8.4,library,Josh Glazebrook,MIT
+jest,30.1.3,NA,NA,ip-address,9.0.5,library,Beau Gunderson,MIT
+jest,30.1.3,NA,NA,smart-buffer,4.2.0,library,Josh Glazebrook,MIT
+jest,30.1.3,NA,NA,jsbn,1.1.0,library,Tom Wu,MIT
+jest,30.1.3,NA,NA,sprintf-js,1.1.3,library,Alexandru Mărășteanu,BSD-3-Clause
+jest,30.1.3,NA,NA,bser,2.1.1,library,Wez Furlong,Apache-2.0
+jest,30.1.3,NA,NA,node-int64,0.4.0,library,Robert Kieffer,MIT
+jest,30.1.3,NA,NA,normalize-path,3.0.0,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,convert-source-map,2.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,write-file-atomic,4.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,babel-plugin-istanbul,7.0.1,library,Thai Pangsakulyanont @dtinth,BSD-3-Clause
+jest,30.1.3,NA,NA,convert-source-map,2.0.0,library,Thorsten Lorenz,MIT
+jest,30.1.3,NA,NA,fast-json-stable-stringify,2.1.0,library,James Halliday,MIT
+jest,30.1.3,NA,NA,pirates,4.0.7,library,Ari Porad,MIT
+jest,30.1.3,NA,NA,write-file-atomic,5.0.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,signal-exit,4.1.0,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,helper-plugin-utils,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,load-nyc-config,1.1.0,library,NA,ISC
+jest,30.1.3,NA,NA,schema,0.1.3,library,Corey Farrell,MIT
+jest,30.1.3,NA,NA,istanbul-lib-instrument,6.0.3,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,test-exclude,6.0.0,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,parser,7.27.5,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,types,7.27.3,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-string-parser,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,camelcase,5.3.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,find-up,4.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,get-package-type,0.1.0,library,Corey Farrell,MIT
+jest,30.1.3,NA,NA,js-yaml,3.14.1,library,Vladimir Zapparov,MIT
+jest,30.1.3,NA,NA,resolve-from,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,argparse,1.0.10,library,NA,MIT
+jest,30.1.3,NA,NA,esprima,4.0.1,library,Ariya Hidayat,BSD-2-Clause
+jest,30.1.3,NA,NA,sprintf-js,1.0.3,library,Alexandru Marasteanu,BSD-3-Clause
+jest,30.1.3,NA,NA,locate-path,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-locate,4.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-limit,2.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-try,2.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,jest-pnp-resolver,1.2.3,library,NA,MIT
+jest,30.1.3,NA,NA,unrs-resolver,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,url,0.11.4,library,defunctzombie,MIT
+jest,30.1.3,NA,NA,punycode,1.4.1,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,qs,6.14.0,library,NA,BSD-3-Clause
+jest,30.1.3,NA,NA,side-channel,1.1.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,es-errors,1.3.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,object-inspect,1.13.4,library,James Halliday,MIT
+jest,30.1.3,NA,NA,side-channel-list,1.0.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,side-channel-map,1.0.1,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,side-channel-weakmap,1.0.2,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,call-bound,1.0.4,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,get-intrinsic,1.3.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,call-bind-apply-helpers,1.0.2,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,es-define-property,1.0.1,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,es-object-atoms,1.1.1,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,get-proto,1.0.1,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,gopd,1.2.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,has-symbols,1.1.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,math-intrinsics,1.1.0,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,dunder-proto,1.0.1,library,Jordan Harband,MIT
+jest,30.1.3,NA,NA,resolver-binding-darwin-arm64,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-darwin-x64,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-freebsd-x64,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-arm-gnueabihf,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-arm-musleabihf,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-arm64-gnu,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-arm64-musl,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-ppc64-gnu,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-riscv64-gnu,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-riscv64-musl,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-s390x-gnu,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-x64-gnu,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-linux-x64-musl,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-wasm32-wasi,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-win32-arm64-msvc,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-win32-ia32-msvc,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,resolver-binding-win32-x64-msvc,1.7.11,library,JounQin,MIT
+jest,30.1.3,NA,NA,napi-postinstall,0.2.4,library,JounQin,MIT
+jest,30.1.3,NA,NA,wasm-runtime,0.2.10,library,LongYinan,MIT
+jest,30.1.3,NA,NA,core,1.4.3,library,toyobayashi,MIT
+jest,30.1.3,NA,NA,runtime,1.4.3,library,toyobayashi,MIT
+jest,30.1.3,NA,NA,wasm-util,0.9.0,library,toyobayashi,MIT
+jest,30.1.3,NA,NA,tslib,2.8.1,library,Microsoft Corp.,0BSD
+jest,30.1.3,NA,NA,wasi-threads,1.0.2,library,toyobayashi,MIT
+jest,30.1.3,NA,NA,clsx,2.1.1,library,Luke Edwards,MIT
+jest,30.1.3,NA,NA,detect-newline,3.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,register,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,clone-deep,4.0.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,find-cache-dir,2.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,make-dir,2.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pify,4.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,commondir,1.0.1,library,James Halliday,MIT
+jest,30.1.3,NA,NA,pkg-dir,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,find-up,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,locate-path,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-locate,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,path-exists,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-plain-object,2.0.4,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,kind-of,6.0.3,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,shallow-clone,3.0.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,isobject,3.0.1,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,aix-ppc64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,android-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,android-arm,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,android-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,darwin-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,darwin-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,freebsd-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,freebsd-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-arm,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-ia32,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-loong64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-mips64el,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-ppc64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-riscv64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-s390x,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,linux-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,netbsd-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,netbsd-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,openbsd-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,openbsd-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,sunos-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,win32-arm64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,win32-ia32,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,win32-x64,0.25.5,library,NA,MIT
+jest,30.1.3,NA,NA,braces,3.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,yargs-parser,21.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,istanbul-lib-coverage,2.0.6,library,NA,MIT
+jest,30.1.3,NA,NA,pkg-dir,4.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,resolve-cwd,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,istanbul-reports,3.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,istanbul-lib-report,3.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,reporters,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-config,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-resolve-dependencies,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,v8-coverage,0.2.3,library,Charles Samborski,MIT
+jest,30.1.3,NA,NA,istanbul-lib-instrument,1.7.7,library,NA,MIT
+jest,30.1.3,NA,NA,istanbul-lib-source-maps,4.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,node-notifier,8.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,istanbul-lib-source-maps,5.0.6,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,v8-to-istanbul,9.3.0,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,babel-types,7.0.16,library,NA,MIT
+jest,30.1.3,NA,NA,ansi-escapes,6.2.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,chalk,5.4.1,library,NA,MIT
+jest,30.1.3,NA,NA,jest-regex-util,29.6.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-watcher,29.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,slash,5.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,string-length,5.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,strip-ansi,7.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ansi-regex,6.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,char-regex,2.0.2,library,Richie Bendall,MIT
+jest,30.1.3,NA,NA,test-result,29.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,types,29.6.3,library,NA,MIT
+jest,30.1.3,NA,NA,jest-util,29.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,ci-info,3.9.0,library,Thomas Watson Steen,MIT
+jest,30.1.3,NA,NA,schemas,29.6.3,library,NA,MIT
+jest,30.1.3,NA,NA,typebox,0.27.8,library,sinclairzx81,MIT
+jest,30.1.3,NA,NA,console,29.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-message-util,29.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,pretty-format,29.7.0,library,James Kyle,MIT
+jest,30.1.3,NA,NA,picomatch,4.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,generator,7.27.5,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-jsx,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-typescript,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-flow,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,snapshot-utils,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,prettier,2.7.3,library,NA,MIT
+jest,30.1.3,NA,NA,semver,7.7.0,library,NA,MIT
+jest,30.1.3,NA,NA,babel-preset-current-node-syntax,1.1.0,library,Nicolò Ribaudo,MIT
+jest,30.1.3,NA,NA,prettier,2.8.8,library,James Long,MIT
+jest,30.1.3,NA,NA,synckit,0.11.8,library,JounQin,MIT
+jest,30.1.3,NA,NA,core,0.2.4,library,JounQin,MIT
+jest,30.1.3,NA,NA,plugin-syntax-async-generators,7.8.4,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-bigint,7.8.3,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-class-properties,7.12.13,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-class-static-block,7.14.5,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-import-attributes,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-import-meta,7.10.4,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-json-strings,7.8.3,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-logical-assignment-operators,7.10.4,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-nullish-coalescing-operator,7.8.3,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-numeric-separator,7.10.4,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-object-rest-spread,7.8.3,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-optional-catch-binding,7.8.3,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-optional-chaining,7.8.3,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-syntax-private-property-in-object,7.14.5,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-top-level-await,7.14.5,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,natural-compare,1.4.3,library,NA,MIT
+jest,30.1.3,NA,NA,helper-validator-option,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-flow-strip-types,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-flow,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,jsesc,3.1.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,jest-util,26.6.2,library,NA,MIT
+jest,30.1.3,NA,NA,types,26.6.2,library,NA,MIT
+jest,30.1.3,NA,NA,is-ci,2.0.0,library,Thomas Watson Steen,MIT
+jest,30.1.3,NA,NA,ci-info,2.0.0,library,Thomas Watson Steen,MIT
+jest,30.1.3,NA,NA,yargs,15.0.19,library,NA,MIT
+jest,30.1.3,NA,NA,pretty-ansi,2.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,mkdirp,1.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,xml,1.0.1,library,Dylan Greene,MIT
+jest,30.1.3,NA,NA,html-escaper,2.0.2,library,Andrea Giammarchi,MIT
+jest,30.1.3,NA,NA,make-dir,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,supports-color,7.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,foreground-child,3.3.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,jackspeak,3.4.3,library,Isaac Z. Schlueter,BlueOak-1.0.0
+jest,30.1.3,NA,NA,package-json-from-dist,1.0.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+jest,30.1.3,NA,NA,path-scurry,1.11.1,library,Isaac Z. Schlueter,BlueOak-1.0.0
+jest,30.1.3,NA,NA,cliui,8.0.2,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,parseargs,0.11.0,library,NA,MIT
+jest,30.1.3,NA,NA,string-width,5.1.2,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,wrap-ansi,8.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ansi-styles,6.2.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,eastasianwidth,0.2.0,library,Masaki Komagata,MIT
+jest,30.1.3,NA,NA,emoji-regex,9.2.2,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,cross-spawn,7.0.6,library,André Cruz,MIT
+jest,30.1.3,NA,NA,path-key,3.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,shebang-command,2.0.0,library,Kevin Mårtensson,MIT
+jest,30.1.3,NA,NA,shebang-regex,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,commander,12.1.0,library,TJ Holowaychuk,MIT
+jest,30.1.3,NA,NA,loglevel,1.9.2,library,Tim Perry,MIT
+jest,30.1.3,NA,NA,human-signals,2.1.0,library,ehmicky,Apache-2.0
+jest,30.1.3,NA,NA,npm-run-path,4.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,onetime,5.1.2,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,signal-exit,3.0.7,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,strip-final-newline,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,mimic-fn,2.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,config-array,0.20.0,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,config-helpers,0.2.2,library,NA,Apache-2.0
+jest,30.1.3,NA,NA,core,0.14.0,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,eslintrc,3.3.1,library,Nicholas C. Zakas,MIT
+jest,30.1.3,NA,NA,plugin-kit,0.3.1,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,node,0.16.6,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,module-importer,1.0.1,library,Nicholas C. Zaks,Apache-2.0
+jest,30.1.3,NA,NA,retry,0.4.3,library,Nicholas C. Zaks,Apache-2.0
+jest,30.1.3,NA,NA,ajv,6.12.6,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,escape-string-regexp,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,eslint-scope,8.3.0,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,espree,10.3.0,library,Nicholas C. Zakas,BSD-2-Clause
+jest,30.1.3,NA,NA,esquery,1.6.0,library,Joel Feenstra,BSD-3-Clause
+jest,30.1.3,NA,NA,esutils,2.0.3,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,file-entry-cache,8.0.0,library,Jared Wray,MIT
+jest,30.1.3,NA,NA,glob-parent,6.0.2,library,Gulp Team,ISC
+jest,30.1.3,NA,NA,json-stable-stringify-without-jsonify,1.0.1,library,James Halliday,MIT
+jest,30.1.3,NA,NA,lodash.merge,4.6.2,library,John-David Dalton,MIT
+jest,30.1.3,NA,NA,optionator,0.9.4,library,George Zahariev,MIT
+jest,30.1.3,NA,NA,deep-is,0.1.4,library,Thorsten Lorenz,MIT
+jest,30.1.3,NA,NA,fast-levenshtein,2.0.6,library,Ramesh Nair,MIT
+jest,30.1.3,NA,NA,levn,0.4.1,library,George Zahariev,MIT
+jest,30.1.3,NA,NA,prelude-ls,1.2.1,library,George Zahariev,MIT
+jest,30.1.3,NA,NA,type-check,0.4.0,library,George Zahariev,MIT
+jest,30.1.3,NA,NA,word-wrap,1.2.5,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,flat-cache,4.0.1,library,Jared Wray,MIT
+jest,30.1.3,NA,NA,flatted,3.3.3,library,Andrea Giammarchi,ISC
+jest,30.1.3,NA,NA,keyv,4.5.4,library,Jared Wray,MIT
+jest,30.1.3,NA,NA,json-buffer,3.0.1,library,Dominic Tarr,MIT
+jest,30.1.3,NA,NA,acorn-jsx,5.3.2,library,NA,MIT
+jest,30.1.3,NA,NA,json-schema-traverse,0.4.1,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,core,0.19.1,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,retry,0.3.1,library,Nicholas C. Zaks,Apache-2.0
+jest,30.1.3,NA,NA,globals,14.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,import-fresh,3.3.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,parent-module,1.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,resolve-from,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,object-schema,2.1.6,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,plugin-kit,0.2.8,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,clean-regexp,1.0.0,library,Sam Verschueren,MIT
+jest,30.1.3,NA,NA,core-js-compat,3.42.0,library,Denis Pushkarev,MIT
+jest,30.1.3,NA,NA,find-up-simple,1.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,indent-string,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-builtin-module,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pluralize,8.0.0,library,Blake Embrey,MIT
+jest,30.1.3,NA,NA,regexp-tree,0.1.27,library,Dmitry Soshnikov,MIT
+jest,30.1.3,NA,NA,regjsparser,0.12.0,library,'Julian Viereck',BSD-2-Clause
+jest,30.1.3,NA,NA,strip-indent,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,min-indent,1.0.1,library,James Kyle,MIT
+jest,30.1.3,NA,NA,jsesc,3.0.2,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,builtin-modules,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,escape-string-regexp,1.0.5,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,core,0.13.0,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,prettier-linter-helpers,1.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,fast-diff,1.3.0,library,Jason Chen,Apache-2.0
+jest,30.1.3,NA,NA,jsdoccomment,0.50.2,library,Brett Zamir,MIT
+jest,30.1.3,NA,NA,are-docs-informative,0.0.2,library,Josh Goldberg,MIT
+jest,30.1.3,NA,NA,comment-parser,1.4.1,library,Sergiy Yavorsky,MIT
+jest,30.1.3,NA,NA,parse-imports-exports,0.2.4,library,uid11,MIT
+jest,30.1.3,NA,NA,spdx-expression-parse,4.0.0,library,Kyle E. Mitchell,MIT
+jest,30.1.3,NA,NA,parse-statements,1.0.11,library,uid11,MIT
+jest,30.1.3,NA,NA,jsdoc-type-pratt-parser,4.1.0,library,Simon Seyock,MIT
+jest,30.1.3,NA,NA,utils,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,typescript-estree,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,project-service,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,tsconfig-utils,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,ts-api-utils,2.1.0,library,JoshuaKGoldberg,MIT
+jest,30.1.3,NA,NA,eslint-import-context,0.1.6,library,JounQin,MIT
+jest,30.1.3,NA,NA,minimatch,10.0.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,stable-hash,0.0.5,library,Shu Ding,MIT
+jest,30.1.3,NA,NA,get-tsconfig,4.10.1,library,Hiroki Osame,MIT
+jest,30.1.3,NA,NA,resolve-pkg-maps,1.0.0,library,Hiroki Osame,MIT
+jest,30.1.3,NA,NA,is-bun-module,2.0.0,library,SunsetTechuila,MIT
+jest,30.1.3,NA,NA,find-cache-dir,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,common-path-prefix,3.0.0,library,Mark Wubben,ISC
+jest,30.1.3,NA,NA,pkg-dir,7.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,find-up,6.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,locate-path,7.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,path-exists,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-locate,6.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-limit,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,yocto-queue,1.2.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,babel-preset-jest,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,babel-plugin-jest-hoist,30.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,template,7.27.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,sync,0.5.5,library,fisker Cheung,MIT
+jest,30.1.3,NA,NA,babel__traverse,7.20.7,library,NA,MIT
+jest,30.1.3,NA,NA,babel-plugin-tester,11.0.4,library,Kent C. Dodds,MIT
+jest,30.1.3,NA,NA,core-js,3.42.0,library,Denis Pushkarev,MIT
+jest,30.1.3,NA,NA,lodash.mergewith,4.6.2,library,John-David Dalton,MIT
+jest,30.1.3,NA,NA,strip-indent,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,make-synchronized,0.4.2,library,fisker Cheung,MIT
+jest,30.1.3,NA,NA,api-extractor-model,7.30.6,library,NA,MIT
+jest,30.1.3,NA,NA,tsdoc-config,0.17.1,library,NA,MIT
+jest,30.1.3,NA,NA,tsdoc,0.15.1,library,NA,MIT
+jest,30.1.3,NA,NA,node-core-library,5.13.1,library,NA,MIT
+jest,30.1.3,NA,NA,rig-package,0.5.3,library,NA,MIT
+jest,30.1.3,NA,NA,terminal,0.15.3,library,NA,MIT
+jest,30.1.3,NA,NA,ts-command-line,5.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,minimatch,3.0.8,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,semver,7.5.4,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,lru-cache,6.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,argparse,1.0.38,library,NA,MIT
+jest,30.1.3,NA,NA,string-argv,0.3.2,library,Anthony McCormick,MIT
+jest,30.1.3,NA,NA,ajv-draft-04,1.0.0,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,ajv-formats,3.0.1,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,fs-extra,11.3.0,library,JP Richardson,MIT
+jest,30.1.3,NA,NA,import-lazy,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,jju,1.4.0,library,Alex Kocharin,MIT
+jest,30.1.3,NA,NA,jsonfile,6.1.0,library,JP Richardson,MIT
+jest,30.1.3,NA,NA,universalify,2.0.1,library,Ryan Zimmerman,MIT
+jest,30.1.3,NA,NA,ajv,8.12.0,library,Evgeny Poberezkin,MIT
+jest,30.1.3,NA,NA,cli,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,core,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,npmlog,4.1.2,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,version,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,arborist,9.1.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,package-json,6.2.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,byte-size,9.0.1,library,Lloyd Brookes,MIT
+jest,30.1.3,NA,NA,columnify,1.6.0,library,Tim Oxley,MIT
+jest,30.1.3,NA,NA,has-unicode,2.0.1,library,Rebecca Turner,ISC
+jest,30.1.3,NA,NA,libnpmaccess,10.0.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,libnpmpublish,11.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,npm-package-arg,12.0.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,npm-packlist,10.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,npm-registry-fetch,18.0.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,p-pipe,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pacote,21.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,tinyrainbow,2.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,git,6.0.3,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,installed-package-contents,3.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,promise-spawn,8.0.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,run-script,9.1.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,npm-pick-manifest,10.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,sigstore,3.1.0,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,tar,6.2.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,chownr,2.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,fs-minipass,2.1.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,minipass,5.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,minizlib,2.1.2,library,Isaac Z. Schlueter,MIT
+jest,30.1.3,NA,NA,bundle,3.1.0,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,core,2.0.0,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,protobuf-specs,0.4.2,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,sign,3.1.0,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,tuf,3.1.1,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,verify,2.1.1,library,bdehamer@github.com,Apache-2.0
+jest,30.1.3,NA,NA,tuf-js,3.0.1,library,bdehamer@github.com,MIT
+jest,30.1.3,NA,NA,models,3.0.1,library,bdehamer@github.com,MIT
+jest,30.1.3,NA,NA,canonical-json,2.0.0,library,bdehamer@github.com,MIT
+jest,30.1.3,NA,NA,npm-install-checks,7.1.1,library,GitHub Inc.,BSD-2-Clause
+jest,30.1.3,NA,NA,npm-normalize-package-bin,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,node-gyp,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,npm-bundled,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,ini,5.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,redact,3.2.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,jsonparse,1.3.1,library,Tim Caswell,MIT
+jest,30.1.3,NA,NA,ignore-walk,7.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,hosted-git-info,8.1.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,validate-npm-package-name,6.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,normalize-package-data,7.0.0,library,GitHub Inc.,BSD-2-Clause
+jest,30.1.3,NA,NA,wcwidth,1.0.1,library,Tim Oxley,MIT
+jest,30.1.3,NA,NA,defaults,1.0.4,library,Elijah Insua,MIT
+jest,30.1.3,NA,NA,clone,1.0.4,library,Paul Vorbach,MIT
+jest,30.1.3,NA,NA,json-parse-even-better-errors,4.0.0,library,GitHub Inc.,MIT
+jest,30.1.3,NA,NA,string-locale-compare,1.1.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,map-workspaces,4.0.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,metavuln-calculator,9.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,name-from-folder,3.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,query,4.0.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,bin-links,5.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,common-ancestor-path,1.0.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,json-stringify-nice,1.1.4,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,parse-conflict-json,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,proggy,3.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,promise-all-reject-late,1.0.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,promise-call-limit,3.0.2,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,read-package-json-fast,4.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,treeverse,3.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,walk-up-path,4.0.0,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,just-diff-apply,5.5.0,library,Angus Croll,MIT
+jest,30.1.3,NA,NA,just-diff,6.0.2,library,Angus Croll,MIT
+jest,30.1.3,NA,NA,cmd-shim,7.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,read-cmd-shim,5.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,write-file-atomic,6.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,postcss-selector-parser,7.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,cssesc,3.0.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,util-deprecate,1.0.2,library,Nathan Rajlich,MIT
+jest,30.1.3,NA,NA,git-client,2.5.1,library,Dan Onoshko,MIT
+jest,30.1.3,NA,NA,cli,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,plugin-enterprise-rest,6.0.1,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,rest,22.0.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,conventional-changelog-angular,8.0.0,library,Steve Mao,ISC
+jest,30.1.3,NA,NA,conventional-changelog-writer,8.1.0,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,conventional-changelog,7.0.2,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,conventional-commits-parser,6.1.0,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,conventional-recommended-bump,11.1.0,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,git-url-parse,16.1.0,library,Ionică Bizău,MIT
+jest,30.1.3,NA,NA,is-stream,4.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,load-json-file,7.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,new-github-release-url,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-limit,6.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-reduce,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pify,6.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,uuid,11.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,write-json-file,6.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,detect-indent,7.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-plain-obj,4.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,sort-keys,5.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,git-up,8.1.1,library,Ionică Bizău,MIT
+jest,30.1.3,NA,NA,is-ssh,1.4.1,library,Ionică Bizău,MIT
+jest,30.1.3,NA,NA,parse-url,9.2.0,library,Ionică Bizău,MIT
+jest,30.1.3,NA,NA,parse-path,7.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,parse-path,7.1.0,library,Ionică Bizău,MIT
+jest,30.1.3,NA,NA,protocols,2.0.2,library,Ionică Bizău,MIT
+jest,30.1.3,NA,NA,git-client,2.5.1,library,Dan Onoshko,MIT
+jest,30.1.3,NA,NA,conventional-changelog-preset-loader,5.0.0,library,Hutson Betts,MIT
+jest,30.1.3,NA,NA,conventional-commits-filter,5.0.0,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,meow,13.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,child-process-utils,1.0.0,library,Dan Onoshko,MIT
+jest,30.1.3,NA,NA,stream-utils,1.1.0,library,Dan Onoshko,MIT
+jest,30.1.3,NA,NA,fd-package-json,1.2.0,library,James Garbutt,MIT
+jest,30.1.3,NA,NA,walk-up-path,3.0.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,handlebars,4.7.8,library,Yehuda Katz,MIT
+jest,30.1.3,NA,NA,minimist,1.2.8,library,James Halliday,MIT
+jest,30.1.3,NA,NA,uglify-js,3.19.3,library,Mihai Bazon,BSD-2-Clause
+jest,30.1.3,NA,NA,wordwrap,1.0.0,library,James Halliday,MIT
+jest,30.1.3,NA,NA,compare-func,2.0.0,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,array-ify,1.0.0,library,Steve Mao,MIT
+jest,30.1.3,NA,NA,dot-prop,5.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,is-obj,2.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,core,7.0.2,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,plugin-paginate-rest,13.0.1,library,NA,MIT
+jest,30.1.3,NA,NA,plugin-request-log,6.0.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,plugin-rest-endpoint-methods,16.0.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,types,14.1.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,openapi-types,25.1.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,auth-token,6.0.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,graphql,9.0.1,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,request-error,7.0.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,request,10.0.2,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,before-after-hook,4.0.0,library,Gregor Martynus,Apache-2.0
+jest,30.1.3,NA,NA,universal-user-agent,7.0.3,library,Gregor Martynus,ISC
+jest,30.1.3,NA,NA,endpoint,11.0.0,library,Gregor Martynus,MIT
+jest,30.1.3,NA,NA,fast-content-type-parse,3.0.0,library,Aras Abbasi,MIT
+jest,30.1.3,NA,NA,init,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,dotenv,16.5.0,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,yargs,18.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,cliui,9.0.1,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,string-width,7.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,yargs-parser,22.0.0,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,emoji-regex,10.4.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,get-east-asian-width,1.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,wrap-ansi,9.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,aproba,2.0.0,library,Rebecca Turner,ISC
+jest,30.1.3,NA,NA,color-support,1.1.3,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,console-control-strings,1.1.0,library,Rebecca Turner,ISC
+jest,30.1.3,NA,NA,set-blocking,2.0.0,library,Ben Coe,ISC
+jest,30.1.3,NA,NA,wide-align,1.1.5,library,Rebecca Turner,ISC
+jest,30.1.3,NA,NA,expand,4.0.15,library,Simon Boudrias,MIT
+jest,30.1.3,NA,NA,input,4.1.12,library,Simon Boudrias,MIT
+jest,30.1.3,NA,NA,select,4.2.3,library,Simon Boudrias,MIT
+jest,30.1.3,NA,NA,config-chain,1.1.13,library,Dominic Tarr,NA
+jest,30.1.3,NA,NA,cosmiconfig,9.0.0,library,Daniel Fischer,MIT
+jest,30.1.3,NA,NA,execa,9.6.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,json5,2.2.3,library,Aseem Kishore,MIT
+jest,30.1.3,NA,NA,multimatch,7.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,p-queue,8.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,strong-log-transformer,2.1.0,library,Ryan Graham,Apache-2.0
+jest,30.1.3,NA,NA,write-package,7.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,yaml,2.8.0,library,Eemeli Aro,ISC
+jest,30.1.3,NA,NA,deepmerge-ts,7.1.5,library,Rebecca Stevens,BSD-3-Clause
+jest,30.1.3,NA,NA,read-pkg,9.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,type-fest,4.41.0,library,Sindre Sorhus,NA
+jest,30.1.3,NA,NA,normalize-package-data,6.0.2,library,GitHub Inc.,BSD-2-Clause
+jest,30.1.3,NA,NA,parse-json,8.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,unicorn-magic,0.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,index-to-position,1.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,hosted-git-info,7.0.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,duplexer,0.1.2,library,Raynos,MIT
+jest,30.1.3,NA,NA,through,2.3.8,library,Dominic Tarr,MIT
+jest,30.1.3,NA,NA,eventemitter3,5.0.1,library,Arnout Kazemier,MIT
+jest,30.1.3,NA,NA,p-timeout,6.1.4,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,array-differ,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,array-union,3.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,merge-streams,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,figures,6.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,get-stream,9.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,human-signals,8.0.1,library,ehmicky,Apache-2.0
+jest,30.1.3,NA,NA,npm-run-path,6.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pretty-ms,9.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,strip-final-newline,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,yoctocolors,2.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,parse-ms,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,path-key,4.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,unicorn-magic,0.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,readable-stream,0.4.1,library,Ze-Zheng Wu,MIT
+jest,30.1.3,NA,NA,is-unicode-supported,2.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ini,1.3.8,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,proto-list,1.2.4,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,core,10.1.13,library,Simon Boudrias,MIT
+jest,30.1.3,NA,NA,figures,1.0.12,library,Simon Boudrias,MIT
+jest,30.1.3,NA,NA,type,3.0.7,library,Simon Boudrias,MIT
+jest,30.1.3,NA,NA,yoctocolors-cjs,2.1.2,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,cli-width,4.1.0,library,Ilya Radchenko,ISC
+jest,30.1.3,NA,NA,mute-stream,2.0.0,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,wrap-ansi,6.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,cli,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,profiler,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,upath,2.0.1,library,Angelos Pikoulas,MIT
+jest,30.1.3,NA,NA,core,0.10.0,library,Nicholas C. Zakas,Apache-2.0
+jest,30.1.3,NA,NA,mdast-util-from-markdown,2.0.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-frontmatter,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-gfm,3.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-frontmatter,2.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm,3.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm-autolink-literal,2.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm-footnote,2.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm-strikethrough,2.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm-table,2.1.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm-tagfilter,2.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-extension-gfm-task-list-item,2.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-combine-extensions,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-types,2.0.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-chunked,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-symbol,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,devlop,1.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-factory-space,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-character,2.1.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,dequal,2.0.3,library,Luke Edwards,MIT
+jest,30.1.3,NA,NA,micromark-util-classify-character,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-resolve-all,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-core-commonmark,2.0.3,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-normalize-identifier,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-sanitize-uri,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-encode,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,decode-named-character-reference,1.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-factory-destination,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-factory-label,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-factory-title,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-factory-whitespace,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-html-tag-name,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-subtokenize,2.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,character-entities,2.0.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,fault,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,format,0.2.2,library,Sami Samhuri,MIT
+jest,30.1.3,NA,NA,mdast-util-gfm-autolink-literal,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-gfm-footnote,2.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-gfm-strikethrough,2.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-gfm-table,2.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-gfm-task-list-item,2.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-to-markdown,2.1.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast,4.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,unist,3.0.3,library,NA,MIT
+jest,30.1.3,NA,NA,longest-streak,3.1.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-phrasing,4.1.0,library,Victor Felder,MIT
+jest,30.1.3,NA,NA,mdast-util-to-string,4.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-decode-string,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,unist-util-visit,5.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,zwitch,2.0.4,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,unist-util-is,6.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,unist-util-visit-parents,6.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,micromark-util-decode-numeric-character-reference,2.0.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,markdown-table,3.0.4,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,ccount,2.0.1,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,mdast-util-find-and-replace,3.0.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,escape-string-regexp,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,micromark,4.0.2,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,unist-util-stringify-position,4.0.0,library,Titus Wormer,MIT
+jest,30.1.3,NA,NA,debug,4.1.12,library,NA,MIT
+jest,30.1.3,NA,NA,ms,2.1.0,library,NA,MIT
+jest,30.1.3,NA,NA,command-exists-promise,2.0.2,library,Raphaël Thériault,MIT
+jest,30.1.3,NA,NA,node-fetch,2.7.0,library,David Frank,MIT
+jest,30.1.3,NA,NA,shelljs,0.8.5,library,NA,BSD-3-Clause
+jest,30.1.3,NA,NA,yauzl,3.2.0,library,Josh Wolfe,MIT
+jest,30.1.3,NA,NA,buffer-crc32,0.2.13,library,Brian J. Brennan,MIT
+jest,30.1.3,NA,NA,pend,1.2.0,library,Andrew Kelley,MIT
+jest,30.1.3,NA,NA,interpret,1.4.0,library,Gulp Team,MIT
+jest,30.1.3,NA,NA,rechoir,0.6.2,library,Tyler Kellen,MIT
+jest,30.1.3,NA,NA,whatwg-url,5.0.0,library,Sebastian Mayr,MIT
+jest,30.1.3,NA,NA,tr46,0.0.3,library,Sebastian Mayr,MIT
+jest,30.1.3,NA,NA,webidl-conversions,3.0.1,library,Domenic Denicola,BSD-2-Clause
+jest,30.1.3,NA,NA,plugin-transform-typescript,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-annotate-as-pure,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-create-class-features-plugin,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-skip-transparent-expression-wrappers,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,traverse,7.27.4,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,globals,11.12.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,helper-member-expression-to-functions,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-optimise-call-expression,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-replace-supers,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,semver,6.3.1,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,plugin-transform-react-display-name,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-react-jsx,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-react-jsx-development,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-react-pure-annotations,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-module-imports,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,compat-data,7.27.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-compilation-targets,7.27.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-bugfix-firefox-class-in-computed-class-key,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-bugfix-safari-class-field-initializer-scope,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-bugfix-safari-id-destructuring-collision-in-function-expression,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-bugfix-v8-spread-parameters-in-optional-chaining,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-bugfix-v8-static-class-fields-redefine-readonly,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-proposal-private-property-in-object,7.21.0-placeholder-for-preset-env.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-import-assertions,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-syntax-unicode-sets-regex,7.18.6,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-arrow-functions,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-async-generator-functions,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-async-to-generator,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-block-scoped-functions,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-block-scoping,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-class-properties,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-class-static-block,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-classes,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-computed-properties,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-destructuring,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-dotall-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-duplicate-keys,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-duplicate-named-capturing-groups-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-dynamic-import,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-exponentiation-operator,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-export-namespace-from,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-for-of,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-function-name,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-json-strings,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-literals,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-logical-assignment-operators,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-member-expression-literals,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-modules-amd,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-modules-systemjs,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-modules-umd,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-named-capturing-groups-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-new-target,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-nullish-coalescing-operator,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-numeric-separator,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-object-rest-spread,7.27.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-object-super,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-optional-catch-binding,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-optional-chaining,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-parameters,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-private-methods,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-private-property-in-object,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-property-literals,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-regenerator,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-regexp-modifiers,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-reserved-words,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-shorthand-properties,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-spread,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-sticky-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-template-literals,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-typeof-symbol,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-unicode-escapes,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-unicode-property-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-unicode-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-unicode-sets-regex,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-modules,0.1.6-no-external-plugins,library,NA,MIT
+jest,30.1.3,NA,NA,babel-plugin-polyfill-corejs2,0.4.13,library,NA,MIT
+jest,30.1.3,NA,NA,babel-plugin-polyfill-corejs3,0.11.1,library,NA,MIT
+jest,30.1.3,NA,NA,babel-plugin-polyfill-regenerator,0.6.4,library,NA,MIT
+jest,30.1.3,NA,NA,helper-define-polyfill-provider,0.6.4,library,NA,MIT
+jest,30.1.3,NA,NA,lodash.debounce,4.0.8,library,John-David Dalton,MIT
+jest,30.1.3,NA,NA,helper-create-regexp-features-plugin,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,regexpu-core,6.2.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,regenerate-unicode-properties,10.2.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,regenerate,1.4.2,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,regjsgen,0.8.0,library,Benjamin Tan,MIT
+jest,30.1.3,NA,NA,unicode-match-property-ecmascript,2.0.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,unicode-match-property-value-ecmascript,2.2.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,unicode-canonical-property-names-ecmascript,2.0.1,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,unicode-property-aliases-ecmascript,2.1.0,library,Mathias Bynens,MIT
+jest,30.1.3,NA,NA,helper-module-transforms,7.27.3,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-remap-async-to-generator,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helper-wrap-function,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,lru-cache,5.1.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,yallist,3.1.1,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,remapping,2.3.0,library,Justin Ridgewell,Apache-2.0
+jest,30.1.3,NA,NA,helper-module-transforms,7.27.3,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,helpers,7.27.4,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,gensync,1.0.0-beta.2,library,Logan Smyth,MIT
+jest,30.1.3,NA,NA,core,7.27.4,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,plugin-transform-modules-commonjs,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-env,7.27.2,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-react,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,preset-typescript,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,register,7.27.1,library,The Babel Team,MIT
+jest,30.1.3,NA,NA,cli,4.7.0,library,Crowdin,MIT
+jest,30.1.3,NA,NA,yarn-plugin-cyclonedx,3.1.1,library,Jan Kowalleck,Apache-2.0
+jest,30.1.3,NA,NA,eslint-plugin-eslint-comments,4.5.0,library,Toru Nagashima,MIT
+jest,30.1.3,NA,NA,js,9.28.0,library,NA,MIT
+jest,30.1.3,NA,NA,markdown,6.4.0,library,Brandon Mills,MIT
+jest,30.1.3,NA,NA,globals,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,test-utils,30.1.2,library,NA,NA
+jest,30.1.3,NA,NA,cli,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,exec,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,publish,4.3.0,library,Ghislain B.,MIT
+jest,30.1.3,NA,NA,api-extractor,7.52.8,library,NA,MIT
+jest,30.1.3,NA,NA,node18,18.2.4,library,NA,MIT
+jest,30.1.3,NA,NA,babel__core,7.20.5,library,NA,MIT
+jest,30.1.3,NA,NA,babel__generator,7.27.0,library,NA,MIT
+jest,30.1.3,NA,NA,babel__template,7.4.4,library,NA,MIT
+jest,30.1.3,NA,NA,node,18.14.6,library,NA,MIT
+jest,30.1.3,NA,NA,which,3.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,types,4.0.1,library,NA,BSD-2-Clause
+jest,30.1.3,NA,NA,ansi-regex,5.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ansi-styles,5.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,babel-jest,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,babel-loader,9.2.1,library,Luis Couto,MIT
+jest,30.1.3,NA,NA,camelcase,6.3.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,chalk,4.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,dedent,1.6.0,library,Desmond Brand,MIT
+jest,30.1.3,NA,NA,eslint-config-prettier,10.1.5,library,Simon Lydell,MIT
+jest,30.1.3,NA,NA,eslint-import-resolver-typescript,4.4.2,library,Alex Gorbatchev,ISC
+jest,30.1.3,NA,NA,eslint-plugin-import-x,4.15.0,library,JounQin,MIT
+jest,30.1.3,NA,NA,eslint-plugin-jest,28.12.0,library,Jonathan Kim,MIT
+jest,30.1.3,NA,NA,eslint-plugin-jsdoc,50.7.1,library,Gajus Kuizinas,BSD-3-Clause
+jest,30.1.3,NA,NA,eslint-plugin-prettier,5.4.1,library,Teddy Katz,MIT
+jest,30.1.3,NA,NA,eslint-plugin-promise,7.2.1,library,jden,ISC
+jest,30.1.3,NA,NA,eslint-plugin-unicorn,59.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,eslint,9.28.0,library,Nicholas C. Zakas,MIT
+jest,30.1.3,NA,NA,execa,5.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,find-process,1.4.10,library,zoujie,MIT
+jest,30.1.3,NA,NA,glob,10.4.5,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,globals,16.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,graceful-fs,4.2.11,library,NA,ISC
+jest,30.1.3,NA,NA,isbinaryfile,5.0.4,library,NA,MIT
+jest,30.1.3,NA,NA,istanbul-lib-coverage,3.2.2,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,istanbul-lib-report,3.0.1,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,istanbul-reports,3.1.7,library,Krishnan Anantheswaran,BSD-3-Clause
+jest,30.1.3,NA,NA,jest-changed-files,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,jest-junit,16.0.0,library,Jason Palmer,Apache-2.0
+jest,30.1.3,NA,NA,jest-mock,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,jest-serializer-ansi-escapes,3.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,jest-silent-reporter,0.6.0,library,rickhanlonii,MIT
+jest,30.1.3,NA,NA,jest-snapshot,30.1.2,library,NA,MIT
+jest,30.1.3,NA,NA,jest-util,30.0.5,library,NA,MIT
+jest,30.1.3,NA,NA,jest-watch-typeahead,2.2.2,library,Rogelio Guzman,MIT
+jest,30.1.3,NA,NA,jest,30.1.3,library,NA,MIT
+jest,30.1.3,NA,NA,jquery,3.7.1,library,OpenJS Foundation and other contributors,MIT
+jest,30.1.3,NA,NA,js-yaml,4.1.0,library,Vladimir Zapparov,MIT
+jest,30.1.3,NA,NA,micromatch,4.0.8,library,Jon Schlinkert,MIT
+jest,30.1.3,NA,NA,mock-fs,5.5.0,library,Tim Schaub,MIT
+jest,30.1.3,NA,NA,netlify-plugin-cache,1.0.3,library,Jake Jarvis,MIT
+jest,30.1.3,NA,NA,node-notifier,10.0.1,library,Mikael Brevik,MIT
+jest,30.1.3,NA,NA,p-limit,3.1.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,pkg-dir,5.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,prettier,3.5.3,library,James Long,MIT
+jest,30.1.3,NA,NA,promise,8.3.0,library,ForbesLindesay,MIT
+jest,30.1.3,NA,NA,read-pkg,5.2.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,resolve,1.22.10,library,James Halliday,MIT
+jest,30.1.3,NA,NA,rimraf,5.0.10,library,Isaac Z. Schlueter,ISC
+jest,30.1.3,NA,NA,semver,7.7.2,library,GitHub Inc.,ISC
+jest,30.1.3,NA,NA,slash,3.0.0,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,strip-json-comments,3.1.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,tempy,1.0.1,library,Sindre Sorhus,MIT
+jest,30.1.3,NA,NA,ts-node,10.9.2,library,Blake Embrey,MIT
+jest,30.1.3,NA,NA,tstyche,4.0.0,library,NA,MIT
+jest,30.1.3,NA,NA,typescript-eslint,8.38.0,library,NA,MIT
+jest,30.1.3,NA,NA,typescript,5.5.4,library,Microsoft Corp.,Apache-2.0
+jest,30.1.3,NA,NA,webpack-node-externals,3.0.0,library,Liad Yosef,MIT
+jest,30.1.3,NA,NA,webpack,5.99.9,library,Tobias Koppers @sokra,MIT
+jest,30.1.3,NA,NA,which,4.0.0,library,GitHub Inc.,ISC

@@ -1,0 +1,3871 @@
+Library,Current Version,Latest Version,Status
+core,7.28.3,1.0.113,Current version is newer than npm (1.0.113)
+preset-env,7.28.3,,Not Found
+mongodb-downloader,0.4.2,,Not Found
+eslint-plugin,8.43.0,1.0.1,Current version is newer than npm (1.0.1)
+parser,8.43.0,0.1.4,Current version is newer than npm (0.1.4)
+acquit-ignore,0.2.1,0.2.1,Up-to-date
+acquit-require,0.1.1,0.1.1,Up-to-date
+acquit,1.4.0,1.4.0,Up-to-date
+ajv,8.17.1,8.17.1,Up-to-date
+assert-browserify,2.0.0,2.0.0,Up-to-date
+babel-loader,8.2.5,10.0.0,Update available (10.0.0)
+broken-link-checker,0.7.8,0.7.8,Up-to-date
+bson,6.10.4,6.10.4,Up-to-date
+buffer,5.7.1,6.0.3,Update available (6.0.3)
+cheerio,1.1.2,1.1.2,Up-to-date
+parse5,7.3.0,8.0.0,Update available (8.0.0)
+entities,6.0.1,7.0.0,Update available (7.0.0)
+crypto-browserify,3.12.1,3.12.1,Up-to-date
+dox,1.0.0,1.0.0,Up-to-date
+commander,9.4.0,14.0.0,Update available (14.0.0)
+eslint-plugin-markdown,5.1.0,5.1.0,Up-to-date
+eslint-plugin-mocha-no-only,1.2.0,1.2.0,Up-to-date
+eslint,8.57.1,9.35.0,Update available (9.35.0)
+ajv,6.12.6,8.17.1,Update available (8.17.1)
+chalk,4.1.2,5.6.2,Update available (5.6.2)
+escape-string-regexp,4.0.0,5.0.0,Update available (5.0.0)
+ignore,5.3.2,7.0.5,Update available (7.0.5)
+minimatch,3.1.2,10.0.3,Update available (10.0.3)
+strip-ansi,6.0.1,7.1.2,Update available (7.1.2)
+json-schema-traverse,0.4.1,1.0.0,Update available (1.0.0)
+ansi-styles,4.3.0,6.2.3,Update available (6.2.3)
+supports-color,7.2.0,10.2.2,Update available (10.2.2)
+brace-expansion,1.1.12,4.0.1,Update available (4.0.1)
+ansi-regex,5.0.1,6.2.2,Update available (6.2.2)
+express,4.21.2,5.1.0,Update available (5.1.0)
+debug,2.6.9,4.4.1,Update available (4.4.1)
+ms,2.0.0,2.1.3,Update available (2.1.3)
+fs-extra,11.3.1,11.3.1,Up-to-date
+highlight.js,11.11.1,11.11.1,Up-to-date
+kareem,2.6.3,2.6.3,Up-to-date
+lodash.isequal,4.5.0,4.5.0,Up-to-date
+lodash.isequalwith,4.4.0,4.4.0,Up-to-date
+markdownlint-cli2,0.18.1,0.18.1,Up-to-date
+markdown-it,14.1.0,14.1.0,Up-to-date
+linkify-it,5.0.0,5.0.0,Up-to-date
+mdurl,2.0.0,2.0.0,Up-to-date
+uc.micro,2.1.0,2.1.0,Up-to-date
+marked,15.0.12,16.2.1,Update available (16.2.1)
+mkdirp,3.0.1,3.0.1,Up-to-date
+mocha,11.7.2,11.7.2,Up-to-date
+supports-color,8.1.1,10.2.2,Update available (10.2.2)
+moment,2.30.1,2.30.1,Up-to-date
+mongodb-memory-server,10.2.0,10.2.0,Up-to-date
+mongodb-runner,5.9.2,5.9.2,Up-to-date
+mongodb,6.18.0,6.19.0,Update available (6.19.0)
+mpath,0.9.0,0.9.0,Up-to-date
+mquery,5.0.0,5.0.0,Up-to-date
+ms,2.1.3,2.1.3,Up-to-date
+ncp,2.0.0,2.0.0,Up-to-date
+nyc,15.1.0,17.1.0,Update available (17.1.0)
+convert-source-map,1.9.0,2.0.0,Update available (2.0.0)
+find-up,4.1.0,7.0.0,Update available (7.0.0)
+foreground-child,2.0.0,3.3.1,Update available (3.3.1)
+glob,7.2.3,11.0.3,Update available (11.0.3)
+resolve-from,5.0.0,5.0.0,Up-to-date
+signal-exit,3.0.7,4.1.0,Update available (4.1.0)
+yargs,15.4.1,18.0.0,Update available (18.0.0)
+locate-path,5.0.0,7.2.0,Update available (7.2.0)
+cliui,6.0.0,9.0.1,Update available (9.0.1)
+string-width,4.2.3,8.1.0,Update available (8.1.0)
+y18n,4.0.3,5.0.8,Update available (5.0.8)
+yargs-parser,18.1.3,22.0.0,Update available (22.0.0)
+p-locate,4.1.0,6.0.0,Update available (6.0.0)
+wrap-ansi,6.2.0,9.0.2,Update available (9.0.2)
+emoji-regex,8.0.0,10.5.0,Update available (10.5.0)
+camelcase,5.3.1,8.0.0,Update available (8.0.0)
+p-limit,2.3.0,7.1.1,Update available (7.1.1)
+pug,3.0.3,3.0.3,Up-to-date
+q,1.5.1,1.5.1,Up-to-date
+sift,17.1.3,17.1.3,Up-to-date
+sinon,21.0.0,21.0.0,Up-to-date
+stream-browserify,3.0.0,3.0.0,Up-to-date
+readable-stream,3.6.2,4.7.0,Update available (4.7.0)
+tsd,0.33.0,0.33.0,Up-to-date
+globby,11.1.0,14.1.0,Update available (14.1.0)
+slash,3.0.0,5.1.0,Update available (5.1.0)
+typescript,5.9.2,5.9.2,Up-to-date
+uuid,11.1.0,13.0.0,Update available (13.0.0)
+webpack,5.101.3,5.101.3,Up-to-date
+eslint-scope,5.1.1,8.4.0,Update available (8.4.0)
+schema-utils,4.3.2,4.3.2,Up-to-date
+estraverse,4.3.0,5.3.0,Update available (5.3.0)
+remapping,2.3.0,,Not Found
+code-frame,7.27.1,5.0.0,Current version is newer than npm (5.0.0)
+generator,7.28.3,1.0.1,Current version is newer than npm (1.0.1)
+helper-compilation-targets,7.27.2,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-module-transforms,7.28.3,,Not Found
+helpers,7.28.4,0.0.6,Current version is newer than npm (0.0.6)
+parser,7.28.4,0.1.4,Current version is newer than npm (0.1.4)
+template,7.27.2,0.17.5,Current version is newer than npm (0.17.5)
+traverse,7.28.4,0.6.11,Current version is newer than npm (0.6.11)
+types,7.28.4,0.1.1,Current version is newer than npm (0.1.1)
+convert-source-map,2.0.0,2.0.0,Up-to-date
+debug,4.4.1,4.4.1,Up-to-date
+gensync,1.0.0-beta.2,1.0.0-beta.2,Up-to-date
+json5,2.2.3,2.2.3,Up-to-date
+semver,6.3.1,7.7.2,Update available (7.7.2)
+compat-data,7.28.4,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-plugin-utils,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-validator-option,7.27.1,,Not Found
+plugin-bugfix-firefox-class-in-computed-class-key,7.27.1,,Not Found
+plugin-bugfix-safari-class-field-initializer-scope,7.27.1,,Not Found
+plugin-bugfix-safari-id-destructuring-collision-in-function-expression,7.27.1,,Not Found
+plugin-bugfix-v8-spread-parameters-in-optional-chaining,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+plugin-bugfix-v8-static-class-fields-redefine-readonly,7.28.3,,Not Found
+plugin-proposal-private-property-in-object,7.21.0-placeholder-for-preset-env.2,,Not Found
+plugin-syntax-import-assertions,7.27.1,,Not Found
+plugin-syntax-import-attributes,7.27.1,,Not Found
+plugin-syntax-unicode-sets-regex,7.18.6,,Not Found
+plugin-transform-arrow-functions,7.27.1,,Not Found
+plugin-transform-async-generator-functions,7.28.0,,Not Found
+plugin-transform-async-to-generator,7.27.1,,Not Found
+plugin-transform-block-scoped-functions,7.27.1,,Not Found
+plugin-transform-block-scoping,7.28.4,,Not Found
+plugin-transform-class-properties,7.27.1,,Not Found
+plugin-transform-class-static-block,7.28.3,,Not Found
+plugin-transform-classes,7.28.4,,Not Found
+plugin-transform-computed-properties,7.27.1,,Not Found
+plugin-transform-destructuring,7.28.0,,Not Found
+plugin-transform-dotall-regex,7.27.1,,Not Found
+plugin-transform-duplicate-keys,7.27.1,,Not Found
+plugin-transform-duplicate-named-capturing-groups-regex,7.27.1,,Not Found
+plugin-transform-dynamic-import,7.27.1,,Not Found
+plugin-transform-explicit-resource-management,7.28.0,,Not Found
+plugin-transform-exponentiation-operator,7.27.1,,Not Found
+plugin-transform-export-namespace-from,7.27.1,,Not Found
+plugin-transform-for-of,7.27.1,,Not Found
+plugin-transform-function-name,7.27.1,,Not Found
+plugin-transform-json-strings,7.27.1,,Not Found
+plugin-transform-literals,7.27.1,,Not Found
+plugin-transform-logical-assignment-operators,7.27.1,,Not Found
+plugin-transform-member-expression-literals,7.27.1,,Not Found
+plugin-transform-modules-amd,7.27.1,,Not Found
+plugin-transform-modules-commonjs,7.27.1,,Not Found
+plugin-transform-modules-systemjs,7.27.1,,Not Found
+plugin-transform-modules-umd,7.27.1,,Not Found
+plugin-transform-named-capturing-groups-regex,7.27.1,,Not Found
+plugin-transform-new-target,7.27.1,,Not Found
+plugin-transform-nullish-coalescing-operator,7.27.1,,Not Found
+plugin-transform-numeric-separator,7.27.1,,Not Found
+plugin-transform-object-rest-spread,7.28.4,,Not Found
+plugin-transform-object-super,7.27.1,,Not Found
+plugin-transform-optional-catch-binding,7.27.1,,Not Found
+plugin-transform-optional-chaining,7.27.1,,Not Found
+plugin-transform-parameters,7.27.7,,Not Found
+plugin-transform-private-methods,7.27.1,,Not Found
+plugin-transform-private-property-in-object,7.27.1,,Not Found
+plugin-transform-property-literals,7.27.1,,Not Found
+plugin-transform-regenerator,7.28.4,,Not Found
+plugin-transform-regexp-modifiers,7.27.1,,Not Found
+plugin-transform-reserved-words,7.27.1,,Not Found
+plugin-transform-shorthand-properties,7.27.1,,Not Found
+plugin-transform-spread,7.27.1,,Not Found
+plugin-transform-sticky-regex,7.27.1,,Not Found
+plugin-transform-template-literals,7.27.1,,Not Found
+plugin-transform-typeof-symbol,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+plugin-transform-unicode-escapes,7.27.1,,Not Found
+plugin-transform-unicode-property-regex,7.27.1,,Not Found
+plugin-transform-unicode-regex,7.27.1,,Not Found
+plugin-transform-unicode-sets-regex,7.27.1,,Not Found
+preset-modules,0.1.6-no-external-plugins,0.0.1-security,Current version is newer than npm (0.0.1-security)
+babel-plugin-polyfill-corejs2,0.4.14,0.4.14,Up-to-date
+babel-plugin-polyfill-corejs3,0.13.0,0.13.0,Up-to-date
+babel-plugin-polyfill-regenerator,0.6.5,0.6.5,Up-to-date
+core-js-compat,3.45.1,3.45.1,Up-to-date
+decompress,4.2.1,4.2.1,Up-to-date
+make-dir,1.3.0,5.0.0,Update available (5.0.0)
+pify,3.0.0,6.1.0,Update available (6.1.0)
+mongodb-download-url,1.6.2,1.6.2,Up-to-date
+semver,7.7.2,7.7.2,Up-to-date
+node-fetch,2.7.0,3.3.2,Update available (3.3.2)
+whatwg-url,5.0.0,14.2.0,Update available (14.2.0)
+tr46,0.0.3,5.1.1,Update available (5.1.1)
+webidl-conversions,3.0.1,8.0.0,Update available (8.0.0)
+tar,6.2.1,7.4.3,Update available (7.4.3)
+minipass,5.0.0,7.1.2,Update available (7.1.2)
+mkdirp,1.0.4,3.0.1,Update available (3.0.1)
+yallist,4.0.0,5.0.0,Update available (5.0.0)
+regexpp,4.12.1,3.2.0,Current version is newer than npm (3.2.0)
+scope-manager,8.43.0,,Not Found
+type-utils,8.43.0,0.10.6,Current version is newer than npm (0.10.6)
+utils,8.43.0,0.3.1,Current version is newer than npm (0.3.1)
+visitor-keys,8.43.0,,Not Found
+eslint-visitor-keys,4.2.1,4.2.1,Up-to-date
+graphemer,1.4.0,1.4.0,Up-to-date
+ignore,7.0.5,7.0.5,Up-to-date
+natural-compare,1.4.0,1.4.0,Up-to-date
+ts-api-utils,2.1.0,2.1.0,Up-to-date
+types,8.43.0,0.1.1,Current version is newer than npm (0.1.1)
+typescript-estree,8.43.0,18.1.0,Update available (18.1.0)
+archetype,0.13.0,0.13.1,Update available (0.13.1)
+mpath,0.8.4,0.9.0,Update available (0.9.0)
+commander,2.15.1,14.0.0,Update available (14.0.0)
+espree,9.6.1,10.4.0,Update available (10.4.0)
+fast-deep-equal,3.1.3,3.1.3,Up-to-date
+fast-uri,3.1.0,3.1.0,Up-to-date
+json-schema-traverse,1.0.0,1.0.0,Up-to-date
+require-from-string,2.0.2,2.0.2,Up-to-date
+es6-object-assign,1.1.0,1.1.0,Up-to-date
+is-nan,1.3.2,1.3.2,Up-to-date
+object-is,1.1.6,1.1.6,Up-to-date
+util,0.12.5,0.12.5,Up-to-date
+find-cache-dir,3.3.2,6.0.0,Update available (6.0.0)
+loader-utils,2.0.4,3.3.1,Update available (3.3.1)
+make-dir,3.1.0,5.0.0,Update available (5.0.0)
+schema-utils,2.7.1,4.3.2,Update available (4.3.2)
+ajv-keywords,3.5.2,5.1.0,Update available (5.1.0)
+bhttp,1.2.8,1.2.8,Up-to-date
+extend,2.0.2,3.0.2,Update available (3.0.2)
+calmcard,0.1.1,0.1.1,Up-to-date
+chalk,1.1.3,5.6.2,Update available (5.6.2)
+char-spinner,1.0.1,1.0.1,Up-to-date
+condense-whitespace,1.0.0,3.0.0,Update available (3.0.0)
+default-user-agent,1.0.0,1.0.0,Up-to-date
+errno,0.1.8,1.0.0,Update available (1.0.0)
+extend,3.0.2,3.0.2,Up-to-date
+http-equiv-refresh,1.0.0,2.0.1,Update available (2.0.1)
+humanize-duration,3.33.0,3.33.0,Up-to-date
+is-stream,1.1.0,4.0.1,Update available (4.0.1)
+is-string,1.1.1,1.1.1,Up-to-date
+limited-request-queue,2.0.0,5.1.0,Update available (5.1.0)
+link-types,1.1.0,3.0.0,Update available (3.0.0)
+maybe-callback,2.1.0,2.1.0,Up-to-date
+nopter,0.3.0,0.3.0,Up-to-date
+camelcase,1.2.1,8.0.0,Update available (8.0.0)
+chalk,0.5.1,5.6.2,Update available (5.6.2)
+object-assign,2.1.1,4.1.1,Update available (4.1.1)
+ansi-styles,1.1.0,6.2.3,Update available (6.2.3)
+has-ansi,0.1.0,6.0.2,Update available (6.0.2)
+strip-ansi,0.3.0,7.1.2,Update available (7.1.2)
+supports-color,0.2.0,10.2.2,Update available (10.2.2)
+ansi-regex,0.2.1,6.2.2,Update available (6.2.2)
+parse5,3.0.3,8.0.0,Update available (8.0.0)
+robot-directives,0.3.0,0.4.0,Update available (0.4.0)
+robots-txt-guard,0.1.1,1.0.2,Update available (1.0.2)
+robots-txt-parse,0.0.4,2.0.1,Update available (2.0.1)
+urlcache,0.7.0,0.7.0,Up-to-date
+urlobj,0.0.11,0.0.11,Up-to-date
+base64-js,1.5.1,1.5.1,Up-to-date
+ieee754,1.2.1,1.2.1,Up-to-date
+cheerio-select,2.1.0,2.1.0,Up-to-date
+dom-serializer,2.0.0,2.0.0,Up-to-date
+domhandler,5.0.3,5.0.3,Up-to-date
+domutils,3.2.2,3.2.2,Up-to-date
+encoding-sniffer,0.2.1,0.2.1,Up-to-date
+htmlparser2,10.0.0,10.0.0,Up-to-date
+parse5-htmlparser2-tree-adapter,7.1.0,8.0.0,Update available (8.0.0)
+parse5-parser-stream,7.1.2,8.0.0,Update available (8.0.0)
+undici,7.15.0,7.16.0,Update available (7.16.0)
+whatwg-mimetype,4.0.0,4.0.0,Up-to-date
+browserify-cipher,1.0.1,1.0.1,Up-to-date
+browserify-sign,4.2.3,4.2.3,Up-to-date
+create-ecdh,4.0.4,4.0.4,Up-to-date
+bn.js,4.12.2,5.2.2,Update available (5.2.2)
+create-hash,1.2.0,1.2.0,Up-to-date
+create-hmac,1.1.7,1.1.7,Up-to-date
+diffie-hellman,5.0.3,5.0.3,Up-to-date
+hash-base,3.0.5,3.1.0,Update available (3.1.0)
+inherits,2.0.4,2.0.4,Up-to-date
+pbkdf2,3.1.3,3.1.3,Up-to-date
+create-hash,1.1.3,1.2.0,Update available (1.2.0)
+ripemd160,2.0.1,2.0.2,Update available (2.0.2)
+hash-base,2.0.2,3.1.0,Update available (3.1.0)
+public-encrypt,4.0.3,4.0.3,Up-to-date
+randombytes,2.1.0,2.1.0,Up-to-date
+randomfill,1.0.4,1.0.4,Up-to-date
+jsdoctypeparser,9.0.0,9.0.0,Up-to-date
+markdown-it,13.0.1,14.1.0,Update available (14.1.0)
+entities,3.0.1,7.0.0,Update available (7.0.0)
+mdast-util-from-markdown,0.8.5,2.0.2,Update available (2.0.2)
+micromark,2.11.4,4.0.2,Update available (4.0.2)
+requireindex,1.1.0,1.2.0,Update available (1.2.0)
+eslint-utils,4.9.0,3.0.0,Current version is newer than npm (3.0.0)
+eslintrc,2.1.4,1.0.6,Current version is newer than npm (1.0.6)
+js,8.57.1,0.1.0,Current version is newer than npm (0.1.0)
+config-array,0.13.0,,Not Found
+module-importer,1.0.1,0.2.0,Current version is newer than npm (0.2.0)
+fs.walk,1.2.8,,Not Found
+structured-clone,1.3.0,0.2.2,Current version is newer than npm (0.2.2)
+cross-spawn,7.0.6,7.0.6,Up-to-date
+doctrine,3.0.0,3.0.0,Up-to-date
+eslint-scope,7.2.2,8.4.0,Update available (8.4.0)
+eslint-visitor-keys,3.4.3,4.2.1,Update available (4.2.1)
+esquery,1.6.0,1.6.0,Up-to-date
+esutils,2.0.3,2.0.3,Up-to-date
+file-entry-cache,6.0.1,10.1.4,Update available (10.1.4)
+find-up,5.0.0,7.0.0,Update available (7.0.0)
+glob-parent,6.0.2,6.0.2,Up-to-date
+globals,13.24.0,16.4.0,Update available (16.4.0)
+imurmurhash,0.1.4,0.1.4,Up-to-date
+is-glob,4.0.3,4.0.3,Up-to-date
+is-path-inside,3.0.3,4.0.0,Update available (4.0.0)
+js-yaml,4.1.0,4.1.0,Up-to-date
+json-stable-stringify-without-jsonify,1.0.1,1.0.1,Up-to-date
+levn,0.4.1,0.4.1,Up-to-date
+lodash.merge,4.6.2,4.6.2,Up-to-date
+optionator,0.9.4,0.9.4,Up-to-date
+text-table,0.2.0,0.2.0,Up-to-date
+accepts,1.3.8,1.3.8,Up-to-date
+array-flatten,1.1.1,3.0.0,Update available (3.0.0)
+body-parser,1.20.3,2.2.0,Update available (2.2.0)
+iconv-lite,0.4.24,0.7.0,Update available (0.7.0)
+content-disposition,0.5.4,0.5.4,Up-to-date
+content-type,1.0.5,1.0.5,Up-to-date
+cookie-signature,1.0.6,1.2.2,Update available (1.2.2)
+cookie,0.7.1,1.0.2,Update available (1.0.2)
+depd,2.0.0,2.0.0,Up-to-date
+encodeurl,2.0.0,2.0.0,Up-to-date
+escape-html,1.0.3,1.0.3,Up-to-date
+etag,1.8.1,1.8.1,Up-to-date
+finalhandler,1.3.1,2.1.0,Update available (2.1.0)
+fresh,0.5.2,0.5.2,Up-to-date
+http-errors,2.0.0,2.0.0,Up-to-date
+merge-descriptors,1.0.3,2.0.0,Update available (2.0.0)
+methods,1.1.2,1.1.2,Up-to-date
+on-finished,2.4.1,2.4.1,Up-to-date
+parseurl,1.3.3,1.3.3,Up-to-date
+path-to-regexp,0.1.12,8.3.0,Update available (8.3.0)
+proxy-addr,2.0.7,2.0.7,Up-to-date
+qs,6.13.0,6.14.0,Update available (6.14.0)
+range-parser,1.2.1,1.2.1,Up-to-date
+safe-buffer,5.2.1,5.2.1,Up-to-date
+send,0.19.0,1.2.0,Update available (1.2.0)
+encodeurl,1.0.2,2.0.0,Update available (2.0.0)
+serve-static,1.16.2,2.2.0,Update available (2.2.0)
+setprototypeof,1.2.0,1.2.0,Up-to-date
+statuses,2.0.1,2.0.2,Update available (2.0.2)
+type-is,1.6.18,2.0.1,Update available (2.0.1)
+utils-merge,1.0.1,1.0.1,Up-to-date
+vary,1.1.2,1.1.2,Up-to-date
+graceful-fs,4.2.11,4.2.11,Up-to-date
+jsonfile,6.2.0,6.2.0,Up-to-date
+universalify,2.0.1,2.0.1,Up-to-date
+globby,14.1.0,14.1.0,Up-to-date
+jsonc-parser,3.3.1,3.3.1,Up-to-date
+markdownlint-cli2-formatter-default,0.0.5,0.0.5,Up-to-date
+markdownlint,0.38.0,0.38.0,Up-to-date
+micromatch,4.0.8,4.0.8,Up-to-date
+browser-stdout,1.3.1,1.3.1,Up-to-date
+chokidar,4.0.3,4.0.3,Up-to-date
+diff,7.0.0,8.0.2,Update available (8.0.2)
+glob,10.4.5,11.0.3,Update available (11.0.3)
+he,1.2.0,1.2.0,Up-to-date
+log-symbols,4.1.0,7.0.1,Update available (7.0.1)
+minimatch,9.0.5,10.0.3,Update available (10.0.3)
+picocolors,1.1.1,1.1.1,Up-to-date
+serialize-javascript,6.0.2,6.0.2,Up-to-date
+strip-json-comments,3.1.1,5.0.3,Update available (5.0.3)
+workerpool,9.3.3,9.3.3,Up-to-date
+yargs-parser,21.1.1,22.0.0,Update available (22.0.0)
+yargs-unparser,2.0.0,2.0.0,Up-to-date
+decamelize,4.0.0,6.0.1,Update available (6.0.1)
+is-plain-obj,2.1.0,4.1.0,Update available (4.1.0)
+yargs,17.7.2,18.0.0,Update available (18.0.0)
+mongodb-memory-server-core,10.2.0,10.2.0,Up-to-date
+tar-stream,3.1.7,3.1.7,Up-to-date
+yauzl,3.2.0,3.2.0,Up-to-date
+tslib,2.8.1,2.8.1,Up-to-date
+saslprep,1.3.0,1.0.3,Current version is newer than npm (1.0.3)
+mongodb-connection-string-url,3.0.2,3.0.2,Up-to-date
+load-nyc-config,1.1.0,,Not Found
+js-yaml,3.14.1,4.1.0,Update available (4.1.0)
+argparse,1.0.10,2.0.1,Update available (2.0.1)
+schema,0.1.3,0.2.1,Update available (0.2.1)
+caching-transform,4.0.0,4.0.0,Up-to-date
+decamelize,1.2.0,6.0.1,Update available (6.0.1)
+get-package-type,0.1.0,0.1.0,Up-to-date
+istanbul-lib-coverage,3.2.2,3.2.2,Up-to-date
+istanbul-lib-hook,3.0.0,3.0.0,Up-to-date
+istanbul-lib-instrument,4.0.3,6.0.3,Update available (6.0.3)
+istanbul-lib-processinfo,2.0.3,2.0.3,Up-to-date
+uuid,8.3.2,13.0.0,Update available (13.0.0)
+istanbul-lib-report,3.0.1,3.0.1,Up-to-date
+make-dir,4.0.0,5.0.0,Update available (5.0.0)
+istanbul-lib-source-maps,4.0.1,5.0.6,Update available (5.0.6)
+istanbul-reports,3.2.0,3.2.0,Up-to-date
+node-preload,0.2.1,0.2.1,Up-to-date
+p-map,3.0.0,7.0.3,Update available (7.0.3)
+process-on-spawn,1.1.0,1.1.0,Up-to-date
+rimraf,3.0.2,6.0.1,Update available (6.0.1)
+spawn-wrap,2.0.0,2.0.0,Up-to-date
+test-exclude,6.0.0,7.0.1,Update available (7.0.1)
+pug-code-gen,3.0.3,3.0.3,Up-to-date
+pug-filters,4.0.0,4.0.0,Up-to-date
+pug-lexer,5.0.1,5.0.1,Up-to-date
+pug-linker,4.0.0,4.0.0,Up-to-date
+pug-load,3.0.0,3.0.0,Up-to-date
+pug-parser,6.0.0,6.0.0,Up-to-date
+pug-runtime,3.0.1,3.0.1,Up-to-date
+pug-strip-comments,2.0.0,2.0.0,Up-to-date
+commons,3.0.1,0.0.1-pre,Current version is newer than npm (0.0.1-pre)
+fake-timers,13.0.5,0.1.2,Current version is newer than npm (0.1.2)
+samsam,8.0.3,1.3.0,Current version is newer than npm (1.3.0)
+type-detect,4.1.0,4.1.0,Up-to-date
+eslint-formatter-pretty,4.1.0,6.0.1,Update available (6.0.1)
+jest-diff,29.7.0,30.1.2,Update available (30.1.2)
+meow,9.0.0,13.2.0,Update available (13.2.0)
+type-fest,0.18.1,4.41.0,Update available (4.41.0)
+yargs-parser,20.2.9,22.0.0,Update available (22.0.0)
+path-exists,4.0.0,5.0.0,Update available (5.0.0)
+read-pkg-up,7.0.1,11.0.0,Update available (11.0.0)
+type-fest,0.8.1,4.41.0,Update available (4.41.0)
+eslint-scope,3.7.7,8.4.0,Update available (8.4.0)
+estree,1.0.8,,Not Found
+json-schema,7.0.15,0.4.0,Current version is newer than npm (0.4.0)
+ast,1.14.1,1.0.7,Current version is newer than npm (1.0.7)
+wasm-edit,1.14.1,,Not Found
+wasm-parser,1.14.1,,Not Found
+acorn-import-phases,1.0.4,1.0.4,Up-to-date
+acorn,8.15.0,8.15.0,Up-to-date
+browserslist,4.25.4,4.25.4,Up-to-date
+chrome-trace-event,1.0.4,1.0.4,Up-to-date
+enhanced-resolve,5.18.3,5.18.3,Up-to-date
+es-module-lexer,1.7.0,1.7.0,Up-to-date
+events,3.3.0,3.3.0,Up-to-date
+glob-to-regexp,0.4.1,0.4.1,Up-to-date
+json-parse-even-better-errors,2.3.1,4.0.0,Update available (4.0.0)
+loader-runner,4.3.0,4.3.0,Up-to-date
+mime-types,2.1.35,3.0.1,Update available (3.0.1)
+neo-async,2.6.2,2.6.2,Up-to-date
+tapable,2.2.3,2.2.3,Up-to-date
+terser-webpack-plugin,5.3.14,5.3.14,Up-to-date
+watchpack,2.4.4,2.4.4,Up-to-date
+webpack-sources,3.3.3,3.3.3,Up-to-date
+gen-mapping,0.3.13,0.0.1-security,Current version is newer than npm (0.0.1-security)
+trace-mapping,0.3.30,,Not Found
+helper-validator-identifier,7.27.1,,Not Found
+js-tokens,4.0.0,9.0.1,Update available (9.0.1)
+jsesc,3.1.0,3.1.0,Up-to-date
+lru-cache,5.1.1,11.2.1,Update available (11.2.1)
+helper-module-imports,7.27.1,,Not Found
+helper-globals,7.28.0,,Not Found
+helper-string-parser,7.27.1,,Not Found
+helper-skip-transparent-expression-wrappers,7.27.1,,Not Found
+helper-create-regexp-features-plugin,7.27.1,,Not Found
+helper-remap-async-to-generator,7.27.1,,Not Found
+helper-create-class-features-plugin,7.28.3,,Not Found
+helper-annotate-as-pure,7.27.3,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-replace-supers,7.27.1,,Not Found
+helper-define-polyfill-provider,0.6.5,,Not Found
+decompress-tar,4.1.1,4.1.1,Up-to-date
+decompress-tarbz2,4.1.1,4.1.1,Up-to-date
+file-type,6.2.0,21.0.0,Update available (21.0.0)
+decompress-targz,4.1.1,4.1.1,Up-to-date
+decompress-unzip,4.0.1,4.0.1,Up-to-date
+file-type,3.9.0,21.0.0,Update available (21.0.0)
+pify,2.3.0,6.1.0,Update available (6.1.0)
+strip-dirs,2.1.0,3.0.0,Update available (3.0.0)
+minimist,1.2.8,1.2.8,Up-to-date
+chownr,2.0.0,3.0.0,Update available (3.0.0)
+fs-minipass,2.1.0,3.0.3,Update available (3.0.3)
+minipass,3.3.6,7.1.2,Update available (7.1.2)
+minizlib,2.1.2,3.0.2,Update available (3.0.2)
+project-service,8.43.0,,Not Found
+tsconfig-utils,8.43.0,4.1.1,Current version is newer than npm (4.1.1)
+fast-glob,3.3.3,3.3.3,Up-to-date
+glob-parent,5.1.2,6.0.2,Update available (6.0.2)
+lodash.clonedeep,4.5.0,4.5.0,Up-to-date
+lodash.set,4.3.2,4.3.2,Up-to-date
+acorn-jsx,5.3.2,5.3.2,Up-to-date
+call-bind,1.0.8,1.0.8,Up-to-date
+define-properties,1.2.1,1.2.1,Up-to-date
+is-arguments,1.2.0,1.2.0,Up-to-date
+is-generator-function,1.1.0,1.1.0,Up-to-date
+is-typed-array,1.1.15,1.1.15,Up-to-date
+which-typed-array,1.1.19,1.1.19,Up-to-date
+commondir,1.0.1,1.0.1,Up-to-date
+pkg-dir,4.2.0,9.0.0,Update available (9.0.0)
+big.js,5.2.2,7.0.1,Update available (7.0.1)
+emojis-list,3.0.0,3.0.0,Up-to-date
+bluebird,2.11.0,3.7.2,Update available (3.7.2)
+concat-stream,1.6.2,2.0.0,Update available (2.0.0)
+dev-null,0.1.1,0.1.1,Up-to-date
+errors,0.2.0,0.3.0,Update available (0.3.0)
+form-data2,1.0.4,1.0.4,Up-to-date
+uuid,2.0.3,13.0.0,Update available (13.0.0)
+form-fix-array,1.0.0,1.0.0,Up-to-date
+stream-length,1.0.2,1.0.2,Up-to-date
+through2-sink,1.0.0,1.0.0,Up-to-date
+xtend,3.0.0,4.0.2,Update available (4.0.2)
+through2-spy,1.2.0,2.0.0,Update available (2.0.0)
+tough-cookie,2.5.0,6.0.0,Update available (6.0.0)
+ansi-styles,2.2.1,6.2.3,Update available (6.2.3)
+escape-string-regexp,1.0.5,5.0.0,Update available (5.0.0)
+has-ansi,2.0.0,6.0.2,Update available (6.0.2)
+strip-ansi,3.0.1,7.1.2,Update available (7.1.2)
+supports-color,2.0.0,10.2.2,Update available (10.2.2)
+os-name,1.0.3,6.1.0,Update available (6.1.0)
+prr,1.0.1,1.0.1,Up-to-date
+call-bound,1.0.4,1.0.4,Up-to-date
+has-tostringtag,1.0.2,1.0.2,Up-to-date
+is-browser,2.1.0,2.1.0,Up-to-date
+parse-domain,0.2.2,8.2.2,Update available (8.2.2)
+caller-path,0.1.0,4.0.0,Update available (4.0.0)
+cli-table,0.3.11,0.3.11,Up-to-date
+eol,0.2.0,0.10.0,Update available (0.10.0)
+nopt,3.0.6,8.1.0,Update available (8.1.0)
+splitargs,0.0.7,0.0.7,Up-to-date
+node,24.3.1,20.19.5,Current version is newer than npm (20.19.5)
+isbot,2.5.7,5.1.30,Update available (5.1.30)
+useragent,2.3.0,2.3.0,Up-to-date
+lru-cache,4.1.5,11.2.1,Update available (11.2.1)
+yallist,2.1.2,5.0.0,Update available (5.0.0)
+split,0.3.3,1.0.1,Update available (1.0.1)
+stream-combiner,0.2.2,0.2.2,Up-to-date
+through,2.3.8,2.3.8,Up-to-date
+is-object,1.0.2,1.0.2,Up-to-date
+object-assign,4.1.1,4.1.1,Up-to-date
+boolbase,1.0.0,1.0.0,Up-to-date
+css-select,5.2.2,6.0.0,Update available (6.0.0)
+css-what,6.2.2,7.0.0,Update available (7.0.0)
+domelementtype,2.3.0,2.3.0,Up-to-date
+entities,4.5.0,7.0.0,Update available (7.0.0)
+iconv-lite,0.6.3,0.7.0,Update available (0.7.0)
+whatwg-encoding,3.1.1,3.1.1,Up-to-date
+browserify-aes,1.2.0,1.2.0,Up-to-date
+browserify-des,1.0.2,1.0.2,Up-to-date
+evp_bytestokey,1.0.3,1.0.3,Up-to-date
+bn.js,5.2.2,5.2.2,Up-to-date
+browserify-rsa,4.1.1,4.1.1,Up-to-date
+elliptic,6.6.1,6.6.1,Up-to-date
+parse-asn1,5.1.7,5.1.7,Up-to-date
+readable-stream,2.3.8,4.7.0,Update available (4.7.0)
+safe-buffer,5.1.2,5.2.1,Update available (5.2.1)
+cipher-base,1.0.6,1.0.6,Up-to-date
+md5.js,1.3.5,1.3.5,Up-to-date
+ripemd160,2.0.2,2.0.2,Up-to-date
+sha.js,2.4.12,2.4.12,Up-to-date
+miller-rabin,4.0.1,4.0.1,Up-to-date
+to-buffer,1.2.1,1.2.1,Up-to-date
+isarray,2.0.5,2.0.5,Up-to-date
+argparse,2.0.1,2.0.1,Up-to-date
+linkify-it,4.0.1,5.0.0,Update available (5.0.0)
+mdurl,1.0.1,2.0.0,Update available (2.0.0)
+uc.micro,1.0.6,2.1.0,Update available (2.1.0)
+mdast,3.0.15,3.0.0,Current version is newer than npm (3.0.0)
+mdast-util-to-string,2.0.0,4.0.0,Update available (4.0.0)
+parse-entities,2.0.0,4.0.2,Update available (4.0.2)
+character-entities,1.2.4,2.0.2,Update available (2.0.2)
+unist-util-stringify-position,2.0.3,4.0.0,Update available (4.0.0)
+import-fresh,3.3.1,3.3.1,Up-to-date
+object-schema,2.0.3,0.1.19,Current version is newer than npm (0.1.19)
+fs.scandir,2.1.5,,Not Found
+fastq,1.19.1,1.19.1,Up-to-date
+fast-json-stable-stringify,2.1.0,2.1.0,Up-to-date
+uri-js,4.4.1,4.4.1,Up-to-date
+path-key,3.1.1,4.0.0,Update available (4.0.0)
+shebang-command,2.0.0,2.0.0,Up-to-date
+which,2.0.2,5.0.0,Update available (5.0.0)
+esrecurse,4.3.0,4.3.0,Up-to-date
+estraverse,5.3.0,5.3.0,Up-to-date
+flat-cache,3.2.0,6.1.13,Update available (6.1.13)
+locate-path,6.0.0,7.2.0,Update available (7.2.0)
+type-fest,0.20.2,4.41.0,Update available (4.41.0)
+is-extglob,2.1.1,2.1.1,Up-to-date
+prelude-ls,1.2.1,1.2.1,Up-to-date
+type-check,0.4.0,0.4.0,Up-to-date
+deep-is,0.1.4,0.1.4,Up-to-date
+fast-levenshtein,2.0.6,3.0.0,Update available (3.0.0)
+word-wrap,1.2.5,1.2.5,Up-to-date
+negotiator,0.6.3,1.0.0,Update available (1.0.0)
+bytes,3.1.2,3.1.2,Up-to-date
+destroy,1.2.0,1.2.0,Up-to-date
+raw-body,2.5.2,3.0.1,Update available (3.0.1)
+unpipe,1.0.0,1.0.0,Up-to-date
+toidentifier,1.0.1,1.0.1,Up-to-date
+ee-first,1.1.1,1.1.1,Up-to-date
+forwarded,0.2.0,0.2.0,Up-to-date
+ipaddr.js,1.9.1,2.2.0,Update available (2.2.0)
+side-channel,1.1.0,1.1.0,Up-to-date
+mime,1.6.0,4.0.7,Update available (4.0.7)
+media-typer,0.3.0,1.1.0,Update available (1.1.0)
+merge-streams,2.3.0,,Not Found
+path-type,6.0.0,6.0.0,Up-to-date
+slash,5.1.0,5.1.0,Up-to-date
+unicorn-magic,0.3.0,0.3.0,Up-to-date
+punycode.js,2.3.1,2.3.1,Up-to-date
+micromark-core-commonmark,2.0.3,2.0.3,Up-to-date
+micromark-extension-directive,4.0.0,4.0.0,Up-to-date
+parse-entities,4.0.2,4.0.2,Up-to-date
+character-entities-legacy,3.0.0,3.0.0,Up-to-date
+character-reference-invalid,2.0.1,2.0.1,Up-to-date
+is-alphanumerical,2.0.1,2.0.1,Up-to-date
+is-decimal,2.0.1,2.0.1,Up-to-date
+is-hexadecimal,2.0.1,2.0.1,Up-to-date
+is-alphabetical,2.0.1,2.0.1,Up-to-date
+micromark-extension-gfm-autolink-literal,2.1.0,2.1.0,Up-to-date
+micromark-extension-gfm-footnote,2.1.0,2.1.0,Up-to-date
+micromark-extension-gfm-table,2.1.1,2.1.1,Up-to-date
+micromark-extension-math,3.1.0,3.1.0,Up-to-date
+micromark-util-types,2.0.2,2.0.2,Up-to-date
+micromark,4.0.2,4.0.2,Up-to-date
+braces,3.0.3,3.0.3,Up-to-date
+picomatch,2.3.1,4.0.3,Update available (4.0.3)
+readdirp,4.1.2,4.1.2,Up-to-date
+foreground-child,3.3.1,3.3.1,Up-to-date
+jackspeak,3.4.3,4.1.1,Update available (4.1.1)
+minipass,7.1.2,7.1.2,Up-to-date
+package-json-from-dist,1.0.1,1.0.1,Up-to-date
+path-scurry,1.11.1,2.0.0,Update available (2.0.0)
+lru-cache,10.4.3,11.2.1,Update available (11.2.1)
+is-unicode-supported,0.1.0,2.1.0,Update available (2.1.0)
+brace-expansion,2.0.2,4.0.1,Update available (4.0.1)
+has-flag,4.0.0,5.0.1,Update available (5.0.1)
+camelcase,6.3.0,8.0.0,Update available (8.0.0)
+flat,5.0.2,6.0.1,Update available (6.0.1)
+cliui,8.0.1,9.0.1,Update available (9.0.1)
+wrap-ansi,7.0.0,9.0.2,Update available (9.0.2)
+escalade,3.2.0,3.2.0,Up-to-date
+get-caller-file,2.0.5,2.0.5,Up-to-date
+require-directory,2.1.1,2.1.1,Up-to-date
+y18n,5.0.8,5.0.8,Up-to-date
+async-mutex,0.5.0,0.5.0,Up-to-date
+follow-redirects,1.15.11,1.15.11,Up-to-date
+https-proxy-agent,7.0.6,7.0.6,Up-to-date
+new-find-package-json,2.0.0,2.0.0,Up-to-date
+sparse-bitfield,3.0.3,3.0.3,Up-to-date
+whatwg-url,11.0.5,14.2.0,Update available (14.2.0)
+whatwg-url,14.2.0,14.2.0,Up-to-date
+hasha,5.2.2,6.0.0,Update available (6.0.0)
+is-stream,2.0.1,4.0.1,Update available (4.0.1)
+package-hash,4.0.0,4.0.0,Up-to-date
+write-file-atomic,3.0.3,6.0.0,Update available (6.0.0)
+fs.realpath,1.0.0,1.0.0,Up-to-date
+inflight,1.0.6,1.0.6,Up-to-date
+once,1.4.0,1.4.0,Up-to-date
+path-is-absolute,1.0.1,2.0.0,Update available (2.0.0)
+append-transform,2.0.0,2.0.0,Up-to-date
+archy,1.0.0,1.0.0,Up-to-date
+source-map,0.6.1,0.7.6,Update available (0.7.6)
+html-escaper,2.0.2,3.0.3,Update available (3.0.3)
+aggregate-error,3.1.0,5.0.0,Update available (5.0.0)
+fromentries,1.3.2,1.3.2,Up-to-date
+is-windows,1.0.2,1.0.2,Up-to-date
+require-main-filename,2.0.0,2.0.0,Up-to-date
+set-blocking,2.0.0,2.0.0,Up-to-date
+which-module,2.0.1,2.0.1,Up-to-date
+constantinople,4.0.1,4.0.1,Up-to-date
+doctypes,1.1.0,1.1.0,Up-to-date
+js-stringify,1.0.2,1.0.2,Up-to-date
+pug-attrs,3.0.0,3.0.0,Up-to-date
+pug-error,2.1.0,2.1.0,Up-to-date
+void-elements,3.1.0,3.1.0,Up-to-date
+with,7.0.2,7.0.2,Up-to-date
+jstransformer,1.0.0,1.0.0,Up-to-date
+pug-walk,2.0.0,2.0.0,Up-to-date
+resolve,1.22.10,1.22.10,Up-to-date
+character-parser,2.2.0,4.0.0,Update available (4.0.0)
+is-expression,4.0.0,4.0.0,Up-to-date
+acorn,7.4.1,8.15.0,Update available (8.15.0)
+token-stream,1.0.0,1.0.0,Up-to-date
+type-detect,4.0.8,4.1.0,Update available (4.1.0)
+string_decoder,1.1.1,1.3.0,Update available (1.3.0)
+util-deprecate,1.0.2,1.0.2,Up-to-date
+eslint,7.29.0,9.35.0,Update available (9.35.0)
+ansi-escapes,4.3.2,7.1.0,Update available (7.1.0)
+type-fest,0.21.3,4.41.0,Update available (4.41.0)
+eslint-rule-docs,1.1.235,1.1.235,Up-to-date
+plur,4.0.0,5.1.0,Update available (5.1.0)
+supports-hyperlinks,2.3.0,4.1.2,Update available (4.1.2)
+array-union,2.1.0,3.0.1,Update available (3.0.1)
+dir-glob,3.0.1,3.0.1,Up-to-date
+path-type,4.0.0,6.0.0,Update available (6.0.0)
+merge2,1.4.1,1.4.1,Up-to-date
+diff-sequences,29.6.3,29.6.3,Up-to-date
+jest-get-type,29.6.3,29.6.3,Up-to-date
+pretty-format,29.7.0,30.0.5,Update available (30.0.5)
+ansi-styles,5.2.0,6.2.3,Update available (6.2.3)
+minimist,1.2.5,1.2.8,Update available (1.2.8)
+camelcase-keys,6.2.2,10.0.0,Update available (10.0.0)
+decamelize-keys,1.1.1,2.0.1,Update available (2.0.1)
+map-obj,1.0.1,5.0.2,Update available (5.0.2)
+hard-rejection,2.1.0,2.1.0,Up-to-date
+minimist-options,4.1.0,4.1.0,Up-to-date
+normalize-package-data,3.0.3,8.0.0,Update available (8.0.0)
+redent,3.0.0,4.0.0,Update available (4.0.0)
+trim-newlines,3.0.1,5.0.0,Update available (5.0.0)
+read-pkg,5.2.0,9.0.1,Update available (9.0.1)
+normalize-package-data,2.5.0,8.0.0,Update available (8.0.0)
+type-fest,0.6.0,4.41.0,Update available (4.41.0)
+hosted-git-info,2.8.9,9.0.0,Update available (9.0.0)
+semver,5.7.2,7.7.2,Update available (7.7.2)
+helper-numbers,1.13.2,,Not Found
+helper-wasm-bytecode,1.13.2,,Not Found
+helper-buffer,1.14.1,,Not Found
+helper-wasm-section,1.14.1,,Not Found
+wasm-gen,1.14.1,,Not Found
+wasm-opt,1.14.1,1.4.0,Current version is newer than npm (1.4.0)
+wast-printer,1.14.1,,Not Found
+helper-api-error,1.13.2,,Not Found
+ieee754,1.13.2,1.2.1,Current version is newer than npm (1.2.1)
+leb128,1.13.2,0.0.5,Current version is newer than npm (0.0.5)
+utf8,1.13.2,3.0.0,Update available (3.0.0)
+caniuse-lite,1.0.30001741,1.0.30001741,Up-to-date
+electron-to-chromium,1.5.215,1.5.215,Up-to-date
+node-releases,2.0.20,2.0.20,Up-to-date
+update-browserslist-db,1.1.3,1.1.3,Up-to-date
+mime-db,1.52.0,1.54.0,Update available (1.54.0)
+ajv-formats,2.1.1,3.0.1,Update available (3.0.1)
+ajv-keywords,5.1.0,5.1.0,Up-to-date
+jest-worker,27.5.1,30.1.0,Update available (30.1.0)
+terser,5.44.0,5.44.0,Up-to-date
+commander,2.20.3,14.0.0,Update available (14.0.0)
+sourcemap-codec,1.5.5,1.4.8,Current version is newer than npm (1.4.8)
+resolve-uri,3.1.2,,Not Found
+yallist,3.1.1,5.0.0,Update available (5.0.0)
+regexpu-core,6.2.0,6.3.0,Update available (6.3.0)
+helper-wrap-function,7.28.3,,Not Found
+helper-member-expression-to-functions,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-optimise-call-expression,7.27.1,,Not Found
+lodash.debounce,4.0.8,4.0.8,Up-to-date
+file-type,5.2.0,21.0.0,Update available (21.0.0)
+tar-stream,1.6.2,3.1.7,Update available (3.1.7)
+seek-bzip,1.0.6,2.0.0,Update available (2.0.0)
+unbzip2-stream,1.4.3,1.4.3,Up-to-date
+get-stream,2.3.1,9.0.1,Update available (9.0.1)
+yauzl,2.10.0,3.2.0,Update available (3.2.0)
+is-natural-number,4.0.1,4.0.1,Up-to-date
+fs.stat,2.0.5,,Not Found
+call-bind-apply-helpers,1.0.2,1.0.2,Up-to-date
+es-define-property,1.0.1,1.0.1,Up-to-date
+get-intrinsic,1.3.0,1.3.0,Up-to-date
+set-function-length,1.2.2,1.2.2,Up-to-date
+define-data-property,1.1.4,1.1.4,Up-to-date
+has-property-descriptors,1.0.2,1.0.2,Up-to-date
+object-keys,1.1.1,1.1.1,Up-to-date
+get-proto,1.0.1,1.0.1,Up-to-date
+safe-regex-test,1.1.0,1.1.0,Up-to-date
+available-typed-arrays,1.0.7,1.0.7,Up-to-date
+for-each,0.3.5,0.3.5,Up-to-date
+gopd,1.2.0,1.2.0,Up-to-date
+buffer-from,1.1.2,1.1.2,Up-to-date
+typedarray,0.0.6,0.0.7,Update available (0.0.7)
+combined-stream2,1.1.2,1.1.2,Up-to-date
+through2,0.5.1,4.0.2,Update available (4.0.2)
+readable-stream,1.0.34,4.7.0,Update available (4.7.0)
+isarray,0.0.1,2.0.5,Update available (2.0.5)
+string_decoder,0.10.31,1.3.0,Update available (1.3.0)
+psl,1.15.0,1.15.0,Up-to-date
+punycode,2.3.1,2.3.1,Up-to-date
+ansi-regex,2.1.1,6.2.2,Update available (6.2.2)
+osx-release,1.1.0,2.0.0,Update available (2.0.0)
+win-release,1.1.1,3.0.0,Update available (3.0.0)
+has-symbols,1.1.0,1.1.0,Up-to-date
+callsites,0.2.0,4.2.0,Update available (4.2.0)
+colors,1.0.3,1.4.0,Update available (1.4.0)
+abbrev,1.1.1,3.0.1,Update available (3.0.1)
+undici-types,7.10.0,7.16.0,Update available (7.16.0)
+tmp,0.0.33,0.2.5,Update available (0.2.5)
+duplexer,0.1.2,0.1.2,Up-to-date
+nth-check,2.1.1,2.1.1,Up-to-date
+safer-buffer,2.1.2,2.1.2,Up-to-date
+buffer-xor,1.0.3,2.0.2,Update available (2.0.2)
+des.js,1.1.0,1.1.0,Up-to-date
+brorand,1.1.0,1.1.0,Up-to-date
+hash.js,1.1.7,1.1.7,Up-to-date
+hmac-drbg,1.0.1,1.0.1,Up-to-date
+minimalistic-assert,1.0.1,1.0.1,Up-to-date
+minimalistic-crypto-utils,1.0.1,1.0.1,Up-to-date
+asn1.js,4.10.1,5.4.1,Update available (5.4.1)
+core-util-is,1.0.3,1.0.3,Up-to-date
+isarray,1.0.0,2.0.5,Update available (2.0.5)
+process-nextick-args,2.0.1,2.0.1,Up-to-date
+typed-array-buffer,1.0.3,1.0.3,Up-to-date
+unist,2.0.11,0.0.1,Current version is newer than npm (0.0.1)
+character-entities-legacy,1.1.4,3.0.0,Update available (3.0.0)
+character-reference-invalid,1.1.4,2.0.1,Update available (2.0.1)
+is-alphanumerical,1.0.4,2.0.1,Update available (2.0.1)
+is-decimal,1.0.4,2.0.1,Update available (2.0.1)
+is-hexadecimal,1.0.4,2.0.1,Update available (2.0.1)
+parent-module,1.0.1,3.1.0,Update available (3.1.0)
+callsites,3.1.0,4.2.0,Update available (4.2.0)
+resolve-from,4.0.0,5.0.0,Update available (5.0.0)
+run-parallel,1.2.0,1.2.0,Up-to-date
+reusify,1.1.0,1.1.0,Up-to-date
+color-convert,2.0.1,3.1.0,Update available (3.1.0)
+shebang-regex,3.0.0,4.0.0,Update available (4.0.0)
+isexe,2.0.0,3.1.1,Update available (3.1.1)
+flatted,3.3.3,3.3.3,Up-to-date
+keyv,4.5.4,5.5.0,Update available (5.5.0)
+p-locate,5.0.0,6.0.0,Update available (6.0.0)
+balanced-match,1.0.2,3.0.1,Update available (3.0.1)
+concat-map,0.0.1,0.0.2,Update available (0.0.2)
+es-errors,1.3.0,1.3.0,Up-to-date
+object-inspect,1.13.4,1.13.4,Up-to-date
+side-channel-list,1.0.0,1.0.0,Up-to-date
+side-channel-map,1.0.1,1.0.1,Up-to-date
+side-channel-weakmap,1.0.2,1.0.2,Up-to-date
+decode-named-character-reference,1.2.0,1.2.0,Up-to-date
+devlop,1.1.0,1.1.0,Up-to-date
+micromark-factory-destination,2.0.1,2.0.1,Up-to-date
+micromark-factory-label,2.0.1,2.0.1,Up-to-date
+micromark-factory-space,2.0.1,2.0.1,Up-to-date
+micromark-factory-title,2.0.1,2.0.1,Up-to-date
+micromark-factory-whitespace,2.0.1,2.0.1,Up-to-date
+micromark-util-character,2.1.1,2.1.1,Up-to-date
+micromark-util-chunked,2.0.1,2.0.1,Up-to-date
+micromark-util-classify-character,2.0.1,2.0.1,Up-to-date
+micromark-util-html-tag-name,2.0.1,2.0.1,Up-to-date
+micromark-util-normalize-identifier,2.0.1,2.0.1,Up-to-date
+micromark-util-resolve-all,2.0.1,2.0.1,Up-to-date
+micromark-util-subtokenize,2.1.0,2.1.0,Up-to-date
+micromark-util-symbol,2.0.1,2.0.1,Up-to-date
+micromark-util-sanitize-uri,2.0.1,2.0.1,Up-to-date
+katex,0.16.7,0.16.22,Update available (0.16.22)
+katex,0.16.22,0.16.22,Up-to-date
+commander,8.3.0,14.0.0,Update available (14.0.0)
+debug,4.1.12,4.4.1,Update available (4.4.1)
+micromark-util-combine-extensions,2.0.1,2.0.1,Up-to-date
+micromark-util-decode-numeric-character-reference,2.0.2,2.0.2,Up-to-date
+micromark-util-encode,2.0.1,2.0.1,Up-to-date
+fill-range,7.1.1,7.1.1,Up-to-date
+signal-exit,4.1.0,4.1.0,Up-to-date
+cliui,8.0.2,9.0.1,Update available (9.0.1)
+strip-ansi,7.1.2,7.1.2,Up-to-date
+ansi-regex,6.2.2,6.2.2,Up-to-date
+parseargs,0.11.0,,Not Found
+is-fullwidth-code-point,3.0.0,5.1.0,Update available (5.1.0)
+agent-base,7.1.4,7.1.4,Up-to-date
+b4a,1.6.7,1.6.7,Up-to-date
+fast-fifo,1.3.2,1.3.2,Up-to-date
+streamx,2.22.1,2.22.1,Up-to-date
+buffer-crc32,0.2.13,1.0.0,Update available (1.0.0)
+pend,1.2.0,1.2.0,Up-to-date
+memory-pager,1.5.0,1.5.0,Up-to-date
+webidl-conversions,7.0.3,8.0.0,Update available (8.0.0)
+tr46,5.1.1,5.1.1,Up-to-date
+webidl-conversions,7.0.0,8.0.0,Update available (8.0.0)
+esprima,4.0.1,4.0.1,Up-to-date
+lodash.flattendeep,4.4.0,4.4.0,Up-to-date
+release-zalgo,1.0.0,1.0.0,Up-to-date
+is-typedarray,1.0.0,1.0.0,Up-to-date
+typedarray-to-buffer,3.1.5,4.0.0,Update available (4.0.0)
+wrappy,1.0.2,1.0.2,Up-to-date
+default-require-extensions,3.0.1,3.0.1,Up-to-date
+clean-stack,2.2.0,5.2.0,Update available (5.2.0)
+indent-string,4.0.0,5.0.0,Update available (5.0.0)
+assert-never,1.4.0,1.4.0,Up-to-date
+babel-walk,3.0.0-canary-5,3.0.1,Current version is newer than npm (3.0.1)
+is-promise,2.2.2,4.0.0,Update available (4.0.0)
+promise,7.3.1,8.3.0,Update available (8.3.0)
+is-core-module,2.16.1,2.16.1,Up-to-date
+path-parse,1.0.7,1.0.7,Up-to-date
+supports-preserve-symlinks-flag,1.0.0,1.0.0,Up-to-date
+is-regex,1.2.1,1.2.1,Up-to-date
+irregular-plurals,3.5.0,4.1.0,Update available (4.1.0)
+schemas,29.6.3,1.0.0,Current version is newer than npm (1.0.0)
+react-is,18.3.1,19.1.1,Update available (19.1.1)
+map-obj,4.3.0,5.0.2,Update available (5.0.2)
+quick-lru,4.0.1,7.1.0,Update available (7.1.0)
+arrify,1.0.1,3.0.0,Update available (3.0.0)
+is-plain-obj,1.1.0,4.1.0,Update available (4.1.0)
+kind-of,6.0.3,6.0.3,Up-to-date
+hosted-git-info,4.1.0,9.0.0,Update available (9.0.0)
+lru-cache,6.0.0,11.2.1,Update available (11.2.1)
+validate-npm-package-license,3.0.4,3.0.4,Up-to-date
+strip-indent,3.0.0,4.0.0,Update available (4.0.0)
+normalize-package-data,2.4.4,8.0.0,Update available (8.0.0)
+parse-json,5.2.0,8.3.0,Update available (8.3.0)
+floating-point-hex-parser,1.13.2,,Not Found
+long,4.2.2,5.3.2,Update available (5.3.2)
+ieee754,1.2.0,1.2.1,Update available (1.2.1)
+merge-stream,2.0.0,2.0.0,Up-to-date
+source-map,0.3.11,0.7.6,Update available (0.7.6)
+source-map-support,0.5.21,0.5.21,Up-to-date
+regenerate-unicode-properties,10.2.0,10.2.2,Update available (10.2.2)
+regenerate,1.4.2,1.4.2,Up-to-date
+regjsgen,0.8.0,0.8.0,Up-to-date
+regjsparser,0.12.0,0.12.0,Up-to-date
+jsesc,3.0.2,3.1.0,Update available (3.1.0)
+unicode-match-property-ecmascript,2.0.0,2.0.0,Up-to-date
+unicode-match-property-value-ecmascript,2.2.0,2.2.1,Update available (2.2.1)
+bl,1.2.3,6.1.3,Update available (6.1.3)
+buffer-alloc,1.2.0,1.2.0,Up-to-date
+end-of-stream,1.4.5,1.4.5,Up-to-date
+fs-constants,1.0.0,1.0.0,Up-to-date
+xtend,4.0.2,4.0.2,Up-to-date
+pinkie-promise,2.0.1,2.0.1,Up-to-date
+fd-slicer,1.1.0,1.1.0,Up-to-date
+function-bind,1.1.2,1.1.2,Up-to-date
+es-object-atoms,1.1.1,1.1.1,Up-to-date
+hasown,2.0.2,2.0.2,Up-to-date
+math-intrinsics,1.1.0,1.1.0,Up-to-date
+dunder-proto,1.0.1,1.0.1,Up-to-date
+possible-typed-array-names,1.1.0,1.1.0,Up-to-date
+is-callable,1.2.7,1.2.7,Up-to-date
+pseudomap,1.0.2,1.0.2,Up-to-date
+os-tmpdir,1.0.2,2.0.0,Update available (2.0.0)
+is-alphabetical,1.0.4,2.0.1,Update available (2.0.1)
+queue-microtask,1.2.3,1.2.3,Up-to-date
+color-name,1.1.4,2.0.0,Update available (2.0.0)
+json-buffer,3.0.1,3.0.1,Up-to-date
+p-limit,3.1.0,7.1.1,Update available (7.1.1)
+character-entities,2.0.2,2.0.2,Up-to-date
+dequal,2.0.3,2.0.3,Up-to-date
+ms,2.1.0,2.1.3,Update available (2.1.3)
+to-regex-range,5.0.1,5.0.1,Up-to-date
+string-width,5.1.2,8.1.0,Update available (8.1.0)
+wrap-ansi,8.1.0,9.0.2,Update available (9.0.2)
+ansi-styles,6.2.3,6.2.3,Up-to-date
+bare-events,2.6.1,2.6.1,Up-to-date
+text-decoder,1.2.3,1.2.3,Up-to-date
+sprintf-js,1.0.3,1.1.3,Update available (1.1.3)
+es6-error,4.1.1,4.1.1,Up-to-date
+strip-bom,4.0.0,5.0.0,Update available (5.0.0)
+asap,2.0.6,2.0.6,Up-to-date
+typebox,0.27.8,1.0.0,Update available (1.0.0)
+spdx-correct,3.2.0,3.2.0,Up-to-date
+spdx-expression-parse,3.0.1,4.0.0,Update available (4.0.0)
+min-indent,1.0.1,1.0.1,Up-to-date
+error-ex,1.3.2,1.3.2,Up-to-date
+lines-and-columns,1.2.4,2.0.4,Update available (2.0.4)
+unicode-canonical-property-names-ecmascript,2.0.1,2.0.1,Up-to-date
+unicode-property-aliases-ecmascript,2.1.0,2.1.0,Up-to-date
+buffer-alloc-unsafe,1.1.0,1.1.0,Up-to-date
+buffer-fill,1.0.0,1.0.0,Up-to-date
+pinkie,2.0.4,2.0.4,Up-to-date
+yocto-queue,0.1.0,1.2.1,Update available (1.2.1)
+is-number,7.0.0,7.0.0,Up-to-date
+eastasianwidth,0.2.0,0.3.0,Update available (0.3.0)
+emoji-regex,9.2.2,10.5.0,Update available (10.5.0)
+p-try,2.2.0,3.0.0,Update available (3.0.0)
+spdx-license-ids,3.0.22,3.0.22,Up-to-date
+spdx-exceptions,2.5.0,2.5.0,Up-to-date
+is-arrayish,0.2.1,0.3.2,Update available (0.3.2)
+node,16.18.126,20.19.5,Update available (20.19.5)
+ava,3.15.0,6.4.1,Update available (6.4.1)
+c8,7.14.0,10.1.3,Update available (10.1.3)
+execa,6.1.0,9.6.0,Update available (9.6.0)
+log-update,5.0.1,6.1.0,Update available (6.1.0)
+cli-cursor,4.0.0,5.0.0,Update available (5.0.0)
+slice-ansi,5.0.0,7.1.2,Update available (7.1.2)
+restore-cursor,4.0.0,5.1.0,Update available (5.1.0)
+is-fullwidth-code-point,4.0.0,5.1.0,Update available (5.1.0)
+onetime,5.1.2,7.0.0,Update available (7.0.0)
+mimic-fn,2.1.0,5.0.0,Update available (5.0.0)
+matcha,0.7.0,0.7.0,Up-to-date
+tsd,0.19.1,0.33.0,Update available (0.33.0)
+xo,0.57.0,1.2.2,Update available (1.2.2)
+arrify,3.0.0,3.0.0,Up-to-date
+eslint-formatter-pretty,6.0.1,6.0.1,Up-to-date
+eslint,8.56.12,9.35.0,Update available (9.35.0)
+eslint-plugin-prettier,5.5.4,5.5.4,Up-to-date
+meow,13.2.0,13.2.0,Up-to-date
+ansi-escapes,6.2.1,7.1.0,Update available (7.1.0)
+chalk,5.6.2,5.6.2,Up-to-date
+log-symbols,6.0.0,7.0.1,Update available (7.0.1)
+plur,5.1.0,5.1.0,Up-to-date
+string-width,7.2.0,8.1.0,Update available (8.1.0)
+supports-hyperlinks,3.2.0,4.1.2,Update available (4.1.2)
+eslint,9.6.1,9.35.0,Update available (9.35.0)
+is-unicode-supported,1.3.0,2.1.0,Update available (2.1.0)
+emoji-regex,10.5.0,10.5.0,Up-to-date
+yoctodelay,2.0.0,2.0.0,Up-to-date
+react,2.0.0,19.1.1,Update available (19.1.1)
+acorn-walk,8.3.4,8.3.4,Up-to-date
+arrgv,1.0.2,1.0.2,Up-to-date
+arrify,2.0.1,3.0.0,Update available (3.0.0)
+chokidar,3.6.0,4.0.3,Update available (4.0.3)
+chunkd,2.0.1,2.0.1,Up-to-date
+ci-info,2.0.0,4.3.0,Update available (4.3.0)
+ci-parallel-vars,1.0.1,1.0.1,Up-to-date
+clean-yaml-object,0.1.0,0.1.0,Up-to-date
+cli-cursor,3.1.0,5.0.0,Update available (5.0.0)
+cli-truncate,2.1.0,5.0.0,Update available (5.0.0)
+code-excerpt,3.0.0,4.0.0,Update available (4.0.0)
+common-path-prefix,3.0.0,3.0.0,Up-to-date
+concordance,5.0.4,5.0.4,Up-to-date
+currently-unhandled,0.4.1,0.4.1,Up-to-date
+del,6.1.1,8.0.0,Update available (8.0.0)
+emittery,0.8.1,1.2.0,Update available (1.2.0)
+equal-length,1.0.1,1.0.1,Up-to-date
+figures,3.2.0,6.1.0,Update available (6.1.0)
+ignore-by-default,2.1.0,2.1.0,Up-to-date
+import-local,3.2.0,3.2.0,Up-to-date
+is-error,2.2.2,2.2.2,Up-to-date
+is-plain-object,5.0.0,5.0.0,Up-to-date
+is-promise,4.0.0,4.0.0,Up-to-date
+lodash,4.17.21,4.17.21,Up-to-date
+matcher,3.0.0,5.0.0,Update available (5.0.0)
+md5-hex,3.0.1,5.0.0,Update available (5.0.0)
+mem,8.1.1,10.0.0,Update available (10.0.0)
+ora,5.4.1,8.2.0,Update available (8.2.0)
+p-event,4.2.0,6.0.1,Update available (6.0.1)
+p-map,4.0.0,7.0.3,Update available (7.0.3)
+pkg-conf,3.1.0,5.0.0,Update available (5.0.0)
+find-up,3.0.0,7.0.0,Update available (7.0.0)
+locate-path,3.0.0,7.2.0,Update available (7.2.0)
+p-locate,3.0.0,6.0.0,Update available (6.0.0)
+path-exists,3.0.0,5.0.0,Update available (5.0.0)
+pretty-ms,7.0.1,9.2.0,Update available (9.2.0)
+resolve-cwd,3.0.0,3.0.0,Up-to-date
+stack-utils,2.0.6,2.0.6,Up-to-date
+escape-string-regexp,2.0.0,5.0.0,Update available (5.0.0)
+supertap,2.0.0,3.0.1,Update available (3.0.1)
+temp-dir,2.0.0,3.0.0,Update available (3.0.0)
+trim-off-newlines,1.0.3,1.0.3,Up-to-date
+update-notifier,5.1.0,7.3.1,Update available (7.3.1)
+yargs,16.2.0,18.0.0,Update available (18.0.0)
+v8-coverage,0.2.3,1.0.9,Update available (1.0.9)
+v8-to-istanbul,9.3.0,9.3.0,Up-to-date
+get-stream,6.0.1,9.0.1,Update available (9.0.1)
+human-signals,3.0.1,8.0.1,Update available (8.0.1)
+is-stream,3.0.0,4.0.1,Update available (4.0.1)
+npm-run-path,5.3.0,6.0.0,Update available (6.0.0)
+path-key,4.0.0,4.0.0,Up-to-date
+onetime,6.0.0,7.0.0,Update available (7.0.0)
+mimic-fn,4.0.0,5.0.0,Update available (5.0.0)
+strip-final-newline,3.0.0,4.0.0,Update available (4.0.0)
+ansi-escapes,5.0.0,7.1.0,Update available (7.1.0)
+electron,0.4.1,38.0.0,Update available (38.0.0)
+v8-argv,0.1.0,0.2.0,Update available (0.2.0)
+typescript,4.5.5,5.9.2,Update available (5.9.2)
+eslintrc,3.3.1,1.0.6,Current version is newer than npm (1.0.6)
+eslint-plugin,6.21.0,1.0.1,Current version is newer than npm (1.0.1)
+parser,6.21.0,0.1.4,Current version is newer than npm (0.1.4)
+cosmiconfig,8.3.6,9.0.0,Update available (9.0.0)
+define-lazy-prop,3.0.0,3.0.0,Up-to-date
+eslint-config-prettier,9.1.2,10.1.8,Update available (10.1.8)
+eslint-config-xo-typescript,2.1.1,9.0.0,Update available (9.0.0)
+eslint-config-xo,0.44.0,0.49.0,Update available (0.49.0)
+eslint-import-resolver-webpack,0.13.10,0.13.10,Up-to-date
+debug,3.2.7,4.4.1,Update available (4.4.1)
+resolve,2.0.0-next.5,1.22.10,Current version is newer than npm (1.22.10)
+eslint-plugin-ava,14.0.0,15.1.0,Update available (15.1.0)
+pkg-dir,5.0.0,9.0.0,Update available (9.0.0)
+eslint-plugin-eslint-comments,3.2.0,3.2.0,Up-to-date
+eslint-plugin-import,2.32.0,2.32.0,Up-to-date
+doctrine,2.1.0,3.0.0,Update available (3.0.0)
+eslint-plugin-n,16.6.2,17.21.3,Update available (17.21.3)
+eslint-plugin-no-use-extend-native,0.5.0,0.7.2,Update available (0.7.2)
+eslint-plugin-unicorn,51.0.1,61.0.2,Update available (61.0.2)
+ci-info,4.3.0,4.3.0,Up-to-date
+esm-utils,4.4.2,4.4.2,Up-to-date
+find-cache-dir,5.0.0,6.0.0,Update available (6.0.0)
+pkg-dir,7.0.0,9.0.0,Update available (9.0.0)
+find-up,6.3.0,7.0.0,Update available (7.0.0)
+locate-path,7.2.0,7.2.0,Up-to-date
+path-exists,5.0.0,5.0.0,Up-to-date
+p-locate,6.0.0,6.0.0,Up-to-date
+p-limit,4.0.0,7.1.1,Update available (7.1.1)
+yocto-queue,1.2.1,1.2.1,Up-to-date
+find-up-simple,1.0.1,1.0.1,Up-to-date
+get-stdin,9.0.0,9.0.0,Up-to-date
+get-tsconfig,4.10.1,4.10.1,Up-to-date
+lodash-es,4.17.21,4.17.21,Up-to-date
+open-editor,4.1.1,5.1.0,Update available (5.1.0)
+execa,5.1.1,9.6.0,Update available (9.6.0)
+human-signals,2.1.0,8.0.1,Update available (8.0.1)
+npm-run-path,4.0.1,6.0.0,Update available (6.0.0)
+strip-final-newline,2.0.0,4.0.0,Update available (4.0.0)
+prettier,3.6.2,3.6.2,Up-to-date
+to-absolute-glob,3.0.0,3.0.0,Up-to-date
+anymatch,3.1.3,3.1.3,Up-to-date
+fsevents,2.3.3,2.3.3,Up-to-date
+is-binary-path,2.1.0,3.0.0,Update available (3.0.0)
+normalize-path,3.0.0,3.0.0,Up-to-date
+readdirp,3.6.0,4.1.2,Update available (4.1.2)
+restore-cursor,3.1.0,5.1.0,Update available (5.1.0)
+slice-ansi,3.0.0,7.1.2,Update available (7.1.2)
+convert-to-spaces,1.0.2,2.0.1,Update available (2.0.1)
+date-time,3.1.0,4.0.0,Update available (4.0.0)
+fast-diff,1.3.0,1.3.0,Up-to-date
+js-string-escape,1.0.1,1.0.1,Up-to-date
+well-known-symbols,2.0.0,4.1.0,Update available (4.1.0)
+array-find-index,1.0.2,1.0.2,Up-to-date
+is-path-cwd,2.2.0,4.0.1,Update available (4.0.1)
+blueimp-md5,2.19.0,2.19.0,Up-to-date
+map-age-cleaner,0.1.3,0.2.0,Update available (0.2.0)
+mimic-fn,3.1.0,5.0.0,Update available (5.0.0)
+bl,4.1.0,6.1.3,Update available (6.1.3)
+cli-spinners,2.9.2,3.2.0,Update available (3.2.0)
+is-interactive,1.0.0,2.0.0,Update available (2.0.0)
+wcwidth,1.0.1,1.0.1,Up-to-date
+p-timeout,3.2.0,6.1.4,Update available (6.1.4)
+load-json-file,5.3.0,7.0.1,Update available (7.0.1)
+type-fest,0.3.1,4.41.0,Update available (4.41.0)
+parse-ms,2.1.0,4.0.0,Update available (4.0.0)
+serialize-error,7.0.1,12.0.0,Update available (12.0.0)
+type-fest,0.13.1,4.41.0,Update available (4.41.0)
+boxen,5.1.2,8.0.1,Update available (8.0.1)
+configstore,5.0.1,7.0.0,Update available (7.0.0)
+has-yarn,2.1.0,3.0.0,Update available (3.0.0)
+import-lazy,2.1.0,4.0.0,Update available (4.0.0)
+is-ci,2.0.0,4.1.0,Update available (4.1.0)
+is-installed-globally,0.4.0,1.0.0,Update available (1.0.0)
+is-npm,5.0.0,6.0.0,Update available (6.0.0)
+is-yarn-global,0.3.0,0.4.1,Update available (0.4.1)
+latest-version,5.1.0,9.0.0,Update available (9.0.0)
+pupa,2.1.1,3.1.0,Update available (3.1.0)
+semver-diff,3.1.1,4.0.0,Update available (4.0.0)
+xdg-basedir,4.0.0,5.1.0,Update available (5.1.0)
+cliui,7.0.4,9.0.1,Update available (9.0.1)
+istanbul-lib-coverage,2.0.6,3.2.2,Update available (3.2.2)
+type-fest,1.4.0,4.41.0,Update available (4.41.0)
+drip,1.1.0,1.4.0,Update available (1.4.0)
+espree,10.4.0,10.4.0,Up-to-date
+globals,14.0.0,16.4.0,Update available (16.4.0)
+scope-manager,6.21.0,,Not Found
+type-utils,6.21.0,0.10.6,Current version is newer than npm (0.10.6)
+utils,6.21.0,0.3.1,Current version is newer than npm (0.3.1)
+visitor-keys,6.21.0,,Not Found
+ts-api-utils,1.4.3,2.1.0,Update available (2.1.0)
+types,6.21.0,0.1.1,Current version is newer than npm (0.1.1)
+typescript-estree,6.21.0,18.1.0,Update available (18.1.0)
+minimatch,9.0.3,10.0.3,Update available (10.0.3)
+confusing-browser-globals,1.0.11,1.0.11,Up-to-date
+enhanced-resolve,0.9.1,5.18.3,Update available (5.18.3)
+find-root,1.1.0,1.1.0,Up-to-date
+interpret,1.4.0,3.1.1,Update available (3.1.1)
+enhance-visitors,1.0.0,1.0.0,Up-to-date
+eslint-utils,3.0.0,3.0.0,Up-to-date
+eslint-visitor-keys,2.1.0,4.2.1,Update available (4.2.1)
+espurify,2.1.1,3.2.0,Update available (3.2.0)
+import-modules,2.1.0,3.2.0,Update available (3.2.0)
+micro-spelling-correcter,1.1.1,1.1.1,Up-to-date
+scc,1.1.0,0.1.3,Current version is newer than npm (0.1.3)
+array-includes,3.1.9,3.1.9,Up-to-date
+array.prototype.findlastindex,1.2.6,1.2.6,Up-to-date
+array.prototype.flat,1.3.3,1.3.3,Up-to-date
+array.prototype.flatmap,1.3.3,1.3.3,Up-to-date
+eslint-import-resolver-node,0.3.9,0.3.9,Up-to-date
+eslint-module-utils,2.12.1,2.12.1,Up-to-date
+object.fromentries,2.0.8,2.0.8,Up-to-date
+object.groupby,1.0.3,1.0.3,Up-to-date
+object.values,1.2.1,1.2.1,Up-to-date
+string.prototype.trimend,1.0.9,1.0.9,Up-to-date
+tsconfig-paths,3.15.0,4.2.0,Update available (4.2.0)
+builtins,5.1.0,5.1.0,Up-to-date
+eslint-plugin-es-x,7.8.0,9.1.0,Update available (9.1.0)
+is-builtin-module,3.2.1,5.0.0,Update available (5.0.0)
+is-get-set-prop,1.0.0,2.0.0,Update available (2.0.0)
+is-js-type,2.0.0,3.0.0,Update available (3.0.0)
+is-obj-prop,1.0.0,2.0.0,Update available (2.0.0)
+is-proto-prop,2.0.0,3.0.1,Update available (3.0.1)
+prettier-linter-helpers,1.0.0,1.0.0,Up-to-date
+synckit,0.11.11,0.11.11,Up-to-date
+clean-regexp,1.0.0,1.0.0,Up-to-date
+pluralize,8.0.0,8.0.0,Up-to-date
+regexp-tree,0.1.27,0.1.27,Up-to-date
+regjsparser,0.10.0,0.12.0,Update available (0.12.0)
+jsesc,0.5.0,3.1.0,Update available (3.1.0)
+import-meta-resolve,4.2.0,4.2.0,Up-to-date
+url-or-path,2.6.1,2.6.1,Up-to-date
+resolve-pkg-maps,1.0.0,1.0.0,Up-to-date
+env-editor,1.2.0,1.2.0,Up-to-date
+line-column-path,3.0.0,3.0.0,Up-to-date
+type-fest,2.19.0,4.41.0,Update available (4.41.0)
+open,8.4.2,10.2.0,Update available (10.2.0)
+define-lazy-prop,2.0.0,3.0.0,Update available (3.0.0)
+is-absolute,1.0.0,1.0.0,Up-to-date
+is-negated-glob,1.0.0,1.0.0,Up-to-date
+binary-extensions,2.3.0,3.1.0,Update available (3.1.0)
+astral-regex,2.0.0,2.0.0,Up-to-date
+time-zone,1.0.0,2.0.0,Update available (2.0.0)
+p-defer,1.0.0,4.0.1,Update available (4.0.1)
+defaults,1.0.4,3.0.0,Update available (3.0.0)
+p-finally,1.0.0,3.0.0,Update available (3.0.0)
+parse-json,4.0.0,8.3.0,Update available (8.3.0)
+pify,4.0.1,6.1.0,Update available (6.1.0)
+strip-bom,3.0.0,5.0.0,Update available (5.0.0)
+ansi-align,3.0.1,3.0.1,Up-to-date
+cli-boxes,2.2.1,4.0.1,Update available (4.0.1)
+widest-line,3.1.0,5.0.0,Update available (5.0.0)
+dot-prop,5.3.0,9.0.0,Update available (9.0.0)
+unique-string,2.0.0,3.0.0,Update available (3.0.0)
+global-dirs,3.0.1,4.0.0,Update available (4.0.0)
+package-json,6.5.0,10.0.1,Update available (10.0.1)
+escape-goat,2.1.1,4.0.0,Update available (4.0.0)
+tea-concat,0.1.0,0.1.0,Up-to-date
+semver,7.7.1,7.7.2,Update available (7.7.2)
+get-east-asian-width,1.4.0,1.4.0,Up-to-date
+memory-fs,0.2.0,0.5.0,Update available (0.5.0)
+tapable,0.1.10,2.2.3,Update available (2.2.3)
+es-abstract,1.24.0,1.24.0,Up-to-date
+es-shim-unscopables,1.1.0,1.1.0,Up-to-date
+json5,0.0.29,2.2.3,Update available (2.2.3)
+json5,1.0.2,2.2.3,Update available (2.2.3)
+eslint-compat-utils,0.5.1,0.6.5,Update available (0.6.5)
+builtin-modules,3.3.0,5.0.0,Update available (5.0.0)
+get-set-props,0.1.0,0.2.0,Update available (0.2.0)
+lowercase-keys,1.0.1,3.0.0,Update available (3.0.0)
+js-types,1.0.0,4.0.0,Update available (4.0.0)
+obj-props,1.4.0,2.0.0,Update available (2.0.0)
+proto-props,2.0.0,4.0.0,Update available (4.0.0)
+core,0.2.9,1.0.113,Update available (1.0.113)
+is-docker,2.2.1,3.0.0,Update available (3.0.0)
+is-wsl,2.2.0,3.1.0,Update available (3.1.0)
+is-relative,1.0.0,1.0.0,Up-to-date
+string_decoder,1.3.0,1.3.0,Up-to-date
+clone,1.0.4,2.1.2,Update available (2.1.2)
+json-parse-better-errors,1.0.2,1.0.2,Up-to-date
+is-obj,2.0.0,3.0.0,Update available (3.0.0)
+crypto-random-string,2.0.0,5.0.0,Update available (5.0.0)
+ini,2.0.0,5.0.0,Update available (5.0.0)
+got,9.6.0,14.4.8,Update available (14.4.8)
+get-stream,4.1.0,9.0.1,Update available (9.0.1)
+registry-auth-token,4.2.2,5.1.0,Update available (5.1.0)
+registry-url,5.1.0,7.2.0,Update available (7.2.0)
+array-buffer-byte-length,1.0.2,1.0.2,Up-to-date
+arraybuffer.prototype.slice,1.0.4,1.0.4,Up-to-date
+data-view-buffer,1.0.2,1.0.2,Up-to-date
+data-view-byte-length,1.0.2,1.0.2,Up-to-date
+data-view-byte-offset,1.0.1,1.0.1,Up-to-date
+es-set-tostringtag,2.1.0,2.1.0,Up-to-date
+es-to-primitive,1.3.0,1.3.0,Up-to-date
+function.prototype.name,1.1.8,1.1.8,Up-to-date
+get-symbol-description,1.1.0,1.1.0,Up-to-date
+globalthis,1.0.4,1.0.4,Up-to-date
+has-proto,1.2.0,1.2.0,Up-to-date
+internal-slot,1.1.0,1.1.0,Up-to-date
+is-array-buffer,3.0.5,3.0.5,Up-to-date
+is-data-view,1.0.2,1.0.2,Up-to-date
+is-negative-zero,2.0.3,2.0.3,Up-to-date
+is-set,2.0.3,2.0.3,Up-to-date
+is-shared-array-buffer,1.0.4,1.0.4,Up-to-date
+is-weakref,1.1.1,1.1.1,Up-to-date
+object.assign,4.1.7,4.1.7,Up-to-date
+own-keys,1.0.1,1.0.1,Up-to-date
+regexp.prototype.flags,1.5.4,1.5.4,Up-to-date
+safe-array-concat,1.1.3,1.1.3,Up-to-date
+safe-push-apply,1.0.0,1.0.0,Up-to-date
+set-proto,1.0.0,1.0.0,Up-to-date
+stop-iteration-iterator,1.1.0,1.1.0,Up-to-date
+string.prototype.trim,1.2.10,1.2.10,Up-to-date
+string.prototype.trimstart,1.0.8,1.0.8,Up-to-date
+typed-array-byte-length,1.0.3,1.0.3,Up-to-date
+typed-array-byte-offset,1.0.4,1.0.4,Up-to-date
+typed-array-length,1.0.7,1.0.7,Up-to-date
+unbox-primitive,1.1.0,1.1.0,Up-to-date
+is-unc-path,1.0.0,1.0.0,Up-to-date
+is,0.14.0,3.3.2,Update available (3.3.2)
+http-timer,1.1.2,,Not Found
+cacheable-request,6.1.0,13.0.9,Update available (13.0.9)
+get-stream,5.2.0,9.0.1,Update available (9.0.1)
+lowercase-keys,2.0.0,3.0.0,Update available (3.0.0)
+decompress-response,3.3.0,9.0.0,Update available (9.0.0)
+duplexer3,0.1.5,1.0.0,Update available (1.0.0)
+mimic-response,1.0.1,4.0.0,Update available (4.0.0)
+p-cancelable,1.1.0,4.0.1,Update available (4.0.1)
+to-readable-stream,1.0.0,4.0.0,Update available (4.0.0)
+url-parse-lax,3.0.0,6.0.0,Update available (6.0.0)
+rc,1.2.8,1.2.8,Up-to-date
+ini,1.3.8,5.0.0,Update available (5.0.0)
+is-date-object,1.1.0,1.1.0,Up-to-date
+is-symbol,1.1.1,1.1.1,Up-to-date
+functions-have-names,1.2.3,1.2.3,Up-to-date
+set-function-name,2.0.2,2.0.2,Up-to-date
+reflect.getprototypeof,1.0.10,1.0.10,Up-to-date
+has-bigints,1.1.0,1.1.0,Up-to-date
+which-boxed-primitive,1.1.1,1.1.1,Up-to-date
+unc-path-regex,0.1.2,0.1.2,Up-to-date
+defer-to-connect,1.1.3,2.0.1,Update available (2.0.1)
+clone-response,1.0.3,2.0.0,Update available (2.0.0)
+http-cache-semantics,4.2.0,4.2.0,Up-to-date
+keyv,3.1.0,5.5.0,Update available (5.5.0)
+normalize-url,4.5.1,8.0.2,Update available (8.0.2)
+responselike,1.0.2,3.0.0,Update available (3.0.0)
+pump,3.0.3,3.0.3,Up-to-date
+prepend-http,2.0.0,4.0.0,Update available (4.0.0)
+deep-extend,0.6.0,0.6.0,Up-to-date
+strip-json-comments,2.0.1,5.0.3,Update available (5.0.3)
+which-builtin-type,1.2.1,1.2.1,Up-to-date
+is-bigint,1.1.0,1.1.0,Up-to-date
+is-boolean-object,1.2.2,1.2.2,Up-to-date
+is-number-object,1.1.1,1.1.1,Up-to-date
+json-buffer,3.0.0,3.0.1,Update available (3.0.1)
+is-async-function,2.1.1,2.1.1,Up-to-date
+is-finalizationregistry,1.1.1,1.1.1,Up-to-date
+which-collection,1.0.2,1.0.2,Up-to-date
+async-function,1.0.0,1.0.0,Up-to-date
+is-map,2.0.3,2.0.3,Up-to-date
+is-weakmap,2.0.2,2.0.2,Up-to-date
+is-weakset,2.0.4,2.0.4,Up-to-date
+jest,29.7.0,30.1.3,Update available (30.1.3)
+node-addon-api,8.3.0,8.5.0,Update available (8.5.0)
+node-gyp-build,4.8.4,4.8.4,Up-to-date
+prebuildify,6.0.1,6.0.1,Up-to-date
+npm-run-path,3.1.0,6.0.0,Update available (6.0.0)
+core,29.7.0,1.0.113,Current version is newer than npm (1.0.113)
+types,29.6.3,0.1.1,Current version is newer than npm (0.1.1)
+jest-cli,29.7.0,30.1.3,Update available (30.1.3)
+mkdirp-classic,0.5.3,0.5.3,Up-to-date
+node-abi,3.74.0,4.14.0,Update available (4.14.0)
+pump,3.0.2,3.0.3,Update available (3.0.3)
+tar-fs,2.1.2,3.1.0,Update available (3.1.0)
+console,29.7.0,0.7.2,Current version is newer than npm (0.7.2)
+reporters,29.7.0,0.0.4,Current version is newer than npm (0.0.4)
+test-result,29.7.0,2.0.0,Current version is newer than npm (2.0.0)
+transform,29.7.0,1.1.2,Current version is newer than npm (1.1.2)
+node,22.13.1,20.19.5,Current version is newer than npm (20.19.5)
+ci-info,3.9.0,4.3.0,Update available (4.3.0)
+exit,0.1.2,0.1.2,Up-to-date
+jest-changed-files,29.7.0,30.0.5,Update available (30.0.5)
+jest-config,29.7.0,30.1.3,Update available (30.1.3)
+jest-haste-map,29.7.0,30.1.0,Update available (30.1.0)
+jest-message-util,29.7.0,30.1.0,Update available (30.1.0)
+jest-regex-util,29.6.3,30.0.1,Update available (30.0.1)
+jest-resolve-dependencies,29.7.0,30.1.3,Update available (30.1.3)
+jest-resolve,29.7.0,30.1.3,Update available (30.1.3)
+jest-runner,29.7.0,30.1.3,Update available (30.1.3)
+jest-runtime,29.7.0,30.1.3,Update available (30.1.3)
+jest-snapshot,29.7.0,30.1.2,Update available (30.1.2)
+jest-util,29.7.0,30.0.5,Update available (30.0.5)
+jest-validate,29.7.0,30.1.0,Update available (30.1.0)
+jest-watcher,29.7.0,30.1.3,Update available (30.1.3)
+istanbul-reports,3.0.4,3.2.0,Update available (3.2.0)
+yargs,17.0.33,18.0.0,Update available (18.0.0)
+create-jest,29.7.0,30.1.3,Update available (30.1.3)
+end-of-stream,1.4.4,1.4.5,Update available (1.4.5)
+chownr,1.1.4,3.0.0,Update available (3.0.0)
+tar-stream,2.2.0,3.1.7,Update available (3.1.7)
+trace-mapping,0.3.25,,Not Found
+collect-v8-coverage,1.0.2,1.0.2,Up-to-date
+istanbul-lib-instrument,6.0.3,6.0.3,Up-to-date
+istanbul-reports,3.1.7,3.2.0,Update available (3.2.0)
+jest-worker,29.7.0,30.1.0,Update available (30.1.0)
+string-length,4.0.2,6.0.0,Update available (6.0.0)
+core,7.26.7,1.0.113,Current version is newer than npm (1.0.113)
+babel-plugin-istanbul,6.1.1,7.0.1,Update available (7.0.1)
+istanbul-lib-instrument,5.2.1,6.0.3,Update available (6.0.3)
+pirates,4.0.6,4.0.7,Update available (4.0.7)
+write-file-atomic,4.0.2,6.0.0,Update available (6.0.0)
+undici-types,6.20.0,7.16.0,Update available (7.16.0)
+test-sequencer,29.7.0,,Not Found
+babel-jest,29.7.0,30.1.2,Update available (30.1.2)
+deepmerge,4.3.1,4.3.1,Up-to-date
+jest-circus,29.7.0,30.1.3,Update available (30.1.3)
+jest-environment-node,29.7.0,30.1.2,Update available (30.1.2)
+graceful-fs,4.1.9,4.2.11,Update available (4.2.11)
+fb-watchman,2.0.2,2.0.2,Up-to-date
+walker,1.0.8,1.0.8,Up-to-date
+code-frame,7.26.2,5.0.0,Current version is newer than npm (5.0.0)
+stack-utils,2.0.3,2.0.6,Update available (2.0.6)
+jest-pnp-resolver,1.2.3,1.2.3,Up-to-date
+resolve.exports,2.0.3,2.0.3,Up-to-date
+environment,29.7.0,1.1.0,Current version is newer than npm (1.1.0)
+emittery,0.13.1,1.2.0,Update available (1.2.0)
+jest-docblock,29.7.0,30.0.1,Update available (30.0.1)
+jest-leak-detector,29.7.0,30.1.0,Update available (30.1.0)
+source-map-support,0.5.13,0.5.21,Update available (0.5.21)
+fake-timers,29.7.0,0.1.2,Current version is newer than npm (0.1.2)
+globals,29.7.0,16.4.0,Current version is newer than npm (16.4.0)
+source-map,29.6.3,0.7.6,Current version is newer than npm (0.7.6)
+cjs-module-lexer,1.4.3,2.1.0,Update available (2.1.0)
+jest-mock,29.7.0,30.0.5,Update available (30.0.5)
+generator,7.26.5,1.0.1,Current version is newer than npm (1.0.1)
+plugin-syntax-jsx,7.25.9,,Not Found
+plugin-syntax-typescript,7.25.9,,Not Found
+types,7.26.7,0.1.1,Current version is newer than npm (0.1.1)
+expect-utils,29.7.0,,Not Found
+babel-preset-current-node-syntax,1.1.0,1.2.0,Update available (1.2.0)
+expect,29.7.0,30.1.2,Update available (30.1.2)
+jest-matcher-utils,29.7.0,30.1.2,Update available (30.1.2)
+leven,3.1.0,4.0.0,Update available (4.0.0)
+istanbul-lib-report,3.0.3,3.0.1,Current version is newer than npm (3.0.1)
+yargs-parser,21.0.3,22.0.0,Update available (22.0.0)
+prompts,2.4.2,2.4.2,Up-to-date
+sourcemap-codec,1.5.0,1.4.8,Current version is newer than npm (1.4.8)
+parser,7.26.7,0.1.4,Current version is newer than npm (0.1.4)
+debug,4.4.0,4.4.1,Update available (4.4.1)
+char-regex,1.0.2,2.0.2,Update available (2.0.2)
+helper-compilation-targets,7.26.5,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-module-transforms,7.26.0,,Not Found
+helpers,7.26.7,0.0.6,Current version is newer than npm (0.0.6)
+template,7.25.9,0.17.5,Current version is newer than npm (0.17.5)
+traverse,7.26.7,0.6.11,Current version is newer than npm (0.6.11)
+helper-plugin-utils,7.26.5,0.0.1-security,Current version is newer than npm (0.0.1-security)
+babel__core,7.20.5,,Not Found
+babel-preset-jest,29.6.3,30.0.1,Update available (30.0.1)
+co,4.6.0,4.6.0,Up-to-date
+dedent,1.5.3,1.7.0,Update available (1.7.0)
+is-generator-fn,2.1.0,3.0.0,Update available (3.0.0)
+jest-each,29.7.0,30.1.0,Update available (30.1.0)
+pure-rand,6.1.0,7.0.1,Update available (7.0.1)
+bser,2.1.1,2.1.1,Up-to-date
+makeerror,1.0.12,1.0.12,Up-to-date
+helper-validator-identifier,7.25.9,,Not Found
+detect-newline,3.1.0,4.0.1,Update available (4.0.1)
+fake-timers,10.3.0,0.1.2,Current version is newer than npm (0.1.2)
+gen-mapping,0.3.8,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-string-parser,7.25.9,,Not Found
+plugin-syntax-async-generators,7.8.4,,Not Found
+plugin-syntax-bigint,7.8.3,,Not Found
+plugin-syntax-class-properties,7.12.13,,Not Found
+plugin-syntax-class-static-block,7.14.5,,Not Found
+plugin-syntax-import-attributes,7.26.0,,Not Found
+plugin-syntax-import-meta,7.10.4,,Not Found
+plugin-syntax-json-strings,7.8.3,,Not Found
+plugin-syntax-logical-assignment-operators,7.10.4,,Not Found
+plugin-syntax-nullish-coalescing-operator,7.8.3,,Not Found
+plugin-syntax-numeric-separator,7.10.4,,Not Found
+plugin-syntax-object-rest-spread,7.8.3,,Not Found
+plugin-syntax-optional-catch-binding,7.8.3,,Not Found
+plugin-syntax-optional-chaining,7.8.3,,Not Found
+plugin-syntax-private-property-in-object,7.14.5,,Not Found
+plugin-syntax-top-level-await,7.14.5,,Not Found
+kleur,3.0.3,4.1.5,Update available (4.1.5)
+sisteransi,1.0.5,1.0.5,Up-to-date
+brace-expansion,1.1.11,4.0.1,Update available (4.0.1)
+compat-data,7.26.5,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-validator-option,7.25.9,,Not Found
+browserslist,4.24.4,4.25.4,Update available (4.25.4)
+helper-module-imports,7.25.9,,Not Found
+globals,11.12.0,16.4.0,Update available (16.4.0)
+babel__generator,7.6.8,,Not Found
+babel__template,7.4.4,,Not Found
+babel__traverse,7.20.6,,Not Found
+babel-plugin-jest-hoist,29.6.3,30.0.1,Update available (30.0.1)
+node-int64,0.4.0,0.4.0,Up-to-date
+tmpl,1.0.5,1.0.5,Up-to-date
+set-array,1.2.1,5.0.1,Update available (5.0.1)
+caniuse-lite,1.0.30001697,1.0.30001741,Update available (1.0.30001741)
+electron-to-chromium,1.5.92,1.5.215,Update available (1.5.215)
+node-releases,2.0.19,2.0.20,Update available (2.0.20)
+update-browserslist-db,1.1.2,1.1.3,Update available (1.1.3)
+test,1.55.0,3.3.0,Update available (3.3.0)
+postcss-import,16.1.1,16.1.1,Up-to-date
+postcss,8.5.6,8.5.6,Up-to-date
+prettier-plugin-embed,0.5.0,0.5.0,Up-to-date
+prettier-plugin-organize-imports,4.2.0,4.2.0,Up-to-date
+tsup,8.5.0,8.5.0,Up-to-date
+turbo,2.5.6,2.5.6,Up-to-date
+vitest,2.1.9,3.2.4,Update available (3.2.4)
+pathe,1.1.2,2.0.3,Update available (2.0.3)
+playwright,1.55.0,1.55.0,Up-to-date
+postcss-value-parser,4.2.0,4.2.0,Up-to-date
+read-cache,1.0.0,1.0.0,Up-to-date
+nanoid,3.3.11,5.1.5,Update available (5.1.5)
+source-map-js,1.2.1,1.2.1,Up-to-date
+dedent,1.7.0,1.7.0,Up-to-date
+micro-memoize,4.1.3,4.1.3,Up-to-date
+package-up,5.0.0,5.0.0,Up-to-date
+tiny-jsonc,1.0.2,1.0.2,Up-to-date
+type-fest,4.41.0,4.41.0,Up-to-date
+bundle-require,5.1.0,5.1.0,Up-to-date
+cac,6.7.14,6.7.14,Up-to-date
+consola,3.4.2,3.4.2,Up-to-date
+esbuild,0.25.9,0.25.9,Up-to-date
+fix-dts-default-cjs-exports,1.0.1,1.0.1,Up-to-date
+joycon,3.1.1,3.1.1,Up-to-date
+postcss-load-config,6.0.1,6.0.1,Up-to-date
+rollup,4.50.1,4.50.1,Up-to-date
+source-map,0.8.0-beta.0,0.7.6,Current version is newer than npm (0.7.6)
+sucrase,3.35.0,3.35.0,Up-to-date
+tinyexec,0.3.2,1.0.1,Update available (1.0.1)
+tinyglobby,0.2.15,0.2.15,Up-to-date
+tree-kill,1.2.2,1.2.2,Up-to-date
+turbo-darwin-64,2.5.6,2.5.6,Up-to-date
+turbo-darwin-arm64,2.5.6,2.5.6,Up-to-date
+turbo-linux-64,2.5.6,2.5.6,Up-to-date
+turbo-linux-arm64,2.5.6,2.5.6,Up-to-date
+turbo-windows-64,2.5.6,2.5.6,Up-to-date
+turbo-windows-arm64,2.5.6,2.5.6,Up-to-date
+expect,2.1.9,30.1.2,Update available (30.1.2)
+mocker,2.1.9,0.1.2,Current version is newer than npm (0.1.2)
+pretty-format,2.1.9,30.0.5,Update available (30.0.5)
+runner,2.1.9,4.0.1,Update available (4.0.1)
+snapshot,2.1.9,0.0.0,Current version is newer than npm (0.0.0)
+spy,2.1.9,1.0.0,Current version is newer than npm (1.0.0)
+utils,2.1.9,0.3.1,Current version is newer than npm (0.3.1)
+chai,5.3.3,6.0.1,Update available (6.0.1)
+expect-type,1.2.2,1.2.2,Up-to-date
+magic-string,0.30.19,0.30.19,Up-to-date
+std-env,3.9.0,3.9.0,Up-to-date
+tinybench,2.9.0,5.0.1,Update available (5.0.1)
+tinypool,1.1.1,2.0.0,Update available (2.0.0)
+tinyrainbow,1.2.0,3.0.3,Update available (3.0.3)
+vite-node,2.1.9,3.2.4,Update available (3.2.4)
+vite,5.4.20,7.1.5,Update available (7.1.5)
+esbuild,0.21.5,0.25.9,Update available (0.25.9)
+aix-ppc64,0.21.5,8.0.11,Update available (8.0.11)
+android-arm,0.21.5,8.0.11,Update available (8.0.11)
+android-arm64,0.21.5,8.0.11,Update available (8.0.11)
+android-x64,0.21.5,8.0.11,Update available (8.0.11)
+darwin-arm64,0.21.5,,Not Found
+darwin-x64,0.21.5,,Not Found
+freebsd-arm64,0.21.5,8.0.11,Update available (8.0.11)
+freebsd-x64,0.21.5,8.0.11,Update available (8.0.11)
+linux-arm,0.21.5,,Not Found
+linux-arm64,0.21.5,,Not Found
+linux-ia32,0.21.5,,Not Found
+linux-loong64,0.21.5,,Not Found
+linux-mips64el,0.21.5,,Not Found
+linux-ppc64,0.21.5,,Not Found
+linux-riscv64,0.21.5,,Not Found
+linux-s390x,0.21.5,,Not Found
+linux-x64,0.21.5,,Not Found
+netbsd-x64,0.21.5,,Not Found
+openbsd-x64,0.21.5,,Not Found
+sunos-x64,0.21.5,,Not Found
+win32-arm64,0.21.5,,Not Found
+win32-ia32,0.21.5,,Not Found
+win32-x64,0.21.5,,Not Found
+why-is-node-running,2.3.0,3.2.2,Update available (3.2.2)
+fsevents,2.3.2,2.3.3,Update available (2.3.3)
+playwright-core,1.55.0,1.55.0,Up-to-date
+load-tsconfig,0.2.5,0.2.5,Up-to-date
+aix-ppc64,0.25.9,8.0.11,Update available (8.0.11)
+android-arm,0.25.9,8.0.11,Update available (8.0.11)
+android-arm64,0.25.9,8.0.11,Update available (8.0.11)
+android-x64,0.25.9,8.0.11,Update available (8.0.11)
+darwin-arm64,0.25.9,,Not Found
+darwin-x64,0.25.9,,Not Found
+freebsd-arm64,0.25.9,8.0.11,Update available (8.0.11)
+freebsd-x64,0.25.9,8.0.11,Update available (8.0.11)
+linux-arm,0.25.9,,Not Found
+linux-arm64,0.25.9,,Not Found
+linux-ia32,0.25.9,,Not Found
+linux-loong64,0.25.9,,Not Found
+linux-mips64el,0.25.9,,Not Found
+linux-ppc64,0.25.9,,Not Found
+linux-riscv64,0.25.9,,Not Found
+linux-s390x,0.25.9,,Not Found
+linux-x64,0.25.9,,Not Found
+netbsd-arm64,0.25.9,,Not Found
+netbsd-x64,0.25.9,,Not Found
+openbsd-arm64,0.25.9,,Not Found
+openbsd-x64,0.25.9,,Not Found
+openharmony-arm64,0.25.9,,Not Found
+sunos-x64,0.25.9,,Not Found
+win32-arm64,0.25.9,,Not Found
+win32-ia32,0.25.9,,Not Found
+win32-x64,0.25.9,,Not Found
+mlly,1.8.0,1.8.0,Up-to-date
+lilconfig,3.1.3,3.1.3,Up-to-date
+rollup-android-arm-eabi,4.50.1,,Not Found
+rollup-android-arm64,4.50.1,,Not Found
+rollup-darwin-arm64,4.50.1,,Not Found
+rollup-darwin-x64,4.50.1,,Not Found
+rollup-freebsd-arm64,4.50.1,,Not Found
+rollup-freebsd-x64,4.50.1,,Not Found
+rollup-linux-arm-gnueabihf,4.50.1,,Not Found
+rollup-linux-arm-musleabihf,4.50.1,,Not Found
+rollup-linux-arm64-gnu,4.50.1,,Not Found
+rollup-linux-arm64-musl,4.50.1,,Not Found
+rollup-linux-loongarch64-gnu,4.50.1,,Not Found
+rollup-linux-ppc64-gnu,4.50.1,,Not Found
+rollup-linux-riscv64-gnu,4.50.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+rollup-linux-riscv64-musl,4.50.1,,Not Found
+rollup-linux-s390x-gnu,4.50.1,,Not Found
+rollup-linux-x64-gnu,4.50.1,,Not Found
+rollup-linux-x64-musl,4.50.1,,Not Found
+rollup-openharmony-arm64,4.50.1,,Not Found
+rollup-win32-arm64-msvc,4.50.1,,Not Found
+rollup-win32-ia32-msvc,4.50.1,,Not Found
+rollup-win32-x64-msvc,4.50.1,,Not Found
+whatwg-url,7.1.0,14.2.0,Update available (14.2.0)
+commander,4.1.1,14.0.0,Update available (14.0.0)
+mz,2.7.0,2.7.0,Up-to-date
+pirates,4.0.7,4.0.7,Up-to-date
+ts-interface-checker,0.1.13,1.0.2,Update available (1.0.2)
+fdir,6.5.0,6.5.0,Up-to-date
+picomatch,4.0.3,4.0.3,Up-to-date
+estree-walker,3.0.3,3.0.3,Up-to-date
+tinyspy,3.0.2,4.0.3,Update available (4.0.3)
+loupe,3.2.1,3.2.1,Up-to-date
+assertion-error,2.0.1,2.0.1,Up-to-date
+check-error,2.1.1,2.1.1,Up-to-date
+deep-eql,5.0.2,5.0.2,Up-to-date
+pathval,2.0.1,2.0.1,Up-to-date
+siginfo,2.0.0,2.0.0,Up-to-date
+stackback,0.0.2,0.0.2,Up-to-date
+pathe,2.0.3,2.0.3,Up-to-date
+pkg-types,1.3.1,2.3.0,Update available (2.3.0)
+ufo,1.6.1,1.6.1,Up-to-date
+lodash.sortby,4.7.0,4.7.0,Up-to-date
+tr46,1.0.1,5.1.1,Update available (5.1.1)
+webidl-conversions,4.0.2,8.0.0,Update available (8.0.0)
+any-promise,1.3.0,1.3.0,Up-to-date
+thenify-all,1.6.0,1.6.0,Up-to-date
+confbox,0.1.8,0.2.2,Update available (0.2.2)
+thenify,3.3.1,3.3.1,Up-to-date
+chai-connect-middleware,0.3.1,0.3.1,Up-to-date
+chai-passport-strategy,0.2.0,3.0.0,Update available (3.0.0)
+chai,2.3.0,6.0.1,Update available (6.0.1)
+make-node,0.3.5,0.4.6,Update available (0.4.6)
+mocha,2.5.3,11.7.2,Update available (11.7.2)
+passport-strategy,1.0.0,1.0.0,Up-to-date
+pause,0.0.1,0.1.0,Update available (0.1.0)
+proxyquire,1.4.0,2.1.3,Update available (2.1.3)
+assertion-error,1.0.0,2.0.1,Update available (2.0.1)
+deep-eql,0.1.3,5.0.2,Update available (5.0.2)
+commander,2.3.0,14.0.0,Update available (14.0.0)
+debug,2.2.0,4.4.1,Update available (4.4.1)
+diff,1.4.0,8.0.2,Update available (8.0.2)
+escape-string-regexp,1.0.2,5.0.0,Update available (5.0.0)
+glob,3.2.11,11.0.3,Update available (11.0.3)
+growl,1.9.2,1.10.5,Update available (1.10.5)
+jade,0.26.3,1.11.0,Update available (1.11.0)
+commander,0.6.1,14.0.0,Update available (14.0.0)
+mkdirp,0.3.0,3.0.1,Update available (3.0.1)
+mkdirp,0.5.1,3.0.1,Update available (3.0.1)
+supports-color,1.2.0,10.2.2,Update available (10.2.2)
+to-iso-string,0.0.2,0.0.2,Up-to-date
+type-detect,0.1.1,4.1.0,Update available (4.1.0)
+ms,0.7.1,2.1.3,Update available (2.1.3)
+minimatch,0.3.0,10.0.3,Update available (10.0.3)
+minimist,0.0.8,1.2.8,Update available (1.2.8)
+lru-cache,2.7.3,11.2.1,Update available (11.2.1)
+sigmund,1.0.1,1.0.1,Up-to-date
+core,7.24.7,1.0.113,Current version is newer than npm (1.0.113)
+plugin-transform-object-assign,7.24.7,,Not Found
+preset-env,7.24.7,,Not Found
+register,7.24.6,0.0.0,Current version is newer than npm (0.0.0)
+webtransport-transport-http3-quiche,1.1.4,,Not Found
+webtransport,1.1.4,1.0.10,Current version is newer than npm (1.0.10)
+plugin-alias,5.1.0,,Not Found
+slash,4.0.0,5.1.0,Update available (5.1.0)
+plugin-babel,6.0.4,,Not Found
+plugin-commonjs,26.0.1,,Not Found
+foreground-child,3.2.1,3.3.1,Update available (3.3.1)
+jackspeak,3.4.2,4.1.1,Update available (4.1.1)
+brace-expansion,2.0.1,4.0.1,Update available (4.0.1)
+lru-cache,10.4.2,11.2.1,Update available (11.2.1)
+plugin-node-resolve,15.2.3,,Not Found
+fake-timers,11.2.2,0.1.2,Current version is newer than npm (0.1.2)
+cluster-engine,0.1.0,,Not Found
+component-emitter,3.1.2,2.0.0,Current version is newer than npm (2.0.0)
+postgres-adapter,0.1.1,,Not Found
+msgpack,2.7.2,1.0.3,Current version is newer than npm (1.0.3)
+socket.io-adapter,2.3.3,2.5.5,Update available (2.5.5)
+postgres-emitter,0.1.1,,Not Found
+expect.js,0.3.32,0.3.1,Current version is newer than npm (0.3.1)
+mocha,10.0.7,11.7.2,Update available (11.7.2)
+node,18.15.3,20.19.5,Update available (20.19.5)
+pg,8.15.5,8.16.3,Update available (8.16.3)
+sinonjs__fake-timers,8.1.5,,Not Found
+cli,8.39.1,1.0.1,Current version is newer than npm (1.0.1)
+node,20.14.10,20.19.5,Update available (20.19.5)
+chalk,5.3.0,5.6.2,Update available (5.6.2)
+read-pkg-up,10.0.0,11.0.0,Update available (11.0.0)
+read-pkg,8.1.0,9.0.1,Update available (9.0.1)
+type-fest,4.21.0,4.41.0,Update available (4.41.0)
+type-fest,3.13.1,4.41.0,Update available (4.41.0)
+normalize-package-data,6.0.2,8.0.0,Update available (8.0.0)
+parse-json,7.1.1,8.3.0,Update available (8.3.0)
+hosted-git-info,7.0.2,9.0.0,Update available (9.0.0)
+semver,7.6.2,7.7.2,Update available (7.7.2)
+json-parse-even-better-errors,3.0.2,4.0.0,Update available (4.0.0)
+lines-and-columns,2.0.4,2.0.4,Up-to-date
+yocto-queue,1.1.1,1.2.1,Update available (1.2.1)
+local-runner,8.39.1,0.1.1-alpha,Current version is newer than npm (0.1.1-alpha)
+mocha-framework,8.39.0,,Not Found
+sauce-service,8.39.1,,Not Found
+spec-reporter,8.39.0,,Not Found
+babel-loader,9.1.3,10.0.0,Update available (10.0.0)
+find-cache-dir,4.0.0,6.0.0,Update available (6.0.0)
+base64-arraybuffer,1.0.2,1.0.2,Up-to-date
+benchmark,2.1.4,2.1.4,Up-to-date
+blob,0.1.0,0.1.0,Up-to-date
+cookie,0.7.2,1.0.2,Update available (1.0.2)
+eiows,7.1.0,8.2.0,Update available (8.2.0)
+engine.io-client,3.5.2,6.6.3,Update available (6.6.3)
+debug,3.1.0,4.4.1,Update available (4.4.1)
+engine.io-parser,2.2.1,5.2.3,Update available (5.2.3)
+xmlhttprequest-ssl,1.6.3,4.0.0,Update available (4.0.0)
+base64-arraybuffer,0.1.4,1.0.2,Update available (1.0.2)
+blob,0.0.5,0.1.0,Update available (0.1.0)
+engine.io-client,6.6.3,6.6.3,Up-to-date
+engine.io-parser,5.2.3,5.2.3,Up-to-date
+engine.io,6.6.4,6.6.4,Up-to-date
+expect.js,0.3.1,0.3.1,Up-to-date
+express-session,1.18.0,1.18.2,Update available (1.18.2)
+cookie-signature,1.0.7,1.2.2,Update available (1.2.2)
+cookie,0.6.0,1.0.2,Update available (1.0.2)
+express,4.19.2,5.1.0,Update available (5.1.0)
+has-cors,1.1.0,1.1.0,Up-to-date
+helmet,7.1.0,8.1.0,Update available (8.1.0)
+ioredis,5.4.1,5.7.0,Update available (5.7.0)
+mocha,10.6.0,11.7.2,Update available (11.7.2)
+glob,8.1.0,11.0.3,Update available (11.0.3)
+minimatch,5.1.6,10.0.3,Update available (10.0.3)
+node-forge,1.3.1,1.3.1,Up-to-date
+nyc,17.0.0,17.1.0,Update available (17.1.0)
+pg,8.16.3,8.16.3,Up-to-date
+prettier,3.3.3,3.6.2,Update available (3.6.2)
+redis,4.6.15,5.8.2,Update available (5.8.2)
+rimraf,6.0.0,6.0.1,Update available (6.0.1)
+glob,11.0.0,11.0.3,Update available (11.0.3)
+minimatch,10.0.1,10.0.3,Update available (10.0.3)
+rollup-plugin-terser,7.0.2,7.0.2,Up-to-date
+serialize-javascript,4.0.0,6.0.2,Update available (6.0.2)
+rollup,2.79.1,4.50.1,Update available (4.50.1)
+should,13.2.3,13.2.3,Up-to-date
+socket.io-adapter,2.5.5,2.5.5,Up-to-date
+socket.io-client,2.5.0,4.8.1,Update available (4.8.1)
+engine.io-client,3.5.4,6.6.3,Update available (6.6.3)
+socket.io-parser,3.3.3,3.3.4,Update available (3.3.4)
+isarray,2.0.1,2.0.5,Update available (2.0.5)
+socket.io-client,4.8.1,4.8.1,Up-to-date
+socket.io-msgpack-parser,3.0.2,3.0.2,Up-to-date
+socket.io-parser,4.2.4,3.3.4,Current version is newer than npm (3.3.4)
+socket.io,4.8.1,4.8.1,Up-to-date
+superagent,9.0.2,10.2.3,Update available (10.2.3)
+mime,2.6.0,4.0.7,Update available (4.0.7)
+supertest,7.0.0,7.1.4,Update available (7.1.4)
+text-blob-builder,0.0.1,0.0.1,Up-to-date
+ts-loader,9.5.1,9.5.4,Update available (9.5.4)
+enhanced-resolve,5.17.0,5.18.3,Update available (5.18.3)
+source-map,0.7.4,0.7.6,Update available (0.7.6)
+tapable,2.2.1,2.2.3,Update available (2.2.3)
+ts-node,10.9.2,10.9.2,Up-to-date
+acorn-walk,8.3.3,8.3.4,Update available (8.3.4)
+diff,4.0.2,8.0.2,Update available (8.0.2)
+tsd,0.31.1,0.33.0,Update available (0.33.0)
+typescript,5.5.3,5.9.2,Update available (5.9.2)
+uWebSockets.js,20.48.0,,Not Found
+wdio-geckodriver-service,5.0.2,5.0.2,Up-to-date
+code-frame,7.24.7,5.0.0,Current version is newer than npm (5.0.0)
+generator,7.24.7,1.0.1,Current version is newer than npm (1.0.1)
+helper-compilation-targets,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-module-transforms,7.24.7,,Not Found
+helpers,7.24.7,0.0.6,Current version is newer than npm (0.0.6)
+parser,7.24.7,0.1.4,Current version is newer than npm (0.1.4)
+template,7.24.7,0.17.5,Current version is newer than npm (0.17.5)
+traverse,7.24.7,0.6.11,Current version is newer than npm (0.6.11)
+types,7.24.7,0.1.1,Current version is newer than npm (0.1.1)
+debug,4.3.5,4.4.1,Update available (4.4.1)
+helper-plugin-utils,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+compat-data,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-validator-option,7.24.7,,Not Found
+plugin-bugfix-firefox-class-in-computed-class-key,7.24.7,,Not Found
+plugin-bugfix-safari-id-destructuring-collision-in-function-expression,7.24.7,,Not Found
+plugin-bugfix-v8-spread-parameters-in-optional-chaining,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+plugin-bugfix-v8-static-class-fields-redefine-readonly,7.24.7,,Not Found
+plugin-syntax-dynamic-import,7.8.3,,Not Found
+plugin-syntax-export-namespace-from,7.8.3,,Not Found
+plugin-syntax-import-assertions,7.24.7,,Not Found
+plugin-syntax-import-attributes,7.24.7,,Not Found
+plugin-transform-arrow-functions,7.24.7,,Not Found
+plugin-transform-async-generator-functions,7.24.7,,Not Found
+plugin-transform-async-to-generator,7.24.7,,Not Found
+plugin-transform-block-scoped-functions,7.24.7,,Not Found
+plugin-transform-block-scoping,7.24.7,,Not Found
+plugin-transform-class-properties,7.24.7,,Not Found
+plugin-transform-class-static-block,7.24.7,,Not Found
+plugin-transform-classes,7.24.7,,Not Found
+plugin-transform-computed-properties,7.24.7,,Not Found
+plugin-transform-destructuring,7.24.7,,Not Found
+plugin-transform-dotall-regex,7.24.7,,Not Found
+plugin-transform-duplicate-keys,7.24.7,,Not Found
+plugin-transform-dynamic-import,7.24.7,,Not Found
+plugin-transform-exponentiation-operator,7.24.7,,Not Found
+plugin-transform-export-namespace-from,7.24.7,,Not Found
+plugin-transform-for-of,7.24.7,,Not Found
+plugin-transform-function-name,7.24.7,,Not Found
+plugin-transform-json-strings,7.24.7,,Not Found
+plugin-transform-literals,7.24.7,,Not Found
+plugin-transform-logical-assignment-operators,7.24.7,,Not Found
+plugin-transform-member-expression-literals,7.24.7,,Not Found
+plugin-transform-modules-amd,7.24.7,,Not Found
+plugin-transform-modules-commonjs,7.24.7,,Not Found
+plugin-transform-modules-systemjs,7.24.7,,Not Found
+plugin-transform-modules-umd,7.24.7,,Not Found
+plugin-transform-named-capturing-groups-regex,7.24.7,,Not Found
+plugin-transform-new-target,7.24.7,,Not Found
+plugin-transform-nullish-coalescing-operator,7.24.7,,Not Found
+plugin-transform-numeric-separator,7.24.7,,Not Found
+plugin-transform-object-rest-spread,7.24.7,,Not Found
+plugin-transform-object-super,7.24.7,,Not Found
+plugin-transform-optional-catch-binding,7.24.7,,Not Found
+plugin-transform-optional-chaining,7.24.7,,Not Found
+plugin-transform-parameters,7.24.7,,Not Found
+plugin-transform-private-methods,7.24.7,,Not Found
+plugin-transform-private-property-in-object,7.24.7,,Not Found
+plugin-transform-property-literals,7.24.7,,Not Found
+plugin-transform-regenerator,7.24.7,,Not Found
+plugin-transform-reserved-words,7.24.7,,Not Found
+plugin-transform-shorthand-properties,7.24.7,,Not Found
+plugin-transform-spread,7.24.7,,Not Found
+plugin-transform-sticky-regex,7.24.7,,Not Found
+plugin-transform-template-literals,7.24.7,,Not Found
+plugin-transform-typeof-symbol,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+plugin-transform-unicode-escapes,7.24.7,,Not Found
+plugin-transform-unicode-property-regex,7.24.7,,Not Found
+plugin-transform-unicode-regex,7.24.7,,Not Found
+plugin-transform-unicode-sets-regex,7.24.7,,Not Found
+babel-plugin-polyfill-corejs2,0.4.11,0.4.14,Update available (0.4.14)
+babel-plugin-polyfill-corejs3,0.10.4,0.13.0,Update available (0.13.0)
+babel-plugin-polyfill-regenerator,0.6.2,0.6.5,Update available (0.6.5)
+core-js-compat,3.37.1,3.45.1,Update available (3.45.1)
+clone-deep,4.0.1,4.0.1,Up-to-date
+find-cache-dir,2.1.0,6.0.0,Update available (6.0.0)
+make-dir,2.1.0,5.0.0,Update available (5.0.0)
+bindings,1.5.0,1.5.0,Up-to-date
+cmake-js,7.3.0,7.3.1,Update available (7.3.1)
+semver,7.6.3,7.7.2,Update available (7.7.2)
+node-addon-api,7.1.1,8.5.0,Update available (8.5.0)
+prebuild-install,7.1.2,7.1.3,Update available (7.1.3)
+helper-module-imports,7.24.7,,Not Found
+pluginutils,5.1.0,,Not Found
+estree-walker,2.0.2,3.0.3,Update available (3.0.3)
+is-reference,1.2.1,3.0.3,Update available (3.0.3)
+magic-string,0.30.10,0.30.19,Update available (0.30.19)
+resolve,1.20.2,1.22.10,Update available (1.22.10)
+is-module,1.0.0,1.0.0,Up-to-date
+resolve,1.22.8,1.22.10,Update available (1.22.10)
+msgpack,2.8.0,1.0.3,Current version is newer than npm (1.0.3)
+debug,4.3.1,4.4.1,Update available (4.4.1)
+ms,0.7.34,2.1.3,Update available (2.1.3)
+pg-protocol,1.10.3,1.10.3,Up-to-date
+pg-types,2.2.0,4.1.0,Update available (4.1.0)
+snapshot,1.6.0,0.0.0,Current version is newer than npm (0.0.0)
+config,8.39.0,4.1.1,Current version is newer than npm (4.1.1)
+decamelize,6.0.0,6.0.1,Update available (6.0.1)
+globals,8.39.1,16.4.0,Update available (16.4.0)
+logger,8.38.0,0.0.1,Current version is newer than npm (0.0.1)
+strip-ansi,7.1.0,7.1.2,Update available (7.1.2)
+ansi-regex,6.0.1,6.2.2,Update available (6.2.2)
+protocols,8.38.0,2.0.2,Current version is newer than npm (2.0.2)
+types,8.39.0,0.1.1,Current version is newer than npm (0.1.1)
+utils,8.39.0,0.3.1,Current version is newer than npm (0.3.1)
+async-exit-hook,2.0.1,2.0.1,Up-to-date
+dotenv,16.4.5,17.2.2,Update available (17.2.2)
+ejs,3.1.10,3.1.10,Up-to-date
+execa,8.0.1,9.6.0,Update available (9.6.0)
+get-stream,8.0.1,9.0.1,Update available (9.0.1)
+import-meta-resolve,4.1.0,4.2.0,Update available (4.2.0)
+inquirer,9.2.12,12.9.4,Update available (12.9.4)
+lodash.pickby,4.6.0,4.6.0,Up-to-date
+lodash.union,4.6.0,4.6.0,Up-to-date
+recursive-readdir,2.2.3,2.2.3,Up-to-date
+webdriverio,8.39.1,9.19.2,Update available (9.19.2)
+is-plain-obj,4.1.0,4.1.0,Up-to-date
+repl,8.24.12,0.1.3,Current version is newer than npm (0.1.3)
+runner,8.39.1,4.0.1,Current version is newer than npm (4.0.1)
+split2,4.2.0,4.2.0,Up-to-date
+stream-buffers,3.0.3,3.0.3,Up-to-date
+ip,2.0.1,2.0.1,Up-to-date
+saucelabs,7.5.0,9.0.2,Update available (9.0.2)
+reporter,8.39.0,0.1.0,Current version is newer than npm (0.1.0)
+easy-table,1.2.0,1.2.0,Up-to-date
+schema-utils,4.2.0,4.3.2,Update available (4.3.2)
+ajv,8.16.0,8.17.1,Update available (8.17.1)
+webpack,5.92.1,5.101.3,Update available (5.101.3)
+schema-utils,3.3.0,4.3.2,Update available (4.3.2)
+platform,1.3.6,1.3.6,Up-to-date
+esm,3.2.25,3.2.25,Up-to-date
+component-emitter,1.3.1,2.0.0,Update available (2.0.0)
+component-inherit,0.0.3,0.0.3,Up-to-date
+indexof,0.0.1,0.0.1,Up-to-date
+parseqs,0.0.6,0.0.6,Up-to-date
+parseuri,0.0.6,3.0.2,Update available (3.0.2)
+ws,8.17.1,8.18.3,Update available (8.18.3)
+yeast,0.1.2,0.1.2,Up-to-date
+xmlhttprequest-ssl,2.1.1,4.0.0,Update available (4.0.0)
+cors,2.8.17,2.8.5,Current version is newer than npm (2.8.5)
+base64id,2.0.0,2.0.0,Up-to-date
+cors,2.8.5,2.8.5,Up-to-date
+debug,4.3.3,4.4.1,Update available (4.4.1)
+on-headers,1.0.2,1.1.0,Update available (1.1.0)
+uid-safe,2.1.5,2.1.5,Up-to-date
+body-parser,1.20.2,2.2.0,Update available (2.2.0)
+finalhandler,1.2.0,2.1.0,Update available (2.1.0)
+merge-descriptors,1.0.1,2.0.0,Update available (2.0.0)
+path-to-regexp,0.1.7,8.3.0,Update available (8.3.0)
+qs,6.11.0,6.14.0,Update available (6.14.0)
+send,0.18.0,1.2.0,Update available (1.2.0)
+serve-static,1.15.0,2.2.0,Update available (2.2.0)
+commands,1.2.0,0.0.7,Current version is newer than npm (0.0.7)
+cluster-key-slot,1.1.2,1.1.2,Up-to-date
+denque,2.1.0,2.1.0,Up-to-date
+lodash.defaults,4.2.0,4.2.0,Up-to-date
+lodash.isarguments,3.1.0,3.1.0,Up-to-date
+redis-errors,1.2.0,1.2.0,Up-to-date
+redis-parser,3.0.0,3.0.0,Up-to-date
+standard-as-callback,2.1.0,2.1.0,Up-to-date
+ansi-colors,4.1.3,4.1.3,Up-to-date
+diff,5.2.0,8.0.2,Update available (8.0.2)
+workerpool,6.5.1,9.3.3,Update available (9.3.3)
+process-on-spawn,1.0.0,1.1.0,Update available (1.1.0)
+pg-cloudflare,1.2.7,1.2.7,Up-to-date
+pg-connection-string,2.9.1,2.9.1,Up-to-date
+pg-pool,3.10.1,3.10.1,Up-to-date
+pgpass,1.0.5,1.0.5,Up-to-date
+bloom,1.2.0,0.5.3,Current version is newer than npm (0.5.3)
+client,1.5.17,0.0.1,Current version is newer than npm (0.0.1)
+graph,1.1.1,0.2.0,Current version is newer than npm (0.2.0)
+json,1.0.6,11.0.0,Update available (11.0.0)
+search,1.1.6,1.0.0,Current version is newer than npm (1.0.0)
+time-series,1.0.5,0.0.1,Current version is newer than npm (0.0.1)
+jest-worker,26.6.2,30.1.0,Update available (30.1.0)
+terser,5.31.1,5.44.0,Update available (5.44.0)
+should-equal,2.0.0,2.0.0,Up-to-date
+should-format,3.0.3,3.0.3,Up-to-date
+should-type-adaptors,1.1.0,1.1.0,Up-to-date
+should-type,1.4.0,1.4.0,Up-to-date
+should-util,1.0.1,1.0.1,Up-to-date
+backo2,1.0.2,1.0.2,Up-to-date
+component-bind,1.0.0,1.0.0,Up-to-date
+has-binary2,1.0.3,2.0.0,Update available (2.0.0)
+to-array,0.1.4,0.1.4,Up-to-date
+debug,4.3.4,4.4.1,Update available (4.4.1)
+notepack.io,2.2.0,3.0.1,Update available (3.0.1)
+cookiejar,2.1.4,2.1.4,Up-to-date
+fast-safe-stringify,2.1.1,2.1.1,Up-to-date
+form-data,4.0.0,4.0.4,Update available (4.0.4)
+formidable,3.5.1,3.5.4,Update available (3.5.4)
+micromatch,4.0.7,4.0.8,Update available (4.0.8)
+source-map-support,0.8.1,0.5.21,Current version is newer than npm (0.5.21)
+trace-mapping,0.3.9,,Not Found
+node10,1.0.11,1.1.1,Update available (1.1.1)
+node12,1.0.11,0.0.0,Current version is newer than npm (0.0.0)
+node14,1.0.3,,Not Found
+node16,1.0.4,,Not Found
+acorn,8.12.1,8.15.0,Update available (8.15.0)
+arg,4.1.3,5.0.2,Update available (5.0.2)
+create-require,1.1.1,1.1.1,Up-to-date
+make-error,1.3.6,1.3.6,Up-to-date
+v8-compile-cache-lib,3.0.1,3.0.1,Up-to-date
+yn,3.1.1,5.1.0,Update available (5.1.0)
+typescript,5.4.5,5.9.2,Update available (5.9.2)
+fs-extra,11.2.0,11.3.1,Update available (11.3.1)
+geckodriver,4.4.1,6.0.1,Update available (6.0.1)
+tar-fs,3.0.6,3.1.0,Update available (3.1.0)
+which,4.0.0,5.0.0,Update available (5.0.0)
+isexe,3.1.1,3.1.1,Up-to-date
+get-port,7.1.0,7.1.0,Up-to-date
+wait-port,1.1.0,1.1.0,Up-to-date
+commander,9.5.0,14.0.0,Update available (14.0.0)
+gen-mapping,0.3.5,0.0.1-security,Current version is newer than npm (0.0.1-security)
+highlight,7.24.7,0.2.4,Current version is newer than npm (0.2.4)
+picocolors,1.0.1,1.1.1,Update available (1.1.1)
+jsesc,2.5.2,3.1.0,Update available (3.1.0)
+browserslist,4.23.1,4.25.4,Update available (4.25.4)
+helper-environment-visitor,7.24.7,,Not Found
+helper-simple-access,7.24.7,,Not Found
+helper-split-export-declaration,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-validator-identifier,7.24.7,,Not Found
+helper-function-name,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-hoist-variables,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-string-parser,7.24.7,,Not Found
+to-fast-properties,2.0.0,4.0.0,Update available (4.0.0)
+ms,2.1.2,2.1.3,Update available (2.1.3)
+helper-skip-transparent-expression-wrappers,7.24.7,,Not Found
+helper-create-regexp-features-plugin,7.24.7,,Not Found
+helper-remap-async-to-generator,7.24.7,,Not Found
+helper-create-class-features-plugin,7.24.7,,Not Found
+helper-annotate-as-pure,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-replace-supers,7.24.7,,Not Found
+helper-builder-binary-assignment-operator-visitor,7.24.7,,Not Found
+regenerator-transform,0.15.2,0.15.2,Up-to-date
+helper-define-polyfill-provider,0.6.2,,Not Found
+is-plain-object,2.0.4,5.0.0,Update available (5.0.0)
+shallow-clone,3.0.1,3.0.1,Up-to-date
+pkg-dir,3.0.0,9.0.0,Update available (9.0.0)
+file-uri-to-path,1.0.0,2.0.0,Update available (2.0.0)
+axios,1.7.7,1.11.0,Update available (1.11.0)
+lodash.isplainobject,4.0.6,4.0.6,Up-to-date
+memory-stream,1.0.0,1.0.0,Up-to-date
+node-api-headers,1.3.0,1.5.0,Update available (1.5.0)
+npmlog,6.0.2,7.0.1,Update available (7.0.1)
+url-join,4.0.1,5.0.0,Update available (5.0.0)
+detect-libc,2.0.3,2.0.4,Update available (2.0.4)
+expand-template,2.0.3,2.0.3,Up-to-date
+github-from-package,0.0.0,0.0.0,Up-to-date
+napi-build-utils,1.0.2,2.0.0,Update available (2.0.0)
+node-abi,3.71.0,4.14.0,Update available (4.14.0)
+pump,3.0.0,3.0.3,Update available (3.0.3)
+simple-get,4.0.1,4.0.1,Up-to-date
+tar-fs,2.1.1,3.1.0,Update available (3.1.0)
+tunnel-agent,0.6.0,0.6.0,Up-to-date
+estree,0.0.52,,Not Found
+package-json-from-dist,1.0.0,1.0.1,Update available (1.0.1)
+sourcemap-codec,1.4.15,1.4.8,Current version is newer than npm (1.4.8)
+is-core-module,2.14.0,2.16.1,Update available (2.16.1)
+pg-int8,1.0.1,1.0.1,Up-to-date
+postgres-array,2.0.0,3.0.4,Update available (3.0.4)
+postgres-bytea,1.0.0,3.0.0,Update available (3.0.0)
+postgres-date,1.0.7,2.1.0,Update available (2.1.0)
+postgres-interval,1.2.0,4.0.2,Update available (4.0.2)
+undici-types,5.26.5,7.16.0,Update available (7.16.0)
+deepmerge-ts,5.1.0,7.1.5,Update available (7.1.5)
+expect-webdriverio,4.15.1,5.4.2,Update available (5.4.2)
+loglevel-plugin-prefix,0.8.4,0.8.4,Up-to-date
+loglevel,1.9.1,1.9.2,Update available (1.9.2)
+browsers,1.9.1,1.0.2,Current version is newer than npm (1.0.2)
+tar-fs,3.0.4,3.1.0,Update available (3.1.0)
+edgedriver,5.6.0,6.1.2,Update available (6.1.2)
+locate-app,2.4.21,2.5.0,Update available (2.5.0)
+type-fest,2.13.0,4.41.0,Update available (4.41.0)
+safaridriver,0.1.2,1.0.0,Update available (1.0.0)
+jake,10.9.1,10.9.4,Update available (10.9.4)
+cross-spawn,7.0.3,7.0.6,Update available (7.0.6)
+human-signals,5.0.0,8.0.1,Update available (8.0.1)
+through,2.3.13,2.3.8,Current version is newer than npm (2.3.8)
+cli-width,4.1.0,4.1.0,Up-to-date
+external-editor,3.1.0,3.1.0,Up-to-date
+figures,5.0.0,6.1.0,Update available (6.1.0)
+escape-string-regexp,5.0.0,5.0.0,Up-to-date
+mute-stream,1.0.0,2.0.0,Update available (2.0.0)
+run-async,3.0.0,4.0.6,Update available (4.0.6)
+rxjs,7.8.1,7.8.2,Update available (7.8.2)
+archiver,7.0.1,7.0.1,Up-to-date
+buffer-crc32,1.0.0,1.0.0,Up-to-date
+readable-stream,4.5.2,4.7.0,Update available (4.7.0)
+buffer,6.0.3,6.0.3,Up-to-date
+aria-query,5.3.0,5.3.2,Update available (5.3.2)
+css-shorthand-properties,1.1.1,1.1.2,Update available (1.1.2)
+css-value,0.0.1,0.0.1,Up-to-date
+devtools-protocol,0.0.1302984,0.0.1512837,Update available (0.0.1512837)
+devtools,8.39.1,8.42.0,Update available (8.42.0)
+puppeteer-core,20.3.0,24.19.0,Update available (24.19.0)
+uuid,9.0.1,13.0.0,Update available (13.0.0)
+browsers,1.3.0,1.0.2,Current version is newer than npm (1.0.2)
+chromium-bidi,0.4.9,8.1.0,Update available (8.1.0)
+cross-fetch,3.1.6,4.1.0,Update available (4.1.0)
+devtools-protocol,0.0.1120988,0.0.1512837,Update available (0.0.1512837)
+http-proxy-agent,5.0.0,7.0.2,Update available (7.0.2)
+https-proxy-agent,5.0.1,7.0.6,Update available (7.0.6)
+yargs,17.7.1,18.0.0,Update available (18.0.0)
+agent-base,6.0.2,7.1.4,Update available (7.1.4)
+grapheme-splitter,1.0.4,1.0.4,Up-to-date
+jszip,3.10.1,3.10.1,Up-to-date
+lodash.zip,4.2.0,4.2.0,Up-to-date
+puppeteer-core,20.9.0,24.19.0,Update available (24.19.0)
+browsers,1.4.6,1.0.2,Current version is newer than npm (1.0.2)
+devtools-protocol,0.0.1147663,0.0.1512837,Update available (0.0.1512837)
+proxy-agent,6.3.0,6.5.0,Update available (6.5.0)
+lru-cache,7.18.3,11.2.1,Update available (11.2.1)
+query-selector-shadow-dom,1.0.1,1.0.1,Up-to-date
+resq,1.11.0,1.11.0,Up-to-date
+fast-deep-equal,2.0.1,3.1.3,Update available (3.1.3)
+rgb2hex,0.2.5,0.2.5,Up-to-date
+serialize-error,11.0.3,12.0.0,Update available (12.0.0)
+webdriver,8.39.0,9.19.2,Update available (9.19.2)
+got,12.6.1,14.4.8,Update available (14.4.8)
+is,5.6.0,3.3.2,Current version is newer than npm (3.3.2)
+http-timer,5.0.1,,Not Found
+cacheable-lookup,7.0.0,7.0.0,Up-to-date
+cacheable-request,10.2.14,13.0.9,Update available (13.0.9)
+http2-wrapper,2.2.1,2.2.1,Up-to-date
+lowercase-keys,3.0.0,3.0.0,Up-to-date
+p-cancelable,3.0.0,4.0.1,Update available (4.0.1)
+responselike,3.0.0,3.0.0,Up-to-date
+mimic-response,4.0.0,4.0.0,Up-to-date
+normalize-url,8.0.1,8.0.2,Update available (8.0.2)
+escalade,3.1.2,3.2.0,Update available (3.2.0)
+gaze,1.1.3,1.1.3,Up-to-date
+change-case,4.1.2,5.4.4,Update available (5.4.4)
+compressing,1.10.1,2.0.0,Update available (2.0.0)
+iconv-lite,0.5.2,0.7.0,Update available (0.7.0)
+got,11.8.6,14.4.8,Update available (14.4.8)
+query-string,7.1.3,9.3.0,Update available (9.3.0)
+tunnel,0.0.6,0.0.6,Up-to-date
+object-inspect,1.13.2,1.13.4,Update available (1.13.4)
+ast,1.12.1,1.0.7,Current version is newer than npm (1.0.7)
+wasm-edit,1.12.1,,Not Found
+wasm-parser,1.12.1,,Not Found
+acorn-import-attributes,1.9.5,1.9.5,Up-to-date
+es-module-lexer,1.5.4,1.7.0,Update available (1.7.0)
+terser-webpack-plugin,5.3.10,5.3.14,Update available (5.3.14)
+watchpack,2.4.1,2.4.4,Update available (2.4.4)
+webpack-sources,3.2.3,3.3.3,Update available (3.3.3)
+after,0.8.2,0.8.2,Up-to-date
+arraybuffer.slice,0.0.7,0.0.7,Up-to-date
+random-bytes,1.0.0,1.0.0,Up-to-date
+side-channel,1.0.6,1.1.0,Update available (1.1.0)
+generic-pool,3.9.0,3.9.0,Up-to-date
+jackspeak,4.0.1,4.1.1,Update available (4.1.1)
+path-scurry,2.0.0,2.0.0,Up-to-date
+lru-cache,11.0.0,11.2.1,Update available (11.2.1)
+source-map,0.3.6,0.7.6,Update available (0.7.6)
+asynckit,0.4.0,0.4.0,Up-to-date
+combined-stream,1.0.8,1.0.8,Up-to-date
+dezalgo,1.0.4,1.0.4,Up-to-date
+hexoid,1.0.0,2.0.0,Update available (2.0.0)
+fast-glob,3.3.2,3.3.3,Update available (3.3.3)
+ignore,5.3.1,7.0.5,Update available (7.0.5)
+yargs-parser,20.2.4,22.0.0,Update available (22.0.0)
+jsonfile,6.1.0,6.2.0,Update available (6.2.0)
+zip.js,2.7.45,,Not Found
+http-proxy-agent,7.0.2,7.0.2,Up-to-date
+https-proxy-agent,7.0.5,7.0.6,Update available (7.0.6)
+node-fetch,3.3.2,3.3.2,Up-to-date
+chalk,2.4.2,5.6.2,Update available (5.6.2)
+supports-color,5.5.0,10.2.2,Update available (10.2.2)
+has-flag,3.0.0,5.0.1,Update available (5.0.1)
+caniuse-lite,1.0.30001640,1.0.30001741,Update available (1.0.30001741)
+electron-to-chromium,1.4.818,1.5.215,Update available (1.5.215)
+node-releases,2.0.14,2.0.20,Update available (2.0.20)
+update-browserslist-db,1.1.0,1.1.3,Update available (1.1.3)
+regexpu-core,5.3.2,6.3.0,Update available (6.3.0)
+helper-wrap-function,7.24.7,,Not Found
+helper-member-expression-to-functions,7.24.7,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-optimise-call-expression,7.24.7,,Not Found
+runtime,7.24.7,0.14.1,Current version is newer than npm (0.14.1)
+regenerator-runtime,0.14.1,0.14.1,Up-to-date
+isobject,3.0.1,4.0.0,Update available (4.0.0)
+follow-redirects,1.15.9,1.15.11,Update available (1.15.11)
+proxy-from-env,1.1.0,1.1.0,Up-to-date
+are-we-there-yet,3.0.1,4.0.2,Update available (4.0.2)
+console-control-strings,1.1.0,1.1.0,Up-to-date
+gauge,4.0.4,5.0.2,Update available (5.0.2)
+decompress-response,6.0.0,9.0.0,Update available (9.0.0)
+mimic-response,3.1.0,4.0.0,Update available (4.0.0)
+simple-concat,1.0.1,1.0.1,Up-to-date
+ansi-styles,6.2.1,6.2.3,Update available (6.2.3)
+extract-zip,2.0.1,2.0.1,Up-to-date
+progress,2.0.3,2.0.3,Up-to-date
+proxy-agent,6.3.1,6.5.0,Update available (6.5.0)
+edge-paths,3.0.5,3.0.5,Up-to-date
+utils,0.58.0,0.3.1,Current version is newer than npm (0.3.1)
+userhome,1.0.0,1.0.1,Update available (1.0.1)
+async,3.2.5,3.2.6,Update available (3.2.6)
+filelist,1.0.4,1.0.4,Up-to-date
+call-bind,1.0.7,1.0.8,Update available (1.0.8)
+chardet,0.7.0,2.1.0,Update available (2.1.0)
+tslib,2.6.3,2.8.1,Update available (2.8.1)
+archiver-utils,5.0.2,5.0.2,Up-to-date
+readdir-glob,1.1.3,2.0.1,Update available (2.0.1)
+zip-stream,6.0.1,7.0.2,Update available (7.0.2)
+chrome-launcher,1.1.2,1.2.0,Update available (1.2.0)
+ua-parser-js,1.0.38,2.0.5,Update available (2.0.5)
+lie,3.3.0,3.3.0,Up-to-date
+pako,1.0.11,2.1.0,Update available (2.1.0)
+setimmediate,1.0.5,1.0.5,Up-to-date
+chromium-bidi,0.4.16,8.1.0,Update available (8.1.0)
+cross-fetch,4.0.0,4.1.0,Update available (4.1.0)
+ws,8.5.10,8.18.3,Update available (8.18.3)
+ky,0.33.3,1.10.0,Update available (1.10.0)
+globule,1.3.4,1.3.4,Up-to-date
+glob,7.1.7,11.0.3,Update available (11.0.3)
+minimatch,3.0.8,10.0.3,Update available (10.0.3)
+camel-case,4.1.2,5.0.0,Update available (5.0.0)
+capital-case,1.0.4,2.0.0,Update available (2.0.0)
+constant-case,3.0.4,4.0.0,Update available (4.0.0)
+dot-case,3.0.4,4.0.0,Update available (4.0.0)
+header-case,2.0.4,3.0.0,Update available (3.0.0)
+no-case,3.0.4,4.0.0,Update available (4.0.0)
+param-case,3.0.4,4.0.0,Update available (4.0.0)
+pascal-case,3.1.2,4.0.0,Update available (4.0.0)
+path-case,3.0.4,4.0.0,Update available (4.0.0)
+sentence-case,3.0.4,4.0.0,Update available (4.0.0)
+snake-case,3.0.4,4.0.0,Update available (4.0.0)
+yauzl,2.11.0,3.2.0,Update available (3.2.0)
+flushwritable,1.0.0,1.0.0,Up-to-date
+get-ready,1.0.0,3.4.0,Update available (3.4.0)
+mkdirp,0.5.6,3.0.1,Update available (3.0.1)
+streamifier,0.1.1,0.1.1,Up-to-date
+yazl,2.5.1,3.3.1,Update available (3.3.1)
+is,4.6.0,3.3.2,Current version is newer than npm (3.3.2)
+http-timer,4.0.6,,Not Found
+cacheable-request,6.0.3,13.0.9,Update available (13.0.9)
+responselike,1.0.3,3.0.0,Update available (3.0.0)
+cacheable-lookup,5.0.4,7.0.0,Update available (7.0.0)
+cacheable-request,7.0.4,13.0.9,Update available (13.0.9)
+http2-wrapper,1.0.3,2.2.1,Update available (2.2.1)
+p-cancelable,2.1.1,4.0.1,Update available (4.0.1)
+responselike,2.0.1,3.0.0,Update available (3.0.0)
+decode-uri-component,0.2.2,0.4.1,Update available (0.4.1)
+filter-obj,1.1.0,6.1.0,Update available (6.1.0)
+split-on-first,1.1.0,4.0.0,Update available (4.0.0)
+strict-uri-encode,2.0.0,2.0.0,Up-to-date
+helper-numbers,1.11.6,,Not Found
+helper-wasm-bytecode,1.11.6,,Not Found
+helper-buffer,1.12.1,,Not Found
+helper-wasm-section,1.12.1,,Not Found
+wasm-gen,1.12.1,,Not Found
+wasm-opt,1.12.1,1.4.0,Current version is newer than npm (1.4.0)
+wast-printer,1.12.1,,Not Found
+helper-api-error,1.11.6,,Not Found
+ieee754,1.11.6,1.2.1,Current version is newer than npm (1.2.1)
+leb128,1.11.6,0.0.5,Current version is newer than npm (0.0.5)
+utf8,1.11.6,3.0.0,Update available (3.0.0)
+get-intrinsic,1.2.4,1.3.0,Update available (1.3.0)
+delayed-stream,1.0.0,1.0.0,Up-to-date
+agent-base,7.1.1,7.1.4,Update available (7.1.4)
+data-uri-to-buffer,4.0.1,6.0.2,Update available (6.0.2)
+fetch-blob,3.2.0,4.0.0,Update available (4.0.0)
+formdata-polyfill,4.0.10,4.0.10,Up-to-date
+bare-fs,2.3.1,4.3.2,Update available (4.3.2)
+bare-path,2.1.3,3.0.0,Update available (3.0.0)
+ansi-styles,3.2.1,6.2.3,Update available (6.2.3)
+regenerate-unicode-properties,10.1.1,10.2.2,Update available (10.2.2)
+regjsparser,0.9.1,0.12.0,Update available (0.12.0)
+unicode-match-property-value-ecmascript,2.1.0,2.2.1,Update available (2.2.1)
+delegates,1.0.0,1.0.0,Up-to-date
+aproba,2.0.0,2.1.0,Update available (2.1.0)
+color-support,1.1.3,1.1.3,Up-to-date
+has-unicode,2.0.1,2.0.1,Up-to-date
+wide-align,1.1.5,1.1.5,Up-to-date
+yauzl,2.10.3,3.2.0,Update available (3.2.0)
+pac-proxy-agent,7.0.2,7.2.0,Update available (7.2.0)
+socks-proxy-agent,8.0.4,8.0.5,Update available (8.0.5)
+buffer,5.2.1,6.0.3,Update available (6.0.3)
+spacetrim,0.11.36,0.11.60,Update available (0.11.60)
+es-define-property,1.0.0,1.0.1,Update available (1.0.1)
+lazystream,1.0.1,1.0.1,Up-to-date
+abort-controller,3.0.0,3.0.0,Up-to-date
+process,0.11.10,0.11.10,Up-to-date
+b4a,1.6.6,1.6.7,Update available (1.6.7)
+streamx,2.18.0,2.22.1,Update available (2.22.1)
+compress-commons,6.0.2,7.0.0,Update available (7.0.0)
+lighthouse-logger,2.0.1,2.0.2,Update available (2.0.2)
+immediate,3.0.6,3.3.0,Update available (3.3.0)
+mitt,3.0.0,3.0.1,Update available (3.0.1)
+form-data-encoder,2.1.4,4.1.0,Update available (4.1.0)
+upper-case-first,2.0.2,3.0.0,Update available (3.0.0)
+upper-case,2.0.2,3.0.0,Update available (3.0.0)
+lower-case,2.0.2,3.0.0,Update available (3.0.0)
+fd-slicer2,1.2.0,1.2.0,Up-to-date
+to-buffer,1.1.1,1.2.1,Update available (1.2.1)
+defer-to-connect,2.0.1,2.0.1,Up-to-date
+http-cache-semantics,4.0.4,4.2.0,Update available (4.2.0)
+keyv,3.1.4,5.5.0,Update available (5.5.0)
+http-cache-semantics,4.1.1,4.2.0,Update available (4.2.0)
+normalize-url,6.1.0,8.0.2,Update available (8.0.2)
+quick-lru,5.1.1,7.1.0,Update available (7.1.0)
+resolve-alpn,1.2.1,1.2.1,Up-to-date
+floating-point-hex-parser,1.11.6,,Not Found
+has-proto,1.0.3,1.2.0,Update available (1.2.0)
+has-symbols,1.0.3,1.1.0,Update available (1.1.0)
+fastq,1.17.1,1.19.1,Update available (1.19.1)
+node-domexception,1.0.0,2.0.2,Update available (2.0.2)
+web-streams-polyfill,3.3.3,4.2.0,Update available (4.2.0)
+bare-events,2.4.2,2.6.1,Update available (2.6.1)
+bare-stream,2.1.3,2.7.0,Update available (2.7.0)
+bare-os,2.4.0,3.6.2,Update available (3.6.2)
+color-convert,1.9.3,3.1.0,Update available (3.1.0)
+unicode-canonical-property-names-ecmascript,2.0.0,2.0.1,Update available (2.0.1)
+quickjs-emscripten,0.23.0,0.31.0,Update available (0.31.0)
+get-uri,6.0.3,6.0.5,Update available (6.0.5)
+data-uri-to-buffer,6.0.2,6.0.2,Up-to-date
+pac-resolver,7.0.1,7.0.1,Up-to-date
+socks,2.8.3,2.8.7,Update available (2.8.7)
+gopd,1.0.1,1.2.0,Update available (1.2.0)
+event-target-shim,5.0.1,6.0.2,Update available (6.0.2)
+queue-tick,1.0.1,1.0.1,Up-to-date
+text-decoder,1.1.1,1.2.3,Update available (1.2.3)
+crc-32,1.2.2,1.2.2,Up-to-date
+crc32-stream,6.0.0,7.0.1,Update available (7.0.1)
+marky,1.2.5,1.3.0,Update available (1.3.0)
+reusify,1.0.4,1.1.0,Update available (1.1.0)
+spdx-license-ids,3.0.18,3.0.22,Update available (3.0.22)
+color-name,1.1.3,2.0.0,Update available (2.0.0)
+yargs,17.0.32,18.0.0,Update available (18.0.0)
+basic-ftp,5.0.5,5.0.5,Up-to-date
+degenerator,5.0.1,5.0.1,Up-to-date
+escodegen,2.1.0,2.1.0,Up-to-date
+netmask,2.0.2,2.0.2,Up-to-date
+ip-address,9.0.5,10.0.1,Update available (10.0.1)
+jsbn,1.1.0,1.1.0,Up-to-date
+sprintf-js,1.1.3,1.1.3,Up-to-date
+smart-buffer,4.2.0,4.2.0,Up-to-date
+once,2.0.0,1.4.0,Current version is newer than npm (1.4.0)
+ast-types,0.13.4,0.14.2,Update available (0.14.2)
+node,18.11.3,20.19.5,Update available (20.19.5)
+decache,4.6.2,4.6.2,Up-to-date
+sinon,14.0.1,21.0.0,Update available (21.0.0)
+standard-version,9.5.0,9.5.0,Up-to-date
+standard,17.0.0,17.1.2,Update available (17.1.2)
+tap,19.2.5,21.1.0,Update available (21.1.0)
+typescript,4.8.4,5.9.2,Update available (5.9.2)
+callsite,1.0.0,1.0.0,Up-to-date
+commons,1.8.3,0.0.1-pre,Current version is newer than npm (0.0.1-pre)
+fake-timers,9.1.2,0.1.2,Current version is newer than npm (0.1.2)
+samsam,6.1.1,1.3.0,Current version is newer than npm (1.3.0)
+nise,5.1.1,6.1.1,Update available (6.1.1)
+conventional-changelog-config-spec,2.1.0,2.1.0,Up-to-date
+conventional-changelog-conventionalcommits,4.6.3,9.1.0,Update available (9.1.0)
+conventional-changelog,3.1.25,7.1.1,Update available (7.1.1)
+conventional-recommended-bump,6.1.0,11.2.0,Update available (11.2.0)
+detect-indent,6.1.0,7.0.1,Update available (7.0.1)
+dotgitignore,2.1.0,2.1.0,Up-to-date
+git-semver-tags,4.1.1,8.0.0,Update available (8.0.0)
+stringify-package,1.0.1,1.0.1,Up-to-date
+eslint-config-standard-jsx,11.0.0,11.0.0,Up-to-date
+eslint-config-standard,17.0.0,17.1.0,Update available (17.1.0)
+eslint-plugin-import,2.26.0,2.32.0,Update available (2.32.0)
+eslint-plugin-n,15.3.0,17.21.3,Update available (17.21.3)
+eslint-plugin-promise,6.1.1,7.2.1,Update available (7.2.1)
+eslint-plugin-react,7.31.10,7.37.5,Update available (7.37.5)
+resolve,2.0.0-next.4,1.22.10,Current version is newer than npm (1.22.10)
+eslint,8.25.0,9.35.0,Update available (9.35.0)
+eslint-scope,7.1.1,8.4.0,Update available (8.4.0)
+standard-engine,15.0.0,15.1.0,Update available (15.1.0)
+after-each,2.0.8,,Not Found
+after,1.1.31,0.8.2,Current version is newer than npm (0.8.2)
+asserts,2.0.8,4.0.2,Update available (4.0.2)
+before-each,2.0.8,,Not Found
+before,2.0.8,0.0.1,Current version is newer than npm (0.0.1)
+chdir,1.1.4,0.0.0,Current version is newer than npm (0.0.0)
+core,2.1.6,1.0.113,Current version is newer than npm (1.0.113)
+filter,2.0.8,0.1.1,Current version is newer than npm (0.1.1)
+fixture,2.0.8,0.1.2,Current version is newer than npm (0.1.2)
+rimraf,5.0.10,6.0.1,Update available (6.0.1)
+intercept,2.0.8,0.3.0,Current version is newer than npm (0.3.0)
+mock,2.1.6,0.1.1,Current version is newer than npm (0.1.1)
+node-serialize,2.0.8,0.0.4,Current version is newer than npm (0.0.4)
+run,2.1.7,1.5.0,Current version is newer than npm (1.5.0)
+snapshot,2.0.8,0.0.0,Current version is newer than npm (0.0.0)
+spawn,2.0.8,0.0.1,Current version is newer than npm (0.0.1)
+stdin,2.0.8,0.0.1,Current version is newer than npm (0.0.1)
+test,2.2.4,3.3.0,Update available (3.3.0)
+typescript,1.4.13,5.9.2,Update available (5.9.2)
+worker,2.0.8,0.4.0,Current version is newer than npm (0.4.0)
+resolve-import,1.4.6,2.0.0,Update available (2.0.0)
+lodash.get,4.4.2,4.4.2,Up-to-date
+text-encoding,0.7.2,0.7.0,Current version is newer than npm (0.7.0)
+just-extend,4.2.1,6.2.0,Update available (6.2.0)
+path-to-regexp,1.9.0,8.3.0,Update available (8.3.0)
+compare-func,2.0.0,2.0.0,Up-to-date
+conventional-changelog-angular,5.0.13,8.0.0,Update available (8.0.0)
+conventional-changelog-atom,2.0.8,5.0.0,Update available (5.0.0)
+conventional-changelog-codemirror,2.0.8,5.0.0,Update available (5.0.0)
+conventional-changelog-core,4.2.4,9.0.0,Update available (9.0.0)
+conventional-changelog-ember,2.0.9,5.0.0,Update available (5.0.0)
+conventional-changelog-eslint,3.0.9,6.0.0,Update available (6.0.0)
+conventional-changelog-express,2.0.6,5.0.0,Update available (5.0.0)
+conventional-changelog-jquery,3.0.11,6.0.0,Update available (6.0.0)
+conventional-changelog-jshint,2.0.9,5.0.0,Update available (5.0.0)
+conventional-changelog-preset-loader,2.3.4,5.0.0,Update available (5.0.0)
+concat-stream,2.0.0,2.0.0,Up-to-date
+conventional-commits-filter,2.0.7,5.0.0,Update available (5.0.0)
+conventional-commits-parser,3.2.4,6.2.0,Update available (6.2.0)
+git-raw-commits,2.0.11,5.0.0,Update available (5.0.0)
+meow,8.1.2,13.2.0,Update available (13.2.0)
+escalade,3.1.1,3.2.0,Update available (3.2.0)
+array-includes,3.1.5,3.1.9,Update available (3.1.9)
+array.prototype.flat,1.3.0,1.3.3,Update available (1.3.3)
+eslint-import-resolver-node,0.3.6,0.3.9,Update available (0.3.9)
+eslint-module-utils,2.7.4,2.12.1,Update available (2.12.1)
+has,1.0.3,1.0.4,Update available (1.0.4)
+is-core-module,2.11.0,2.16.1,Update available (2.16.1)
+object.values,1.1.5,1.2.1,Update available (1.2.1)
+resolve,1.22.1,1.22.10,Update available (1.22.10)
+tsconfig-paths,3.14.1,4.2.0,Update available (4.2.0)
+builtins,5.0.1,5.1.0,Update available (5.1.0)
+eslint-plugin-es,4.1.0,4.1.0,Up-to-date
+eslint-utils,2.1.0,3.0.0,Update available (3.0.0)
+eslint-visitor-keys,1.3.0,4.2.1,Update available (4.2.1)
+ignore,5.2.0,7.0.5,Update available (7.0.5)
+array.prototype.flatmap,1.3.0,1.3.3,Update available (1.3.3)
+jsx-ast-utils,3.3.3,3.3.5,Update available (3.3.5)
+object.entries,1.1.5,1.1.9,Update available (1.1.9)
+object.fromentries,2.0.5,2.0.8,Update available (2.0.8)
+object.hasown,1.1.1,1.1.4,Update available (1.1.4)
+prop-types,15.8.1,15.8.1,Up-to-date
+string.prototype.matchall,4.0.7,4.0.12,Update available (4.0.12)
+eslintrc,1.3.3,1.0.6,Current version is newer than npm (1.0.6)
+config-array,0.10.7,,Not Found
+eslint-visitor-keys,3.3.0,4.2.1,Update available (4.2.1)
+espree,9.4.0,10.4.0,Update available (10.4.0)
+esquery,1.4.0,1.6.0,Update available (1.6.0)
+globals,13.17.0,16.4.0,Update available (16.4.0)
+import-fresh,3.3.0,3.3.1,Update available (3.3.1)
+js-sdsl,4.1.5,4.4.2,Update available (4.4.2)
+optionator,0.9.1,0.9.4,Update available (0.9.4)
+regexpp,3.2.0,3.2.0,Up-to-date
+get-stdin,8.0.0,9.0.0,Update available (9.0.0)
+minimist,1.2.7,1.2.8,Update available (1.2.8)
+function-loop,4.0.0,4.0.0,Up-to-date
+is-actual-promise,1.0.2,1.0.2,Up-to-date
+stack,2.0.1,0.1.0,Current version is newer than npm (0.1.0)
+tcompare,7.0.1,9.0.0,Update available (9.0.0)
+trivial-deferred,2.0.0,2.0.0,Up-to-date
+processinfo,3.1.8,0.0.6,Current version is newer than npm (0.0.6)
+async-hook-domain,4.0.1,4.0.1,Up-to-date
+tap-parser,16.0.1,18.0.0,Update available (18.0.0)
+tap-yaml,2.2.2,4.0.0,Update available (4.0.0)
+walk-up-path,3.0.1,4.0.0,Update available (4.0.0)
+error-serdes,2.0.1,,Not Found
+config,3.1.6,4.1.1,Update available (4.1.1)
+reporter,2.0.8,0.1.0,Current version is newer than npm (0.1.0)
+c8,9.1.0,10.1.3,Update available (10.1.3)
+foreground-child,3.3.0,3.3.1,Update available (3.3.1)
+opener,1.5.2,1.5.2,Up-to-date
+pacote,17.0.7,21.0.1,Update available (21.0.1)
+fs-minipass,3.0.3,3.0.3,Up-to-date
+npm-package-arg,11.0.3,13.0.0,Update available (13.0.0)
+ssri,10.0.6,12.0.0,Update available (12.0.0)
+validate-npm-package-name,5.0.1,6.0.2,Update available (6.0.2)
+ts-node-temp-fork-for-pr-2009,10.9.7,,Not Found
+sync-content,1.0.2,2.0.1,Update available (2.0.1)
+tshy,1.18.0,3.0.2,Update available (3.0.2)
+polite-json,5.0.0,5.0.0,Up-to-date
+typescript,5.7.2,5.9.2,Update available (5.9.2)
+array-ify,1.0.0,1.0.0,Up-to-date
+add-stream,1.0.0,1.0.0,Up-to-date
+conventional-changelog-writer,5.0.1,8.2.0,Update available (8.2.0)
+dateformat,3.0.3,5.0.3,Update available (5.0.3)
+get-pkg-repo,4.2.1,5.0.0,Update available (5.0.0)
+through2,2.0.5,4.0.2,Update available (4.0.2)
+readable-stream,2.3.7,4.7.0,Update available (4.7.0)
+git-remote-origin-url,2.0.0,4.0.0,Update available (4.0.0)
+read-pkg-up,3.0.0,11.0.0,Update available (11.0.0)
+find-up,2.1.0,7.0.0,Update available (7.0.0)
+locate-path,2.0.0,7.2.0,Update available (7.2.0)
+p-locate,2.0.0,6.0.0,Update available (6.0.0)
+p-limit,1.3.0,7.1.1,Update available (7.1.1)
+p-try,1.0.0,3.0.0,Update available (3.0.0)
+read-pkg,3.0.0,9.0.1,Update available (9.0.1)
+load-json-file,4.0.0,7.0.1,Update available (7.0.1)
+path-type,3.0.0,6.0.0,Update available (6.0.0)
+through2,4.0.2,4.0.2,Up-to-date
+readable-stream,3.6.0,4.7.0,Update available (4.7.0)
+lodash.ismatch,4.4.0,4.4.0,Up-to-date
+modify-values,1.0.1,2.1.1,Update available (2.1.1)
+is-text-path,1.0.1,3.0.0,Update available (3.0.0)
+JSONStream,1.3.5,1.3.5,Up-to-date
+split2,3.2.2,4.2.0,Update available (4.2.0)
+dargs,7.0.0,8.1.0,Update available (8.1.0)
+minimist,1.2.2,1.2.8,Update available (1.2.8)
+decamelize-keys,1.1.0,2.0.1,Update available (2.0.1)
+call-bind,1.0.2,1.0.8,Update available (1.0.8)
+define-properties,1.1.4,1.2.1,Update available (1.2.1)
+es-abstract,1.20.4,1.24.0,Update available (1.24.0)
+get-intrinsic,1.1.3,1.3.0,Update available (1.3.0)
+is-string,1.0.7,1.1.1,Update available (1.1.1)
+es-shim-unscopables,1.0.0,1.1.0,Update available (1.1.0)
+function-bind,1.1.1,1.1.2,Update available (1.1.2)
+object.assign,4.1.4,4.1.7,Update available (4.1.7)
+loose-envify,1.4.0,1.4.0,Up-to-date
+react-is,16.13.1,19.1.1,Update available (19.1.1)
+internal-slot,1.0.3,1.1.0,Update available (1.1.0)
+regexp.prototype.flags,1.4.3,1.5.4,Update available (1.5.4)
+side-channel,1.0.4,1.1.0,Update available (1.1.0)
+object-schema,1.2.1,0.1.19,Current version is newer than npm (0.1.19)
+acorn,8.14.0,8.15.0,Update available (8.15.0)
+flat-cache,3.0.4,6.1.13,Update available (6.1.13)
+fast-glob,3.2.12,3.3.3,Update available (3.3.3)
+react-element-to-jsx-string,15.0.0,17.0.1,Update available (17.0.1)
+react-is,18.1.0,19.1.1,Update available (19.1.1)
+events-to-array,2.0.3,2.0.3,Up-to-date
+yaml-types,0.3.0,0.4.0,Update available (0.4.0)
+yaml,2.6.1,2.8.1,Update available (2.8.1)
+polite-json,4.0.1,5.0.0,Update available (5.0.0)
+ink,4.4.1,6.3.0,Update available (6.3.0)
+indent-string,5.0.0,5.0.0,Up-to-date
+slice-ansi,6.0.0,7.1.2,Update available (7.1.2)
+type-fest,0.12.0,4.41.0,Update available (4.41.0)
+ansi-regex,6.1.0,6.2.2,Update available (6.2.2)
+patch-console,2.0.0,2.0.0,Up-to-date
+prismjs-terminal,1.2.3,1.2.3,Up-to-date
+react,18.3.1,19.1.1,Update available (19.1.1)
+string-length,6.0.0,6.0.0,Up-to-date
+git,5.0.8,0.1.5,Current version is newer than npm (0.1.5)
+ini,4.1.3,5.0.0,Update available (5.0.0)
+installed-package-contents,2.1.0,,Not Found
+promise-spawn,7.0.2,0.0.1,Current version is newer than npm (0.0.1)
+run-script,7.0.4,0.1.1,Current version is newer than npm (0.1.1)
+cacache,18.0.4,20.0.1,Update available (20.0.1)
+npm-packlist,8.0.2,10.0.1,Update available (10.0.1)
+npm-pick-manifest,9.1.0,10.0.0,Update available (10.0.0)
+npm-registry-fetch,16.2.1,19.0.0,Update available (19.0.0)
+proc-log,4.2.0,5.0.0,Update available (5.0.0)
+promise-retry,2.0.1,2.0.1,Up-to-date
+read-package-json-fast,3.0.2,4.0.0,Update available (4.0.0)
+read-package-json,7.0.1,7.0.1,Up-to-date
+sigstore,2.3.1,4.0.0,Update available (4.0.0)
+node14,14.1.2,,Not Found
+node16,16.1.3,,Not Found
+node18,18.2.4,1.0.0,Current version is newer than npm (1.0.0)
+node20,20.1.4,,Not Found
+handlebars,4.7.7,4.7.8,Update available (4.7.8)
+json-stringify-safe,5.0.1,5.0.1,Up-to-date
+split,1.0.1,1.0.1,Up-to-date
+parse-repository-url,3.0.2,,Not Found
+gitconfiglocal,1.0.0,2.1.0,Update available (2.1.0)
+text-extensions,1.9.0,3.1.0,Update available (3.1.0)
+jsonparse,1.3.1,1.3.1,Up-to-date
+has-property-descriptors,1.0.0,1.0.2,Update available (1.0.2)
+es-to-primitive,1.2.1,1.3.0,Update available (1.3.0)
+function.prototype.name,1.1.5,1.1.8,Update available (1.1.8)
+get-symbol-description,1.0.0,1.1.0,Update available (1.1.0)
+is-negative-zero,2.0.2,2.0.3,Update available (2.0.3)
+is-regex,1.1.4,1.2.1,Update available (1.2.1)
+is-shared-array-buffer,1.0.2,1.0.4,Update available (1.0.4)
+is-weakref,1.0.2,1.1.1,Update available (1.1.1)
+object-inspect,1.12.2,1.13.4,Update available (1.13.4)
+safe-regex-test,1.0.0,1.1.0,Update available (1.1.0)
+string.prototype.trimend,1.0.5,1.0.9,Update available (1.0.9)
+string.prototype.trimstart,1.0.5,1.0.8,Update available (1.0.8)
+unbox-primitive,1.0.2,1.1.0,Update available (1.1.0)
+has-tostringtag,1.0.0,1.0.2,Update available (1.0.2)
+punycode,2.1.1,2.3.1,Update available (2.3.1)
+flatted,3.2.7,3.3.3,Update available (3.3.3)
+graceful-fs,4.2.10,4.2.11,Update available (4.2.11)
+pretty-print-object,1.0.1,1.1.0,Update available (1.1.0)
+react-dom,18.3.1,19.1.1,Update available (19.1.1)
+ansi-tokenize,0.1.3,,Not Found
+auto-bind,5.0.1,5.0.1,Up-to-date
+cli-boxes,3.0.0,4.0.1,Update available (4.0.1)
+cli-truncate,3.1.0,5.0.0,Update available (5.0.0)
+code-excerpt,4.0.0,4.0.0,Up-to-date
+is-ci,3.0.1,4.1.0,Update available (4.1.0)
+is-lower-case,2.0.2,3.0.0,Update available (3.0.0)
+is-upper-case,2.0.2,3.0.0,Update available (3.0.0)
+react-reconciler,0.29.2,0.32.0,Update available (0.32.0)
+scheduler,0.23.2,0.26.0,Update available (0.26.0)
+widest-line,4.0.1,5.0.0,Update available (5.0.0)
+ws,8.18.0,8.18.3,Update available (8.18.3)
+yoga-wasm-web,0.3.3,0.3.3,Up-to-date
+prismjs,1.29.0,1.30.0,Update available (1.30.0)
+promise-inflight,1.0.1,1.0.1,Up-to-date
+npm-bundled,3.0.1,4.0.0,Update available (4.0.0)
+npm-normalize-package-bin,3.0.1,4.0.0,Update available (4.0.0)
+node-gyp,3.0.0,11.4.2,Update available (11.4.2)
+package-json,5.2.1,10.0.1,Update available (10.0.1)
+node-gyp,10.3.1,11.4.2,Update available (11.4.2)
+fs,3.1.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+minipass-collect,2.0.1,2.0.1,Up-to-date
+minipass-flush,1.0.5,1.0.5,Up-to-date
+minipass-pipeline,1.2.4,1.2.4,Up-to-date
+unique-filename,3.0.0,4.0.0,Update available (4.0.0)
+ignore-walk,6.0.5,8.0.0,Update available (8.0.0)
+npm-install-checks,6.3.0,7.1.2,Update available (7.1.2)
+redact,1.1.0,0.0.9,Current version is newer than npm (0.0.9)
+make-fetch-happen,13.0.1,15.0.1,Update available (15.0.1)
+minipass-fetch,3.0.5,4.0.1,Update available (4.0.1)
+minipass-json-stream,1.0.2,1.0.2,Up-to-date
+err-code,2.0.3,3.0.1,Update available (3.0.1)
+retry,0.12.0,0.13.1,Update available (0.13.1)
+bundle,2.3.2,2.1.0,Current version is newer than npm (2.1.0)
+core,1.1.0,1.0.113,Current version is newer than npm (1.0.113)
+protobuf-specs,0.3.2,,Not Found
+sign,2.3.2,1.0.2,Current version is newer than npm (1.0.2)
+tuf,2.3.4,1.0.0,Current version is newer than npm (1.0.0)
+verify,1.2.1,0.1.2,Current version is newer than npm (0.1.2)
+uglify-js,3.17.3,3.19.3,Update available (3.19.3)
+wordwrap,1.0.0,1.0.0,Up-to-date
+spdx-correct,3.1.1,3.2.0,Update available (3.2.0)
+normalize-package-data,2.4.1,8.0.0,Update available (8.0.0)
+is-date-object,1.0.5,1.1.0,Update available (1.1.0)
+is-symbol,1.0.4,1.1.1,Update available (1.1.1)
+has-bigints,1.0.2,1.1.0,Update available (1.1.0)
+which-boxed-primitive,1.0.2,1.1.1,Update available (1.1.1)
+fastq,1.13.0,1.19.1,Update available (1.19.1)
+convert-to-spaces,2.0.1,2.0.1,Up-to-date
+env-paths,2.2.1,3.0.0,Update available (3.0.0)
+exponential-backoff,3.1.1,3.1.2,Update available (3.1.2)
+nopt,7.2.1,8.1.0,Update available (8.1.0)
+minipass,3.3.4,7.1.2,Update available (7.1.2)
+unique-slug,4.0.0,5.0.0,Update available (5.0.0)
+agent,2.2.2,0.2.1,Current version is newer than npm (0.2.1)
+is-lambda,1.0.1,1.0.1,Up-to-date
+negotiator,0.6.4,1.0.0,Update available (1.0.0)
+encoding,0.1.13,0.1.13,Up-to-date
+minipass-sized,1.0.3,1.0.3,Up-to-date
+tuf-js,2.2.1,4.0.0,Update available (4.0.0)
+core-util-is,1.0.2,1.0.3,Update available (1.0.3)
+spdx-license-ids,3.0.12,3.0.22,Update available (3.0.22)
+spdx-exceptions,2.3.0,2.5.0,Update available (2.5.0)
+is-bigint,1.0.4,1.1.0,Update available (1.1.0)
+is-boolean-object,1.1.2,1.2.2,Update available (1.2.2)
+is-number-object,1.0.7,1.1.1,Update available (1.1.1)
+abbrev,2.0.0,3.0.1,Update available (3.0.1)
+models,2.0.1,0.2.0,Current version is newer than npm (0.2.0)
+picocolors,1.0.0,1.1.1,Update available (1.1.1)
+canonical-json,2.0.0,0.2.0,Current version is newer than npm (0.2.0)
+core,7.27.4,1.0.113,Current version is newer than npm (1.0.113)
+preset-env,7.27.2,,Not Found
+preset-react,7.27.1,1.0.0,Current version is newer than npm (1.0.0)
+preset-typescript,7.27.1,,Not Found
+register,7.27.1,0.0.0,Current version is newer than npm (0.0.0)
+cli,4.7.0,1.0.1,Current version is newer than npm (1.0.1)
+yarn-plugin-cyclonedx,3.1.1,,Not Found
+eslint-plugin-eslint-comments,4.5.0,3.2.0,Current version is newer than npm (3.2.0)
+js,9.28.0,0.1.0,Current version is newer than npm (0.1.0)
+markdown,6.4.0,0.5.0,Current version is newer than npm (0.5.0)
+globals,30.1.2,16.4.0,Current version is newer than npm (16.4.0)
+test-utils,30.1.2,1.1.1,Current version is newer than npm (1.1.1)
+cli,4.3.0,1.0.1,Current version is newer than npm (1.0.1)
+exec,4.3.0,0.2.1,Current version is newer than npm (0.2.1)
+publish,4.3.0,0.6.0,Current version is newer than npm (0.6.0)
+api-extractor,7.52.8,99.99.99,Update available (99.99.99)
+babel__generator,7.27.0,,Not Found
+node,18.14.6,20.19.5,Update available (20.19.5)
+which,3.0.4,5.0.0,Update available (5.0.0)
+types,4.0.1,0.1.1,Current version is newer than npm (0.1.1)
+babel-jest,30.1.2,30.1.2,Up-to-date
+babel-loader,9.2.1,10.0.0,Update available (10.0.0)
+dedent,1.6.0,1.7.0,Update available (1.7.0)
+eslint-config-prettier,10.1.5,10.1.8,Update available (10.1.8)
+eslint-import-resolver-typescript,4.4.2,4.4.4,Update available (4.4.4)
+eslint-plugin-import-x,4.15.0,4.16.1,Update available (4.16.1)
+eslint-plugin-jest,28.12.0,29.0.1,Update available (29.0.1)
+eslint-plugin-jsdoc,50.7.1,55.1.2,Update available (55.1.2)
+eslint-plugin-prettier,5.4.1,5.5.4,Update available (5.5.4)
+eslint-plugin-promise,7.2.1,7.2.1,Up-to-date
+eslint-plugin-unicorn,59.0.1,61.0.2,Update available (61.0.2)
+eslint,9.28.0,9.35.0,Update available (9.35.0)
+find-process,1.4.10,2.0.0,Update available (2.0.0)
+globals,16.2.0,16.4.0,Update available (16.4.0)
+isbinaryfile,5.0.4,5.0.6,Update available (5.0.6)
+jest-changed-files,30.0.5,30.0.5,Up-to-date
+jest-junit,16.0.0,16.0.0,Up-to-date
+jest-mock,30.0.5,30.0.5,Up-to-date
+jest-serializer-ansi-escapes,3.0.0,4.0.0,Update available (4.0.0)
+jest-silent-reporter,0.6.0,0.6.0,Up-to-date
+jest-snapshot,30.1.2,30.1.2,Up-to-date
+jest-util,30.0.5,30.0.5,Up-to-date
+jest-watch-typeahead,2.2.2,3.0.1,Update available (3.0.1)
+jest,30.1.3,30.1.3,Up-to-date
+jquery,3.7.1,3.7.1,Up-to-date
+mock-fs,5.5.0,5.5.0,Up-to-date
+netlify-plugin-cache,1.0.3,1.0.3,Up-to-date
+node-notifier,10.0.1,10.0.1,Up-to-date
+prettier,3.5.3,3.6.2,Update available (3.6.2)
+promise,8.3.0,8.3.0,Up-to-date
+tempy,1.0.1,3.1.0,Update available (3.1.0)
+tstyche,4.0.0,4.3.0,Update available (4.3.0)
+typescript-eslint,8.38.0,8.43.0,Update available (8.43.0)
+typescript,5.5.4,5.9.2,Update available (5.9.2)
+webpack-node-externals,3.0.0,3.0.0,Up-to-date
+webpack,5.99.9,5.101.3,Update available (5.101.3)
+estree,1.0.7,,Not Found
+acorn,8.14.1,8.15.0,Update available (8.15.0)
+browserslist,4.24.5,4.25.4,Update available (4.25.4)
+enhanced-resolve,5.18.1,5.18.3,Update available (5.18.3)
+tapable,2.2.2,2.2.3,Update available (2.2.3)
+webpack-sources,3.3.0,3.3.3,Update available (3.3.3)
+terser,5.39.2,5.44.0,Update available (5.44.0)
+ajv,8.13.0,8.17.1,Update available (8.17.1)
+caniuse-lite,1.0.30001718,1.0.30001741,Update available (1.0.30001741)
+electron-to-chromium,1.5.158,1.5.215,Update available (1.5.215)
+eslint-plugin,8.38.0,1.0.1,Current version is newer than npm (1.0.1)
+parser,8.38.0,0.1.4,Current version is newer than npm (0.1.4)
+typescript-estree,8.38.0,18.1.0,Update available (18.1.0)
+utils,8.38.0,0.3.1,Current version is newer than npm (0.3.1)
+eslint-utils,4.7.0,3.0.0,Current version is newer than npm (3.0.0)
+scope-manager,8.38.0,,Not Found
+types,8.38.0,0.1.1,Current version is newer than npm (0.1.1)
+visitor-keys,8.38.0,,Not Found
+project-service,8.38.0,,Not Found
+tsconfig-utils,8.38.0,4.1.1,Current version is newer than npm (4.1.1)
+type-utils,8.38.0,0.10.6,Current version is newer than npm (0.10.6)
+ignore,7.0.4,7.0.5,Update available (7.0.5)
+type-fest,0.16.0,4.41.0,Update available (4.41.0)
+spdx-license-ids,3.0.21,3.0.22,Update available (3.0.22)
+growly,1.3.0,1.3.0,Up-to-date
+shellwords,0.1.1,1.1.1,Update available (1.1.1)
+core,30.1.3,1.0.113,Current version is newer than npm (1.0.113)
+types,30.0.5,0.1.1,Current version is newer than npm (0.1.1)
+jest-cli,30.1.3,30.1.3,Up-to-date
+test-result,30.1.3,2.0.0,Current version is newer than npm (2.0.0)
+exit-x,0.2.2,0.2.2,Up-to-date
+jest-config,30.1.3,30.1.3,Up-to-date
+jest-validate,30.1.0,30.1.0,Up-to-date
+get-type,30.1.0,1.1.0,Current version is newer than npm (1.1.0)
+pretty-format,30.0.5,30.0.5,Up-to-date
+schemas,30.0.5,1.0.0,Current version is newer than npm (1.0.0)
+react-test-renderer,18.3.1,19.1.1,Update available (19.1.1)
+react,18.3.22,19.1.1,Update available (19.1.1)
+immutable,5.1.2,5.1.3,Update available (5.1.3)
+react-shallow-renderer,16.15.0,16.15.0,Up-to-date
+prop-types,15.7.14,15.8.1,Update available (15.8.1)
+csstype,3.1.3,3.1.3,Up-to-date
+typebox,0.34.33,1.0.0,Update available (1.0.0)
+pattern,30.0.1,0.2.0,Current version is newer than npm (0.2.0)
+test-sequencer,30.1.3,,Not Found
+micromatch,4.0.9,4.0.8,Current version is newer than npm (4.0.8)
+parse-json,4.0.2,8.3.0,Update available (8.3.0)
+ci-info,4.2.0,4.3.0,Update available (4.3.0)
+esbuild,0.25.5,0.25.9,Update available (0.25.9)
+esbuild-register,3.6.0,3.6.0,Up-to-date
+jest-circus,30.1.3,30.1.3,Up-to-date
+jest-docblock,30.0.1,30.0.1,Up-to-date
+jest-environment-node,30.1.2,30.1.2,Up-to-date
+jest-regex-util,30.0.1,30.0.1,Up-to-date
+jest-resolve,30.1.3,30.1.3,Up-to-date
+jest-runner,30.1.3,30.1.3,Up-to-date
+console,30.1.2,0.7.2,Current version is newer than npm (0.7.2)
+environment,30.1.2,1.1.0,Current version is newer than npm (1.1.0)
+transform,30.1.2,1.1.2,Current version is newer than npm (1.1.2)
+source-map-support,0.5.10,0.5.21,Update available (0.5.21)
+jest-haste-map,30.1.0,30.1.0,Up-to-date
+jest-jasmine2,30.1.3,30.1.3,Up-to-date
+jest-leak-detector,30.1.0,30.1.0,Up-to-date
+jest-message-util,30.1.0,30.1.0,Up-to-date
+jest-runtime,30.1.3,30.1.3,Up-to-date
+jest-watcher,30.1.3,30.1.3,Up-to-date
+jest-worker,30.1.0,30.1.0,Up-to-date
+supports-color,8.1.3,10.2.2,Update available (10.2.2)
+ungap__structured-clone,1.2.0,,Not Found
+worker-farm,1.7.0,1.7.0,Up-to-date
+fake-timers,30.1.2,0.1.2,Current version is newer than npm (0.1.2)
+source-map,30.0.1,0.7.6,Current version is newer than npm (0.7.6)
+cjs-module-lexer,2.1.0,2.1.0,Up-to-date
+babel__code-frame,7.0.6,,Not Found
+expect,30.1.2,30.1.2,Up-to-date
+co,4.6.6,4.6.0,Current version is newer than npm (4.6.0)
+jest-each,30.1.0,30.1.0,Up-to-date
+jest-matcher-utils,30.1.2,30.1.2,Up-to-date
+jest-diff,30.1.2,30.1.2,Up-to-date
+diff-sequences,30.0.1,29.6.3,Current version is newer than npm (29.6.3)
+jest,2.1.1,30.1.3,Update available (30.1.3)
+fast-check,4.1.1,4.3.0,Update available (4.3.0)
+pure-rand,7.0.1,7.0.1,Up-to-date
+expect-utils,30.1.2,,Not Found
+fb-watchman,2.0.5,2.0.2,Current version is newer than npm (2.0.2)
+node-gyp,11.2.0,11.4.2,Update available (11.4.2)
+exponential-backoff,3.1.2,3.1.2,Up-to-date
+make-fetch-happen,14.0.3,15.0.1,Update available (15.0.1)
+nopt,8.1.0,8.1.0,Up-to-date
+proc-log,5.0.0,5.0.0,Up-to-date
+tar,7.4.3,7.4.3,Up-to-date
+tinyglobby,0.2.14,0.2.15,Update available (0.2.15)
+which,5.0.0,5.0.0,Up-to-date
+fdir,6.4.4,6.5.0,Update available (6.5.0)
+picomatch,4.0.2,4.0.3,Update available (4.0.3)
+fs-minipass,4.0.1,3.0.3,Current version is newer than npm (3.0.3)
+chownr,3.0.0,3.0.0,Up-to-date
+minizlib,3.0.2,3.0.2,Up-to-date
+yallist,5.0.0,5.0.0,Up-to-date
+abbrev,3.0.1,3.0.1,Up-to-date
+agent,3.0.0,0.2.1,Current version is newer than npm (0.2.1)
+cacache,19.0.1,20.0.1,Update available (20.0.1)
+minipass-fetch,4.0.1,4.0.1,Up-to-date
+negotiator,1.0.0,1.0.0,Up-to-date
+ssri,12.0.0,12.0.0,Up-to-date
+fs,4.0.0,0.0.1-security,Current version is newer than npm (0.0.1-security)
+p-map,7.0.3,7.0.3,Up-to-date
+unique-filename,4.0.0,4.0.0,Up-to-date
+unique-slug,5.0.0,5.0.0,Up-to-date
+agent-base,7.1.3,7.1.4,Update available (7.1.4)
+socks-proxy-agent,8.0.5,8.0.5,Up-to-date
+socks,2.8.4,2.8.7,Update available (2.8.7)
+convert-source-map,2.0.3,2.0.0,Current version is newer than npm (2.0.0)
+write-file-atomic,4.0.3,6.0.0,Update available (6.0.0)
+babel-plugin-istanbul,7.0.1,7.0.1,Up-to-date
+write-file-atomic,5.0.1,6.0.0,Update available (6.0.0)
+parser,7.27.5,0.1.4,Current version is newer than npm (0.1.4)
+types,7.27.3,0.1.1,Current version is newer than npm (0.1.1)
+unrs-resolver,1.7.11,1.11.1,Update available (1.11.1)
+url,0.11.4,0.11.4,Up-to-date
+punycode,1.4.1,2.3.1,Update available (2.3.1)
+qs,6.14.0,6.14.0,Up-to-date
+resolver-binding-darwin-arm64,1.7.11,8.0.11,Update available (8.0.11)
+resolver-binding-darwin-x64,1.7.11,8.0.11,Update available (8.0.11)
+resolver-binding-freebsd-x64,1.7.11,,Not Found
+resolver-binding-linux-arm-gnueabihf,1.7.11,,Not Found
+resolver-binding-linux-arm-musleabihf,1.7.11,,Not Found
+resolver-binding-linux-arm64-gnu,1.7.11,,Not Found
+resolver-binding-linux-arm64-musl,1.7.11,,Not Found
+resolver-binding-linux-ppc64-gnu,1.7.11,,Not Found
+resolver-binding-linux-riscv64-gnu,1.7.11,,Not Found
+resolver-binding-linux-riscv64-musl,1.7.11,,Not Found
+resolver-binding-linux-s390x-gnu,1.7.11,,Not Found
+resolver-binding-linux-x64-gnu,1.7.11,,Not Found
+resolver-binding-linux-x64-musl,1.7.11,,Not Found
+resolver-binding-wasm32-wasi,1.7.11,,Not Found
+resolver-binding-win32-arm64-msvc,1.7.11,,Not Found
+resolver-binding-win32-ia32-msvc,1.7.11,,Not Found
+resolver-binding-win32-x64-msvc,1.7.11,,Not Found
+napi-postinstall,0.2.4,0.3.3,Update available (0.3.3)
+wasm-runtime,0.2.10,,Not Found
+core,1.4.3,1.0.113,Current version is newer than npm (1.0.113)
+runtime,1.4.3,0.14.1,Current version is newer than npm (0.14.1)
+wasm-util,0.9.0,0.0.2,Current version is newer than npm (0.0.2)
+wasi-threads,1.0.2,,Not Found
+clsx,2.1.1,2.1.1,Up-to-date
+aix-ppc64,0.25.5,8.0.11,Update available (8.0.11)
+android-arm64,0.25.5,8.0.11,Update available (8.0.11)
+android-arm,0.25.5,8.0.11,Update available (8.0.11)
+android-x64,0.25.5,8.0.11,Update available (8.0.11)
+darwin-arm64,0.25.5,,Not Found
+darwin-x64,0.25.5,,Not Found
+freebsd-arm64,0.25.5,8.0.11,Update available (8.0.11)
+freebsd-x64,0.25.5,8.0.11,Update available (8.0.11)
+linux-arm64,0.25.5,,Not Found
+linux-arm,0.25.5,,Not Found
+linux-ia32,0.25.5,,Not Found
+linux-loong64,0.25.5,,Not Found
+linux-mips64el,0.25.5,,Not Found
+linux-ppc64,0.25.5,,Not Found
+linux-riscv64,0.25.5,,Not Found
+linux-s390x,0.25.5,,Not Found
+linux-x64,0.25.5,,Not Found
+netbsd-arm64,0.25.5,,Not Found
+netbsd-x64,0.25.5,,Not Found
+openbsd-arm64,0.25.5,,Not Found
+openbsd-x64,0.25.5,,Not Found
+sunos-x64,0.25.5,,Not Found
+win32-arm64,0.25.5,,Not Found
+win32-ia32,0.25.5,,Not Found
+win32-x64,0.25.5,,Not Found
+braces,3.0.5,3.0.3,Current version is newer than npm (3.0.3)
+reporters,30.1.3,0.0.4,Current version is newer than npm (0.0.4)
+jest-resolve-dependencies,30.1.3,30.1.3,Up-to-date
+istanbul-lib-instrument,1.7.7,6.0.3,Update available (6.0.3)
+istanbul-lib-source-maps,4.0.4,5.0.6,Update available (5.0.6)
+node-notifier,8.0.5,10.0.1,Update available (10.0.1)
+istanbul-lib-source-maps,5.0.6,5.0.6,Up-to-date
+babel-types,7.0.16,6.26.0,Current version is newer than npm (6.26.0)
+chalk,5.4.1,5.6.2,Update available (5.6.2)
+string-length,5.0.1,6.0.0,Update available (6.0.0)
+char-regex,2.0.2,2.0.2,Up-to-date
+picomatch,4.0.0,4.0.3,Update available (4.0.3)
+generator,7.27.5,1.0.1,Current version is newer than npm (1.0.1)
+plugin-syntax-jsx,7.27.1,,Not Found
+plugin-syntax-typescript,7.27.1,,Not Found
+preset-flow,7.27.1,,Not Found
+snapshot-utils,30.1.2,1.2.3,Current version is newer than npm (1.2.3)
+prettier,2.7.3,3.6.2,Update available (3.6.2)
+semver,7.7.0,7.7.2,Update available (7.7.2)
+prettier,2.8.8,3.6.2,Update available (3.6.2)
+synckit,0.11.8,0.11.11,Update available (0.11.11)
+core,0.2.4,1.0.113,Update available (1.0.113)
+natural-compare,1.4.3,1.4.0,Current version is newer than npm (1.4.0)
+plugin-transform-flow-strip-types,7.27.1,,Not Found
+plugin-syntax-flow,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+jest-util,26.6.2,30.0.5,Update available (30.0.5)
+types,26.6.2,0.1.1,Current version is newer than npm (0.1.1)
+yargs,15.0.19,18.0.0,Update available (18.0.0)
+pretty-ansi,2.0.0,3.0.0,Update available (3.0.0)
+xml,1.0.1,1.0.1,Up-to-date
+commander,12.1.0,14.0.0,Update available (14.0.0)
+loglevel,1.9.2,1.9.2,Up-to-date
+config-array,0.20.0,,Not Found
+config-helpers,0.2.2,0.0.0,Current version is newer than npm (0.0.0)
+core,0.14.0,1.0.113,Update available (1.0.113)
+plugin-kit,0.3.1,,Not Found
+node,0.16.6,20.19.5,Update available (20.19.5)
+retry,0.4.3,0.13.1,Update available (0.13.1)
+eslint-scope,8.3.0,8.4.0,Update available (8.4.0)
+espree,10.3.0,10.4.0,Update available (10.4.0)
+file-entry-cache,8.0.0,10.1.4,Update available (10.1.4)
+flat-cache,4.0.1,6.1.13,Update available (6.1.13)
+core,0.19.1,1.0.113,Update available (1.0.113)
+retry,0.3.1,0.13.1,Update available (0.13.1)
+object-schema,2.1.6,0.1.19,Current version is newer than npm (0.1.19)
+plugin-kit,0.2.8,,Not Found
+core-js-compat,3.42.0,3.45.1,Update available (3.45.1)
+is-builtin-module,5.0.0,5.0.0,Up-to-date
+strip-indent,4.0.0,4.0.0,Up-to-date
+builtin-modules,5.0.0,5.0.0,Up-to-date
+core,0.13.0,1.0.113,Update available (1.0.113)
+jsdoccomment,0.50.2,,Not Found
+are-docs-informative,0.0.2,0.1.1,Update available (0.1.1)
+comment-parser,1.4.1,1.4.1,Up-to-date
+parse-imports-exports,0.2.4,0.2.4,Up-to-date
+spdx-expression-parse,4.0.0,4.0.0,Up-to-date
+parse-statements,1.0.11,1.0.12,Update available (1.0.12)
+jsdoc-type-pratt-parser,4.1.0,5.2.0,Update available (5.2.0)
+eslint-import-context,0.1.6,0.2.0,Update available (0.2.0)
+stable-hash,0.0.5,0.0.6,Update available (0.0.6)
+is-bun-module,2.0.0,2.0.0,Up-to-date
+babel-preset-jest,30.0.1,30.0.1,Up-to-date
+babel-plugin-jest-hoist,30.0.1,30.0.1,Up-to-date
+sync,0.5.5,0.2.5,Current version is newer than npm (0.2.5)
+babel__traverse,7.20.7,,Not Found
+babel-plugin-tester,11.0.4,12.0.0,Update available (12.0.0)
+core-js,3.42.0,3.45.1,Update available (3.45.1)
+lodash.mergewith,4.6.2,4.6.2,Up-to-date
+make-synchronized,0.4.2,0.8.0,Update available (0.8.0)
+api-extractor-model,7.30.6,8.0.11,Update available (8.0.11)
+tsdoc-config,0.17.1,,Not Found
+tsdoc,0.15.1,0.0.4,Current version is newer than npm (0.0.4)
+node-core-library,5.13.1,1.0.32,Current version is newer than npm (1.0.32)
+rig-package,0.5.3,,Not Found
+terminal,0.15.3,0.1.4,Current version is newer than npm (0.1.4)
+ts-command-line,5.0.1,,Not Found
+semver,7.5.4,7.7.2,Update available (7.7.2)
+argparse,1.0.38,2.0.1,Update available (2.0.1)
+string-argv,0.3.2,0.3.2,Up-to-date
+ajv-draft-04,1.0.0,1.0.0,Up-to-date
+ajv-formats,3.0.1,3.0.1,Up-to-date
+fs-extra,11.3.0,11.3.1,Update available (11.3.1)
+import-lazy,4.0.0,4.0.0,Up-to-date
+jju,1.4.0,1.4.0,Up-to-date
+ajv,8.12.0,8.17.1,Update available (8.17.1)
+core,4.3.0,1.0.113,Current version is newer than npm (1.0.113)
+npmlog,4.1.2,7.0.1,Update available (7.0.1)
+version,4.3.0,0.1.2,Current version is newer than npm (0.1.2)
+arborist,9.1.1,0.1.0,Current version is newer than npm (0.1.0)
+package-json,6.2.0,10.0.1,Update available (10.0.1)
+byte-size,9.0.1,9.0.1,Up-to-date
+columnify,1.6.0,1.6.0,Up-to-date
+libnpmaccess,10.0.1,10.0.1,Up-to-date
+libnpmpublish,11.0.0,11.1.0,Update available (11.1.0)
+npm-package-arg,12.0.2,13.0.0,Update available (13.0.0)
+npm-packlist,10.0.0,10.0.1,Update available (10.0.1)
+npm-registry-fetch,18.0.2,19.0.0,Update available (19.0.0)
+p-pipe,4.0.0,4.0.0,Up-to-date
+pacote,21.0.0,21.0.1,Update available (21.0.1)
+tinyrainbow,2.0.0,3.0.3,Update available (3.0.3)
+git,6.0.3,0.1.5,Current version is newer than npm (0.1.5)
+installed-package-contents,3.0.0,,Not Found
+promise-spawn,8.0.2,0.0.1,Current version is newer than npm (0.0.1)
+run-script,9.1.0,0.1.1,Current version is newer than npm (0.1.1)
+npm-pick-manifest,10.0.0,10.0.0,Up-to-date
+sigstore,3.1.0,4.0.0,Update available (4.0.0)
+bundle,3.1.0,2.1.0,Current version is newer than npm (2.1.0)
+core,2.0.0,1.0.113,Current version is newer than npm (1.0.113)
+protobuf-specs,0.4.2,,Not Found
+sign,3.1.0,1.0.2,Current version is newer than npm (1.0.2)
+tuf,3.1.1,1.0.0,Current version is newer than npm (1.0.0)
+verify,2.1.1,0.1.2,Current version is newer than npm (0.1.2)
+tuf-js,3.0.1,4.0.0,Update available (4.0.0)
+models,3.0.1,0.2.0,Current version is newer than npm (0.2.0)
+npm-install-checks,7.1.1,7.1.2,Update available (7.1.2)
+npm-normalize-package-bin,4.0.0,4.0.0,Up-to-date
+node-gyp,4.0.0,11.4.2,Update available (11.4.2)
+npm-bundled,4.0.0,4.0.0,Up-to-date
+ini,5.0.0,5.0.0,Up-to-date
+redact,3.2.2,0.0.9,Current version is newer than npm (0.0.9)
+ignore-walk,7.0.0,8.0.0,Update available (8.0.0)
+hosted-git-info,8.1.0,9.0.0,Update available (9.0.0)
+validate-npm-package-name,6.0.0,6.0.2,Update available (6.0.2)
+normalize-package-data,7.0.0,8.0.0,Update available (8.0.0)
+json-parse-even-better-errors,4.0.0,4.0.0,Up-to-date
+string-locale-compare,1.1.0,,Not Found
+map-workspaces,4.0.2,,Not Found
+metavuln-calculator,9.0.0,,Not Found
+name-from-folder,3.0.0,,Not Found
+query,4.0.1,0.2.0,Current version is newer than npm (0.2.0)
+bin-links,5.0.0,5.0.0,Up-to-date
+common-ancestor-path,1.0.1,1.0.1,Up-to-date
+json-stringify-nice,1.1.4,1.1.4,Up-to-date
+parse-conflict-json,4.0.0,4.0.0,Up-to-date
+proggy,3.0.0,3.0.0,Up-to-date
+promise-all-reject-late,1.0.1,1.0.1,Up-to-date
+promise-call-limit,3.0.2,3.0.2,Up-to-date
+read-package-json-fast,4.0.0,4.0.0,Up-to-date
+treeverse,3.0.0,3.0.0,Up-to-date
+walk-up-path,4.0.0,4.0.0,Up-to-date
+just-diff-apply,5.5.0,5.5.0,Up-to-date
+just-diff,6.0.2,6.0.2,Up-to-date
+cmd-shim,7.0.0,7.0.0,Up-to-date
+read-cmd-shim,5.0.0,5.0.0,Up-to-date
+write-file-atomic,6.0.0,6.0.0,Up-to-date
+postcss-selector-parser,7.1.0,7.1.0,Up-to-date
+cssesc,3.0.0,3.0.0,Up-to-date
+git-client,2.5.1,1.9.3,Current version is newer than npm (1.9.3)
+plugin-enterprise-rest,6.0.1,,Not Found
+rest,22.0.0,2.0.0,Current version is newer than npm (2.0.0)
+conventional-changelog-angular,8.0.0,8.0.0,Up-to-date
+conventional-changelog-writer,8.1.0,8.2.0,Update available (8.2.0)
+conventional-changelog,7.0.2,7.1.1,Update available (7.1.1)
+conventional-commits-parser,6.1.0,6.2.0,Update available (6.2.0)
+conventional-recommended-bump,11.1.0,11.2.0,Update available (11.2.0)
+git-url-parse,16.1.0,16.1.0,Up-to-date
+is-stream,4.0.1,4.0.1,Up-to-date
+load-json-file,7.0.1,7.0.1,Up-to-date
+new-github-release-url,2.0.0,2.0.0,Up-to-date
+p-limit,6.2.0,7.1.1,Update available (7.1.1)
+p-reduce,3.0.0,3.0.0,Up-to-date
+pify,6.1.0,6.1.0,Up-to-date
+write-json-file,6.0.0,6.0.0,Up-to-date
+detect-indent,7.0.1,7.0.1,Up-to-date
+sort-keys,5.1.0,6.0.0,Update available (6.0.0)
+git-up,8.1.1,8.1.1,Up-to-date
+is-ssh,1.4.1,1.4.1,Up-to-date
+parse-url,9.2.0,10.0.3,Update available (10.0.3)
+parse-path,7.0.3,7.1.0,Update available (7.1.0)
+parse-path,7.1.0,7.1.0,Up-to-date
+protocols,2.0.2,2.0.2,Up-to-date
+conventional-changelog-preset-loader,5.0.0,5.0.0,Up-to-date
+conventional-commits-filter,5.0.0,5.0.0,Up-to-date
+child-process-utils,1.0.0,0.0.1,Current version is newer than npm (0.0.1)
+stream-utils,1.1.0,0.0.2,Current version is newer than npm (0.0.2)
+fd-package-json,1.2.0,2.0.0,Update available (2.0.0)
+handlebars,4.7.8,4.7.8,Up-to-date
+uglify-js,3.19.3,3.19.3,Up-to-date
+core,7.0.2,1.0.113,Current version is newer than npm (1.0.113)
+plugin-paginate-rest,13.0.1,,Not Found
+plugin-request-log,6.0.0,,Not Found
+plugin-rest-endpoint-methods,16.0.0,,Not Found
+types,14.1.0,0.1.1,Current version is newer than npm (0.1.1)
+openapi-types,25.1.0,12.1.3,Current version is newer than npm (12.1.3)
+auth-token,6.0.0,0.1.0,Current version is newer than npm (0.1.0)
+graphql,9.0.1,16.11.0,Update available (16.11.0)
+request-error,7.0.0,2.0.1,Current version is newer than npm (2.0.1)
+request,10.0.2,2.88.2,Current version is newer than npm (2.88.2)
+before-after-hook,4.0.0,4.0.0,Up-to-date
+universal-user-agent,7.0.3,7.0.3,Up-to-date
+endpoint,11.0.0,0.4.5,Current version is newer than npm (0.4.5)
+fast-content-type-parse,3.0.0,3.0.0,Up-to-date
+init,4.3.0,0.1.2,Current version is newer than npm (0.1.2)
+dotenv,16.5.0,17.2.2,Update available (17.2.2)
+yargs,18.0.0,18.0.0,Up-to-date
+cliui,9.0.1,9.0.1,Up-to-date
+yargs-parser,22.0.0,22.0.0,Up-to-date
+emoji-regex,10.4.0,10.5.0,Update available (10.5.0)
+get-east-asian-width,1.3.0,1.4.0,Update available (1.4.0)
+wrap-ansi,9.0.0,9.0.2,Update available (9.0.2)
+expand,4.0.15,0.5.0,Current version is newer than npm (0.5.0)
+input,4.1.12,1.0.1,Current version is newer than npm (1.0.1)
+select,4.2.3,1.1.2,Current version is newer than npm (1.1.2)
+config-chain,1.1.13,1.1.13,Up-to-date
+cosmiconfig,9.0.0,9.0.0,Up-to-date
+execa,9.6.0,9.6.0,Up-to-date
+multimatch,7.0.0,7.0.0,Up-to-date
+p-queue,8.1.0,8.1.1,Update available (8.1.1)
+strong-log-transformer,2.1.0,2.1.0,Up-to-date
+write-package,7.1.0,7.1.0,Up-to-date
+yaml,2.8.0,2.8.1,Update available (2.8.1)
+deepmerge-ts,7.1.5,7.1.5,Up-to-date
+read-pkg,9.0.1,9.0.1,Up-to-date
+parse-json,8.3.0,8.3.0,Up-to-date
+unicorn-magic,0.1.0,0.3.0,Update available (0.3.0)
+index-to-position,1.1.0,1.1.0,Up-to-date
+eventemitter3,5.0.1,5.0.1,Up-to-date
+p-timeout,6.1.4,6.1.4,Up-to-date
+array-differ,4.0.0,4.0.0,Up-to-date
+array-union,3.0.1,3.0.1,Up-to-date
+merge-streams,4.0.0,,Not Found
+figures,6.1.0,6.1.0,Up-to-date
+get-stream,9.0.1,9.0.1,Up-to-date
+human-signals,8.0.1,8.0.1,Up-to-date
+npm-run-path,6.0.0,6.0.0,Up-to-date
+pretty-ms,9.2.0,9.2.0,Up-to-date
+strip-final-newline,4.0.0,4.0.0,Up-to-date
+yoctocolors,2.1.1,2.1.2,Update available (2.1.2)
+parse-ms,4.0.0,4.0.0,Up-to-date
+readable-stream,0.4.1,4.7.0,Update available (4.7.0)
+is-unicode-supported,2.1.0,2.1.0,Up-to-date
+proto-list,1.2.4,1.2.4,Up-to-date
+core,10.1.13,1.0.113,Current version is newer than npm (1.0.113)
+figures,1.0.12,6.1.0,Update available (6.1.0)
+type,3.0.7,2.7.3,Current version is newer than npm (2.7.3)
+yoctocolors-cjs,2.1.2,2.1.3,Update available (2.1.3)
+mute-stream,2.0.0,2.0.0,Up-to-date
+profiler,4.3.0,1.2.3,Current version is newer than npm (1.2.3)
+upath,2.0.1,2.0.1,Up-to-date
+core,0.10.0,1.0.113,Update available (1.0.113)
+mdast-util-from-markdown,2.0.2,2.0.2,Up-to-date
+mdast-util-frontmatter,2.0.1,2.0.1,Up-to-date
+mdast-util-gfm,3.1.0,3.1.0,Up-to-date
+micromark-extension-frontmatter,2.0.0,2.0.0,Up-to-date
+micromark-extension-gfm,3.0.0,3.0.0,Up-to-date
+micromark-extension-gfm-strikethrough,2.1.0,2.1.0,Up-to-date
+micromark-extension-gfm-tagfilter,2.0.0,2.0.0,Up-to-date
+micromark-extension-gfm-task-list-item,2.1.0,2.1.0,Up-to-date
+decode-named-character-reference,1.1.0,1.2.0,Update available (1.2.0)
+fault,2.0.1,2.0.1,Up-to-date
+format,0.2.2,0.2.2,Up-to-date
+mdast-util-gfm-autolink-literal,2.0.1,2.0.1,Up-to-date
+mdast-util-gfm-footnote,2.1.0,2.1.0,Up-to-date
+mdast-util-gfm-strikethrough,2.0.0,2.0.0,Up-to-date
+mdast-util-gfm-table,2.0.0,2.0.0,Up-to-date
+mdast-util-gfm-task-list-item,2.0.0,2.0.0,Up-to-date
+mdast-util-to-markdown,2.1.2,2.1.2,Up-to-date
+mdast,4.0.4,3.0.0,Current version is newer than npm (3.0.0)
+unist,3.0.3,0.0.1,Current version is newer than npm (0.0.1)
+longest-streak,3.1.0,3.1.0,Up-to-date
+mdast-util-phrasing,4.1.0,4.1.0,Up-to-date
+mdast-util-to-string,4.0.0,4.0.0,Up-to-date
+micromark-util-decode-string,2.0.1,2.0.1,Up-to-date
+unist-util-visit,5.0.0,5.0.0,Up-to-date
+zwitch,2.0.4,2.0.4,Up-to-date
+unist-util-is,6.0.0,6.0.0,Up-to-date
+unist-util-visit-parents,6.0.1,6.0.1,Up-to-date
+markdown-table,3.0.4,3.0.4,Up-to-date
+ccount,2.0.1,2.0.1,Up-to-date
+mdast-util-find-and-replace,3.0.2,3.0.2,Up-to-date
+unist-util-stringify-position,4.0.0,4.0.0,Up-to-date
+command-exists-promise,2.0.2,2.0.2,Up-to-date
+shelljs,0.8.5,0.10.0,Update available (0.10.0)
+rechoir,0.6.2,0.8.0,Update available (0.8.0)
+plugin-transform-typescript,7.27.1,,Not Found
+helper-annotate-as-pure,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+helper-create-class-features-plugin,7.27.1,,Not Found
+traverse,7.27.4,0.6.11,Current version is newer than npm (0.6.11)
+plugin-transform-react-display-name,7.27.1,,Not Found
+plugin-transform-react-jsx,7.27.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+plugin-transform-react-jsx-development,7.27.1,,Not Found
+plugin-transform-react-pure-annotations,7.27.1,,Not Found
+compat-data,7.27.2,0.0.1-security,Current version is newer than npm (0.0.1-security)
+plugin-bugfix-v8-static-class-fields-redefine-readonly,7.27.1,,Not Found
+plugin-transform-async-generator-functions,7.27.1,,Not Found
+plugin-transform-block-scoping,7.27.1,,Not Found
+plugin-transform-class-static-block,7.27.1,,Not Found
+plugin-transform-classes,7.27.1,,Not Found
+plugin-transform-destructuring,7.27.1,,Not Found
+plugin-transform-object-rest-spread,7.27.2,,Not Found
+plugin-transform-parameters,7.27.1,,Not Found
+plugin-transform-regenerator,7.27.1,,Not Found
+babel-plugin-polyfill-corejs2,0.4.13,0.4.14,Update available (0.4.14)
+babel-plugin-polyfill-corejs3,0.11.1,0.13.0,Update available (0.13.0)
+babel-plugin-polyfill-regenerator,0.6.4,0.6.5,Update available (0.6.5)
+helper-define-polyfill-provider,0.6.4,,Not Found
+helper-module-transforms,7.27.3,,Not Found
+helper-wrap-function,7.27.1,,Not Found
+helpers,7.27.4,0.0.6,Current version is newer than npm (0.0.6)
+cli,19.8.1,1.0.1,Current version is newer than npm (1.0.1)
+tinyexec,1.0.1,1.0.1,Up-to-date
+config-angular,19.8.1,,Not Found
+js,9.35.0,0.1.0,Current version is newer than npm (0.1.0)
+common,11.1.6,0.2.5,Current version is newer than npm (0.2.5)
+core,11.1.6,1.0.113,Current version is newer than npm (1.0.113)
+platform-express,11.1.6,0.0.13,Current version is newer than npm (0.0.13)
+testing,11.1.6,3.1.0,Current version is newer than npm (3.1.0)
+jest,30.0.0,30.1.3,Update available (30.1.3)
+node,22.18.1,20.19.5,Current version is newer than npm (20.19.5)
+axios,1.11.0,1.11.0,Up-to-date
+eslint-config-prettier,10.1.8,10.1.8,Up-to-date
+eslint,9.35.0,9.35.0,Up-to-date
+globals,16.3.0,16.4.0,Update available (16.4.0)
+husky,9.1.7,9.1.7,Up-to-date
+lint-staged,16.1.6,16.1.6,Up-to-date
+chalk,5.6.0,5.6.2,Update available (5.6.2)
+reflect-metadata,0.2.2,0.2.2,Up-to-date
+release-it,19.0.4,19.0.4,Up-to-date
+mime-types,3.0.1,3.0.1,Up-to-date
+mime-db,1.54.0,1.54.0,Up-to-date
+rimraf,6.0.1,6.0.1,Up-to-date
+rxjs,7.8.2,7.8.2,Up-to-date
+ts-jest,29.4.1,29.4.1,Up-to-date
+typescript-eslint,8.43.0,8.43.0,Up-to-date
+format,19.8.1,0.2.2,Current version is newer than npm (0.2.2)
+lint,19.8.1,0.8.19,Current version is newer than npm (0.8.19)
+load,19.8.1,1.0.2,Current version is newer than npm (1.0.2)
+read,19.8.1,4.1.0,Current version is newer than npm (4.1.0)
+types,19.8.1,0.1.1,Current version is newer than npm (0.1.1)
+config-angular-type-enum,19.8.1,,Not Found
+file-type,21.0.0,21.0.0,Up-to-date
+iterare,1.2.1,1.2.1,Up-to-date
+load-esm,1.0.2,1.0.3,Update available (1.0.3)
+uid,2.0.2,2.0.2,Up-to-date
+opencollective,0.4.1,1.0.3,Update available (1.0.3)
+path-to-regexp,8.2.0,8.3.0,Update available (8.3.0)
+express,5.1.0,5.1.0,Up-to-date
+type-is,2.0.1,2.0.1,Up-to-date
+media-typer,1.1.0,1.1.0,Up-to-date
+multer,2.0.2,2.0.2,Up-to-date
+undici-types,6.21.0,7.16.0,Update available (7.16.0)
+follow-redirects,1.15.6,1.15.11,Update available (1.15.11)
+form-data,4.0.4,4.0.4,Up-to-date
+eslint-utils,4.8.0,3.0.0,Current version is newer than npm (3.0.0)
+config-array,0.21.0,,Not Found
+config-helpers,0.3.1,0.0.0,Current version is newer than npm (0.0.0)
+core,0.15.2,1.0.113,Update available (1.0.113)
+plugin-kit,0.3.5,,Not Found
+estree,1.0.6,,Not Found
+eslint-scope,8.4.0,8.4.0,Up-to-date
+esutils,2.0.2,2.0.3,Update available (2.0.3)
+jiti,2.4.2,2.5.1,Update available (2.5.1)
+optionator,0.9.3,0.9.4,Update available (0.9.4)
+commander,14.0.0,14.0.0,Up-to-date
+listr2,9.0.3,9.0.3,Up-to-date
+string-width,7.0.0,8.1.0,Update available (8.1.0)
+emoji-regex,10.3.0,10.5.0,Update available (10.5.0)
+nano-spawn,1.0.2,1.0.3,Update available (1.0.3)
+pidtree,0.6.0,0.6.0,Up-to-date
+yaml,2.8.1,2.8.1,Up-to-date
+defaults-deep,1.1.0,0.2.4,Current version is newer than npm (0.2.4)
+rest,21.1.1,2.0.0,Current version is newer than npm (2.0.0)
+plugin-request-log,5.3.1,,Not Found
+typeof,1.2.8,1.0.0,Current version is newer than npm (1.0.0)
+async-retry,1.3.3,1.3.3,Up-to-date
+c12,3.1.0,3.2.0,Update available (3.2.0)
+eta,3.5.0,3.5.0,Up-to-date
+inquirer,12.7.0,12.9.4,Update available (12.9.4)
+issue-parser,7.0.1,7.0.1,Up-to-date
+open,10.2.0,10.2.0,Up-to-date
+ora,8.2.0,8.2.0,Up-to-date
+cli-cursor,5.0.0,5.0.0,Up-to-date
+is-unicode-supported,2.0.0,2.1.0,Update available (2.1.0)
+restore-cursor,5.1.0,5.1.0,Up-to-date
+onetime,7.0.0,7.0.0,Up-to-date
+os-name,6.1.0,6.1.0,Up-to-date
+proxy-agent,6.5.0,6.5.0,Up-to-date
+undici,6.21.3,7.16.0,Update available (7.16.0)
+url-join,5.0.0,5.0.0,Up-to-date
+wildcard-match,5.1.4,5.1.4,Up-to-date
+bs-logger,0.2.6,0.2.6,Up-to-date
+lodash.memoize,4.1.2,4.1.2,Up-to-date
+is-ignored,19.8.1,1.0.0,Current version is newer than npm (1.0.0)
+parse,19.8.1,6.1.1,Current version is newer than npm (6.1.1)
+rules,19.8.1,0.6.53,Current version is newer than npm (0.6.53)
+config-validator,19.8.1,0.1.1,Current version is newer than npm (0.1.1)
+execute-rule,19.8.1,,Not Found
+resolve-extends,19.8.1,8.0.11,Current version is newer than npm (8.0.11)
+cosmiconfig-typescript-loader,6.1.0,6.1.0,Up-to-date
+lodash.uniq,4.5.0,4.5.0,Up-to-date
+top-level,19.8.1,,Not Found
+find-up,7.0.0,7.0.0,Up-to-date
+git-raw-commits,4.0.0,5.0.0,Update available (5.0.0)
+conventional-commits-parser,5.0.1,6.2.0,Update available (6.2.0)
+inflate,0.2.7,0.0.7,Current version is newer than npm (0.0.7)
+strtok3,10.2.2,10.3.4,Update available (10.3.4)
+token-types,6.0.0,6.1.1,Update available (6.1.1)
+uint8array-extras,1.4.0,1.5.0,Update available (1.5.0)
+csprng,1.0.1,0.1.2,Current version is newer than npm (0.1.2)
+accepts,2.0.0,1.3.8,Current version is newer than npm (1.3.8)
+mime-types,3.0.0,3.0.1,Update available (3.0.1)
+mime-db,1.53.0,1.54.0,Update available (1.54.0)
+body-parser,2.2.0,2.2.0,Up-to-date
+content-disposition,1.0.0,0.5.4,Current version is newer than npm (0.5.4)
+cookie-signature,1.2.2,1.2.2,Up-to-date
+finalhandler,2.1.0,2.1.0,Up-to-date
+fresh,2.0.0,0.5.2,Current version is newer than npm (0.5.2)
+merge-descriptors,2.0.0,2.0.0,Up-to-date
+router,2.2.0,2.2.0,Up-to-date
+send,1.2.0,1.2.0,Up-to-date
+serve-static,2.2.0,2.2.0,Up-to-date
+append-field,1.0.0,2.0.0,Update available (2.0.0)
+busboy,1.6.0,1.6.0,Up-to-date
+word-wrap,1.2.6,1.2.5,Current version is newer than npm (1.2.5)
+deep-is,0.1.3,0.1.4,Update available (0.1.4)
+cli-truncate,4.0.0,5.0.0,Update available (5.0.0)
+colorette,2.0.20,2.0.20,Up-to-date
+log-update,6.1.0,6.1.0,Up-to-date
+ansi-escapes,7.0.0,7.1.0,Update available (7.1.0)
+slice-ansi,7.1.0,7.1.2,Update available (7.1.2)
+is-fullwidth-code-point,5.0.0,5.1.0,Update available (5.1.0)
+rfdc,1.4.1,1.4.1,Up-to-date
+core,6.1.5,1.0.113,Current version is newer than npm (1.0.113)
+plugin-paginate-rest,11.6.0,,Not Found
+types,13.10.0,0.1.1,Current version is newer than npm (0.1.1)
+openapi-types,24.2.0,12.1.3,Current version is newer than npm (12.1.3)
+plugin-rest-endpoint-methods,13.5.0,,Not Found
+retry,0.13.1,0.13.1,Up-to-date
+confbox,0.2.2,0.2.2,Up-to-date
+defu,6.1.4,6.1.4,Up-to-date
+dotenv,16.6.1,17.2.2,Update available (17.2.2)
+exsolve,1.0.7,1.0.7,Up-to-date
+giget,2.0.0,2.0.0,Up-to-date
+ohash,2.0.11,2.0.11,Up-to-date
+perfect-debounce,1.0.0,2.0.0,Update available (2.0.0)
+pkg-types,2.2.0,2.3.0,Update available (2.3.0)
+rc9,2.1.2,2.1.2,Up-to-date
+core,10.1.14,1.0.113,Current version is newer than npm (1.0.113)
+prompts,7.6.0,2.4.2,Current version is newer than npm (2.4.2)
+run-async,4.0.4,4.0.6,Update available (4.0.6)
+lodash.capitalize,4.2.1,4.2.1,Up-to-date
+lodash.escaperegexp,4.1.2,4.1.2,Up-to-date
+lodash.isstring,4.0.1,4.0.1,Up-to-date
+lodash.uniqby,4.7.0,4.7.0,Up-to-date
+default-browser,5.2.1,5.2.1,Up-to-date
+is-inside-container,1.0.0,1.0.0,Up-to-date
+wsl-utils,0.1.0,0.1.0,Up-to-date
+is-interactive,2.0.0,2.0.0,Up-to-date
+stdin-discarder,0.2.2,0.2.2,Up-to-date
+macos-release,3.3.0,3.4.0,Update available (3.4.0)
+windows-release,6.1.0,6.1.0,Up-to-date
+pac-proxy-agent,7.1.0,7.2.0,Update available (7.2.0)
+foreground-child,3.1.1,3.3.1,Update available (3.3.1)
+signal-exit,4.0.2,4.1.0,Update available (4.1.0)
+remapping,2.2.0,,Not Found
+helpers,7.27.6,0.0.6,Current version is newer than npm (0.0.6)
+types,7.27.6,0.1.1,Current version is newer than npm (0.1.1)
+sourcemap-codec,1.4.14,1.4.8,Current version is newer than npm (1.4.8)
+babel-plugin-istanbul,7.0.0,7.0.1,Update available (7.0.1)
+conventional-changelog-angular,7.0.0,8.0.0,Update available (8.0.0)
+conventional-commits-parser,5.0.0,6.2.0,Update available (6.2.0)
+ensure,19.8.1,0.4.6,Current version is newer than npm (0.4.6)
+message,19.8.1,0.0.1,Current version is newer than npm (0.0.1)
+to-lines,19.8.1,,Not Found
+global-directory,4.0.1,4.0.1,Up-to-date
+dargs,8.1.0,8.1.0,Up-to-date
+meow,12.1.1,13.2.0,Update available (13.2.0)
+balanced-match,1.0.0,3.0.1,Update available (3.0.1)
+fflate,0.8.2,0.8.2,Up-to-date
+token,0.3.0,0.1.0,Current version is newer than npm (0.1.0)
+peek-readable,7.0.0,7.0.0,Up-to-date
+raw-body,3.0.0,3.0.1,Update available (3.0.1)
+streamsearch,1.1.0,1.1.0,Up-to-date
+buffer-from,1.1.1,1.1.2,Update available (1.1.2)
+typebox,0.34.38,1.0.0,Update available (1.0.0)
+flatted,3.3.1,3.3.3,Update available (3.3.3)
+istanbul-lib-coverage,3.2.0,3.2.2,Update available (3.2.2)
+unrs-resolver,1.11.1,1.11.1,Up-to-date
+istanbul-lib-report,1.1.1,3.0.1,Update available (3.0.1)
+yargs-parser,13.0.0,22.0.0,Update available (22.0.0)
+auth-token,5.1.2,0.1.0,Current version is newer than npm (0.1.0)
+graphql,8.2.2,16.11.0,Update available (16.11.0)
+request-error,6.1.8,2.0.1,Current version is newer than npm (2.0.1)
+request,9.2.3,2.88.2,Current version is newer than npm (2.88.2)
+types,14.0.0,0.1.1,Current version is newer than npm (0.1.1)
+before-after-hook,3.0.2,4.0.0,Update available (4.0.0)
+universal-user-agent,7.0.2,7.0.3,Update available (7.0.3)
+citty,0.1.6,0.1.6,Up-to-date
+node-fetch-native,1.6.6,1.6.7,Update available (1.6.7)
+nypm,0.6.0,0.6.1,Update available (0.6.1)
+destr,2.0.5,2.0.5,Up-to-date
+checkbox,4.1.9,0.0.1,Current version is newer than npm (0.0.1)
+confirm,5.1.13,0.1.1,Current version is newer than npm (0.1.1)
+editor,4.2.14,1.0.0,Current version is newer than npm (1.0.0)
+expand,4.0.16,0.5.0,Current version is newer than npm (0.5.0)
+input,4.2.0,1.0.1,Current version is newer than npm (1.0.1)
+number,3.0.16,0.0.1,Current version is newer than npm (0.0.1)
+password,4.0.16,0.1.1,Current version is newer than npm (0.1.1)
+rawlist,4.1.4,,Not Found
+search,3.0.16,1.0.0,Current version is newer than npm (1.0.0)
+select,4.2.4,1.1.2,Current version is newer than npm (1.1.2)
+oxlint,1.6.0,1.14.0,Update available (1.14.0)
+bundle-name,4.1.0,4.1.0,Up-to-date
+default-browser-id,5.0.0,5.0.0,Up-to-date
+is-docker,3.0.0,3.0.0,Up-to-date
+is-wsl,3.1.0,3.1.0,Up-to-date
+get-east-asian-width,1.2.0,1.4.0,Update available (1.4.0)
+get-uri,6.0.4,6.0.5,Update available (6.0.5)
+strip-ansi,7.0.1,7.1.2,Update available (7.1.2)
+gen-mapping,0.1.1,0.0.1-security,Current version is newer than npm (0.0.1-security)
+compat-data,7.27.5,0.0.1-security,Current version is newer than npm (0.0.1-security)
+browserslist,4.25.0,4.25.4,Update available (4.25.4)
+resolve-uri,3.1.0,,Not Found
+is-text-path,2.0.0,3.0.0,Update available (3.0.0)
+lodash.camelcase,4.3.0,4.3.0,Up-to-date
+lodash.kebabcase,4.1.1,4.1.1,Up-to-date
+lodash.snakecase,4.1.1,4.1.1,Up-to-date
+lodash.startcase,4.4.0,4.4.0,Up-to-date
+lodash.upperfirst,4.3.1,4.3.1,Up-to-date
+fast-uri,3.0.6,3.1.0,Update available (3.1.0)
+ini,4.1.1,5.0.0,Update available (5.0.0)
+lines-and-columns,1.1.6,2.0.4,Update available (2.0.4)
+resolver-binding-android-arm-eabi,1.11.1,,Not Found
+resolver-binding-android-arm64,1.11.1,,Not Found
+resolver-binding-darwin-arm64,1.11.1,8.0.11,Update available (8.0.11)
+resolver-binding-darwin-x64,1.11.1,8.0.11,Update available (8.0.11)
+resolver-binding-freebsd-x64,1.11.1,,Not Found
+resolver-binding-linux-arm-gnueabihf,1.11.1,,Not Found
+resolver-binding-linux-arm-musleabihf,1.11.1,,Not Found
+resolver-binding-linux-arm64-gnu,1.11.1,,Not Found
+resolver-binding-linux-arm64-musl,1.11.1,,Not Found
+resolver-binding-linux-ppc64-gnu,1.11.1,,Not Found
+resolver-binding-linux-riscv64-gnu,1.11.1,,Not Found
+resolver-binding-linux-riscv64-musl,1.11.1,,Not Found
+resolver-binding-linux-s390x-gnu,1.11.1,,Not Found
+resolver-binding-linux-x64-gnu,1.11.1,,Not Found
+resolver-binding-linux-x64-musl,1.11.1,,Not Found
+resolver-binding-wasm32-wasi,1.11.1,,Not Found
+resolver-binding-win32-arm64-msvc,1.11.1,,Not Found
+resolver-binding-win32-ia32-msvc,1.11.1,,Not Found
+resolver-binding-win32-x64-msvc,1.11.1,,Not Found
+napi-postinstall,0.3.3,0.3.3,Up-to-date
+environment,1.1.0,1.1.0,Up-to-date
+endpoint,10.1.4,0.4.5,Current version is newer than npm (0.4.5)
+fast-content-type-parse,2.0.1,3.0.0,Update available (3.0.0)
+openapi-types,25.0.0,12.1.3,Current version is newer than npm (12.1.3)
+darwin-arm64,1.6.0,,Not Found
+darwin-x64,1.6.0,,Not Found
+linux-arm64-gnu,1.6.0,,Not Found
+linux-arm64-musl,1.6.0,,Not Found
+linux-x64-gnu,1.6.0,,Not Found
+linux-x64-musl,1.6.0,,Not Found
+win32-arm64,1.6.0,,Not Found
+win32-x64,1.6.0,,Not Found
+run-applescript,7.0.0,7.1.0,Update available (7.1.0)
+sourcemap-codec,1.4.13,1.4.8,Current version is newer than npm (1.4.8)
+caniuse-lite,1.0.30001722,1.0.30001741,Update available (1.0.30001741)
+electron-to-chromium,1.5.166,1.5.215,Update available (1.5.215)
+text-extensions,2.4.0,3.1.0,Update available (3.1.0)
+wasm-runtime,0.2.12,,Not Found
+mimic-function,5.0.1,5.0.1,Up-to-date
+core,1.5.0,1.0.113,Current version is newer than npm (1.0.113)
+runtime,1.5.0,0.14.1,Current version is newer than npm (0.14.1)
+wasm-util,0.10.0,0.0.2,Current version is newer than npm (0.0.2)
+p-limit,2.2.0,7.1.1,Update available (7.1.1)
+wasi-threads,1.1.0,,Not Found
+async,2.6.3,3.2.6,Update available (3.2.6)
+lodash,4.17.14,4.17.21,Update available (4.17.21)
+cheerio,0.22.0,1.1.2,Update available (1.1.2)
+codecov.io,0.1.6,0.1.6,Up-to-date
+request,2.42.0,2.88.2,Update available (2.88.2)
+coveralls,2.13.3,3.1.1,Update available (3.1.1)
+js-yaml,3.6.1,4.1.0,Update available (4.1.0)
+request,2.79.0,2.88.2,Update available (2.88.2)
+stringstream,0.0.6,1.0.0,Update available (1.0.0)
+aws-sign2,0.6.0,0.7.0,Update available (0.7.0)
+caseless,0.11.0,0.12.0,Update available (0.12.0)
+combined-stream,1.0.6,1.0.8,Update available (1.0.8)
+forever-agent,0.6.1,0.6.1,Up-to-date
+form-data,2.1.4,4.0.4,Update available (4.0.4)
+hawk,3.1.3,9.0.2,Update available (9.0.2)
+http-signature,1.1.1,1.4.0,Update available (1.4.0)
+mime-types,2.1.18,3.0.1,Update available (3.0.1)
+oauth-sign,0.8.2,0.9.0,Update available (0.9.0)
+qs,6.3.2,6.14.0,Update available (6.14.0)
+uuid,3.2.1,13.0.0,Update available (13.0.0)
+boom,2.10.1,7.3.0,Update available (7.3.0)
+cryptiles,2.0.5,4.1.3,Update available (4.1.3)
+hoek,2.16.3,6.1.3,Update available (6.1.3)
+sntp,1.0.9,3.0.2,Update available (3.0.2)
+assert-plus,0.2.0,1.0.0,Update available (1.0.0)
+curl-amd,0.8.12,0.8.12,Up-to-date
+docdown,0.7.3,0.7.3,Up-to-date
+dojo,1.15.0,1.17.3,Update available (1.17.3)
+ecstatic,2.2.2,4.1.4,Update available (4.1.4)
+fs-extra,1.0.0,11.3.1,Update available (11.3.1)
+glob,7.1.4,11.0.3,Update available (11.0.3)
+istanbul,0.4.5,0.4.5,Up-to-date
+async,1.5.2,3.2.6,Update available (3.2.6)
+glob,5.0.15,11.0.3,Update available (11.0.3)
+supports-color,3.2.3,10.2.2,Update available (10.2.2)
+jquery,3.4.1,3.7.1,Update available (3.7.1)
+jscs,3.0.7,3.0.7,Up-to-date
+commander,2.9.0,14.0.0,Update available (14.0.0)
+estraverse,4.2.0,5.3.0,Update available (5.3.0)
+htmlparser2,3.8.3,10.0.0,Update available (10.0.0)
+js-yaml,3.4.6,4.1.0,Update available (4.1.0)
+lodash,3.10.1,4.17.21,Update available (4.17.21)
+domhandler,2.3.0,5.0.3,Update available (5.0.3)
+entities,1.0.0,7.0.0,Update available (7.0.0)
+readable-stream,1.1.14,4.7.0,Update available (4.7.0)
+lodash-doc-globals,0.1.2,0.1.2,Up-to-date
+lodash,4.17.20,4.17.21,Update available (4.17.21)
+markdown-doctest,0.9.1,1.1.0,Update available (1.1.0)
+optional-dev-dependency,2.0.1,2.0.1,Up-to-date
+yargs,7.1.0,18.0.0,Update available (18.0.0)
+camelcase,3.0.0,8.0.0,Update available (8.0.0)
+cliui,3.2.0,9.0.1,Update available (9.0.1)
+platform,1.3.5,1.3.6,Update available (1.3.6)
+qunit-extras,3.0.0,3.0.0,Up-to-date
+qunitjs,2.4.1,2.4.1,Up-to-date
+chokidar,1.6.1,4.0.3,Update available (4.0.3)
+resolve,1.3.2,1.22.10,Update available (1.22.10)
+request,2.88.0,2.88.2,Update available (2.88.2)
+aws-sign2,0.7.0,0.7.0,Up-to-date
+aws4,1.8.0,1.13.2,Update available (1.13.2)
+caseless,0.12.0,0.12.0,Up-to-date
+form-data,2.3.3,4.0.4,Update available (4.0.4)
+har-validator,5.1.3,5.1.5,Update available (5.1.5)
+http-signature,1.2.0,1.4.0,Update available (1.4.0)
+mime-types,2.1.24,3.0.1,Update available (3.0.1)
+oauth-sign,0.9.0,0.9.0,Up-to-date
+qs,6.5.2,6.14.0,Update available (6.14.0)
+safe-buffer,5.2.0,5.2.1,Update available (5.2.1)
+tough-cookie,2.4.3,6.0.0,Update available (6.0.0)
+uuid,3.3.2,13.0.0,Update available (13.0.0)
+assert-plus,1.0.0,1.0.0,Up-to-date
+mime-db,1.40.0,1.54.0,Update available (1.54.0)
+requirejs,2.3.6,2.3.7,Update available (2.3.7)
+sauce-tunnel,2.5.0,2.5.0,Up-to-date
+uglify-js,2.7.5,3.19.3,Update available (3.19.3)
+async,0.2.10,3.2.6,Update available (3.2.6)
+source-map,0.5.7,0.7.6,Update available (0.7.6)
+webpack,1.15.0,5.101.3,Update available (5.101.3)
+css-select,1.2.0,6.0.0,Update available (6.0.0)
+dom-serializer,0.1.0,2.0.0,Update available (2.0.0)
+domelementtype,1.1.3,2.3.0,Update available (2.3.0)
+entities,1.1.1,7.0.0,Update available (7.0.0)
+htmlparser2,3.9.2,10.0.0,Update available (10.0.0)
+lodash.assignin,4.2.0,4.2.0,Up-to-date
+lodash.bind,4.2.1,4.2.1,Up-to-date
+lodash.filter,4.6.0,4.6.0,Up-to-date
+lodash.flatten,4.4.0,4.4.0,Up-to-date
+lodash.foreach,4.5.0,4.5.0,Up-to-date
+lodash.map,4.6.0,4.6.0,Up-to-date
+lodash.pick,4.4.0,4.4.0,Up-to-date
+lodash.reduce,4.6.0,4.6.0,Up-to-date
+lodash.reject,4.6.0,4.6.0,Up-to-date
+lodash.some,4.6.0,4.6.0,Up-to-date
+urlgrey,0.4.0,2.1.0,Update available (2.1.0)
+lcov-parse,0.0.10,1.0.0,Update available (1.0.0)
+log-driver,1.2.5,1.2.7,Update available (1.2.7)
+minimist,1.2.0,1.2.8,Update available (1.2.8)
+doctrine,2.0.0,3.0.0,Update available (3.0.0)
+url-join,2.0.5,5.0.0,Update available (5.0.0)
+graceful-fs,4.1.11,4.2.11,Update available (4.2.11)
+jsonfile,2.4.0,6.2.0,Update available (6.2.0)
+klaw,1.3.1,4.1.0,Update available (4.1.0)
+inherits,2.0.3,2.0.4,Update available (2.0.4)
+minimatch,3.0.4,10.0.3,Update available (10.0.3)
+abbrev,1.0.9,3.0.1,Update available (3.0.1)
+escodegen,1.8.1,2.1.0,Update available (2.1.0)
+esprima,2.7.3,4.0.1,Update available (4.0.1)
+handlebars,4.1.2,4.7.8,Update available (4.7.8)
+uglify-js,3.6.0,3.19.3,Update available (3.19.3)
+commander,2.20.0,14.0.0,Update available (14.0.0)
+js-yaml,3.13.1,4.1.0,Update available (4.1.0)
+resolve,1.1.7,1.22.10,Update available (1.22.10)
+which,1.3.0,5.0.0,Update available (5.0.0)
+cli-table,0.3.1,0.3.11,Update available (0.3.11)
+cst,0.4.10,0.4.10,Up-to-date
+jscs-jsdoc,2.0.0,2.0.0,Up-to-date
+jscs-preset-wikimedia,1.0.1,1.0.1,Up-to-date
+jsonlint,1.6.3,1.6.3,Up-to-date
+natural-compare,1.2.2,1.4.0,Update available (1.4.0)
+pathval,0.1.1,2.0.1,Update available (2.0.1)
+prompt,0.2.14,1.3.0,Update available (1.3.0)
+reserved-words,0.1.2,0.1.2,Up-to-date
+strip-bom,2.0.0,5.0.0,Update available (5.0.0)
+strip-json-comments,1.0.4,5.0.3,Update available (5.0.3)
+to-double-quotes,2.0.0,4.0.0,Update available (4.0.0)
+to-single-quotes,2.0.1,4.0.0,Update available (4.0.0)
+vow-fs,0.3.6,0.3.6,Up-to-date
+vow,0.4.18,0.4.20,Update available (0.4.20)
+xmlbuilder,3.1.0,15.1.1,Update available (15.1.1)
+babel-core,6.26.0,6.26.3,Update available (6.26.3)
+babel-preset-es2015,6.24.1,6.24.1,Up-to-date
+babel-preset-stage-0,6.24.1,6.24.1,Up-to-date
+cross-spawn,5.1.0,7.0.6,Update available (7.0.6)
+lodash.assign,4.2.0,4.2.0,Up-to-date
+exists-stat,1.0.0,1.0.0,Up-to-date
+findup-sync,0.4.3,5.0.0,Update available (5.0.0)
+js-reporters,1.2.0,2.1.0,Update available (2.1.0)
+walk-sync,0.3.1,4.0.1,Update available (4.0.1)
+isstream,0.1.2,0.1.2,Up-to-date
+performance-now,2.1.0,2.1.0,Up-to-date
+uglify-to-browserify,1.0.2,2.1.0,Update available (2.1.0)
+yargs,3.10.0,18.0.0,Update available (18.0.0)
+acorn,3.3.0,8.15.0,Update available (8.15.0)
+interpret,0.6.6,3.1.1,Update available (3.1.1)
+loader-utils,0.2.17,3.3.1,Update available (3.3.1)
+memory-fs,0.3.0,0.5.0,Update available (0.5.0)
+node-libs-browser,0.7.0,2.2.1,Update available (2.2.1)
+optimist,0.6.1,0.6.1,Up-to-date
+minimist,0.0.10,1.2.8,Update available (1.2.8)
+wordwrap,0.0.3,1.0.0,Update available (1.0.0)
+watchpack,0.2.9,2.4.4,Update available (2.4.4)
+async,0.9.2,3.2.6,Update available (3.2.6)
+webpack-core,0.6.9,0.6.9,Up-to-date
+source-map,0.4.4,0.7.6,Update available (0.7.6)
+css-what,2.1.0,7.0.0,Update available (7.0.0)
+domutils,1.5.1,3.2.2,Update available (3.2.2)
+nth-check,1.0.1,2.1.1,Update available (2.1.1)
+domelementtype,1.3.0,2.3.0,Update available (2.3.0)
+domhandler,2.4.1,5.0.3,Update available (5.0.3)
+readable-stream,2.3.6,4.7.0,Update available (4.7.0)
+aws-sign2,0.5.0,0.7.0,Update available (0.7.0)
+bl,0.9.5,6.1.3,Update available (6.1.3)
+caseless,0.6.0,0.12.0,Update available (0.12.0)
+forever-agent,0.5.2,0.6.1,Update available (0.6.1)
+form-data,0.1.4,4.0.4,Update available (4.0.4)
+mime,1.2.11,4.0.7,Update available (4.0.7)
+hawk,1.1.1,9.0.2,Update available (9.0.2)
+http-signature,0.10.1,1.4.0,Update available (1.4.0)
+mime-types,1.0.2,3.0.1,Update available (3.0.1)
+node-uuid,1.4.8,1.4.8,Up-to-date
+oauth-sign,0.4.0,0.9.0,Update available (0.9.0)
+qs,1.2.2,6.14.0,Update available (6.14.0)
+tough-cookie,2.3.4,6.0.0,Update available (6.0.0)
+tunnel-agent,0.4.3,0.6.0,Update available (0.6.0)
+tape,2.3.0,5.9.0,Update available (5.9.0)
+aws4,1.7.0,1.13.2,Update available (1.13.2)
+extend,3.0.1,3.0.2,Update available (3.0.2)
+har-validator,2.0.6,5.1.5,Update available (5.1.5)
+estraverse,1.9.3,5.3.0,Update available (5.3.0)
+optionator,0.8.2,0.9.4,Update available (0.9.4)
+source-map,0.2.0,0.7.6,Update available (0.7.6)
+neo-async,2.6.1,2.6.2,Update available (2.6.2)
+has-flag,1.0.0,5.0.1,Update available (5.0.1)
+graceful-readlink,1.0.1,1.0.1,Up-to-date
+babel-runtime,6.26.0,6.26.0,Up-to-date
+babylon,6.18.0,6.18.0,Up-to-date
+source-map-support,0.4.18,0.5.21,Update available (0.5.21)
+inherit,2.2.6,2.2.7,Update available (2.2.7)
+comment-parser,0.3.2,1.4.1,Update available (1.4.1)
+jsdoctypeparser,1.2.0,9.0.0,Update available (9.0.0)
+JSV,4.0.2,4.0.2,Up-to-date
+nomnom,1.8.1,1.8.1,Up-to-date
+chalk,0.4.0,5.6.2,Update available (5.6.2)
+ansi-styles,1.0.0,6.2.3,Update available (6.2.3)
+strip-ansi,0.1.1,7.1.2,Update available (7.1.2)
+pkginfo,0.4.1,0.4.1,Up-to-date
+read,1.0.7,4.1.0,Update available (4.1.0)
+revalidator,0.1.8,0.3.1,Update available (0.3.1)
+utile,0.2.1,0.3.0,Update available (0.3.0)
+winston,0.8.3,3.17.0,Update available (3.17.0)
+colors,0.6.2,1.4.0,Update available (1.4.0)
+pkginfo,0.3.1,0.4.1,Update available (0.4.1)
+is-utf8,0.2.1,0.2.1,Up-to-date
+vow-queue,0.4.3,0.4.3,Up-to-date
+babel-code-frame,6.26.0,6.26.0,Up-to-date
+babel-generator,6.26.1,6.26.1,Up-to-date
+babel-helpers,6.24.1,6.24.1,Up-to-date
+babel-messages,6.23.0,6.23.0,Up-to-date
+babel-register,6.26.0,6.26.0,Up-to-date
+babel-template,6.26.0,6.26.0,Up-to-date
+babel-traverse,6.26.0,6.26.0,Up-to-date
+babel-types,6.26.0,6.26.0,Up-to-date
+convert-source-map,1.5.1,2.0.0,Update available (2.0.0)
+json5,0.5.1,2.2.3,Update available (2.2.3)
+private,0.1.8,0.1.8,Up-to-date
+slash,1.0.0,5.1.0,Update available (5.1.0)
+babel-plugin-check-es2015-constants,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-es2015-arrow-functions,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-es2015-block-scoped-functions,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-es2015-block-scoping,6.26.0,6.26.0,Up-to-date
+babel-plugin-transform-es2015-classes,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-computed-properties,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-destructuring,6.23.0,6.23.0,Up-to-date
+babel-plugin-transform-es2015-duplicate-keys,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-for-of,6.23.0,6.23.0,Up-to-date
+babel-plugin-transform-es2015-function-name,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-literals,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-es2015-modules-amd,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-modules-commonjs,6.26.0,6.26.2,Update available (6.26.2)
+babel-plugin-transform-es2015-modules-systemjs,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-modules-umd,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-object-super,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-parameters,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-shorthand-properties,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-spread,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-es2015-sticky-regex,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-es2015-template-literals,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-es2015-typeof-symbol,6.23.0,6.23.0,Up-to-date
+babel-plugin-transform-es2015-unicode-regex,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-regenerator,6.26.0,6.26.0,Up-to-date
+babel-plugin-transform-do-expressions,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-function-bind,6.22.0,6.22.0,Up-to-date
+babel-preset-stage-1,6.24.1,6.24.1,Up-to-date
+lru-cache,4.1.2,11.2.1,Update available (11.2.1)
+shebang-command,1.2.0,2.0.0,Update available (2.0.0)
+get-caller-file,1.0.2,2.0.5,Update available (2.0.5)
+os-locale,1.4.0,6.0.2,Update available (6.0.2)
+read-pkg-up,1.0.1,11.0.0,Update available (11.0.0)
+require-main-filename,1.0.1,2.0.0,Update available (2.0.0)
+string-width,1.0.2,8.1.0,Update available (8.1.0)
+which-module,1.0.0,2.0.1,Update available (2.0.1)
+y18n,3.2.1,5.0.8,Update available (5.0.8)
+yargs-parser,5.0.0,22.0.0,Update available (22.0.0)
+anymatch,1.3.2,3.1.3,Update available (3.1.3)
+async-each,1.0.1,1.0.6,Update available (1.0.6)
+fsevents,1.2.2,2.3.3,Update available (2.3.3)
+node-pre-gyp,0.9.1,0.17.0,Update available (0.17.0)
+detect-libc,1.0.3,2.0.4,Update available (2.0.4)
+needle,2.2.0,3.3.1,Update available (3.3.1)
+nopt,4.0.1,8.1.0,Update available (8.1.0)
+npm-packlist,1.1.10,10.0.1,Update available (10.0.1)
+rc,1.2.6,1.2.8,Update available (1.2.8)
+rimraf,2.6.2,6.0.1,Update available (6.0.1)
+semver,5.5.0,7.7.2,Update available (7.7.2)
+tar,4.4.1,7.4.3,Update available (7.4.3)
+iconv-lite,0.4.21,0.7.0,Update available (0.7.0)
+sax,1.2.4,1.4.1,Update available (1.4.1)
+osenv,0.1.5,0.1.5,Up-to-date
+ignore-walk,3.0.1,8.0.0,Update available (8.0.0)
+npm-bundled,1.0.3,4.0.0,Update available (4.0.0)
+are-we-there-yet,1.1.4,4.0.2,Update available (4.0.2)
+gauge,2.7.4,5.0.2,Update available (5.0.2)
+deep-extend,0.4.2,0.6.0,Update available (0.6.0)
+ini,1.3.5,5.0.0,Update available (5.0.0)
+glob,7.1.2,11.0.3,Update available (11.0.3)
+chownr,1.0.1,3.0.0,Update available (3.0.0)
+fs-minipass,1.2.5,3.0.3,Update available (3.0.3)
+minipass,2.2.4,7.1.2,Update available (7.1.2)
+minizlib,1.1.0,3.0.2,Update available (3.0.2)
+safe-buffer,5.1.1,5.2.1,Update available (5.2.1)
+yallist,3.0.2,5.0.0,Update available (5.0.0)
+os-homedir,1.0.2,2.0.0,Update available (2.0.0)
+aproba,1.2.0,2.1.0,Update available (2.1.0)
+signal-exit,3.0.2,4.1.0,Update available (4.1.0)
+wide-align,1.1.2,1.1.5,Update available (1.1.5)
+process-nextick-args,2.0.0,2.0.1,Update available (2.0.1)
+code-point-at,1.1.0,2.0.0,Update available (2.0.0)
+is-fullwidth-code-point,1.0.0,5.1.0,Update available (5.1.0)
+number-is-nan,1.0.1,3.0.0,Update available (3.0.0)
+glob-parent,2.0.0,6.0.2,Update available (6.0.2)
+is-binary-path,1.0.1,3.0.0,Update available (3.0.0)
+is-glob,2.0.1,4.0.3,Update available (4.0.3)
+readdirp,2.1.0,4.1.2,Update available (4.1.2)
+detect-file,0.1.0,1.0.0,Update available (1.0.0)
+micromatch,2.3.11,4.0.8,Update available (4.0.8)
+resolve-dir,0.1.1,1.0.1,Update available (1.0.1)
+path-parse,1.0.5,1.0.7,Update available (1.0.7)
+ensure-posix-path,1.0.2,1.1.1,Update available (1.1.1)
+matcher-collection,1.0.5,2.0.1,Update available (2.0.1)
+ajv,6.10.2,8.17.1,Update available (8.17.1)
+har-schema,2.0.0,2.0.0,Up-to-date
+jsprim,1.4.1,2.0.2,Update available (2.0.2)
+sshpk,1.14.1,1.18.0,Update available (1.18.0)
+asn1,0.2.3,0.2.6,Update available (0.2.6)
+psl,1.2.0,1.15.0,Update available (1.15.0)
+cliui,2.1.0,9.0.1,Update available (9.0.1)
+wordwrap,0.0.2,1.0.0,Update available (1.0.0)
+window-size,0.1.0,1.1.1,Update available (1.1.1)
+big.js,3.2.0,7.0.1,Update available (7.0.1)
+emojis-list,2.1.0,3.0.0,Update available (3.0.0)
+errno,0.1.7,1.0.0,Update available (1.0.0)
+assert,1.4.1,2.1.0,Update available (2.1.0)
+browserify-zlib,0.1.4,0.2.0,Update available (0.2.0)
+buffer,4.9.1,6.0.3,Update available (6.0.3)
+console-browserify,1.1.0,1.2.0,Update available (1.2.0)
+constants-browserify,1.0.0,1.0.0,Up-to-date
+crypto-browserify,3.3.0,3.12.1,Update available (3.12.1)
+domain-browser,1.2.0,5.7.0,Update available (5.7.0)
+events,1.1.1,3.3.0,Update available (3.3.0)
+https-browserify,0.0.1,1.0.0,Update available (1.0.0)
+os-browserify,0.2.1,0.3.0,Update available (0.3.0)
+path-browserify,0.0.0,1.0.1,Update available (1.0.1)
+querystring-es3,0.2.1,0.2.1,Up-to-date
+stream-browserify,2.0.1,3.0.0,Update available (3.0.0)
+stream-http,2.8.1,3.2.0,Update available (3.2.0)
+timers-browserify,2.0.10,2.0.12,Update available (2.0.12)
+tty-browserify,0.0.0,0.0.1,Update available (0.0.1)
+url,0.11.0,0.11.4,Update available (0.11.4)
+punycode,1.3.2,2.3.1,Update available (2.3.1)
+util,0.10.3,0.12.5,Update available (0.12.5)
+inherits,2.0.1,2.0.4,Update available (2.0.4)
+vm-browserify,0.0.4,1.1.2,Update available (1.1.2)
+chokidar,1.7.0,4.0.3,Update available (4.0.3)
+source-list-map,0.1.8,2.0.1,Update available (2.0.1)
+combined-stream,0.0.7,1.0.8,Update available (1.0.8)
+boom,0.4.2,7.3.0,Update available (7.3.0)
+cryptiles,0.2.2,4.1.3,Update available (4.1.3)
+hoek,0.9.1,6.1.3,Update available (6.1.3)
+sntp,0.2.4,3.0.2,Update available (3.0.2)
+asn1,0.1.11,0.2.6,Update available (0.2.6)
+assert-plus,0.1.5,1.0.0,Update available (1.0.0)
+ctype,0.5.3,0.5.5,Update available (0.5.5)
+deep-equal,0.1.2,2.2.3,Update available (2.2.3)
+defined,0.0.0,1.0.1,Update available (1.0.1)
+jsonify,0.0.0,0.0.1,Update available (0.0.1)
+resumer,0.0.0,0.0.0,Up-to-date
+split,0.2.10,1.0.1,Update available (1.0.1)
+stream-combiner,0.0.4,0.2.2,Update available (0.2.2)
+is-my-json-valid,2.17.2,2.20.6,Update available (2.20.6)
+mime-db,1.33.0,1.54.0,Update available (1.54.0)
+levn,0.3.0,0.4.1,Update available (0.4.1)
+prelude-ls,1.1.2,1.2.1,Update available (1.2.1)
+type-check,0.3.2,0.4.0,Update available (0.4.0)
+amdefine,1.0.1,1.0.1,Up-to-date
+core-js,2.5.5,3.45.1,Update available (3.45.1)
+regenerator-runtime,0.11.1,0.14.1,Update available (0.14.1)
+underscore,1.6.0,1.13.7,Update available (1.13.7)
+mute-stream,0.0.7,2.0.0,Update available (2.0.0)
+i,0.3.6,0.3.7,Update available (0.3.7)
+ncp,0.4.2,2.0.0,Update available (2.0.0)
+cycle,1.0.3,1.0.3,Up-to-date
+eyes,0.1.8,0.1.8,Up-to-date
+stack-trace,0.0.10,1.0.0-pre2,Update available (1.0.0-pre2)
+js-tokens,3.0.2,9.0.1,Update available (9.0.1)
+detect-indent,4.0.0,7.0.1,Update available (7.0.1)
+jsesc,1.3.0,3.1.0,Update available (3.1.0)
+trim-right,1.0.1,2.0.0,Update available (2.0.0)
+home-or-tmp,2.0.0,4.0.0,Update available (4.0.0)
+globals,9.18.0,16.4.0,Update available (16.4.0)
+invariant,2.2.4,2.2.4,Up-to-date
+to-fast-properties,1.0.3,4.0.0,Update available (4.0.0)
+babel-helper-define-map,6.26.0,6.26.0,Up-to-date
+babel-helper-function-name,6.24.1,6.24.1,Up-to-date
+babel-helper-optimise-call-expression,6.24.1,6.24.1,Up-to-date
+babel-helper-replace-supers,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-strict-mode,6.24.1,6.24.1,Up-to-date
+babel-helper-hoist-variables,6.24.1,6.24.1,Up-to-date
+babel-helper-call-delegate,6.24.1,6.24.1,Up-to-date
+babel-helper-get-function-arity,6.24.1,6.24.1,Up-to-date
+babel-helper-regex,6.26.0,6.26.0,Up-to-date
+regexpu-core,2.0.0,6.3.0,Update available (6.3.0)
+regenerator-transform,0.10.1,0.15.2,Update available (0.15.2)
+babel-plugin-syntax-do-expressions,6.13.0,6.13.0,Up-to-date
+babel-plugin-syntax-function-bind,6.13.0,6.13.0,Up-to-date
+babel-plugin-transform-class-constructor-call,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-export-extensions,6.22.0,6.22.0,Up-to-date
+babel-preset-stage-2,6.24.1,6.24.1,Up-to-date
+shebang-regex,1.0.0,4.0.0,Update available (4.0.0)
+wrap-ansi,2.1.0,9.0.2,Update available (9.0.2)
+lcid,1.0.0,5.0.0,Update available (5.0.0)
+find-up,1.1.2,7.0.0,Update available (7.0.0)
+read-pkg,1.1.0,9.0.1,Update available (9.0.1)
+normalize-path,2.1.1,3.0.0,Update available (3.0.0)
+,2.10.0,2.23.0,Update available (2.23.0)
+binary-extensions,1.11.0,3.1.0,Update available (3.1.0)
+is-extglob,1.0.0,2.1.1,Update available (2.1.1)
+set-immediate-shim,1.0.1,3.1.0,Update available (3.1.0)
+fs-exists-sync,0.1.0,0.1.0,Up-to-date
+arr-diff,2.0.0,4.0.0,Update available (4.0.0)
+array-unique,0.2.1,0.3.2,Update available (0.3.2)
+braces,1.8.5,3.0.3,Update available (3.0.3)
+expand-brackets,0.1.5,4.0.0,Update available (4.0.0)
+extglob,0.3.2,3.0.0,Update available (3.0.0)
+filename-regex,2.0.1,2.0.1,Up-to-date
+kind-of,3.2.2,6.0.3,Update available (6.0.3)
+object.omit,2.0.1,3.0.0,Update available (3.0.0)
+parse-glob,3.0.4,3.0.4,Up-to-date
+regex-cache,0.4.4,0.4.4,Up-to-date
+expand-tilde,1.2.2,2.0.2,Update available (2.0.2)
+global-modules,0.2.3,2.0.0,Update available (2.0.0)
+fast-json-stable-stringify,2.0.0,2.1.0,Update available (2.1.0)
+uri-js,4.2.2,4.4.1,Update available (4.4.1)
+extsprintf,1.3.0,1.4.1,Update available (1.4.1)
+json-schema,0.2.3,0.4.0,Update available (0.4.0)
+verror,1.10.0,1.10.1,Update available (1.10.1)
+bcrypt-pbkdf,1.0.1,1.0.2,Update available (1.0.2)
+dashdash,1.14.1,2.0.0,Update available (2.0.0)
+ecc-jsbn,0.1.1,0.2.0,Update available (0.2.0)
+getpass,0.1.7,0.1.7,Up-to-date
+jsbn,0.1.1,1.1.0,Update available (1.1.0)
+tweetnacl,0.14.5,1.0.3,Update available (1.0.3)
+center-align,0.1.3,1.0.1,Update available (1.0.1)
+right-align,0.1.3,0.1.3,Up-to-date
+pako,0.2.9,2.1.0,Update available (2.1.0)
+base64-js,1.3.0,1.5.1,Update available (1.5.1)
+ieee754,1.1.11,1.2.1,Update available (1.2.1)
+date-now,0.1.4,1.0.1,Update available (1.0.1)
+browserify-aes,0.4.0,1.2.0,Update available (1.2.0)
+pbkdf2-compat,2.0.1,4.0.0,Update available (4.0.0)
+ripemd160,0.2.0,2.0.2,Update available (2.0.2)
+sha.js,2.2.6,2.4.12,Update available (2.4.12)
+builtin-status-codes,3.0.0,3.0.0,Up-to-date
+to-arraybuffer,1.0.1,1.0.1,Up-to-date
+xtend,4.0.1,4.0.2,Update available (4.0.2)
+querystring,0.2.0,0.2.1,Update available (0.2.1)
+delayed-stream,0.0.5,1.0.0,Update available (1.0.0)
+duplexer,0.1.1,0.1.2,Update available (0.1.2)
+generate-function,2.0.0,2.3.1,Update available (2.3.1)
+generate-object-property,1.2.0,2.0.0,Update available (2.0.0)
+is-my-ip-valid,1.0.0,1.0.1,Update available (1.0.1)
+jsonpointer,4.0.1,5.0.1,Update available (5.0.1)
+has-color,0.1.7,0.2.0,Update available (0.2.0)
+repeating,2.0.1,4.0.0,Update available (4.0.0)
+loose-envify,1.3.1,1.4.0,Update available (1.4.0)
+regenerate,1.3.3,1.4.2,Update available (1.4.2)
+regjsgen,0.2.0,0.8.0,Update available (0.8.0)
+regjsparser,0.1.5,0.12.0,Update available (0.12.0)
+babel-plugin-syntax-class-constructor-call,6.18.0,6.18.0,Up-to-date
+babel-plugin-syntax-export-extensions,6.13.0,6.13.0,Up-to-date
+babel-plugin-syntax-dynamic-import,6.18.0,6.18.0,Up-to-date
+babel-plugin-transform-class-properties,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-decorators,6.24.1,6.24.1,Up-to-date
+babel-preset-stage-3,6.24.1,6.24.1,Up-to-date
+invert-kv,1.0.0,4.2.0,Update available (4.2.0)
+path-exists,2.1.0,5.0.0,Update available (5.0.0)
+load-json-file,1.1.0,7.0.1,Update available (7.0.1)
+normalize-package-data,2.4.0,8.0.0,Update available (8.0.0)
+path-type,1.1.0,6.0.0,Update available (6.0.0)
+remove-trailing-separator,1.1.0,1.1.0,Up-to-date
+arr-flatten,1.1.0,1.1.0,Up-to-date
+expand-range,1.8.2,2.0.2,Update available (2.0.2)
+preserve,0.2.0,0.2.0,Up-to-date
+repeat-element,1.1.2,1.1.4,Update available (1.1.4)
+is-posix-bracket,0.1.1,0.1.1,Up-to-date
+is-buffer,1.1.6,2.0.5,Update available (2.0.5)
+for-own,0.1.5,1.0.0,Update available (1.0.0)
+is-extendable,0.1.1,1.0.1,Update available (1.0.1)
+glob-base,0.3.0,0.3.0,Up-to-date
+is-dotfile,1.0.3,2.0.0,Update available (2.0.0)
+is-equal-shallow,0.1.3,0.1.3,Up-to-date
+global-prefix,0.1.5,4.0.0,Update available (4.0.0)
+is-windows,0.2.0,1.0.2,Update available (1.0.2)
+align-text,0.1.4,1.0.2,Update available (1.0.2)
+lazy-cache,1.0.4,2.0.2,Update available (2.0.2)
+is-property,1.0.2,1.0.2,Up-to-date
+is-finite,1.0.2,2.0.0,Update available (2.0.0)
+babel-plugin-syntax-class-properties,6.13.0,6.13.0,Up-to-date
+babel-helper-explode-class,6.24.1,6.24.1,Up-to-date
+babel-plugin-syntax-decorators,6.13.0,6.13.0,Up-to-date
+babel-plugin-syntax-trailing-function-commas,6.22.0,6.22.0,Up-to-date
+babel-plugin-transform-async-generator-functions,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-async-to-generator,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-exponentiation-operator,6.24.1,6.24.1,Up-to-date
+babel-plugin-transform-object-rest-spread,6.26.0,6.26.0,Up-to-date
+parse-json,2.2.0,8.3.0,Update available (8.3.0)
+hosted-git-info,2.6.0,9.0.0,Update available (9.0.0)
+is-builtin-module,1.0.0,5.0.0,Update available (5.0.0)
+validate-npm-package-license,3.0.3,3.0.4,Update available (3.0.4)
+fill-range,2.2.4,7.1.1,Update available (7.1.1)
+for-in,1.0.2,1.0.2,Up-to-date
+is-primitive,2.0.0,3.0.1,Update available (3.0.1)
+homedir-polyfill,1.0.1,1.0.3,Update available (1.0.3)
+longest,1.0.1,2.0.1,Update available (2.0.1)
+repeat-string,1.6.1,1.6.1,Up-to-date
+babel-helper-bindify-decorators,6.24.1,6.24.1,Up-to-date
+babel-helper-remap-async-to-generator,6.24.1,6.24.1,Up-to-date
+babel-plugin-syntax-async-generators,6.13.0,6.13.0,Up-to-date
+babel-plugin-syntax-async-functions,6.13.0,6.13.0,Up-to-date
+babel-helper-builder-binary-assignment-operator-visitor,6.24.1,6.24.1,Up-to-date
+babel-plugin-syntax-exponentiation-operator,6.13.0,6.13.0,Up-to-date
+babel-plugin-syntax-object-rest-spread,6.13.0,6.13.0,Up-to-date
+error-ex,1.3.1,1.3.2,Update available (1.3.2)
+builtin-modules,1.1.1,5.0.0,Update available (5.0.0)
+spdx-correct,3.0.0,3.2.0,Update available (3.2.0)
+spdx-expression-parse,3.0.0,4.0.0,Update available (4.0.0)
+is-number,2.1.0,7.0.0,Update available (7.0.0)
+isobject,2.1.0,4.0.0,Update available (4.0.0)
+randomatic,3.1.1,3.1.1,Up-to-date
+is-number,4.0.0,7.0.0,Update available (7.0.0)
+kind-of,6.0.2,6.0.3,Update available (6.0.3)
+parse-passwd,1.0.0,1.0.0,Up-to-date
+babel-helper-explode-assignable-expression,6.24.1,6.24.1,Up-to-date
+spdx-license-ids,3.0.0,3.0.22,Update available (3.0.22)
+spdx-exceptions,2.1.0,2.5.0,Update available (2.5.0)
+math-random,1.0.4,2.0.1,Update available (2.0.1)
