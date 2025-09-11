@@ -4,6 +4,12 @@ This project analyzes the **risk of key Node.js libraries** by combining **SBOM 
 
 ---
 
+## 🚀 Goal
+
+The goal of this project is to **identify the most at-risk Node.js libraries** in open-source projects by combining **SBOM and vulnerability data**.
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -112,12 +118,6 @@ Or use **Google Colab** for cloud execution.
   - Most risky dependencies in OSS projects
   - Download popularity vs. vulnerability exposure
 
----
 
-## 🚀 Goal
-
-The goal of this project is to **identify the most at-risk Node.js libraries** in open-source projects by combining **SBOM and vulnerability data**.
-
----
 
 
